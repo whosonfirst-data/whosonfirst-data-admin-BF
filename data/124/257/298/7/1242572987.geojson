@@ -1,0 +1,68 @@
+{
+  "id": 1242572987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.49914,13.15501,-2.49914,13.15501",
+    "geom:latitude":13.15501,
+    "geom:longitude":-2.49914,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Taraba",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354765,
+    "gn:latitude":13.15501,
+    "gn:longitude":-2.49914,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Taraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890422535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354765
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"158b9402f092c991576cbda03c7c06e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422535,
+            "locality_id":1242572987,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1242572987,
+    "wof:lastmodified":1537067381,
+    "wof:name":"Taraba",
+    "wof:parent_id":890422535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.49914,
+    13.15501,
+    -2.49914,
+    13.15501
+],
+  "geometry": {"coordinates":[-2.49914,13.15501],"type":"Point"}
+}

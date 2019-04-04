@@ -1,0 +1,75 @@
+{
+  "id": 1242582279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.70583,13.59944,-1.70583,13.59944",
+    "geom:latitude":13.59944,
+    "geom:longitude":-1.70583,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Rollo",
+    "gn:cc2":"BF",
+    "gn:country_code":"BF",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356197,
+    "gn:latitude":13.59944,
+    "gn:longitude":-1.70583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rollo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolo",
+        "Tiolo",
+        "Rollo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356197,
+        "wk:page":"Rollo_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e6e96a18d9d9ed01e37edf31aa77ad9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1242582279,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1242582279,
+    "wof:lastmodified":1537587132,
+    "wof:name":"Rollo",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.70583,
+    13.59944,
+    -1.70583,
+    13.59944
+],
+  "geometry": {"coordinates":[-1.70583,13.59944],"type":"Point"}
+}

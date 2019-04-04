@@ -1,0 +1,72 @@
+{
+  "id": 1276337741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.01667,10.46667,-5.01667,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-5.01667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Soubakaniedougou",
+    "gn:country_code":"BF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355294,
+    "gn:latitude":10.46667,
+    "gn:longitude":-5.01667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Soubakani\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Subakaniedugu",
+        "Soubakani\u00e9dougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355294,
+        "wk:page":"Soubakani%C3%A9dougou"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"108f5ccaa4a21c302dbd58420b576a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1276337741,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1276337741,
+    "wof:lastmodified":1537587118,
+    "wof:name":"Soubakaniedougou",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.01667,
+    10.46667,
+    -5.01667,
+    10.46667
+],
+  "geometry": {"coordinates":[-5.01667,10.46667],"type":"Point"}
+}

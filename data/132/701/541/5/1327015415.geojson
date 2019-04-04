@@ -1,0 +1,68 @@
+{
+  "id": 1327015415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.05404,12.34853,2.05404,12.34853",
+    "geom:latitude":12.34853,
+    "geom:longitude":2.05404,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Kankwari",
+    "gn:country_code":"BF",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359739,
+    "gn:latitude":12.34853,
+    "gn:longitude":2.05404,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kankwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359739
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"99c781fe644fb8d362b21d133a5024af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1327015415,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1327015415,
+    "wof:lastmodified":1536785525,
+    "wof:name":"Kankwari",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.05404,
+    12.34853,
+    2.05404,
+    12.34853
+],
+  "geometry": {"coordinates":[2.05404,12.34853],"type":"Point"}
+}

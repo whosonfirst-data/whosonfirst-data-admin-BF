@@ -1,0 +1,68 @@
+{
+  "id": 1310091071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.03284,12.70381,1.03284,12.70381",
+    "geom:latitude":12.70381,
+    "geom:longitude":1.03284,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"56",
+    "gn:asciiname":"Souonkobou",
+    "gn:country_code":"BF",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355224,
+    "gn:latitude":12.70381,
+    "gn:longitude":1.03284,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Souonkobou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890435617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355224
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"240d943e227bc0472955fc5ff1d06827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890435617,
+            "locality_id":1310091071,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1310091071,
+    "wof:lastmodified":1537016642,
+    "wof:name":"Souonkobou",
+    "wof:parent_id":890435617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.03284,
+    12.70381,
+    1.03284,
+    12.70381
+],
+  "geometry": {"coordinates":[1.03284,12.70381],"type":"Point"}
+}

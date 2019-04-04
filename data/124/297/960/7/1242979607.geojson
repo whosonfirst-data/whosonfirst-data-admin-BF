@@ -1,0 +1,71 @@
+{
+  "id": 1242979607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.91667,10.31667,-3.91667,10.31667",
+    "geom:latitude":10.31667,
+    "geom:longitude":-3.91667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dibi",
+    "gn:country_code":"BF",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361355,
+    "gn:latitude":10.31667,
+    "gn:longitude":-3.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babi\u00e9",
+        "Dibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361355
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4f3936ff027460ae1c63c49a152539f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1242979607,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1242979607,
+    "wof:lastmodified":1537587201,
+    "wof:name":"Dibi",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.91667,
+    10.31667,
+    -3.91667,
+    10.31667
+],
+  "geometry": {"coordinates":[-3.91667,10.31667],"type":"Point"}
+}

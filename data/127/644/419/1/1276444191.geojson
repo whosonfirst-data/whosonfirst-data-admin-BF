@@ -1,0 +1,68 @@
+{
+  "id": 1276444191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.73944,12.285,-1.73944,12.285",
+    "geom:latitude":12.285,
+    "geom:longitude":-1.73944,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Bouli",
+    "gn:country_code":"BF",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362000,
+    "gn:latitude":12.285,
+    "gn:longitude":-1.73944,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362000
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1008920996907119cc0ffd0226601a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1276444191,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1276444191,
+    "wof:lastmodified":1536628325,
+    "wof:name":"Bouli",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.73944,
+    12.285,
+    -1.73944,
+    12.285
+],
+  "geometry": {"coordinates":[-1.73944,12.285],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276461923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.75,10.23333,-3.75,10.23333",
+    "geom:latitude":10.23333,
+    "geom:longitude":-3.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bontou",
+    "gn:country_code":"BF",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362176,
+    "gn:latitude":10.23333,
+    "gn:longitude":-3.75,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Bontou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362176
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"af2a53ffef6a71ff67759178c3eddd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1276461923,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1276461923,
+    "wof:lastmodified":1536603376,
+    "wof:name":"Bontou",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.75,
+    10.23333,
+    -3.75,
+    10.23333
+],
+  "geometry": {"coordinates":[-3.75,10.23333],"type":"Point"}
+}

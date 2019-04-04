@@ -1,0 +1,67 @@
+{
+  "id": 1226146073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.26667,10.65,-5.26667,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":-5.26667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mpogona",
+    "gn:country_code":"BF",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357814,
+    "gn:latitude":10.65,
+    "gn:longitude":-5.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mpogona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890453947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357814
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"81511b3d759d7a69caf443c3d2229317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453947,
+            "locality_id":1226146073,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1226146073,
+    "wof:lastmodified":1537074137,
+    "wof:name":"Mpogona",
+    "wof:parent_id":890453947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.26667,
+    10.65,
+    -5.26667,
+    10.65
+],
+  "geometry": {"coordinates":[-5.26667,10.65],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193267175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.91997,13.5984,-1.91997,13.5984",
+    "geom:latitude":13.5984,
+    "geom:longitude":-1.91997,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Kougousoulo",
+    "gn:country_code":"BF",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358921,
+    "gn:latitude":13.5984,
+    "gn:longitude":-1.91997,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kougousoul\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890453949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358921
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"34279f0847d835525118bb5eeea6ad49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":1193267175,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1193267175,
+    "wof:lastmodified":1536374606,
+    "wof:name":"Kougousoulo",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.91997,
+    13.5984,
+    -1.91997,
+    13.5984
+],
+  "geometry": {"coordinates":[-1.91997,13.5984],"type":"Point"}
+}

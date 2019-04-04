@@ -1,0 +1,74 @@
+{
+  "id": 1309924439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.58139,12.12361,-1.58139,12.12361",
+    "geom:latitude":12.12361,
+    "geom:longitude":-1.58139,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tanguen",
+    "gn:cc2":"BF",
+    "gn:country_code":"BF",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354990,
+    "gn:latitude":12.12361,
+    "gn:longitude":-1.58139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tanguen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangen",
+        "Tanguen",
+        "Tanghin",
+        "Tanguin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354990
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2836b8949c3d15efa92c9c8107ff5b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1309924439,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1309924439,
+    "wof:lastmodified":1537587114,
+    "wof:name":"Tanguen",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.58139,
+    12.12361,
+    -1.58139,
+    12.12361
+],
+  "geometry": {"coordinates":[-1.58139,12.12361],"type":"Point"}
+}

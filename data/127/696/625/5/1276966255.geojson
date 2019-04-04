@@ -1,0 +1,68 @@
+{
+  "id": 1276966255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.59993,13.4702,0.59993,13.4702",
+    "geom:latitude":13.4702,
+    "geom:longitude":0.59993,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Helga",
+    "gn:country_code":"BF",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360094,
+    "gn:latitude":13.4702,
+    "gn:longitude":0.59993,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"H\u00e8lga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360094
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b5b3ca13c179385c51893930a6582e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1276966255,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1276966255,
+    "wof:lastmodified":1536926263,
+    "wof:name":"Helga",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.59993,
+    13.4702,
+    0.59993,
+    13.4702
+],
+  "geometry": {"coordinates":[0.59993,13.4702],"type":"Point"}
+}

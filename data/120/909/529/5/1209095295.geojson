@@ -1,0 +1,66 @@
+{
+  "id": 1209095295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21892,13.59468,-2.21892,13.59468",
+    "geom:latitude":13.59468,
+    "geom:longitude":-2.21892,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Namissiguima",
+    "gn:country_code":"BF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357599,
+    "gn:latitude":13.59468,
+    "gn:longitude":-2.21892,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Namissiguima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namsiguia",
+        "Namissiguima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357599
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6344566f40c58452391f3a57c8b41e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209095295
+        }
+    ],
+    "wof:id":1209095295,
+    "wof:lastmodified":1537587152,
+    "wof:name":"Namissiguima",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21892,
+    13.59468,
+    -2.21892,
+    13.59468
+],
+  "geometry": {"coordinates":[-2.21892,13.59468],"type":"Point"}
+}

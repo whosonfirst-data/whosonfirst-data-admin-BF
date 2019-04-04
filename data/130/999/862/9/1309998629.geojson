@@ -1,0 +1,72 @@
+{
+  "id": 1309998629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53432,12.63925,-2.53432,12.63925",
+    "geom:latitude":12.63925,
+    "geom:longitude":-2.53432,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mousyo",
+    "gn:country_code":"BF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357828,
+    "gn:latitude":12.63925,
+    "gn:longitude":-2.53432,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Mousyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moutia",
+        "Mousyo",
+        "Mouss\u00e9o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357828
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b5a5180c75f46a45ec5cb5c9aea4c6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1309998629,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1309998629,
+    "wof:lastmodified":1537587155,
+    "wof:name":"Mousyo",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53432,
+    12.63925,
+    -2.53432,
+    12.63925
+],
+  "geometry": {"coordinates":[-2.53432,12.63925],"type":"Point"}
+}

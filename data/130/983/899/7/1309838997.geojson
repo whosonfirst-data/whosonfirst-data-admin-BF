@@ -1,0 +1,71 @@
+{
+  "id": 1309838997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.01667,11.75,-0.01667,11.75",
+    "geom:latitude":11.75,
+    "geom:longitude":-0.01667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dohase",
+    "gn:country_code":"BF",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361143,
+    "gn:latitude":11.75,
+    "gn:longitude":-0.01667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dohas\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dohass\u00e9",
+        "Dohas\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361143
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a93f8b8e6eb0047b9915b7fbd4a37de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1309838997,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1309838997,
+    "wof:lastmodified":1537587198,
+    "wof:name":"Dohase",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.01667,
+    11.75,
+    -0.01667,
+    11.75
+],
+  "geometry": {"coordinates":[-0.01667,11.75],"type":"Point"}
+}

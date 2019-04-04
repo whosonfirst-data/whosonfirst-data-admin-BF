@@ -1,0 +1,68 @@
+{
+  "id": 1260077797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.68333,11.36667,-1.68333,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-1.68333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"72",
+    "gn:asciiname":"Koumbogoro",
+    "gn:country_code":"BF",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358789,
+    "gn:latitude":11.36667,
+    "gn:longitude":-1.68333,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Koumbogoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890421465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358789
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"95aff33d43094ff0ee87afbf3d4c76cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421465,
+            "locality_id":1260077797,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1260077797,
+    "wof:lastmodified":1536995469,
+    "wof:name":"Koumbogoro",
+    "wof:parent_id":890421465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.68333,
+    11.36667,
+    -1.68333,
+    11.36667
+],
+  "geometry": {"coordinates":[-1.68333,11.36667],"type":"Point"}
+}

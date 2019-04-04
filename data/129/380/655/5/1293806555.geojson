@@ -1,0 +1,71 @@
+{
+  "id": 1293806555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.26469,12.62182,-0.26469,12.62182",
+    "geom:latitude":12.62182,
+    "geom:longitude":-0.26469,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yaongo",
+    "gn:country_code":"BF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353618,
+    "gn:latitude":12.62182,
+    "gn:longitude":-0.26469,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Yaongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaongou",
+        "Yaongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353618
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"84a4a51334f314a2f24e60b098a0f544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413143,
+            "locality_id":1293806555,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1293806555,
+    "wof:lastmodified":1537587094,
+    "wof:name":"Yaongo",
+    "wof:parent_id":890413143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.26469,
+    12.62182,
+    -0.26469,
+    12.62182
+],
+  "geometry": {"coordinates":[-0.26469,12.62182],"type":"Point"}
+}

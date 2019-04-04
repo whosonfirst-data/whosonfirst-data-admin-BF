@@ -1,0 +1,74 @@
+{
+  "id": 1226544629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.28494,12.71571,-0.28494,12.71571",
+    "geom:latitude":12.71571,
+    "geom:longitude":-0.28494,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"64",
+    "gn:asciiname":"Dargo",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361546,
+    "gn:latitude":12.71571,
+    "gn:longitude":-0.28494,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Dargo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darogo",
+        "Dorgo",
+        "Dargo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361546,
+        "wk:page":"Dargo_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ec43ca138e7182301ccee9f3d5274d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413143,
+            "locality_id":1226544629,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1226544629,
+    "wof:lastmodified":1537587203,
+    "wof:name":"Dargo",
+    "wof:parent_id":890413143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.28494,
+    12.71571,
+    -0.28494,
+    12.71571
+],
+  "geometry": {"coordinates":[-0.28494,12.71571],"type":"Point"}
+}

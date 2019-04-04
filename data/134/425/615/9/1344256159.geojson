@@ -1,0 +1,68 @@
+{
+  "id": 1344256159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.58265,13.32717,-1.58265,13.32717",
+    "geom:latitude":13.32717,
+    "geom:longitude":-1.58265,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Nongou",
+    "gn:country_code":"BF",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357193,
+    "gn:latitude":13.32717,
+    "gn:longitude":-1.58265,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Nongou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357193
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5fad52b3370cb6039b04a91a0cde11a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1344256159,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1344256159,
+    "wof:lastmodified":1537087237,
+    "wof:name":"Nongou",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.58265,
+    13.32717,
+    -1.58265,
+    13.32717
+],
+  "geometry": {"coordinates":[-1.58265,13.32717],"type":"Point"}
+}

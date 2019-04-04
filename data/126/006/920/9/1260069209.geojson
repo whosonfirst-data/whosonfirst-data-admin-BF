@@ -1,0 +1,68 @@
+{
+  "id": 1260069209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96963,13.10398,-1.96963,13.10398",
+    "geom:latitude":13.10398,
+    "geom:longitude":-1.96963,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Bennse",
+    "gn:country_code":"BF",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362551,
+    "gn:latitude":13.10398,
+    "gn:longitude":-1.96963,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Benns\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362551
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b70b307f3d1836b3cebc588a00e52e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1260069209,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1260069209,
+    "wof:lastmodified":1537007880,
+    "wof:name":"Bennse",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96963,
+    13.10398,
+    -1.96963,
+    13.10398
+],
+  "geometry": {"coordinates":[-1.96963,13.10398],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209094435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53333,12.66667,-1.53333,12.66667",
+    "geom:latitude":12.66667,
+    "geom:longitude":-1.53333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Rolornogo",
+    "gn:country_code":"BF",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356196,
+    "gn:latitude":12.66667,
+    "gn:longitude":-1.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Rolornogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356196
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6e16874a09915ca01776e6915c06dace",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209094435
+        }
+    ],
+    "wof:id":1209094435,
+    "wof:lastmodified":1536297933,
+    "wof:name":"Rolornogo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53333,
+    12.66667,
+    -1.53333,
+    12.66667
+],
+  "geometry": {"coordinates":[-1.53333,12.66667],"type":"Point"}
+}

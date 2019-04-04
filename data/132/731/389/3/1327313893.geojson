@@ -1,0 +1,68 @@
+{
+  "id": 1327313893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.46328,13.52924,0.46328,13.52924",
+    "geom:latitude":13.52924,
+    "geom:longitude":0.46328,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Dyogora",
+    "gn:country_code":"BF",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360907,
+    "gn:latitude":13.52924,
+    "gn:longitude":0.46328,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Dyogora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360907
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6cac5ef58a0fed47e6b2a400771edd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1327313893,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1327313893,
+    "wof:lastmodified":1536850907,
+    "wof:name":"Dyogora",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.46328,
+    13.52924,
+    0.46328,
+    13.52924
+],
+  "geometry": {"coordinates":[0.46328,13.52924],"type":"Point"}
+}

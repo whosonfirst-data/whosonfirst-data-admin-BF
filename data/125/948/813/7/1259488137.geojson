@@ -1,0 +1,68 @@
+{
+  "id": 1259488137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.09646,13.48571,-1.09646,13.48571",
+    "geom:latitude":13.48571,
+    "geom:longitude":-1.09646,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Touekoundi",
+    "gn:country_code":"BF",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354178,
+    "gn:latitude":13.48571,
+    "gn:longitude":-1.09646,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tou\u00e9koundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354178
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"175ffd154cf1ae191094a8c52183c713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1259488137,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1259488137,
+    "wof:lastmodified":1536850975,
+    "wof:name":"Touekoundi",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.09646,
+    13.48571,
+    -1.09646,
+    13.48571
+],
+  "geometry": {"coordinates":[-1.09646,13.48571],"type":"Point"}
+}

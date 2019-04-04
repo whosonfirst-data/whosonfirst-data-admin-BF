@@ -1,0 +1,68 @@
+{
+  "id": 1193038145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00205,12.73023,1.00205,12.73023",
+    "geom:latitude":12.73023,
+    "geom:longitude":1.00205,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"56",
+    "gn:asciiname":"Bongori",
+    "gn:country_code":"BF",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362206,
+    "gn:latitude":12.73023,
+    "gn:longitude":1.00205,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Bongori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890435617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362206
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"02f8daad043f1cac4fa69caac7dbae7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890435617,
+            "locality_id":1193038145,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1193038145,
+    "wof:lastmodified":1536378810,
+    "wof:name":"Bongori",
+    "wof:parent_id":890435617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00205,
+    12.73023,
+    1.00205,
+    12.73023
+],
+  "geometry": {"coordinates":[1.00205,12.73023],"type":"Point"}
+}

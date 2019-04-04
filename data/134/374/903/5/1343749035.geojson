@@ -1,0 +1,68 @@
+{
+  "id": 1343749035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21372,14.18381,-0.21372,14.18381",
+    "geom:latitude":14.18381,
+    "geom:longitude":-0.21372,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Touka Korno",
+    "gn:country_code":"BF",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354150,
+    "gn:latitude":14.18381,
+    "gn:longitude":-0.21372,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Touka Korno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354150
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6e1ccd15375cd4f2fdb37d498298da32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1343749035,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1343749035,
+    "wof:lastmodified":1536826475,
+    "wof:name":"Touka Korno",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21372,
+    14.18381,
+    -0.21372,
+    14.18381
+],
+  "geometry": {"coordinates":[-0.21372,14.18381],"type":"Point"}
+}

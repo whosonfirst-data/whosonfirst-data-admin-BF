@@ -1,0 +1,72 @@
+{
+  "id": 1259360117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.11049,14.49542,-0.11049,14.49542",
+    "geom:latitude":14.49542,
+    "geom:longitude":-0.11049,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Lilengo",
+    "gn:country_code":"BF",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358337,
+    "gn:latitude":14.49542,
+    "gn:longitude":-0.11049,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Lilengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9lingo",
+        "Lilengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358337
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5efb19dbb80f94d6201887b1f8cf7e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413153,
+            "locality_id":1259360117,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1259360117,
+    "wof:lastmodified":1537587161,
+    "wof:name":"Lilengo",
+    "wof:parent_id":890413153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.11049,
+    14.49542,
+    -0.11049,
+    14.49542
+],
+  "geometry": {"coordinates":[-0.11049,14.49542],"type":"Point"}
+}

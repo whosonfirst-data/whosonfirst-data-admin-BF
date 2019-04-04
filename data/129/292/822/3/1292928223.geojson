@@ -1,0 +1,67 @@
+{
+  "id": 1292928223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55,12.78333,0.55,12.78333",
+    "geom:latitude":12.78333,
+    "geom:longitude":0.55,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Timbanga",
+    "gn:country_code":"BF",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354476,
+    "gn:latitude":12.78333,
+    "gn:longitude":0.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Timbanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890435617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354476
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"14c30a56d16a2347e5ae9e7dd71d4e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890435617,
+            "locality_id":1292928223,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1292928223,
+    "wof:lastmodified":1537093212,
+    "wof:name":"Timbanga",
+    "wof:parent_id":890435617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55,
+    12.78333,
+    0.55,
+    12.78333
+],
+  "geometry": {"coordinates":[0.55,12.78333],"type":"Point"}
+}

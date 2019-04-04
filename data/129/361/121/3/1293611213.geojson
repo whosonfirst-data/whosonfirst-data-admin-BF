@@ -1,0 +1,72 @@
+{
+  "id": 1293611213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51536,11.92092,-2.51536,11.92092",
+    "geom:latitude":11.92092,
+    "geom:longitude":-2.51536,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tita",
+    "gn:country_code":"BF",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354351,
+    "gn:latitude":11.92092,
+    "gn:longitude":-2.51536,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Napon\u00e9",
+        "Tita",
+        "Tita Napon\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354351
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"700d62d05d40d0e318f39db13a92f058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1293611213,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1293611213,
+    "wof:lastmodified":1537587104,
+    "wof:name":"Tita",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51536,
+    11.92092,
+    -2.51536,
+    11.92092
+],
+  "geometry": {"coordinates":[-2.51536,11.92092],"type":"Point"}
+}

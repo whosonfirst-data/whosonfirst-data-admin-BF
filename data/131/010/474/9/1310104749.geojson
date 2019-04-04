@@ -1,0 +1,68 @@
+{
+  "id": 1310104749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.26365,13.10078,-1.26365,13.10078",
+    "geom:latitude":13.10078,
+    "geom:longitude":-1.26365,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Chalro",
+    "gn:country_code":"BF",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361787,
+    "gn:latitude":13.10078,
+    "gn:longitude":-1.26365,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Chalro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361787
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0e12e90f55908c2e3a8c8a94410dab7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1310104749,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1310104749,
+    "wof:lastmodified":1536996815,
+    "wof:name":"Chalro",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.26365,
+    13.10078,
+    -1.26365,
+    13.10078
+],
+  "geometry": {"coordinates":[-1.26365,13.10078],"type":"Point"}
+}

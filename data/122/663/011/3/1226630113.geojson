@@ -1,0 +1,68 @@
+{
+  "id": 1226630113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08374,13.42554,-2.08374,13.42554",
+    "geom:latitude":13.42554,
+    "geom:longitude":-2.08374,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Roko",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356199,
+    "gn:latitude":13.42554,
+    "gn:longitude":-2.08374,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Roko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356199
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e1cf0b78fae9e1ac10558a95baf285b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1226630113,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1226630113,
+    "wof:lastmodified":1536881313,
+    "wof:name":"Roko",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08374,
+    13.42554,
+    -2.08374,
+    13.42554
+],
+  "geometry": {"coordinates":[-2.08374,13.42554],"type":"Point"}
+}

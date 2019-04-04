@@ -1,0 +1,68 @@
+{
+  "id": 1310709521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.48202,12.31013,-1.48202,12.31013",
+    "geom:latitude":12.31013,
+    "geom:longitude":-1.48202,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Lalnoyiri",
+    "gn:country_code":"BF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570198,
+    "gn:latitude":12.31013,
+    "gn:longitude":-1.48202,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Lalnoyiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570198
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d2755534d70ab679620476cb0974d59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1310709521,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1310709521,
+    "wof:lastmodified":1536620425,
+    "wof:name":"Lalnoyiri",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.48202,
+    12.31013,
+    -1.48202,
+    12.31013
+],
+  "geometry": {"coordinates":[-1.48202,12.31013],"type":"Point"}
+}

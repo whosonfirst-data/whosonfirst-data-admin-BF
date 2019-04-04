@@ -1,0 +1,61 @@
+{
+  "id": 1209610453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.31667,12.85,-2.31667,12.85",
+    "geom:latitude":12.85,
+    "geom:longitude":-2.31667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Louga",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358222,
+    "gn:latitude":12.85,
+    "gn:longitude":-2.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Louga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358222
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"25d8a2351cdd8d268ee3142077858821",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209610453
+        }
+    ],
+    "wof:id":1209610453,
+    "wof:lastmodified":1536281865,
+    "wof:name":"Louga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.31667,
+    12.85,
+    -2.31667,
+    12.85
+],
+  "geometry": {"coordinates":[-2.31667,12.85],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276649047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.90417,12.21806,-1.90417,12.21806",
+    "geom:latitude":12.21806,
+    "geom:longitude":-1.90417,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Doure",
+    "gn:country_code":"BF",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360993,
+    "gn:latitude":12.21806,
+    "gn:longitude":-1.90417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dour\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360993,
+        "wk:page":"Dour%C3%A9%2C_Boulkiemd%C3%A9"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4f12bc7cc85b1cb2a98be2826bf0c74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1276649047,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1276649047,
+    "wof:lastmodified":1537587196,
+    "wof:name":"Doure",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.90417,
+    12.21806,
+    -1.90417,
+    12.21806
+],
+  "geometry": {"coordinates":[-1.90417,12.21806],"type":"Point"}
+}

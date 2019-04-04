@@ -1,0 +1,66 @@
+{
+  "id": 1209206321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.87083,11.00944,-0.87083,11.00944",
+    "geom:latitude":11.00944,
+    "geom:longitude":-0.87083,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"65",
+    "gn:asciiname":"Gueleoungo",
+    "gn:country_code":"BF",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360192,
+    "gn:latitude":11.00944,
+    "gn:longitude":-0.87083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gu\u00e9l\u00e9oungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e9l\u00e9ongo",
+        "Gu\u00e9l\u00e9oungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360192
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"016121ad11df9774fc040fa7fbbc5621",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209206321
+        }
+    ],
+    "wof:id":1209206321,
+    "wof:lastmodified":1537587186,
+    "wof:name":"Gueleoungo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.87083,
+    11.00944,
+    -0.87083,
+    11.00944
+],
+  "geometry": {"coordinates":[-0.87083,11.00944],"type":"Point"}
+}

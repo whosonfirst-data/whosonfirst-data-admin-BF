@@ -1,0 +1,74 @@
+{
+  "id": 1209815825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16043,11.17859,0.16043,11.17859",
+    "geom:latitude":11.17859,
+    "geom:longitude":0.16043,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"59",
+    "gn:asciiname":"Sanga",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355945,
+    "gn:latitude":11.17859,
+    "gn:longitude":0.16043,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangha",
+        "Sanga",
+        "Natenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890421707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355945,
+        "wk:page":"Sangha_Department_%28Burkina_Faso%29"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1d52defb06eb7f9f75c532139bff561c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421707,
+            "locality_id":1209815825,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1209815825,
+    "wof:lastmodified":1537587127,
+    "wof:name":"Sanga",
+    "wof:parent_id":890421707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16043,
+    11.17859,
+    0.16043,
+    11.17859
+],
+  "geometry": {"coordinates":[0.16043,11.17859],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209128255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58333,11.53333,-2.58333,11.53333",
+    "geom:latitude":11.53333,
+    "geom:longitude":-2.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Koubon",
+    "gn:country_code":"BF",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358960,
+    "gn:latitude":11.53333,
+    "gn:longitude":-2.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koubon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358960
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"452d5e28ea5723a6245ada7276f971df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209128255
+        }
+    ],
+    "wof:id":1209128255,
+    "wof:lastmodified":1536296888,
+    "wof:name":"Koubon",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58333,
+    11.53333,
+    -2.58333,
+    11.53333
+],
+  "geometry": {"coordinates":[-2.58333,11.53333],"type":"Point"}
+}

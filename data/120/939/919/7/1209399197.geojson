@@ -1,0 +1,66 @@
+{
+  "id": 1209399197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.01326,11.14627,-5.01326,11.14627",
+    "geom:latitude":11.14627,
+    "geom:longitude":-5.01326,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Serekeni",
+    "gn:country_code":"BF",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355717,
+    "gn:latitude":11.14627,
+    "gn:longitude":-5.01326,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"S\u00e9r\u00e9k\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9r\u00e9kini",
+        "S\u00e9r\u00e9k\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355717
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"513ecbe33efd235e5696de36e012c889",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209399197
+        }
+    ],
+    "wof:id":1209399197,
+    "wof:lastmodified":1537587124,
+    "wof:name":"Serekeni",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.01326,
+    11.14627,
+    -5.01326,
+    11.14627
+],
+  "geometry": {"coordinates":[-5.01326,11.14627],"type":"Point"}
+}

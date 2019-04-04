@@ -1,0 +1,67 @@
+{
+  "id": 1193270549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.71667,12.65,-2.71667,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-2.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mogueya",
+    "gn:country_code":"BF",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357930,
+    "gn:latitude":12.65,
+    "gn:longitude":-2.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mogu\u00e9ya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357930
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1da2e16f287cca76adc1b68050889a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1193270549,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1193270549,
+    "wof:lastmodified":1536371161,
+    "wof:name":"Mogueya",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.71667,
+    12.65,
+    -2.71667,
+    12.65
+],
+  "geometry": {"coordinates":[-2.71667,12.65],"type":"Point"}
+}

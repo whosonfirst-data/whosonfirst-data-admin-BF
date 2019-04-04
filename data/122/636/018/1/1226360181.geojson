@@ -1,0 +1,72 @@
+{
+  "id": 1226360181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.09575,11.69118,-3.09575,11.69118",
+    "geom:latitude":11.69118,
+    "geom:longitude":-3.09575,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wahabou",
+    "gn:country_code":"BF",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357044,
+    "gn:latitude":11.69118,
+    "gn:longitude":-3.09575,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Wahabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouhabou",
+        "Ouahabou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890452781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357044,
+        "wk:page":"Ouahabou"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0d61ac43a01c9a9c5c185d31e3e41b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890452781,
+            "locality_id":1226360181,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1226360181,
+    "wof:lastmodified":1537587144,
+    "wof:name":"Wahabou",
+    "wof:parent_id":890452781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.09575,
+    11.69118,
+    -3.09575,
+    11.69118
+],
+  "geometry": {"coordinates":[-3.09575,11.69118],"type":"Point"}
+}

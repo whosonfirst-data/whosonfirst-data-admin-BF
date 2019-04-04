@@ -1,0 +1,73 @@
+{
+  "id": 1327441001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.13333,11.85,-3.13333,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":-3.13333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Soubouy",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355285,
+    "gn:latitude":11.85,
+    "gn:longitude":-3.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Soubouy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soubouye",
+        "Souboui",
+        "Soubouy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890452781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355285,
+        "wk:page":"Soubouy"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ee743309b3d87d740c8dac9add589fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890452781,
+            "locality_id":1327441001,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1327441001,
+    "wof:lastmodified":1537587118,
+    "wof:name":"Soubouy",
+    "wof:parent_id":890452781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.13333,
+    11.85,
+    -3.13333,
+    11.85
+],
+  "geometry": {"coordinates":[-3.13333,11.85],"type":"Point"}
+}

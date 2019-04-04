@@ -1,0 +1,61 @@
+{
+  "id": 1209110803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.06667,12.8,-1.06667,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":-1.06667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moeme",
+    "gn:country_code":"BF",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357942,
+    "gn:latitude":12.8,
+    "gn:longitude":-1.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mo\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357942
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9d8ed1a68dcdafe3d1a0e51b080c7cd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209110803
+        }
+    ],
+    "wof:id":1209110803,
+    "wof:lastmodified":1536297413,
+    "wof:name":"Moeme",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.06667,
+    12.8,
+    -1.06667,
+    12.8
+],
+  "geometry": {"coordinates":[-1.06667,12.8],"type":"Point"}
+}

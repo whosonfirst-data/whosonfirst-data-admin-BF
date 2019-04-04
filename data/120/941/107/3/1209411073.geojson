@@ -1,0 +1,66 @@
+{
+  "id": 1209411073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.12486,11.29935,-4.12486,11.29935",
+    "geom:latitude":11.29935,
+    "geom:longitude":-4.12486,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Kodima",
+    "gn:country_code":"BF",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359374,
+    "gn:latitude":11.29935,
+    "gn:longitude":-4.12486,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kodima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e9k\u00e9lesso",
+        "Kodima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359374
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"159088d3281678db99a556f74c1c6653",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209411073
+        }
+    ],
+    "wof:id":1209411073,
+    "wof:lastmodified":1537587175,
+    "wof:name":"Kodima",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.12486,
+    11.29935,
+    -4.12486,
+    11.29935
+],
+  "geometry": {"coordinates":[-4.12486,11.29935],"type":"Point"}
+}

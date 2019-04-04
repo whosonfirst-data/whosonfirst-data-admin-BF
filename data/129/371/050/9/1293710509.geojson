@@ -1,0 +1,68 @@
+{
+  "id": 1293710509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.2975,12.11361,-1.2975,12.11361",
+    "geom:latitude":12.11361,
+    "geom:longitude":-1.2975,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Monemtenga",
+    "gn:country_code":"BF",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357903,
+    "gn:latitude":12.11361,
+    "gn:longitude":-1.2975,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Monemtenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357903
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"19de57d6d3aed7c989052bba74352572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1293710509,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1293710509,
+    "wof:lastmodified":1536962811,
+    "wof:name":"Monemtenga",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.2975,
+    12.11361,
+    -1.2975,
+    12.11361
+],
+  "geometry": {"coordinates":[-1.2975,12.11361],"type":"Point"}
+}

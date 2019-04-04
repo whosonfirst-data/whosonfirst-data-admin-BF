@@ -1,0 +1,73 @@
+{
+  "id": 890428987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.5,11.91667,-1.5,11.91667",
+    "geom:latitude":11.91667,
+    "geom:longitude":-1.5,
+    "gn:country":"BF",
+    "gn:fcode":"ADM2",
+    "gn:pop":242054,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Bazega Province"
+    ],
+    "name:unk_x_variant":[
+        "Bazega"
+    ],
+    "qs:name":"Bazega Province",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        85668879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362644,
+        "qs:id":91346,
+        "wd:id":"Q619764",
+        "wk:page":"Baz\u00e8ga Province"
+    },
+    "wof:country":"BF",
+    "wof:created":1469051785,
+    "wof:geomhash":"0d18cd7550727bab5fa2f88bd006a23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428987,
+            "region_id":85668879
+        }
+    ],
+    "wof:id":890428987,
+    "wof:lastmodified":1527782118,
+    "wof:name":"Bazega Province",
+    "wof:parent_id":85668879,
+    "wof:placetype":"county",
+    "wof:population":242054,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.5,
+    11.91667,
+    -1.5,
+    11.91667
+],
+  "geometry": {"coordinates":[-1.5,11.91667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310304181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.06045,13.53994,-1.06045,13.53994",
+    "geom:latitude":13.53994,
+    "geom:longitude":-1.06045,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Baramiougou",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362784,
+    "gn:latitude":13.53994,
+    "gn:longitude":-1.06045,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Baramiougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362784
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"18615c4d5c27038ca83f408207638ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1310304181,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1310304181,
+    "wof:lastmodified":1536710131,
+    "wof:name":"Baramiougou",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.06045,
+    13.53994,
+    -1.06045,
+    13.53994
+],
+  "geometry": {"coordinates":[-1.06045,13.53994],"type":"Point"}
+}

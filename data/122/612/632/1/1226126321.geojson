@@ -1,0 +1,73 @@
+{
+  "id": 1226126321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.48845,13.55423,-2.48845,13.55423",
+    "geom:latitude":13.55423,
+    "geom:longitude":-2.48845,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Bembela",
+    "gn:country_code":"BF",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362482,
+    "gn:latitude":13.55423,
+    "gn:longitude":-2.48845,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bemb\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binb\u00e9la",
+        "Bimb\u00e9la",
+        "Bemb\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362482
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"89c71d3736f59891b637e59b35c6a2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1226126321,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1226126321,
+    "wof:lastmodified":1537587214,
+    "wof:name":"Bembela",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.48845,
+    13.55423,
+    -2.48845,
+    13.55423
+],
+  "geometry": {"coordinates":[-2.48845,13.55423],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259603263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3,12.18333,0.3,12.18333",
+    "geom:latitude":12.18333,
+    "geom:longitude":0.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tankyilounga",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354902,
+    "gn:latitude":12.18333,
+    "gn:longitude":0.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tankyilounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354902
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e76e4b68da8b8f64016dce29bd449f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428971,
+            "locality_id":1259603263,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1259603263,
+    "wof:lastmodified":1536686346,
+    "wof:name":"Tankyilounga",
+    "wof:parent_id":890428971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3,
+    12.18333,
+    0.3,
+    12.18333
+],
+  "geometry": {"coordinates":[0.3,12.18333],"type":"Point"}
+}

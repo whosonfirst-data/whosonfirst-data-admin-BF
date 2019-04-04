@@ -1,0 +1,73 @@
+{
+  "id": 1243459333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23333,12.98333,-1.23333,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":-1.23333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tangen",
+    "gn:country_code":"BF",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354975,
+    "gn:latitude":12.98333,
+    "gn:longitude":-1.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tangen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagalla",
+        "Tangen",
+        "Tanguin",
+        "Targala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354975
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"da9be784ecc7c80e84ee67ff44ceab16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1243459333,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1243459333,
+    "wof:lastmodified":1537587113,
+    "wof:name":"Tangen",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23333,
+    12.98333,
+    -1.23333,
+    12.98333
+],
+  "geometry": {"coordinates":[-1.23333,12.98333],"type":"Point"}
+}

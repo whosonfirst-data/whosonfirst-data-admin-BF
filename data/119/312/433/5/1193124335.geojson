@@ -1,0 +1,68 @@
+{
+  "id": 1193124335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.63789,14.10871,-0.63789,14.10871",
+    "geom:latitude":14.10871,
+    "geom:longitude":-0.63789,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Ngolol Gnibi",
+    "gn:country_code":"BF",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357403,
+    "gn:latitude":14.10871,
+    "gn:longitude":-0.63789,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Ngolol Gnibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357403
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"493e58f5842303474e954ecf3bad8cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1193124335,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1193124335,
+    "wof:lastmodified":1536382566,
+    "wof:name":"Ngolol Gnibi",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.63789,
+    14.10871,
+    -0.63789,
+    14.10871
+],
+  "geometry": {"coordinates":[-0.63789,14.10871],"type":"Point"}
+}

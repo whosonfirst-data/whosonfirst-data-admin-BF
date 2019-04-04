@@ -1,0 +1,72 @@
+{
+  "id": 1259606125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.66156,13.79077,-1.66156,13.79077",
+    "geom:latitude":13.79077,
+    "geom:longitude":-1.66156,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Felenga",
+    "gn:country_code":"BF",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360830,
+    "gn:latitude":13.79077,
+    "gn:longitude":-1.66156,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"F\u00e9l\u00e8nga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e9l\u00e8nga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360830,
+        "wk:page":"Felenga"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0a96733785bda4e5040c9e878fa491f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1259606125,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1259606125,
+    "wof:lastmodified":1537587194,
+    "wof:name":"Felenga",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.66156,
+    13.79077,
+    -1.66156,
+    13.79077
+],
+  "geometry": {"coordinates":[-1.66156,13.79077],"type":"Point"}
+}

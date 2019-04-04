@@ -1,0 +1,72 @@
+{
+  "id": 1242991069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.41067,13.12864,-2.41067,13.12864",
+    "geom:latitude":13.12864,
+    "geom:longitude":-2.41067,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Rengueba",
+    "gn:country_code":"BF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356215,
+    "gn:latitude":13.12864,
+    "gn:longitude":-2.41067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rengu\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ringu\u00e9ba",
+        "Rengu\u00e9ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890422535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356215
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e115885c7722d9a66749c2aeae4a63af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422535,
+            "locality_id":1242991069,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1242991069,
+    "wof:lastmodified":1537587132,
+    "wof:name":"Rengueba",
+    "wof:parent_id":890422535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.41067,
+    13.12864,
+    -2.41067,
+    13.12864
+],
+  "geometry": {"coordinates":[-2.41067,13.12864],"type":"Point"}
+}

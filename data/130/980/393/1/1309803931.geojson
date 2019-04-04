@@ -1,0 +1,68 @@
+{
+  "id": 1309803931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.5,11.05,-0.5,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":-0.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Youkouka",
+    "gn:country_code":"BF",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353453,
+    "gn:latitude":11.05,
+    "gn:longitude":-0.5,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Youkouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353453,
+        "wk:page":"Youkouka"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d164d8e0414709534fa4a50cb1a11f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1309803931,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1309803931,
+    "wof:lastmodified":1537487591,
+    "wof:name":"Youkouka",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.5,
+    11.05,
+    -0.5,
+    11.05
+],
+  "geometry": {"coordinates":[-0.5,11.05],"type":"Point"}
+}

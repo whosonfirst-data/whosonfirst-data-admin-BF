@@ -1,0 +1,67 @@
+{
+  "id": 1343834509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4,10.25,-3.4,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":-3.4,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kuekuera",
+    "gn:country_code":"BF",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358609,
+    "gn:latitude":10.25,
+    "gn:longitude":-3.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ku\u00e9ku\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358609
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c7a145f185e1af40e1d937645354002d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1343834509,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1343834509,
+    "wof:lastmodified":1536704389,
+    "wof:name":"Kuekuera",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4,
+    10.25,
+    -3.4,
+    10.25
+],
+  "geometry": {"coordinates":[-3.4,10.25],"type":"Point"}
+}

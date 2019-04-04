@@ -1,0 +1,68 @@
+{
+  "id": 1293507969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.65923,13.06799,-2.65923,13.06799",
+    "geom:latitude":13.06799,
+    "geom:longitude":-2.65923,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Kiripalogo",
+    "gn:country_code":"BF",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6785988,
+    "gn:latitude":13.06799,
+    "gn:longitude":-2.65923,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kiripalogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890422535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6785988
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"3e02ee37e71a2575b5eb30c92fe0d46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422535,
+            "locality_id":1293507969,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1293507969,
+    "wof:lastmodified":1536757712,
+    "wof:name":"Kiripalogo",
+    "wof:parent_id":890422535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.65923,
+    13.06799,
+    -2.65923,
+    13.06799
+],
+  "geometry": {"coordinates":[-2.65923,13.06799],"type":"Point"}
+}

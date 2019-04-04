@@ -1,0 +1,68 @@
+{
+  "id": 1344041963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1156,11.0633,-5.1156,11.0633",
+    "geom:latitude":11.0633,
+    "geom:longitude":-5.1156,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Laranfiera",
+    "gn:country_code":"BF",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358460,
+    "gn:latitude":11.0633,
+    "gn:longitude":-5.1156,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Laranfi\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358460
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9b843d3dc00a4bd81cf261c74ac4dbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1344041963,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1344041963,
+    "wof:lastmodified":1536902451,
+    "wof:name":"Laranfiera",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1156,
+    11.0633,
+    -5.1156,
+    11.0633
+],
+  "geometry": {"coordinates":[-5.1156,11.0633],"type":"Point"}
+}

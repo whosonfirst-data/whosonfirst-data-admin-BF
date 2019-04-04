@@ -1,0 +1,66 @@
+{
+  "id": 1209211469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53,12.09333,-1.53,12.09333",
+    "geom:latitude":12.09333,
+    "geom:longitude":-1.53,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Nabakiesma",
+    "gn:country_code":"BF",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357799,
+    "gn:latitude":12.09333,
+    "gn:longitude":-1.53,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nabakiesma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabakyesma",
+        "Nabakiesma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357799
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"40aff57655a837d6bbca2047d34a16aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209211469
+        }
+    ],
+    "wof:id":1209211469,
+    "wof:lastmodified":1537587155,
+    "wof:name":"Nabakiesma",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53,
+    12.09333,
+    -1.53,
+    12.09333
+],
+  "geometry": {"coordinates":[-1.53,12.09333],"type":"Point"}
+}

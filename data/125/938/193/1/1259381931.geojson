@@ -1,0 +1,68 @@
+{
+  "id": 1259381931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.79485,13.44859,-1.79485,13.44859",
+    "geom:latitude":13.44859,
+    "geom:longitude":-1.79485,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Zamse",
+    "gn:country_code":"BF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353395,
+    "gn:latitude":13.44859,
+    "gn:longitude":-1.79485,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Zams\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353395
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fad96d4c0cca7f3377cd0721472ba9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1259381931,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1259381931,
+    "wof:lastmodified":1537003767,
+    "wof:name":"Zamse",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.79485,
+    13.44859,
+    -1.79485,
+    13.44859
+],
+  "geometry": {"coordinates":[-1.79485,13.44859],"type":"Point"}
+}

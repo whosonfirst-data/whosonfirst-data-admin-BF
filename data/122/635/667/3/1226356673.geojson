@@ -1,0 +1,68 @@
+{
+  "id": 1226356673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.1385,13.6209,-3.1385,13.6209",
+    "geom:latitude":13.6209,
+    "geom:longitude":-3.1385,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Loroni",
+    "gn:country_code":"BF",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358242,
+    "gn:latitude":13.6209,
+    "gn:longitude":-3.1385,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Loroni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358242
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c9dbe2239560dc0edf863d617f12b71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1226356673,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1226356673,
+    "wof:lastmodified":1536774330,
+    "wof:name":"Loroni",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.1385,
+    13.6209,
+    -3.1385,
+    13.6209
+],
+  "geometry": {"coordinates":[-3.1385,13.6209],"type":"Point"}
+}

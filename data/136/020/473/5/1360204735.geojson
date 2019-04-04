@@ -1,0 +1,72 @@
+{
+  "id": 1360204735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.06031,13.16299,0.06031,13.16299",
+    "geom:latitude":13.16299,
+    "geom:longitude":0.06031,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Penfwogo",
+    "gn:country_code":"BF",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356613,
+    "gn:latitude":13.16299,
+    "gn:longitude":0.06031,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u00e8nfwogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Penfouogo",
+        "P\u00e8nfwogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356613
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"503dc5d5568ffc1b59c9d90b1487c429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1360204735,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1360204735,
+    "wof:lastmodified":1537587137,
+    "wof:name":"Penfwogo",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.06031,
+    13.16299,
+    0.06031,
+    13.16299
+],
+  "geometry": {"coordinates":[0.06031,13.16299],"type":"Point"}
+}

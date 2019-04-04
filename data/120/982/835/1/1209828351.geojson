@@ -1,0 +1,67 @@
+{
+  "id": 1209828351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.93333,10.26667,-3.93333,10.26667",
+    "geom:latitude":10.26667,
+    "geom:longitude":-3.93333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Banhounou",
+    "gn:country_code":"BF",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362866,
+    "gn:latitude":10.26667,
+    "gn:longitude":-3.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Banhounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362866
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"005e643b79cd7d4568ed846796ecfc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1209828351,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1209828351,
+    "wof:lastmodified":1536371233,
+    "wof:name":"Banhounou",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.93333,
+    10.26667,
+    -3.93333,
+    10.26667
+],
+  "geometry": {"coordinates":[-3.93333,10.26667],"type":"Point"}
+}

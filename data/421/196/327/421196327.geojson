@@ -1,0 +1,101 @@
+{
+  "id": 421196327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.17222,13.72139,-0.17222,13.72139",
+    "geom:latitude":13.72139,
+    "geom:longitude":-0.17222,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Bani"
+    ],
+    "name:eng_x_preferred":[
+        "Bani"
+    ],
+    "name:fre_x_preferred":[
+        "Dori"
+    ],
+    "name:ger_x_preferred":[
+        "Bani"
+    ],
+    "name:ita_x_preferred":[
+        "Bani"
+    ],
+    "name:nan_x_preferred":[
+        "Bani"
+    ],
+    "name:unk_x_variant":[
+        "Dani"
+    ],
+    "name:vie_x_preferred":[
+        "Bani"
+    ],
+    "qs:gn_country":"BF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2361603,
+    "qs:gn_pop":0,
+    "qs:name":"Bani",
+    "qs:name_adm0":"Burkina Faso",
+    "qs:name_adm1":"Seno",
+    "qs:photos":44,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":44,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1035223,
+    "qs:woe_adm0":23424978,
+    "qs:woe_id":1455877,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361603,
+        "gp:id":1455877,
+        "qs:id":1035223,
+        "wd:id":"Q477531"
+    },
+    "wof:country":"BF",
+    "wof:created":1459009877,
+    "wof:geomhash":"5256170c87dc79c9b4abe62818c69166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":421196327,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":421196327,
+    "wof:lastmodified":1513899610,
+    "wof:name":"Bani",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.17222,
+    13.72139,
+    -0.17222,
+    13.72139
+],
+  "geometry": {"coordinates":[-0.17222,13.72139],"type":"Point"}
+}

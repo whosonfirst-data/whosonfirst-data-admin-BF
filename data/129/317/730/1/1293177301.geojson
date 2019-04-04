@@ -1,0 +1,67 @@
+{
+  "id": 1293177301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4,10.73333,-3.4,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-3.4,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yolonioro",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353484,
+    "gn:latitude":10.73333,
+    "gn:longitude":-3.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yolonioro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890428985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353484
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ca304565d9e1e47113cc88138abf5d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428985,
+            "locality_id":1293177301,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1293177301,
+    "wof:lastmodified":1536737337,
+    "wof:name":"Yolonioro",
+    "wof:parent_id":890428985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4,
+    10.73333,
+    -3.4,
+    10.73333
+],
+  "geometry": {"coordinates":[-3.4,10.73333],"type":"Point"}
+}

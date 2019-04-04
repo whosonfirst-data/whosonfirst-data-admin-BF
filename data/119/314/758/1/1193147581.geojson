@@ -1,0 +1,67 @@
+{
+  "id": 1193147581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.52578,13.08126,-0.52578,13.08126",
+    "geom:latitude":13.08126,
+    "geom:longitude":-0.52578,
+    "gn:admin1_code":"x30",
+    "gn:asciiname":"Silmague",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256952,
+    "gn:latitude":13.08126,
+    "gn:longitude":-0.52578,
+    "gn:modification_date":"2016-09-14",
+    "gn:name":"Silmague",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256952
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"61a5b2857c56f72119adfdbd3141b8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413143,
+            "locality_id":1193147581,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1193147581,
+    "wof:lastmodified":1536381725,
+    "wof:name":"Silmague",
+    "wof:parent_id":890413143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.52578,
+    13.08126,
+    -0.52578,
+    13.08126
+],
+  "geometry": {"coordinates":[-0.52578,13.08126],"type":"Point"}
+}

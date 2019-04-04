@@ -1,0 +1,72 @@
+{
+  "id": 1309702929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.28326,13.19138,0.28326,13.19138",
+    "geom:latitude":13.19138,
+    "geom:longitude":0.28326,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Damkoko",
+    "gn:country_code":"BF",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361656,
+    "gn:latitude":13.19138,
+    "gn:longitude":0.28326,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Damkoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gankoko",
+        "Damkoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361656
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7740e9f20137d43712e5d4906291ea33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1309702929,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1309702929,
+    "wof:lastmodified":1537587204,
+    "wof:name":"Damkoko",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.28326,
+    13.19138,
+    0.28326,
+    13.19138
+],
+  "geometry": {"coordinates":[0.28326,13.19138],"type":"Point"}
+}

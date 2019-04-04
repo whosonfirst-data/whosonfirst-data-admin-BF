@@ -1,0 +1,67 @@
+{
+  "id": 1260174021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.71667,12.45,-2.71667,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-2.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bechikoperou",
+    "gn:country_code":"BF",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362636,
+    "gn:latitude":12.45,
+    "gn:longitude":-2.71667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00e9chikop\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362636
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b98277afbf93f12d0087fdc9dea14c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1260174021,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1260174021,
+    "wof:lastmodified":1536859591,
+    "wof:name":"Bechikoperou",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.71667,
+    12.45,
+    -2.71667,
+    12.45
+],
+  "geometry": {"coordinates":[-2.71667,12.45],"type":"Point"}
+}

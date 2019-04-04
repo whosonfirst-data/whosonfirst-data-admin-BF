@@ -1,0 +1,68 @@
+{
+  "id": 1242962407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8223,13.05972,-1.8223,13.05972",
+    "geom:latitude":13.05972,
+    "geom:longitude":-1.8223,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Dakouli",
+    "gn:country_code":"BF",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361697,
+    "gn:latitude":13.05972,
+    "gn:longitude":-1.8223,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Dakouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361697
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1a1de49f2d4b830f7f3c78c4c17bafc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1242962407,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1242962407,
+    "wof:lastmodified":1537005708,
+    "wof:name":"Dakouli",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8223,
+    13.05972,
+    -1.8223,
+    13.05972
+],
+  "geometry": {"coordinates":[-1.8223,13.05972],"type":"Point"}
+}

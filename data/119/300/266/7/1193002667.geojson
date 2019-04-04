@@ -1,0 +1,68 @@
+{
+  "id": 1193002667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.86441,11.08123,-4.86441,11.08123",
+    "geom:latitude":11.08123,
+    "geom:longitude":-4.86441,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Keleni",
+    "gn:country_code":"BF",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359582,
+    "gn:latitude":11.08123,
+    "gn:longitude":-4.86441,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"K\u00e9l\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359582
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"58fdad2b9d80f34d4c515833d282d687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1193002667,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1193002667,
+    "wof:lastmodified":1536368738,
+    "wof:name":"Keleni",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.86441,
+    11.08123,
+    -4.86441,
+    11.08123
+],
+  "geometry": {"coordinates":[-4.86441,11.08123],"type":"Point"}
+}

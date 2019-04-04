@@ -1,0 +1,72 @@
+{
+  "id": 1259989207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.62578,13.21193,-2.62578,13.21193",
+    "geom:latitude":13.21193,
+    "geom:longitude":-2.62578,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Ouore Yarse",
+    "gn:country_code":"BF",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353736,
+    "gn:latitude":13.21193,
+    "gn:longitude":-2.62578,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouor\u00e9 Yars\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wor\u00e9",
+        "Ouor\u00e9 Yars\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353736
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"00d0d0e689882bb7be40cfe3e03570bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1259989207,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1259989207,
+    "wof:lastmodified":1537587096,
+    "wof:name":"Ouore Yarse",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.62578,
+    13.21193,
+    -2.62578,
+    13.21193
+],
+  "geometry": {"coordinates":[-2.62578,13.21193],"type":"Point"}
+}

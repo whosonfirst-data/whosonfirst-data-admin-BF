@@ -1,0 +1,67 @@
+{
+  "id": 1343241667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4,10.2,-3.4,10.2",
+    "geom:latitude":10.2,
+    "geom:longitude":-3.4,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pantianao",
+    "gn:country_code":"BF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356697,
+    "gn:latitude":10.2,
+    "gn:longitude":-3.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pantianao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356697
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5f7ef8751c97bdaa13c736c4c5da1799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1343241667,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1343241667,
+    "wof:lastmodified":1537059535,
+    "wof:name":"Pantianao",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4,
+    10.2,
+    -3.4,
+    10.2
+],
+  "geometry": {"coordinates":[-3.4,10.2],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209332199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.91415,13.41721,-2.91415,13.41721",
+    "geom:latitude":13.41721,
+    "geom:longitude":-2.91415,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Gani",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360646,
+    "gn:latitude":13.41721,
+    "gn:longitude":-2.91415,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sani",
+        "Gani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360646
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"07431ba34b45e69a848a7feaa4f7bc08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209332199
+        }
+    ],
+    "wof:id":1209332199,
+    "wof:lastmodified":1537587192,
+    "wof:name":"Gani",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.91415,
+    13.41721,
+    -2.91415,
+    13.41721
+],
+  "geometry": {"coordinates":[-2.91415,13.41721],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360072351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.18363,14.18082,-0.18363,14.18082",
+    "geom:latitude":14.18082,
+    "geom:longitude":-0.18363,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Touka Dionga",
+    "gn:country_code":"BF",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354151,
+    "gn:latitude":14.18082,
+    "gn:longitude":-0.18363,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Touka Dionga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354151
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4bab447ffa81fc1b113eb475488edb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1360072351,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1360072351,
+    "wof:lastmodified":1536963897,
+    "wof:name":"Touka Dionga",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.18363,
+    14.18082,
+    -0.18363,
+    14.18082
+],
+  "geometry": {"coordinates":[-0.18363,14.18082],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226022069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.28173,13.82493,-0.28173,13.82493",
+    "geom:latitude":13.82493,
+    "geom:longitude":-0.28173,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Solsala",
+    "gn:country_code":"BF",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355396,
+    "gn:latitude":13.82493,
+    "gn:longitude":-0.28173,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Solsala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355396
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"311e1b7cac9d0257ec53390b5760efa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1226022069,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1226022069,
+    "wof:lastmodified":1536759573,
+    "wof:name":"Solsala",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.28173,
+    13.82493,
+    -0.28173,
+    13.82493
+],
+  "geometry": {"coordinates":[-0.28173,13.82493],"type":"Point"}
+}

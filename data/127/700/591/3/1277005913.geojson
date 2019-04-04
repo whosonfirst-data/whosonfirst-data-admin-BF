@@ -1,0 +1,67 @@
+{
+  "id": 1277005913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.35,12.08333,-0.35,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-0.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Watenename",
+    "gn:country_code":"BF",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353831,
+    "gn:latitude":12.08333,
+    "gn:longitude":-0.35,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Wat\u00e9n\u00e9nam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890413163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353831
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"10ab260294987be482d1e1f72ff84c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413163,
+            "locality_id":1277005913,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1277005913,
+    "wof:lastmodified":1536871174,
+    "wof:name":"Watenename",
+    "wof:parent_id":890413163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.35,
+    12.08333,
+    -0.35,
+    12.08333
+],
+  "geometry": {"coordinates":[-0.35,12.08333],"type":"Point"}
+}

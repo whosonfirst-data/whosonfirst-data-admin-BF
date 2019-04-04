@@ -1,0 +1,72 @@
+{
+  "id": 1226047219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.50345,13.56842,-1.50345,13.56842",
+    "geom:latitude":13.56842,
+    "geom:longitude":-1.50345,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Deneon",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361452,
+    "gn:latitude":13.56842,
+    "gn:longitude":-1.50345,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u00e9n\u00e9on",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e9n\u00e9on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361452,
+        "wk:page":"D%C3%A9n%C3%A9on"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"85838b1b4448f1923d221379c2b28a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1226047219,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1226047219,
+    "wof:lastmodified":1537587201,
+    "wof:name":"Deneon",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.50345,
+    13.56842,
+    -1.50345,
+    13.56842
+],
+  "geometry": {"coordinates":[-1.50345,13.56842],"type":"Point"}
+}

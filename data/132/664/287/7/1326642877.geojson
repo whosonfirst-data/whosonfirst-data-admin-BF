@@ -1,0 +1,71 @@
+{
+  "id": 1326642877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.15,10.6,-4.15,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":-4.15,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Banogo",
+    "gn:country_code":"BF",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362832,
+    "gn:latitude":10.6,
+    "gn:longitude":-4.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Banogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bannogo",
+        "Banogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362832
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"70494847095de270a9582be689452a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1326642877,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1326642877,
+    "wof:lastmodified":1537587218,
+    "wof:name":"Banogo",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.15,
+    10.6,
+    -4.15,
+    10.6
+],
+  "geometry": {"coordinates":[-4.15,10.6],"type":"Point"}
+}

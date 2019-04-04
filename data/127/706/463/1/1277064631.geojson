@@ -1,0 +1,71 @@
+{
+  "id": 1277064631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.7,12.15,-0.7,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-0.7,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nedogo",
+    "gn:country_code":"BF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357434,
+    "gn:latitude":12.15,
+    "gn:longitude":-0.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00e9dogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9dogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890428979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357434,
+        "wk:page":"N%C3%A9dogo"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"385b26ddfa4219cb54fadaba605c7271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428979,
+            "locality_id":1277064631,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1277064631,
+    "wof:lastmodified":1537587150,
+    "wof:name":"Nedogo",
+    "wof:parent_id":890428979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.7,
+    12.15,
+    -0.7,
+    12.15
+],
+  "geometry": {"coordinates":[-0.7,12.15],"type":"Point"}
+}

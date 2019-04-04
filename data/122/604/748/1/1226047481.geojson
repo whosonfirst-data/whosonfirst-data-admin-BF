@@ -1,0 +1,72 @@
+{
+  "id": 1226047481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.59631,13.67464,-0.59631,13.67464",
+    "geom:latitude":13.67464,
+    "geom:longitude":-0.59631,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"64",
+    "gn:asciiname":"Boum Iri",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361929,
+    "gn:latitude":13.67464,
+    "gn:longitude":-0.59631,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boum Iri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toura",
+        "Boum Iri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361929
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ad9fa086baf39ec32924457998a95829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413143,
+            "locality_id":1226047481,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1226047481,
+    "wof:lastmodified":1537587208,
+    "wof:name":"Boum Iri",
+    "wof:parent_id":890413143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.59631,
+    13.67464,
+    -0.59631,
+    13.67464
+],
+  "geometry": {"coordinates":[-0.59631,13.67464],"type":"Point"}
+}

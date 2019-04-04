@@ -1,0 +1,68 @@
+{
+  "id": 1226231337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.30393,13.64973,-2.30393,13.64973",
+    "geom:latitude":13.64973,
+    "geom:longitude":-2.30393,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Bassenere",
+    "gn:country_code":"BF",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362691,
+    "gn:latitude":13.64973,
+    "gn:longitude":-2.30393,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bass\u00e9n\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362691
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"01e852e3f1ca1b7502fe7889e8ff8148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1226231337,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1226231337,
+    "wof:lastmodified":1536954508,
+    "wof:name":"Bassenere",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.30393,
+    13.64973,
+    -2.30393,
+    13.64973
+],
+  "geometry": {"coordinates":[-2.30393,13.64973],"type":"Point"}
+}

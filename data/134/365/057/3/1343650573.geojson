@@ -1,0 +1,68 @@
+{
+  "id": 1343650573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9311,13.56642,-1.9311,13.56642",
+    "geom:latitude":13.56642,
+    "geom:longitude":-1.9311,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Tasombo",
+    "gn:country_code":"BF",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354749,
+    "gn:latitude":13.56642,
+    "gn:longitude":-1.9311,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tasombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890453949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354749
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c1e04d4a78e5ac0b38c2cbfee3073766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":1343650573,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1343650573,
+    "wof:lastmodified":1536969030,
+    "wof:name":"Tasombo",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9311,
+    13.56642,
+    -1.9311,
+    13.56642
+],
+  "geometry": {"coordinates":[-1.9311,13.56642],"type":"Point"}
+}

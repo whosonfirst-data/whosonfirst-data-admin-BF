@@ -1,0 +1,68 @@
+{
+  "id": 1360295087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.832,13.2082,-3.832,13.2082",
+    "geom:latitude":13.2082,
+    "geom:longitude":-3.832,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Karekui",
+    "gn:country_code":"BF",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359680,
+    "gn:latitude":13.2082,
+    "gn:longitude":-3.832,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kar\u00e9kui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359680
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"061900dfb524633be41af61b156bd30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1360295087,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1360295087,
+    "wof:lastmodified":1536641757,
+    "wof:name":"Karekui",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.832,
+    13.2082,
+    -3.832,
+    13.2082
+],
+  "geometry": {"coordinates":[-3.832,13.2082],"type":"Point"}
+}

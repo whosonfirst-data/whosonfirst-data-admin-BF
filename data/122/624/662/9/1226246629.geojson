@@ -1,0 +1,68 @@
+{
+  "id": 1226246629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2314,13.5893,-3.2314,13.5893",
+    "geom:latitude":13.5893,
+    "geom:longitude":-3.2314,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Manga",
+    "gn:country_code":"BF",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358099,
+    "gn:latitude":13.5893,
+    "gn:longitude":-3.2314,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Manga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358099
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7bb50ebf72b1f5a48dd0e017c54e338d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1226246629,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1226246629,
+    "wof:lastmodified":1536933062,
+    "wof:name":"Manga",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2314,
+    13.5893,
+    -3.2314,
+    13.5893
+],
+  "geometry": {"coordinates":[-3.2314,13.5893],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310392427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.02804,13.58743,0.02804,13.58743",
+    "geom:latitude":13.58743,
+    "geom:longitude":0.02804,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Goumodyo",
+    "gn:country_code":"BF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360276,
+    "gn:latitude":13.58743,
+    "gn:longitude":0.02804,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Goumodyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360276
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6e14b3ae40abb974e47d0c5e76ecd588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1310392427,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1310392427,
+    "wof:lastmodified":1537077009,
+    "wof:name":"Goumodyo",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.02804,
+    13.58743,
+    0.02804,
+    13.58743
+],
+  "geometry": {"coordinates":[0.02804,13.58743],"type":"Point"}
+}

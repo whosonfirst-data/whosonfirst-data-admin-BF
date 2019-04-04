@@ -1,0 +1,72 @@
+{
+  "id": 1243386353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11604,13.5381,-1.11604,13.5381",
+    "geom:latitude":13.5381,
+    "geom:longitude":-1.11604,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Kayebila",
+    "gn:country_code":"BF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359605,
+    "gn:latitude":13.5381,
+    "gn:longitude":-1.11604,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kay\u00e9bila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u00efboulo",
+        "Kay\u00e9bila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359605
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2c258db1ddfd605b0750bd749ae6af09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1243386353,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1243386353,
+    "wof:lastmodified":1537587178,
+    "wof:name":"Kayebila",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11604,
+    13.5381,
+    -1.11604,
+    13.5381
+],
+  "geometry": {"coordinates":[-1.11604,13.5381],"type":"Point"}
+}

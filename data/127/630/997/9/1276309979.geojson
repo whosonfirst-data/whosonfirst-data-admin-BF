@@ -1,0 +1,72 @@
+{
+  "id": 1276309979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.76254,14.14495,-0.76254,14.14495",
+    "geom:latitude":14.14495,
+    "geom:longitude":-0.76254,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Intara",
+    "gn:country_code":"BF",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360012,
+    "gn:latitude":14.14495,
+    "gn:longitude":-0.76254,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Intara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liki",
+        "Intara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360012
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a497c54a5b4071d30e0e0cd695bf5fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1276309979,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1276309979,
+    "wof:lastmodified":1537587183,
+    "wof:name":"Intara",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.76254,
+    14.14495,
+    -0.76254,
+    14.14495
+],
+  "geometry": {"coordinates":[-0.76254,14.14495],"type":"Point"}
+}

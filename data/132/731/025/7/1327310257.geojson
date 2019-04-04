@@ -1,0 +1,67 @@
+{
+  "id": 1327310257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.43333,10.06667,-3.43333,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":-3.43333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Defitara",
+    "gn:country_code":"BF",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361476,
+    "gn:latitude":10.06667,
+    "gn:longitude":-3.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"D\u00e9fitara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361476
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c1c022c444f57d0ca8aaa936a354560f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1327310257,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1327310257,
+    "wof:lastmodified":1536856068,
+    "wof:name":"Defitara",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.43333,
+    10.06667,
+    -3.43333,
+    10.06667
+],
+  "geometry": {"coordinates":[-3.43333,10.06667],"type":"Point"}
+}

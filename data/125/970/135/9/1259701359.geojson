@@ -1,0 +1,72 @@
+{
+  "id": 1259701359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2087,12.1931,-4.2087,12.1931",
+    "geom:latitude":12.1931,
+    "geom:longitude":-4.2087,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Lekoro",
+    "gn:country_code":"BF",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358413,
+    "gn:latitude":12.1931,
+    "gn:longitude":-4.2087,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u00e9koro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9koro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890416507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358413,
+        "wk:page":"L%C3%A8koro"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"56c7fb5b676bc0378fda770fb4b4e946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416507,
+            "locality_id":1259701359,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1259701359,
+    "wof:lastmodified":1537587162,
+    "wof:name":"Lekoro",
+    "wof:parent_id":890416507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2087,
+    12.1931,
+    -4.2087,
+    12.1931
+],
+  "geometry": {"coordinates":[-4.2087,12.1931],"type":"Point"}
+}

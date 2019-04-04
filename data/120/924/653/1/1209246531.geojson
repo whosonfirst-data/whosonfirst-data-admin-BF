@@ -1,0 +1,62 @@
+{
+  "id": 1209246531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.81468,13.68964,-0.81468,13.68964",
+    "geom:latitude":13.68964,
+    "geom:longitude":-0.81468,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Bou",
+    "gn:country_code":"BF",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362113,
+    "gn:latitude":13.68964,
+    "gn:longitude":-0.81468,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362113
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"373cafe4e59f073ddc2876dc014efeb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209246531
+        }
+    ],
+    "wof:id":1209246531,
+    "wof:lastmodified":1536293145,
+    "wof:name":"Bou",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8146800000000001,
+    13.68964,
+    -0.8146800000000001,
+    13.68964
+],
+  "geometry": {"coordinates":[-0.81468,13.68964],"type":"Point"}
+}

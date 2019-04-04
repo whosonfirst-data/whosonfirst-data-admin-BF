@@ -1,0 +1,71 @@
+{
+  "id": 1309743733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.4,12.98333,-1.4,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":-1.4,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kwenani",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358598,
+    "gn:latitude":12.98333,
+    "gn:longitude":-1.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kw\u00e9nani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ou\u00e9nan\u00e9",
+        "Kw\u00e9nani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358598
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9d74a756d46a588e5525025b3466aeef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1309743733,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1309743733,
+    "wof:lastmodified":1537587165,
+    "wof:name":"Kwenani",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.4,
+    12.98333,
+    -1.4,
+    12.98333
+],
+  "geometry": {"coordinates":[-1.4,12.98333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242695591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.26344,11.87623,-4.26344,11.87623",
+    "geom:latitude":11.87623,
+    "geom:longitude":-4.26344,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Bankouma",
+    "gn:country_code":"BF",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362846,
+    "gn:latitude":11.87623,
+    "gn:longitude":-4.26344,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bankouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diakoumafindougou",
+        "Bankouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890416507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362846,
+        "wk:page":"Bankouma"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5ccd5f86484b6bac8079afbf1c64ea77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416507,
+            "locality_id":1242695591,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1242695591,
+    "wof:lastmodified":1537587219,
+    "wof:name":"Bankouma",
+    "wof:parent_id":890416507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.26344,
+    11.87623,
+    -4.26344,
+    11.87623
+],
+  "geometry": {"coordinates":[-4.26344,11.87623],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344254669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.91667,11.33333,-1.91667,11.33333",
+    "geom:latitude":11.33333,
+    "geom:longitude":-1.91667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Levara",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358362,
+    "gn:latitude":11.33333,
+    "gn:longitude":-1.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e9vara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890421465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358362
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c20bc3b257425872d9bfe041d8bed415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421465,
+            "locality_id":1344254669,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1344254669,
+    "wof:lastmodified":1537089398,
+    "wof:name":"Levara",
+    "wof:parent_id":890421465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.91667,
+    11.33333,
+    -1.91667,
+    11.33333
+],
+  "geometry": {"coordinates":[-1.91667,11.33333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243441313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23548,14.28597,-1.23548,14.28597",
+    "geom:latitude":14.28597,
+    "geom:longitude":-1.23548,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Ouzeni",
+    "gn:country_code":"BF",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356769,
+    "gn:latitude":14.28597,
+    "gn:longitude":-1.23548,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Ouz\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356769
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fed97fe5988ceeef582e9f6eb61d5758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1243441313,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1243441313,
+    "wof:lastmodified":1536812352,
+    "wof:name":"Ouzeni",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23548,
+    14.28597,
+    -1.23548,
+    14.28597
+],
+  "geometry": {"coordinates":[-1.23548,14.28597],"type":"Point"}
+}

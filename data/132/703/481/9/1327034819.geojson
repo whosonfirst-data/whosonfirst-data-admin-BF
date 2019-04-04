@@ -1,0 +1,67 @@
+{
+  "id": 1327034819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.06667,12.93333,-1.06667,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":-1.06667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tandouka",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355026,
+    "gn:latitude":12.93333,
+    "gn:longitude":-1.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tandouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355026
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f0851d30216d91290619adff5d0b7e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1327034819,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1327034819,
+    "wof:lastmodified":1536757018,
+    "wof:name":"Tandouka",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.06667,
+    12.93333,
+    -1.06667,
+    12.93333
+],
+  "geometry": {"coordinates":[-1.06667,12.93333],"type":"Point"}
+}

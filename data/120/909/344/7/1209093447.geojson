@@ -1,0 +1,67 @@
+{
+  "id": 1209093447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.73575,13.56203,0.73575,13.56203",
+    "geom:latitude":13.56203,
+    "geom:longitude":0.73575,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Tankogonadye",
+    "gn:country_code":"BF",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354918,
+    "gn:latitude":13.56203,
+    "gn:longitude":0.73575,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tankogonadye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tankogounadi\u00e9",
+        "Tankougounadi\u00e9",
+        "Tankogonadye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354918
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0fe5f3a2c67a81067920808572bcdf24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209093447
+        }
+    ],
+    "wof:id":1209093447,
+    "wof:lastmodified":1537587112,
+    "wof:name":"Tankogonadye",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.73575,
+    13.56203,
+    0.73575,
+    13.56203
+],
+  "geometry": {"coordinates":[0.73575,13.56203],"type":"Point"}
+}

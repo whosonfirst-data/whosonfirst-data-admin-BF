@@ -1,0 +1,72 @@
+{
+  "id": 1242961665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.30444,12.60806,-1.30444,12.60806",
+    "geom:latitude":12.60806,
+    "geom:longitude":-1.30444,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"68",
+    "gn:asciiname":"Guilongou",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360144,
+    "gn:latitude":12.60806,
+    "gn:longitude":-1.30444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guilongou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guiongou",
+        "Guilongou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890413157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360144
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c1ae704a82fb3313fe056d08e141d838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":1242961665,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1242961665,
+    "wof:lastmodified":1537587185,
+    "wof:name":"Guilongou",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.30444,
+    12.60806,
+    -1.30444,
+    12.60806
+],
+  "geometry": {"coordinates":[-1.30444,12.60806],"type":"Point"}
+}

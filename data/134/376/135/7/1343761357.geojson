@@ -1,0 +1,73 @@
+{
+  "id": 1343761357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.39163,13.18367,-1.39163,13.18367",
+    "geom:latitude":13.18367,
+    "geom:longitude":-1.39163,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Sanoui",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355926,
+    "gn:latitude":13.18367,
+    "gn:longitude":-1.39163,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sanoui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanhoui",
+        "Sanoui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355926,
+        "wk:page":"Sanhoui"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8f8493e8bae325670fa8c26ed258bc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1343761357,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1343761357,
+    "wof:lastmodified":1537587127,
+    "wof:name":"Sanoui",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.39163,
+    13.18367,
+    -1.39163,
+    13.18367
+],
+  "geometry": {"coordinates":[-1.39163,13.18367],"type":"Point"}
+}

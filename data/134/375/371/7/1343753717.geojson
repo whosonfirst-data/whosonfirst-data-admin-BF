@@ -1,0 +1,72 @@
+{
+  "id": 1343753717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.28083,12.11361,-1.28083,12.11361",
+    "geom:latitude":12.11361,
+    "geom:longitude":-1.28083,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Yissouken",
+    "gn:country_code":"BF",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359970,
+    "gn:latitude":12.11361,
+    "gn:longitude":-1.28083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yissouken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isouka",
+        "Yissouken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359970
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"162704c26bc7edeeba08b012c94df1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1343753717,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1343753717,
+    "wof:lastmodified":1537587183,
+    "wof:name":"Yissouken",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.28083,
+    12.11361,
+    -1.28083,
+    12.11361
+],
+  "geometry": {"coordinates":[-1.28083,12.11361],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327019609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.28951,11.02336,-5.28951,11.02336",
+    "geom:latitude":11.02336,
+    "geom:longitude":-5.28951,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Bama",
+    "gn:country_code":"BF",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362972,
+    "gn:latitude":11.02336,
+    "gn:longitude":-5.28951,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Bama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362972
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b1e3fc811b139be8d54d2a468efae576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1327019609,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1327019609,
+    "wof:lastmodified":1536779465,
+    "wof:name":"Bama",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.28951,
+    11.02336,
+    -5.28951,
+    11.02336
+],
+  "geometry": {"coordinates":[-5.28951,11.02336],"type":"Point"}
+}

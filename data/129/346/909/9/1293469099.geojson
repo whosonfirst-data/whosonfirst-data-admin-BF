@@ -1,0 +1,74 @@
+{
+  "id": 1293469099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.58333,10.46667,-3.58333,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-3.58333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yerifoula",
+    "gn:country_code":"BF",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353520,
+    "gn:latitude":10.46667,
+    "gn:longitude":-3.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00e9rifoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u00e9rifoula",
+        "Y\u00e9r\u00e9foula",
+        "Ierifula",
+        "I\u00e9rifoula",
+        "Y\u00e9rifoula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353520
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c3a6aa07f497915ecec6ae85ed644a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1293469099,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1293469099,
+    "wof:lastmodified":1537587093,
+    "wof:name":"Yerifoula",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.58333,
+    10.46667,
+    -3.58333,
+    10.46667
+],
+  "geometry": {"coordinates":[-3.58333,10.46667],"type":"Point"}
+}

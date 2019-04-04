@@ -1,0 +1,68 @@
+{
+  "id": 1343338685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.99344,13.84947,-0.99344,13.84947",
+    "geom:latitude":13.84947,
+    "geom:longitude":-0.99344,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Tokyedogo",
+    "gn:country_code":"BF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354277,
+    "gn:latitude":13.84947,
+    "gn:longitude":-0.99344,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Toky\u00e9dogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354277
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"294305519499e6fb0529883fd0f9c479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1343338685,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1343338685,
+    "wof:lastmodified":1536922757,
+    "wof:name":"Tokyedogo",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.99344,
+    13.84947,
+    -0.99344,
+    13.84947
+],
+  "geometry": {"coordinates":[-0.99344,13.84947],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343251009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5205,13.41924,-2.5205,13.41924",
+    "geom:latitude":13.41924,
+    "geom:longitude":-2.5205,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Koutakou",
+    "gn:country_code":"BF",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358655,
+    "gn:latitude":13.41924,
+    "gn:longitude":-2.5205,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Koutakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358655
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"3de73f397317426e9b70d1846c85193f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1343251009,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1343251009,
+    "wof:lastmodified":1537046632,
+    "wof:name":"Koutakou",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5205,
+    13.41924,
+    -2.5205,
+    13.41924
+],
+  "geometry": {"coordinates":[-2.5205,13.41924],"type":"Point"}
+}

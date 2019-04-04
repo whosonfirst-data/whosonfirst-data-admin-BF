@@ -1,0 +1,67 @@
+{
+  "id": 1243158555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2,11.15,-3.2,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":-3.2,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dabole",
+    "gn:country_code":"BF",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361759,
+    "gn:latitude":11.15,
+    "gn:longitude":-3.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dabol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890416509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361759
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"3063f9d0ad89886e7cb2e26abac0c947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416509,
+            "locality_id":1243158555,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1243158555,
+    "wof:lastmodified":1536724005,
+    "wof:name":"Dabole",
+    "wof:parent_id":890416509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2,
+    11.15,
+    -3.2,
+    11.15
+],
+  "geometry": {"coordinates":[-3.2,11.15],"type":"Point"}
+}

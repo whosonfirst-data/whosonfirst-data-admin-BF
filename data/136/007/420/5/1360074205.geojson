@@ -1,0 +1,68 @@
+{
+  "id": 1360074205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5291,14.04725,-2.5291,14.04725",
+    "geom:latitude":14.04725,
+    "geom:longitude":-2.5291,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Madougou",
+    "gn:country_code":"BF",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358168,
+    "gn:latitude":14.04725,
+    "gn:longitude":-2.5291,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Madougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890453949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358168
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b829dba46b62842b4dc1ed5b6f76a341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":1360074205,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1360074205,
+    "wof:lastmodified":1536961300,
+    "wof:name":"Madougou",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5291,
+    14.04725,
+    -2.5291,
+    14.04725
+],
+  "geometry": {"coordinates":[-2.5291,14.04725],"type":"Point"}
+}

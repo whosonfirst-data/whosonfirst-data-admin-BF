@@ -1,0 +1,68 @@
+{
+  "id": 1293218257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.0469,12.4142,-4.0469,12.4142",
+    "geom:latitude":12.4142,
+    "geom:longitude":-4.0469,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Doubale",
+    "gn:country_code":"BF",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361067,
+    "gn:latitude":12.4142,
+    "gn:longitude":-4.0469,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Doubal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361067
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"45db20441aa0c2d8c9faf811dd1c14e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1293218257,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1293218257,
+    "wof:lastmodified":1536678160,
+    "wof:name":"Doubale",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.0469,
+    12.4142,
+    -4.0469,
+    12.4142
+],
+  "geometry": {"coordinates":[-4.0469,12.4142],"type":"Point"}
+}

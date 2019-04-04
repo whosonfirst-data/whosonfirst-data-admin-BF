@@ -1,0 +1,67 @@
+{
+  "id": 1259607383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.56667,11.36667,-0.56667,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-0.56667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Guiernogo",
+    "gn:country_code":"BF",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360157,
+    "gn:latitude":11.36667,
+    "gn:longitude":-0.56667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Guiernogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360157
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"23b7e43f9718afed86db06b486598f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1259607383,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1259607383,
+    "wof:lastmodified":1536680351,
+    "wof:name":"Guiernogo",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.56667,
+    11.36667,
+    -0.56667,
+    11.36667
+],
+  "geometry": {"coordinates":[-0.56667,11.36667],"type":"Point"}
+}

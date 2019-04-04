@@ -1,0 +1,68 @@
+{
+  "id": 1344045323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.02972,12.62083,-1.02972,12.62083",
+    "geom:latitude":12.62083,
+    "geom:longitude":-1.02972,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"68",
+    "gn:asciiname":"Moanega",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357949,
+    "gn:latitude":12.62083,
+    "gn:longitude":-1.02972,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Moan\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890413157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357949
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2e82479b31f1b659e8c541f59a33e30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":1344045323,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1344045323,
+    "wof:lastmodified":1536897350,
+    "wof:name":"Moanega",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.02972,
+    12.62083,
+    -1.02972,
+    12.62083
+],
+  "geometry": {"coordinates":[-1.02972,12.62083],"type":"Point"}
+}

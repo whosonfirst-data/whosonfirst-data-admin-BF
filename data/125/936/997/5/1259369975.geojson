@@ -1,0 +1,68 @@
+{
+  "id": 1259369975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.19578,13.73129,-0.19578,13.73129",
+    "geom:latitude":13.73129,
+    "geom:longitude":-0.19578,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Ouro Belko",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356846,
+    "gn:latitude":13.73129,
+    "gn:longitude":-0.19578,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Ouro B\u00e8lko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356846
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f4bfd3efa93b5925dc977460a40cd21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1259369975,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1259369975,
+    "wof:lastmodified":1537020824,
+    "wof:name":"Ouro Belko",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.19578,
+    13.73129,
+    -0.19578,
+    13.73129
+],
+  "geometry": {"coordinates":[-0.19578,13.73129],"type":"Point"}
+}

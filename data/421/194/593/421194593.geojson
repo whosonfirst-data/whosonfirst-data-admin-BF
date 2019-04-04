@@ -1,0 +1,78 @@
+{
+  "id": 421194593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-1.345825,12.483196,-1.345825,12.483196",
+    "geom:latitude":12.483196,
+    "geom:longitude":-1.345825,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Saaba"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Saaba",
+    "qs:name_adm0":"Burkina Faso",
+    "qs:name_adm1":"Kadiogo",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1296976,
+    "qs:woe_adm0":23424978,
+    "qs:woe_id":55967429,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        85668883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55967429,
+        "qs:id":1296976,
+        "wd:id":"Q7395534"
+    },
+    "wof:country":"BF",
+    "wof:created":1459009813,
+    "wof:geomhash":"516d6614df1acd958270dff6f0e0c62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421194593,
+            "region_id":85668883
+        }
+    ],
+    "wof:id":421194593,
+    "wof:lastmodified":1527716127,
+    "wof:name":"Saaba",
+    "wof:parent_id":85668883,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.345825,
+    12.483196,
+    -1.345825,
+    12.483196
+],
+  "geometry": {"coordinates":[-1.345825,12.483196],"type":"Point"}
+}

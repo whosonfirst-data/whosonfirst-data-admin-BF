@@ -1,0 +1,73 @@
+{
+  "id": 1226638429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.82139,11.06,-1.82139,11.06",
+    "geom:latitude":11.06,
+    "geom:longitude":-1.82139,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"72",
+    "gn:asciiname":"Bieha",
+    "gn:country_code":"BF",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362513,
+    "gn:latitude":11.06,
+    "gn:longitude":-1.82139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bi\u00e9ha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9ga",
+        "Bi\u00e9ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890421465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362513,
+        "wk:page":"Bi%C3%A9ha_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5280dc105bee52576e8b79b7fb2821cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421465,
+            "locality_id":1226638429,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1226638429,
+    "wof:lastmodified":1537587214,
+    "wof:name":"Bieha",
+    "wof:parent_id":890421465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.82139,
+    11.06,
+    -1.82139,
+    11.06
+],
+  "geometry": {"coordinates":[-1.82139,11.06],"type":"Point"}
+}

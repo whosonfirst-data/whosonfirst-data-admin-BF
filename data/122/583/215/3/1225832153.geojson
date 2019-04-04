@@ -1,0 +1,68 @@
+{
+  "id": 1225832153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.49499,14.07273,-0.49499,14.07273",
+    "geom:latitude":14.07273,
+    "geom:longitude":-0.49499,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Petelide",
+    "gn:country_code":"BF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356562,
+    "gn:latitude":14.07273,
+    "gn:longitude":-0.49499,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"P\u00e9t\u00e9lid\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356562
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0fe8de6d014c02aa5660ed35dd46fa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1225832153,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1225832153,
+    "wof:lastmodified":1537031885,
+    "wof:name":"Petelide",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.49499,
+    14.07273,
+    -0.49499,
+    14.07273
+],
+  "geometry": {"coordinates":[-0.49499,14.07273],"type":"Point"}
+}

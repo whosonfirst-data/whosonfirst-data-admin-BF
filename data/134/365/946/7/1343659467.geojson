@@ -1,0 +1,68 @@
+{
+  "id": 1343659467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.42435,12.59435,1.42435,12.59435",
+    "geom:latitude":12.59435,
+    "geom:longitude":1.42435,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Nindapourgou",
+    "gn:country_code":"BF",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357294,
+    "gn:latitude":12.59435,
+    "gn:longitude":1.42435,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Nindapourgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357294
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"806401f7b359391cdfcbcf8920dc2600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1343659467,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1343659467,
+    "wof:lastmodified":1536956554,
+    "wof:name":"Nindapourgou",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.42435,
+    12.59435,
+    1.42435,
+    12.59435
+],
+  "geometry": {"coordinates":[1.42435,12.59435],"type":"Point"}
+}

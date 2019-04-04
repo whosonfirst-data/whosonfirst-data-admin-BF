@@ -1,0 +1,62 @@
+{
+  "id": 1209514371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.0312,13.33867,-1.0312,13.33867",
+    "geom:latitude":13.33867,
+    "geom:longitude":-1.0312,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Sintoera",
+    "gn:country_code":"BF",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355512,
+    "gn:latitude":13.33867,
+    "gn:longitude":-1.0312,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Sinto\u00e8ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355512
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9ef60bde9f0a14dcb5fe68403f04ebcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209514371
+        }
+    ],
+    "wof:id":1209514371,
+    "wof:lastmodified":1536284780,
+    "wof:name":"Sintoera",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.0312,
+    13.33867,
+    -1.0312,
+    13.33867
+],
+  "geometry": {"coordinates":[-1.0312,13.33867],"type":"Point"}
+}

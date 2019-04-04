@@ -1,0 +1,68 @@
+{
+  "id": 1225833475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.69333,12.73333,-1.69333,12.73333",
+    "geom:latitude":12.73333,
+    "geom:longitude":-1.69333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"60",
+    "gn:asciiname":"Sotenga",
+    "gn:country_code":"BF",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355299,
+    "gn:latitude":12.73333,
+    "gn:longitude":-1.69333,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Sotenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355299
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d08f9ff6bc26b908f07ec82aeeb949e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1225833475,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1225833475,
+    "wof:lastmodified":1537030072,
+    "wof:name":"Sotenga",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.69333,
+    12.73333,
+    -1.69333,
+    12.73333
+],
+  "geometry": {"coordinates":[-1.69333,12.73333],"type":"Point"}
+}

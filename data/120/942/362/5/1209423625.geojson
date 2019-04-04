@@ -1,0 +1,61 @@
+{
+  "id": 1209423625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.08333,10.38333,-4.08333,10.38333",
+    "geom:latitude":10.38333,
+    "geom:longitude":-4.08333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Manevelle",
+    "gn:country_code":"BF",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358101,
+    "gn:latitude":10.38333,
+    "gn:longitude":-4.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Man\u00e9velle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358101
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"26f9db317340911585f65f12bd07c689",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209423625
+        }
+    ],
+    "wof:id":1209423625,
+    "wof:lastmodified":1536287449,
+    "wof:name":"Manevelle",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.08333,
+    10.38333,
+    -4.08333,
+    10.38333
+],
+  "geometry": {"coordinates":[-4.08333,10.38333],"type":"Point"}
+}

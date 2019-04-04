@@ -1,0 +1,72 @@
+{
+  "id": 1343345167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08419,13.0178,-2.08419,13.0178",
+    "geom:latitude":13.0178,
+    "geom:longitude":-2.08419,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Toesse",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354050,
+    "gn:latitude":13.0178,
+    "gn:longitude":-2.08419,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toess\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Twess\u00e9",
+        "Toess\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354050
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"95edea0c7e04eb09f5bdb0c607c59b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1343345167,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1343345167,
+    "wof:lastmodified":1537587100,
+    "wof:name":"Toesse",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08419,
+    13.0178,
+    -2.08419,
+    13.0178
+],
+  "geometry": {"coordinates":[-2.08419,13.0178],"type":"Point"}
+}

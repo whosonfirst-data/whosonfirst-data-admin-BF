@@ -1,0 +1,72 @@
+{
+  "id": 1260086299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.28234,11.12386,-0.28234,11.12386",
+    "geom:latitude":11.12386,
+    "geom:longitude":-0.28234,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mogomnore",
+    "gn:country_code":"BF",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357932,
+    "gn:latitude":11.12386,
+    "gn:longitude":-0.28234,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Mogomnor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mogomnor\u00e9",
+        "Mogoumnore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357932,
+        "wk:page":"Mogomnore"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"16ae8bf8d3291f4b5de2a91a599ee484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1260086299,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1260086299,
+    "wof:lastmodified":1537587156,
+    "wof:name":"Mogomnore",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.28234,
+    11.12386,
+    -0.28234,
+    11.12386
+],
+  "geometry": {"coordinates":[-0.28234,11.12386],"type":"Point"}
+}

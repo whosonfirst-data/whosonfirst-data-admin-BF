@@ -1,0 +1,68 @@
+{
+  "id": 1259966739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34958,13.5596,0.34958,13.5596",
+    "geom:latitude":13.5596,
+    "geom:longitude":0.34958,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Tyouridi",
+    "gn:country_code":"BF",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353980,
+    "gn:latitude":13.5596,
+    "gn:longitude":0.34958,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tyouridi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353980
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"73ae7b2fcb241bb64950db301bfbc1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1259966739,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1259966739,
+    "wof:lastmodified":1536659375,
+    "wof:name":"Tyouridi",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34958,
+    13.5596,
+    0.34958,
+    13.5596
+],
+  "geometry": {"coordinates":[0.34958,13.5596],"type":"Point"}
+}

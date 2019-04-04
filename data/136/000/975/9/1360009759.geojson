@@ -1,0 +1,67 @@
+{
+  "id": 1360009759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.35,11.95,-0.35,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-0.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gomtenga",
+    "gn:country_code":"BF",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360436,
+    "gn:latitude":11.95,
+    "gn:longitude":-0.35,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gomtenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890413163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360436
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c6d2f4a9de6f00cdacb0ebf927aeee08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413163,
+            "locality_id":1360009759,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1360009759,
+    "wof:lastmodified":1537052121,
+    "wof:name":"Gomtenga",
+    "wof:parent_id":890413163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.35,
+    11.95,
+    -0.35,
+    11.95
+],
+  "geometry": {"coordinates":[-0.35,11.95],"type":"Point"}
+}

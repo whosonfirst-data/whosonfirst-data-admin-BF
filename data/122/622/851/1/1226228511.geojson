@@ -1,0 +1,67 @@
+{
+  "id": 1226228511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.96667,10.85,-2.96667,10.85",
+    "geom:latitude":10.85,
+    "geom:longitude":-2.96667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kansara",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359729,
+    "gn:latitude":10.85,
+    "gn:longitude":-2.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kansara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890416509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359729
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9b13a6b39fc31920f535884d78c5b72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416509,
+            "locality_id":1226228511,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1226228511,
+    "wof:lastmodified":1536958479,
+    "wof:name":"Kansara",
+    "wof:parent_id":890416509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.96667,
+    10.85,
+    -2.96667,
+    10.85
+],
+  "geometry": {"coordinates":[-2.96667,10.85],"type":"Point"}
+}

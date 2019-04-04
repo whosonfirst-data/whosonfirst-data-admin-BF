@@ -1,0 +1,62 @@
+{
+  "id": 1209111091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.45782,13.25112,-0.45782,13.25112",
+    "geom:latitude":13.25112,
+    "geom:longitude":-0.45782,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"64",
+    "gn:asciiname":"Zomnogo",
+    "gn:country_code":"BF",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353222,
+    "gn:latitude":13.25112,
+    "gn:longitude":-0.45782,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Zomnogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353222
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0906f8c363d719d149e765733173f302",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209111091
+        }
+    ],
+    "wof:id":1209111091,
+    "wof:lastmodified":1536297405,
+    "wof:name":"Zomnogo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.45782,
+    13.251120000000002,
+    -0.45782,
+    13.251120000000002
+],
+  "geometry": {"coordinates":[-0.45782,13.25112],"type":"Point"}
+}

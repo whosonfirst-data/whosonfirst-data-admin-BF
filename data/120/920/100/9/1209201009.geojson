@@ -1,0 +1,61 @@
+{
+  "id": 1209201009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.31667,10.41667,-3.31667,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":-3.31667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Koulouloura",
+    "gn:country_code":"BF",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358820,
+    "gn:latitude":10.41667,
+    "gn:longitude":-3.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koulouloura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358820
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0431b36b0e9d7c02a9defe9c333cdb60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209201009
+        }
+    ],
+    "wof:id":1209201009,
+    "wof:lastmodified":1536294611,
+    "wof:name":"Koulouloura",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.31667,
+    10.41667,
+    -3.31667,
+    10.41667
+],
+  "geometry": {"coordinates":[-3.31667,10.41667],"type":"Point"}
+}

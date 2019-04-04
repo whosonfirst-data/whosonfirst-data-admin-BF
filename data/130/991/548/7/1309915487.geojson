@@ -1,0 +1,72 @@
+{
+  "id": 1309915487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1984,13.1402,-4.1984,13.1402",
+    "geom:latitude":13.1402,
+    "geom:longitude":-4.1984,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Naira",
+    "gn:country_code":"BF",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357683,
+    "gn:latitude":13.1402,
+    "gn:longitude":-4.1984,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9na",
+        "Naira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357683
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6e36f86d9561c3eec73c03a73a9e7b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1309915487,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1309915487,
+    "wof:lastmodified":1537587153,
+    "wof:name":"Naira",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1984,
+    13.1402,
+    -4.1984,
+    13.1402
+],
+  "geometry": {"coordinates":[-4.1984,13.1402],"type":"Point"}
+}

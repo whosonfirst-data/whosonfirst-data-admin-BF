@@ -1,0 +1,74 @@
+{
+  "id": 1277063597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.43163,14.07427,-0.43163,14.07427",
+    "geom:latitude":14.07427,
+    "geom:longitude":-0.43163,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Oudyoumoudi",
+    "gn:country_code":"BF",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356979,
+    "gn:latitude":14.07427,
+    "gn:longitude":-0.43163,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Oudyoumoudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boulounidi",
+        "Boulougnidi",
+        "Bulugnidi",
+        "Oudyoumoudi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356979
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"dcd5f983e86bcba361c277ee2f7135f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1277063597,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1277063597,
+    "wof:lastmodified":1537587143,
+    "wof:name":"Oudyoumoudi",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.43163,
+    14.07427,
+    -0.43163,
+    14.07427
+],
+  "geometry": {"coordinates":[-0.43163,14.07427],"type":"Point"}
+}

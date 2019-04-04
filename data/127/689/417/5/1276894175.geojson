@@ -1,0 +1,72 @@
+{
+  "id": 1276894175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.26354,13.30895,-0.26354,13.30895",
+    "geom:latitude":13.30895,
+    "geom:longitude":-0.26354,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Siedougou",
+    "gn:country_code":"BF",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355669,
+    "gn:latitude":13.30895,
+    "gn:longitude":-0.26354,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Si\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Si\u00e9dougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355669,
+        "wk:page":"Si%C3%A9dougou"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a9ac53e4e6b8f604f0c30af6131357dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1276894175,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1276894175,
+    "wof:lastmodified":1537587124,
+    "wof:name":"Siedougou",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.26354,
+    13.30895,
+    -0.26354,
+    13.30895
+],
+  "geometry": {"coordinates":[-0.26354,13.30895],"type":"Point"}
+}

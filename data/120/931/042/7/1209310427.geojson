@@ -1,0 +1,62 @@
+{
+  "id": 1209310427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.25376,11.8056,-5.25376,11.8056",
+    "geom:latitude":11.8056,
+    "geom:longitude":-5.25376,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Sindorola",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355549,
+    "gn:latitude":11.8056,
+    "gn:longitude":-5.25376,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Sindorola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355549
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"3cd6dce20d7fa598755904b353082ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209310427
+        }
+    ],
+    "wof:id":1209310427,
+    "wof:lastmodified":1536291048,
+    "wof:name":"Sindorola",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.25376,
+    11.8056,
+    -5.25376,
+    11.8056
+],
+  "geometry": {"coordinates":[-5.25376,11.8056],"type":"Point"}
+}

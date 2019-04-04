@@ -1,0 +1,68 @@
+{
+  "id": 1260060341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.9666,14.0603,-0.9666,14.0603",
+    "geom:latitude":14.0603,
+    "geom:longitude":-0.9666,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Zounara",
+    "gn:country_code":"BF",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353172,
+    "gn:latitude":14.0603,
+    "gn:longitude":-0.9666,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Zounara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353172
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5963eb242b4ee3247219c3df1e51cc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1260060341,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1260060341,
+    "wof:lastmodified":1537020511,
+    "wof:name":"Zounara",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9666,
+    14.0603,
+    -0.9666,
+    14.0603
+],
+  "geometry": {"coordinates":[-0.9666,14.0603],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209504971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.98333,11.43333,-2.98333,11.43333",
+    "geom:latitude":11.43333,
+    "geom:longitude":-2.98333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Goatere",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360508,
+    "gn:latitude":11.43333,
+    "gn:longitude":-2.98333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Goat\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360508
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e6f6719a4719d4c2e153884ff318c596",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209504971
+        }
+    ],
+    "wof:id":1209504971,
+    "wof:lastmodified":1536285063,
+    "wof:name":"Goatere",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.98333,
+    11.43333,
+    -2.98333,
+    11.43333
+],
+  "geometry": {"coordinates":[-2.98333,11.43333],"type":"Point"}
+}

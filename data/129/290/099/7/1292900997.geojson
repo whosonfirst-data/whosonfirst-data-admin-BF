@@ -1,0 +1,73 @@
+{
+  "id": 1292900997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.59737,12.19276,-2.59737,12.19276",
+    "geom:latitude":12.19276,
+    "geom:longitude":-2.59737,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tenado",
+    "gn:country_code":"BF",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354692,
+    "gn:latitude":12.19276,
+    "gn:longitude":-2.59737,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Tenado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanad\u00e9",
+        "Tanada",
+        "Tenado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354692,
+        "wk:page":"T%C3%A9nado_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a433ef12f3b2050fb02bfd5644a593ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1292900997,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1292900997,
+    "wof:lastmodified":1537587108,
+    "wof:name":"Tenado",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.59737,
+    12.19276,
+    -2.59737,
+    12.19276
+],
+  "geometry": {"coordinates":[-2.59737,12.19276],"type":"Point"}
+}

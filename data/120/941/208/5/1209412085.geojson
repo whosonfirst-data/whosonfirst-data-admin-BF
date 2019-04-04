@@ -1,0 +1,62 @@
+{
+  "id": 1209412085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.34566,12.65353,1.34566,12.65353",
+    "geom:latitude":12.65353,
+    "geom:longitude":1.34566,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Kowari",
+    "gn:country_code":"BF",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358634,
+    "gn:latitude":12.65353,
+    "gn:longitude":1.34566,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Kowari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358634
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ebe6a371b4a46d4ba81eef6c64803587",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209412085
+        }
+    ],
+    "wof:id":1209412085,
+    "wof:lastmodified":1536287806,
+    "wof:name":"Kowari",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.34566,
+    12.65353,
+    1.34566,
+    12.65353
+],
+  "geometry": {"coordinates":[1.34566,12.65353],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209027779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.73333,11.96667,-1.73333,11.96667",
+    "geom:latitude":11.96667,
+    "geom:longitude":-1.73333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ladou",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358551,
+    "gn:latitude":11.96667,
+    "gn:longitude":-1.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e2dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358551
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2ffcedd7f422e5390a2553df2a9a7ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209027779
+        }
+    ],
+    "wof:id":1209027779,
+    "wof:lastmodified":1536299941,
+    "wof:name":"Ladou",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.73333,
+    11.96667,
+    -1.73333,
+    11.96667
+],
+  "geometry": {"coordinates":[-1.73333,11.96667],"type":"Point"}
+}

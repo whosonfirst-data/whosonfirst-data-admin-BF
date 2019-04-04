@@ -1,0 +1,67 @@
+{
+  "id": 1276970255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.06978,12.73375,1.06978,12.73375",
+    "geom:latitude":12.73375,
+    "geom:longitude":1.06978,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Foutouri-Yamboaro-Deni",
+    "gn:country_code":"BF",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8533902,
+    "gn:latitude":12.73375,
+    "gn:longitude":1.06978,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Foutouri-Yamboaro-D\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890435617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8533902
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a10deae43368b0166b5ccb46f3f4bbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890435617,
+            "locality_id":1276970255,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1276970255,
+    "wof:lastmodified":1536920827,
+    "wof:name":"Foutouri-Yamboaro-Deni",
+    "wof:parent_id":890435617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.06978,
+    12.73375,
+    1.06978,
+    12.73375
+],
+  "geometry": {"coordinates":[1.06978,12.73375],"type":"Point"}
+}

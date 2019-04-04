@@ -1,0 +1,67 @@
+{
+  "id": 1242676919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.66667,12.8,-0.66667,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":-0.66667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Baraptenga",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362779,
+    "gn:latitude":12.8,
+    "gn:longitude":-0.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Baraptenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362779
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"84b0ffdb12fbe44903a65770715d1576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413143,
+            "locality_id":1242676919,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1242676919,
+    "wof:lastmodified":1536921381,
+    "wof:name":"Baraptenga",
+    "wof:parent_id":890413143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.66667,
+    12.8,
+    -0.66667,
+    12.8
+],
+  "geometry": {"coordinates":[-0.66667,12.8],"type":"Point"}
+}

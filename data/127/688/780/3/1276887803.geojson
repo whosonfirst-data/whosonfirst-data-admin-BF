@@ -1,0 +1,73 @@
+{
+  "id": 1276887803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.89276,12.89934,-3.89276,12.89934",
+    "geom:latitude":12.89934,
+    "geom:longitude":-3.89276,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Konankira",
+    "gn:country_code":"BF",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359186,
+    "gn:latitude":12.89934,
+    "gn:longitude":-3.89276,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Konankira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konanko\u00efne",
+        "Konankoira",
+        "Konanko\u00efna",
+        "Konankira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359186
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"25a6abb757bff50e4de3c7d9830e2bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1276887803,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1276887803,
+    "wof:lastmodified":1537587172,
+    "wof:name":"Konankira",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.89276,
+    12.89934,
+    -3.89276,
+    12.89934
+],
+  "geometry": {"coordinates":[-3.89276,12.89934],"type":"Point"}
+}

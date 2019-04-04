@@ -1,0 +1,62 @@
+{
+  "id": 1209419179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2173,13.0704,-3.2173,13.0704",
+    "geom:latitude":13.0704,
+    "geom:longitude":-3.2173,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Moara",
+    "gn:country_code":"BF",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357947,
+    "gn:latitude":13.0704,
+    "gn:longitude":-3.2173,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Moara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357947
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5e5b884013ca36783dd94b0636d367ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209419179
+        }
+    ],
+    "wof:id":1209419179,
+    "wof:lastmodified":1536287587,
+    "wof:name":"Moara",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2173,
+    13.0704,
+    -3.2173,
+    13.0704
+],
+  "geometry": {"coordinates":[-3.2173,13.0704],"type":"Point"}
+}

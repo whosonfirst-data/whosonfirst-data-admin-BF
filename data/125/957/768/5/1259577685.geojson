@@ -1,0 +1,67 @@
+{
+  "id": 1259577685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.36667,11.4,-1.36667,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-1.36667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boale",
+    "gn:country_code":"BF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362358,
+    "gn:latitude":11.4,
+    "gn:longitude":-1.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Boal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        890413159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362358
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"85c95b1374907f63ac41fa6b67a333a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413159,
+            "locality_id":1259577685,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1259577685,
+    "wof:lastmodified":1536723579,
+    "wof:name":"Boale",
+    "wof:parent_id":890413159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.36667,
+    11.4,
+    -1.36667,
+    11.4
+],
+  "geometry": {"coordinates":[-1.36667,11.4],"type":"Point"}
+}

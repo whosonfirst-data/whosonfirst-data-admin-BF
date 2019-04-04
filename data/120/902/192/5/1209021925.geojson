@@ -1,0 +1,65 @@
+{
+  "id": 1209021925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78333,12.73333,-2.78333,12.73333",
+    "geom:latitude":12.73333,
+    "geom:longitude":-2.78333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tiema",
+    "gn:country_code":"BF",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354529,
+    "gn:latitude":12.73333,
+    "gn:longitude":-2.78333,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ti\u00e8ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e8ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354529,
+        "wk:page":"Tiema"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a6e9904589c42f9d55caab37eaa42e06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209021925
+        }
+    ],
+    "wof:id":1209021925,
+    "wof:lastmodified":1537587106,
+    "wof:name":"Tiema",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78333,
+    12.73333,
+    -2.78333,
+    12.73333
+],
+  "geometry": {"coordinates":[-2.78333,12.73333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276744301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.72551,12.81523,-1.72551,12.81523",
+    "geom:latitude":12.81523,
+    "geom:longitude":-1.72551,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"60",
+    "gn:asciiname":"Toeguin",
+    "gn:country_code":"BF",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354319,
+    "gn:latitude":12.81523,
+    "gn:longitude":-1.72551,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"To\u00e9guin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toeghen",
+        "Tou\u00e9ghen",
+        "Tw\u00e9gen",
+        "Toeghin",
+        "To\u00e9guen",
+        "To\u00e9guin",
+        "To\u00e9ghen",
+        "To\u00e9ghin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354319,
+        "wk:page":"To%C3%A9ghin"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ae09a33cfba37c79c883f0fce355b7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1276744301,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1276744301,
+    "wof:lastmodified":1537587103,
+    "wof:name":"Toeguin",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.72551,
+    12.81523,
+    -1.72551,
+    12.81523
+],
+  "geometry": {"coordinates":[-1.72551,12.81523],"type":"Point"}
+}

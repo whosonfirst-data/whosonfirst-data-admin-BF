@@ -1,0 +1,67 @@
+{
+  "id": 1277069267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2,12.16667,-2.2,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":-2.2,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Noesen",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357224,
+    "gn:latitude":12.16667,
+    "gn:longitude":-2.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"No\u00e9sen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357224
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f9234d2f4ab6db584b23c82283f9ca19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1277069267,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1277069267,
+    "wof:lastmodified":1536787520,
+    "wof:name":"Noesen",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2,
+    12.16667,
+    -2.2,
+    12.16667
+],
+  "geometry": {"coordinates":[-2.2,12.16667],"type":"Point"}
+}

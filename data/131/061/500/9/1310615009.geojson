@@ -1,0 +1,72 @@
+{
+  "id": 1310615009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.15681,12.37588,-4.15681,12.37588",
+    "geom:latitude":12.37588,
+    "geom:longitude":-4.15681,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Balave",
+    "gn:country_code":"BF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363004,
+    "gn:latitude":12.37588,
+    "gn:longitude":-4.15681,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Balav\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balay\u00e9",
+        "Balav\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890416507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363004
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"63845118b3ee1f3de40511b4575e26ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416507,
+            "locality_id":1310615009,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1310615009,
+    "wof:lastmodified":1537587221,
+    "wof:name":"Balave",
+    "wof:parent_id":890416507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.15681,
+    12.37588,
+    -4.15681,
+    12.37588
+],
+  "geometry": {"coordinates":[-4.15681,12.37588],"type":"Point"}
+}

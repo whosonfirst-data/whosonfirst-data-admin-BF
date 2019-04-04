@@ -1,0 +1,68 @@
+{
+  "id": 1293291947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.264,13.66589,-1.264,13.66589",
+    "geom:latitude":13.66589,
+    "geom:longitude":-1.264,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Perko",
+    "gn:country_code":"BF",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356587,
+    "gn:latitude":13.66589,
+    "gn:longitude":-1.264,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"P\u00e8rko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356587
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c0ba6599446a4be20042f23f754cfc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1293291947,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1293291947,
+    "wof:lastmodified":1537066029,
+    "wof:name":"Perko",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.264,
+    13.66589,
+    -1.264,
+    13.66589
+],
+  "geometry": {"coordinates":[-1.264,13.66589],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259579297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5438,13.4465,-2.5438,13.4465",
+    "geom:latitude":13.4465,
+    "geom:longitude":-2.5438,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Lehe",
+    "gn:country_code":"BF",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6785991,
+    "gn:latitude":13.4465,
+    "gn:longitude":-2.5438,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"L\u00e9h\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6785991
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e40c27512f0c2d9075311ec49a420a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1259579297,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1259579297,
+    "wof:lastmodified":1536721261,
+    "wof:name":"Lehe",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5438,
+    13.4465,
+    -2.5438,
+    13.4465
+],
+  "geometry": {"coordinates":[-2.5438,13.4465],"type":"Point"}
+}

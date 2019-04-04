@@ -1,0 +1,63 @@
+{
+  "id": 1209219375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.52911,13.21152,-1.52911,13.21152",
+    "geom:latitude":13.21152,
+    "geom:longitude":-1.52911,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Boussouma",
+    "gn:country_code":"BF",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361834,
+    "gn:latitude":13.21152,
+    "gn:longitude":-1.52911,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boussouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361834,
+        "wk:page":"Boussouma"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"deae0198838ef0c571f4c5506cdce880",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209219375
+        }
+    ],
+    "wof:id":1209219375,
+    "wof:lastmodified":1537487646,
+    "wof:name":"Boussouma",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.52911,
+    13.21152,
+    -1.52911,
+    13.21152
+],
+  "geometry": {"coordinates":[-1.52911,13.21152],"type":"Point"}
+}

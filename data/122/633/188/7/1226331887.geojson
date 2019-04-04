@@ -1,0 +1,72 @@
+{
+  "id": 1226331887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.12119,11.26263,-4.12119,11.26263",
+    "geom:latitude":11.26263,
+    "geom:longitude":-4.12119,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Kona",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359190,
+    "gn:latitude":11.26263,
+    "gn:longitude":-4.12119,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moussobadougou",
+        "Kona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359190
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bfe057a812aced0b4ab6ece6795b9828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1226331887,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1226331887,
+    "wof:lastmodified":1537587172,
+    "wof:name":"Kona",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.12119,
+    11.26263,
+    -4.12119,
+    11.26263
+],
+  "geometry": {"coordinates":[-4.12119,11.26263],"type":"Point"}
+}

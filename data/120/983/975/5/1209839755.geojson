@@ -1,0 +1,67 @@
+{
+  "id": 1209839755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.35,12.13333,-0.35,12.13333",
+    "geom:latitude":12.13333,
+    "geom:longitude":-0.35,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kouryaoguen",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358666,
+    "gn:latitude":12.13333,
+    "gn:longitude":-0.35,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kouryaoguen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890413163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358666
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"dc13e60b21bfe6b4dced9c4522b8d3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413163,
+            "locality_id":1209839755,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1209839755,
+    "wof:lastmodified":1536393253,
+    "wof:name":"Kouryaoguen",
+    "wof:parent_id":890413163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.35,
+    12.13333,
+    -0.35,
+    12.13333
+],
+  "geometry": {"coordinates":[-0.35,12.13333],"type":"Point"}
+}

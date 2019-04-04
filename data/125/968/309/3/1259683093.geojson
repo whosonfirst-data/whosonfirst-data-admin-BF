@@ -1,0 +1,68 @@
+{
+  "id": 1259683093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.5066,13.31943,-1.5066,13.31943",
+    "geom:latitude":13.31943,
+    "geom:longitude":-1.5066,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Pouni",
+    "gn:country_code":"BF",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356329,
+    "gn:latitude":13.31943,
+    "gn:longitude":-1.5066,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Pouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356329
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"44f372f112890f5714ff8ab11b8ad300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1259683093,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1259683093,
+    "wof:lastmodified":1537064732,
+    "wof:name":"Pouni",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.5066,
+    13.31943,
+    -1.5066,
+    13.31943
+],
+  "geometry": {"coordinates":[-1.5066,13.31943],"type":"Point"}
+}

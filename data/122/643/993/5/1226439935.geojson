@@ -1,0 +1,68 @@
+{
+  "id": 1226439935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.88694,12.55722,-1.88694,12.55722",
+    "geom:latitude":12.55722,
+    "geom:longitude":-1.88694,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Sigle",
+    "gn:country_code":"BF",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355649,
+    "gn:latitude":12.55722,
+    "gn:longitude":-1.88694,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Sigl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355649
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a125ae00695886e7a6ad5f37de8241bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1226439935,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1226439935,
+    "wof:lastmodified":1536653838,
+    "wof:name":"Sigle",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.88694,
+    12.55722,
+    -1.88694,
+    12.55722
+],
+  "geometry": {"coordinates":[-1.88694,12.55722],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1210012113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.83962,13.02549,0.83962,13.02549",
+    "geom:latitude":13.02549,
+    "geom:longitude":0.83962,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"56",
+    "gn:asciiname":"Batibogou",
+    "gn:country_code":"BF",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362671,
+    "gn:latitude":13.02549,
+    "gn:longitude":0.83962,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Batibogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890435617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362671
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"959fb555390efae72c2c7b3073da5ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890435617,
+            "locality_id":1210012113,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1210012113,
+    "wof:lastmodified":1536396730,
+    "wof:name":"Batibogou",
+    "wof:parent_id":890435617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.83962,
+    13.02549,
+    0.83962,
+    13.02549
+],
+  "geometry": {"coordinates":[0.83962,13.02549],"type":"Point"}
+}

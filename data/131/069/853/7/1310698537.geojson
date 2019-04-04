@@ -1,0 +1,68 @@
+{
+  "id": 1310698537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.46278,12.035,-1.46278,12.035",
+    "geom:latitude":12.035,
+    "geom:longitude":-1.46278,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Zogo",
+    "gn:country_code":"BF",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570019,
+    "gn:latitude":12.035,
+    "gn:longitude":-1.46278,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Zogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570019
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"00e192e01ebb83f59e5989345aee4317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1310698537,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1310698537,
+    "wof:lastmodified":1536637309,
+    "wof:name":"Zogo",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.46278,
+    12.035,
+    -1.46278,
+    12.035
+],
+  "geometry": {"coordinates":[-1.46278,12.035],"type":"Point"}
+}

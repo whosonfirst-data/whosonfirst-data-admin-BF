@@ -1,0 +1,68 @@
+{
+  "id": 1210022439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.51695,11.4824,-0.51695,11.4824",
+    "geom:latitude":11.4824,
+    "geom:longitude":-0.51695,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bagre",
+    "gn:country_code":"BF",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7701508,
+    "gn:latitude":11.4824,
+    "gn:longitude":-0.51695,
+    "gn:modification_date":"2015-02-13",
+    "gn:name":"Bagre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7701508,
+        "wk:page":"Bagr%C3%A9_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e11cafd610b75cd9ef82c9dae939d9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1210022439,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1210022439,
+    "wof:lastmodified":1537487657,
+    "wof:name":"Bagre",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.51695,
+    11.4824,
+    -0.51695,
+    11.4824
+],
+  "geometry": {"coordinates":[-0.51695,11.4824],"type":"Point"}
+}

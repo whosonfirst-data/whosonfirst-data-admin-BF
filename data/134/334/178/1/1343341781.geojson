@@ -1,0 +1,68 @@
+{
+  "id": 1343341781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.29583,13.66458,-0.29583,13.66458",
+    "geom:latitude":13.66458,
+    "geom:longitude":-0.29583,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Ouro Sambo",
+    "gn:country_code":"BF",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356806,
+    "gn:latitude":13.66458,
+    "gn:longitude":-0.29583,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Ouro Sambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356806
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"67e7c12b612f1a8ef71d853da96aa654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1343341781,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1343341781,
+    "wof:lastmodified":1536918166,
+    "wof:name":"Ouro Sambo",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.29583,
+    13.66458,
+    -0.29583,
+    13.66458
+],
+  "geometry": {"coordinates":[-0.29583,13.66458],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276975865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73333,11.6,-3.73333,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-3.73333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bokui-Ouest",
+    "gn:country_code":"BF",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362276,
+    "gn:latitude":11.6,
+    "gn:longitude":-3.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bokui-Ouest",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890422527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362276
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7019afde361b7a75b2ad78e5226337cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422527,
+            "locality_id":1276975865,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1276975865,
+    "wof:lastmodified":1536913010,
+    "wof:name":"Bokui-Ouest",
+    "wof:parent_id":890422527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73333,
+    11.6,
+    -3.73333,
+    11.6
+],
+  "geometry": {"coordinates":[-3.73333,11.6],"type":"Point"}
+}

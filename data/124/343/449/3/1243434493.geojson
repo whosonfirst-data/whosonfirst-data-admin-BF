@@ -1,0 +1,68 @@
+{
+  "id": 1243434493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.68494,13.94971,-1.68494,13.94971",
+    "geom:latitude":13.94971,
+    "geom:longitude":-1.68494,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Oure-Foulbes",
+    "gn:country_code":"BF",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356870,
+    "gn:latitude":13.94971,
+    "gn:longitude":-1.68494,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Our\u00e9-Foulb\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356870
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c5273d1dbe6a5bb3aab6b035df6123cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1243434493,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1243434493,
+    "wof:lastmodified":1536821884,
+    "wof:name":"Oure-Foulbes",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.68494,
+    13.94971,
+    -1.68494,
+    13.94971
+],
+  "geometry": {"coordinates":[-1.68494,13.94971],"type":"Point"}
+}

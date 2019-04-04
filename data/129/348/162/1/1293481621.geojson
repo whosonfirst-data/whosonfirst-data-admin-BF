@@ -1,0 +1,72 @@
+{
+  "id": 1293481621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.38333,11.76667,-1.38333,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":-1.38333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Zangogo",
+    "gn:country_code":"BF",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353377,
+    "gn:latitude":11.76667,
+    "gn:longitude":-1.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zangogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zangongho",
+        "Zangogho",
+        "Zangogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353377
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2a7639cfaf75364825d76e8414243801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1293481621,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1293481621,
+    "wof:lastmodified":1537587091,
+    "wof:name":"Zangogo",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.38333,
+    11.76667,
+    -1.38333,
+    11.76667
+],
+  "geometry": {"coordinates":[-1.38333,11.76667],"type":"Point"}
+}

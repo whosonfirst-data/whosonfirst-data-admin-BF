@@ -1,0 +1,68 @@
+{
+  "id": 1226539375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.71978,13.08552,-1.71978,13.08552",
+    "geom:latitude":13.08552,
+    "geom:longitude":-1.71978,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Kietego",
+    "gn:country_code":"BF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359515,
+    "gn:latitude":13.08552,
+    "gn:longitude":-1.71978,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Ki\u00e9t\u00e9go",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359515
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"24f9b41403ca1c95b979579fd86c4479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1226539375,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1226539375,
+    "wof:lastmodified":1537006516,
+    "wof:name":"Kietego",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.71978,
+    13.08552,
+    -1.71978,
+    13.08552
+],
+  "geometry": {"coordinates":[-1.71978,13.08552],"type":"Point"}
+}

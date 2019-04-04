@@ -1,0 +1,72 @@
+{
+  "id": 1259367295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.02296,11.45913,-5.02296,11.45913",
+    "geom:latitude":11.45913,
+    "geom:longitude":-5.02296,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Karma",
+    "gn:country_code":"BF",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359661,
+    "gn:latitude":11.45913,
+    "gn:longitude":-5.02296,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Karma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karna",
+        "Karma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359661
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7f22b05c5e44446e8f26c81fb457924b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1259367295,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1259367295,
+    "wof:lastmodified":1537587179,
+    "wof:name":"Karma",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.02296,
+    11.45913,
+    -5.02296,
+    11.45913
+],
+  "geometry": {"coordinates":[-5.02296,11.45913],"type":"Point"}
+}

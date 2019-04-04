@@ -1,0 +1,62 @@
+{
+  "id": 1209599903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.72467,11.49127,-4.72467,11.49127",
+    "geom:latitude":11.49127,
+    "geom:longitude":-4.72467,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Kokoro",
+    "gn:country_code":"BF",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359310,
+    "gn:latitude":11.49127,
+    "gn:longitude":-4.72467,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kokoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359310
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1e74e22361ee8100a9613910037a50c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209599903
+        }
+    ],
+    "wof:id":1209599903,
+    "wof:lastmodified":1536282202,
+    "wof:name":"Kokoro",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.72467,
+    11.49127,
+    -4.72467,
+    11.49127
+],
+  "geometry": {"coordinates":[-4.72467,11.49127],"type":"Point"}
+}

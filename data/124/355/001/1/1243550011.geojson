@@ -1,0 +1,68 @@
+{
+  "id": 1243550011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.70547,12.3999,1.70547,12.3999",
+    "geom:latitude":12.3999,
+    "geom:longitude":1.70547,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Koyati",
+    "gn:country_code":"BF",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358628,
+    "gn:latitude":12.3999,
+    "gn:longitude":1.70547,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Koyati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358628
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a6993ad61a402fabcc01975a3f2971dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1243550011,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1243550011,
+    "wof:lastmodified":1536656416,
+    "wof:name":"Koyati",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.70547,
+    12.3999,
+    1.70547,
+    12.3999
+],
+  "geometry": {"coordinates":[1.70547,12.3999],"type":"Point"}
+}

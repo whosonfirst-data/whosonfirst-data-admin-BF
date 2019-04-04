@@ -1,0 +1,68 @@
+{
+  "id": 1243441361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.79597,14.3231,-0.79597,14.3231",
+    "geom:latitude":14.3231,
+    "geom:longitude":-0.79597,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Boultaka",
+    "gn:country_code":"BF",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361940,
+    "gn:latitude":14.3231,
+    "gn:longitude":-0.79597,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Boultaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361940
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2e3ae9857778f076f3ce00eea5979076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1243441361,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1243441361,
+    "wof:lastmodified":1536812285,
+    "wof:name":"Boultaka",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.79597,
+    14.3231,
+    -0.79597,
+    14.3231
+],
+  "geometry": {"coordinates":[-0.79597,14.3231],"type":"Point"}
+}

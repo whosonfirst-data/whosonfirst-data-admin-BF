@@ -1,0 +1,67 @@
+{
+  "id": 1242581741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.55,12.8,-3.55,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":-3.55,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dangoumana",
+    "gn:country_code":"BF",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361610,
+    "gn:latitude":12.8,
+    "gn:longitude":-3.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dangoumana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361610
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a407862faa5dc3f770becf4b25e94e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1242581741,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1242581741,
+    "wof:lastmodified":1537055251,
+    "wof:name":"Dangoumana",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.55,
+    12.8,
+    -3.55,
+    12.8
+],
+  "geometry": {"coordinates":[-3.55,12.8],"type":"Point"}
+}

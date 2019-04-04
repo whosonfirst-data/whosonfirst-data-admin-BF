@@ -1,0 +1,68 @@
+{
+  "id": 1310192201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.55519,14.31421,-0.55519,14.31421",
+    "geom:latitude":14.31421,
+    "geom:longitude":-0.55519,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Tiafolboy",
+    "gn:country_code":"BF",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354622,
+    "gn:latitude":14.31421,
+    "gn:longitude":-0.55519,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Tiafolboy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354622
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c949eff6447bf0651426f14e8c74909d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413153,
+            "locality_id":1310192201,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1310192201,
+    "wof:lastmodified":1536870376,
+    "wof:name":"Tiafolboy",
+    "wof:parent_id":890413153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.55519,
+    14.31421,
+    -0.55519,
+    14.31421
+],
+  "geometry": {"coordinates":[-0.55519,14.31421],"type":"Point"}
+}

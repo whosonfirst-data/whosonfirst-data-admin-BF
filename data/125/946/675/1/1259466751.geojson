@@ -1,0 +1,72 @@
+{
+  "id": 1259466751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.1945,13.49724,-2.1945,13.49724",
+    "geom:latitude":13.49724,
+    "geom:longitude":-2.1945,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Dombare",
+    "gn:country_code":"BF",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361126,
+    "gn:latitude":13.49724,
+    "gn:longitude":-2.1945,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dombar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dommbar\u00e9",
+        "Dombar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361126
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"12903dbe9ce771b6c6e53fc8fc53f7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1259466751,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1259466751,
+    "wof:lastmodified":1537587197,
+    "wof:name":"Dombare",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.1945,
+    13.49724,
+    -2.1945,
+    13.49724
+],
+  "geometry": {"coordinates":[-2.1945,13.49724],"type":"Point"}
+}

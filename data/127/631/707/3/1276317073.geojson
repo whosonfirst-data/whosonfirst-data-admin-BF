@@ -1,0 +1,72 @@
+{
+  "id": 1276317073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.45724,12.90066,-2.45724,12.90066",
+    "geom:latitude":12.90066,
+    "geom:longitude":-2.45724,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Toden",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358440,
+    "gn:latitude":12.90066,
+    "gn:longitude":-2.45724,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"La Toden",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La",
+        "La Toden",
+        "La Todin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358440
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d127429106521e02e20dd422e27836b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1276317073,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1276317073,
+    "wof:lastmodified":1537587163,
+    "wof:name":"La Toden",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.45724,
+    12.90066,
+    -2.45724,
+    12.90066
+],
+  "geometry": {"coordinates":[-2.45724,12.90066],"type":"Point"}
+}

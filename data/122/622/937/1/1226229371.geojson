@@ -1,0 +1,68 @@
+{
+  "id": 1226229371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.1894,13.94755,0.1894,13.94755",
+    "geom:latitude":13.94755,
+    "geom:longitude":0.1894,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Gotogou",
+    "gn:country_code":"BF",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360349,
+    "gn:latitude":13.94755,
+    "gn:longitude":0.1894,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gotogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360349
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"963444895ec5f2cbb0aa8bd4a452b7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1226229371,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1226229371,
+    "wof:lastmodified":1536957275,
+    "wof:name":"Gotogou",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.1894,
+    13.94755,
+    0.1894,
+    13.94755
+],
+  "geometry": {"coordinates":[0.1894,13.94755],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226428151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.19908,13.0803,0.19908,13.0803",
+    "geom:latitude":13.0803,
+    "geom:longitude":0.19908,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Kourdyana",
+    "gn:country_code":"BF",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358719,
+    "gn:latitude":13.0803,
+    "gn:longitude":0.19908,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kourdyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358719
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e8583ef48c053315843e061f57255130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1226428151,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1226428151,
+    "wof:lastmodified":1536670824,
+    "wof:name":"Kourdyana",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.19908,
+    13.0803,
+    0.19908,
+    13.0803
+],
+  "geometry": {"coordinates":[0.19908,13.0803],"type":"Point"}
+}

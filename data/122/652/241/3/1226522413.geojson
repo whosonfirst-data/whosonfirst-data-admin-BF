@@ -1,0 +1,68 @@
+{
+  "id": 1226522413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.71186,13.32055,0.71186,13.32055",
+    "geom:latitude":13.32055,
+    "geom:longitude":0.71186,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Bandiosi",
+    "gn:country_code":"BF",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362916,
+    "gn:latitude":13.32055,
+    "gn:longitude":0.71186,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bandiosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362916
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f8170fb223aeedc554fda939569c6756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1226522413,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1226522413,
+    "wof:lastmodified":1537030419,
+    "wof:name":"Bandiosi",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.71186,
+    13.32055,
+    0.71186,
+    13.32055
+],
+  "geometry": {"coordinates":[0.71186,13.32055],"type":"Point"}
+}

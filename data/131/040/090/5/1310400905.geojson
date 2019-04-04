@@ -1,0 +1,67 @@
+{
+  "id": 1310400905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81667,12.93333,-1.81667,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":-1.81667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kouri",
+    "gn:country_code":"BF",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358708,
+    "gn:latitude":12.93333,
+    "gn:longitude":-1.81667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358708
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"64f702fef561ed4ba7d027f4acec7e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1310400905,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1310400905,
+    "wof:lastmodified":1537065029,
+    "wof:name":"Kouri",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81667,
+    12.93333,
+    -1.81667,
+    12.93333
+],
+  "geometry": {"coordinates":[-1.81667,12.93333],"type":"Point"}
+}

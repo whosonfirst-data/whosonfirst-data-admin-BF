@@ -1,0 +1,68 @@
+{
+  "id": 1243167499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3327,13.1202,0.3327,13.1202",
+    "geom:latitude":13.1202,
+    "geom:longitude":0.3327,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Batyemina",
+    "gn:country_code":"BF",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362659,
+    "gn:latitude":13.1202,
+    "gn:longitude":0.3327,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Baty\u00e8mina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362659
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"859d10b0d9c1193f5c0debd0800d1f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1243167499,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1243167499,
+    "wof:lastmodified":1536711075,
+    "wof:name":"Batyemina",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3327,
+    13.1202,
+    0.3327,
+    13.1202
+],
+  "geometry": {"coordinates":[0.3327,13.1202],"type":"Point"}
+}

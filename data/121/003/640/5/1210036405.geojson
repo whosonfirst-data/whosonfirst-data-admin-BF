@@ -1,0 +1,68 @@
+{
+  "id": 1210036405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.6589,12.5318,1.6589,12.5318",
+    "geom:latitude":12.5318,
+    "geom:longitude":1.6589,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Natergou",
+    "gn:country_code":"BF",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357488,
+    "gn:latitude":12.5318,
+    "gn:longitude":1.6589,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Nat\u00e8rgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357488
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fbfadf6d1942fe42c30572ef92a4b7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1210036405,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1210036405,
+    "wof:lastmodified":1536386300,
+    "wof:name":"Natergou",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.6589,
+    12.5318,
+    1.6589,
+    12.5318
+],
+  "geometry": {"coordinates":[1.6589,12.5318],"type":"Point"}
+}

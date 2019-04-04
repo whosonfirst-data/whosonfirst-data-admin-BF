@@ -1,0 +1,72 @@
+{
+  "id": 1309886915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.16806,12.52794,-1.16806,12.52794",
+    "geom:latitude":12.52794,
+    "geom:longitude":-1.16806,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"68",
+    "gn:asciiname":"Togom Bangre",
+    "gn:country_code":"BF",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354296,
+    "gn:latitude":12.52794,
+    "gn:longitude":-1.16806,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Togom Bangr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Togombangr\u00e9",
+        "Togom Bangr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890413157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354296
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c6060d0af55097786f732df32a74e04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":1309886915,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1309886915,
+    "wof:lastmodified":1537587103,
+    "wof:name":"Togom Bangre",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.16806,
+    12.52794,
+    -1.16806,
+    12.52794
+],
+  "geometry": {"coordinates":[-1.16806,12.52794],"type":"Point"}
+}

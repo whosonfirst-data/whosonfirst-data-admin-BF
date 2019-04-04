@@ -1,0 +1,72 @@
+{
+  "id": 1277056425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.28498,14.3615,-0.28498,14.3615",
+    "geom:latitude":14.3615,
+    "geom:longitude":-0.28498,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Menegou",
+    "gn:country_code":"BF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357996,
+    "gn:latitude":14.3615,
+    "gn:longitude":-0.28498,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"M\u00e9n\u00e9gou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menegu",
+        "M\u00e9n\u00e9gou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357996
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0969aa8dd2de8395defaadfd37036cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413153,
+            "locality_id":1277056425,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1277056425,
+    "wof:lastmodified":1537587157,
+    "wof:name":"Menegou",
+    "wof:parent_id":890413153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.28498,
+    14.3615,
+    -0.28498,
+    14.3615
+],
+  "geometry": {"coordinates":[-0.28498,14.3615],"type":"Point"}
+}

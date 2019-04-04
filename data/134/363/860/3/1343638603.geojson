@@ -1,0 +1,72 @@
+{
+  "id": 1343638603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.20508,14.03008,0.20508,14.03008",
+    "geom:latitude":14.03008,
+    "geom:longitude":0.20508,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Tyekol Ndiaki",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354541,
+    "gn:latitude":14.03008,
+    "gn:longitude":0.20508,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ty\u00e9kol Ndiaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9k\u00e9l Ndiaki",
+        "Ty\u00e9kol Ndiaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354541
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"add922348cfaca3ebb2b51ec01308740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1343638603,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1343638603,
+    "wof:lastmodified":1537587106,
+    "wof:name":"Tyekol Ndiaki",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.20508,
+    14.03008,
+    0.20508,
+    14.03008
+],
+  "geometry": {"coordinates":[0.20508,14.03008],"type":"Point"}
+}

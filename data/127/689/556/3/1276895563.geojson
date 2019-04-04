@@ -1,0 +1,69 @@
+{
+  "id": 1276895563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.8575,12.09722,-1.8575,12.09722",
+    "geom:latitude":12.09722,
+    "geom:longitude":-1.8575,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Koukoulou",
+    "gn:country_code":"BF",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358885,
+    "gn:latitude":12.09722,
+    "gn:longitude":-1.8575,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koukoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358885,
+        "wk:page":"Koukoulou"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5128cea406ff39fb8a003e2a629c4238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1276895563,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1276895563,
+    "wof:lastmodified":1537487626,
+    "wof:name":"Koukoulou",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.8575,
+    12.09722,
+    -1.8575,
+    12.09722
+],
+  "geometry": {"coordinates":[-1.8575,12.09722],"type":"Point"}
+}

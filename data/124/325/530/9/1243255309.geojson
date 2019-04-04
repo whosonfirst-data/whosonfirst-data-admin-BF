@@ -1,0 +1,68 @@
+{
+  "id": 1243255309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.44111,12.00139,-1.44111,12.00139",
+    "geom:latitude":12.00139,
+    "geom:longitude":-1.44111,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Kalkiende",
+    "gn:country_code":"BF",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570025,
+    "gn:latitude":12.00139,
+    "gn:longitude":-1.44111,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kalkiend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570025
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c80e0a7dbd50162708536dcdc83d479f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1243255309,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1243255309,
+    "wof:lastmodified":1537077959,
+    "wof:name":"Kalkiende",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.44111,
+    12.00139,
+    -1.44111,
+    12.00139
+],
+  "geometry": {"coordinates":[-1.44111,12.00139],"type":"Point"}
+}

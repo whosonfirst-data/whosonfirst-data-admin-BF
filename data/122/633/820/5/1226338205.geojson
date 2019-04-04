@@ -1,0 +1,71 @@
+{
+  "id": 1226338205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.58333,11.7,-3.58333,11.7",
+    "geom:latitude":11.7,
+    "geom:longitude":-3.58333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bihoun",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362505,
+    "gn:latitude":11.7,
+    "gn:longitude":-3.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bihoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biboum",
+        "Bihoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890422527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362505
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ad27bdd0cb1e3204b0affdfba98b6a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422527,
+            "locality_id":1226338205,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1226338205,
+    "wof:lastmodified":1537587214,
+    "wof:name":"Bihoun",
+    "wof:parent_id":890422527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.58333,
+    11.7,
+    -3.58333,
+    11.7
+],
+  "geometry": {"coordinates":[-3.58333,11.7],"type":"Point"}
+}

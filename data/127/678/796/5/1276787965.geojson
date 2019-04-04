@@ -1,0 +1,68 @@
+{
+  "id": 1276787965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.595,12.09833,-1.595,12.09833",
+    "geom:latitude":12.09833,
+    "geom:longitude":-1.595,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Ouatenga",
+    "gn:country_code":"BF",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357007,
+    "gn:latitude":12.09833,
+    "gn:longitude":-1.595,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Ouatenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357007
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"aaafdd3d5c745d2b3a3cfc67c629d757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1276787965,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1276787965,
+    "wof:lastmodified":1536666869,
+    "wof:name":"Ouatenga",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.595,
+    12.09833,
+    -1.595,
+    12.09833
+],
+  "geometry": {"coordinates":[-1.595,12.09833],"type":"Point"}
+}

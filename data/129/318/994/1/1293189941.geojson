@@ -1,0 +1,72 @@
+{
+  "id": 1293189941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.00384,13.16118,-2.00384,13.16118",
+    "geom:latitude":13.16118,
+    "geom:longitude":-2.00384,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Ouavousse",
+    "gn:country_code":"BF",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353817,
+    "gn:latitude":13.16118,
+    "gn:longitude":-2.00384,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouavouss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wavouze",
+        "Ouavouss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353817
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ec873d773b752360b3cf51bcd71cac24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1293189941,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1293189941,
+    "wof:lastmodified":1537587097,
+    "wof:name":"Ouavousse",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.00384,
+    13.16118,
+    -2.00384,
+    13.16118
+],
+  "geometry": {"coordinates":[-2.00384,13.16118],"type":"Point"}
+}

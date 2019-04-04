@@ -1,0 +1,68 @@
+{
+  "id": 1343854055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.1875,11.159,-5.1875,11.159",
+    "geom:latitude":11.159,
+    "geom:longitude":-5.1875,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Saredougou",
+    "gn:country_code":"BF",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355847,
+    "gn:latitude":11.159,
+    "gn:longitude":-5.1875,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Sar\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355847
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"79761a6b12bb6ef653528e84d3f13e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1343854055,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1343854055,
+    "wof:lastmodified":1536675877,
+    "wof:name":"Saredougou",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.1875,
+    11.159,
+    -5.1875,
+    11.159
+],
+  "geometry": {"coordinates":[-5.1875,11.159],"type":"Point"}
+}

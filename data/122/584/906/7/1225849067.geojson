@@ -1,0 +1,68 @@
+{
+  "id": 1225849067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3726,13.0495,-3.3726,13.0495",
+    "geom:latitude":13.0495,
+    "geom:longitude":-3.3726,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Kourani",
+    "gn:country_code":"BF",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358723,
+    "gn:latitude":13.0495,
+    "gn:longitude":-3.3726,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kourani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358723
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fa0e26f8e60584a0c932f87aafc8498b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1225849067,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1225849067,
+    "wof:lastmodified":1537008128,
+    "wof:name":"Kourani",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3726,
+    13.0495,
+    -3.3726,
+    13.0495
+],
+  "geometry": {"coordinates":[-3.3726,13.0495],"type":"Point"}
+}

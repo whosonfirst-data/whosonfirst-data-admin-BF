@@ -1,0 +1,68 @@
+{
+  "id": 1259660801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3839,13.48065,0.3839,13.48065",
+    "geom:latitude":13.48065,
+    "geom:longitude":0.3839,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Tyouti",
+    "gn:country_code":"BF",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353979,
+    "gn:latitude":13.48065,
+    "gn:longitude":0.3839,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tyouti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353979
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ab81dca0b081ea07ba5d59171f85b441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1259660801,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1259660801,
+    "wof:lastmodified":1537096445,
+    "wof:name":"Tyouti",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3839,
+    13.48065,
+    0.3839,
+    13.48065
+],
+  "geometry": {"coordinates":[0.3839,13.48065],"type":"Point"}
+}

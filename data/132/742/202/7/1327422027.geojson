@@ -1,0 +1,67 @@
+{
+  "id": 1327422027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.61667,12.2,-0.61667,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":-0.61667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bagbili",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363068,
+    "gn:latitude":12.2,
+    "gn:longitude":-0.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bagbili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890428979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363068
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f9d6587122d03c5140192c0ab0f12573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428979,
+            "locality_id":1327422027,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1327422027,
+    "wof:lastmodified":1536696004,
+    "wof:name":"Bagbili",
+    "wof:parent_id":890428979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.61667,
+    12.2,
+    -0.61667,
+    12.2
+],
+  "geometry": {"coordinates":[-0.61667,12.2],"type":"Point"}
+}

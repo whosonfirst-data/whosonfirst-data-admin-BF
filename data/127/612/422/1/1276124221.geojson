@@ -1,0 +1,73 @@
+{
+  "id": 1276124221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.30611,11.25806,-0.30611,11.25806",
+    "geom:latitude":11.25806,
+    "geom:longitude":-0.30611,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"49",
+    "gn:asciiname":"Bittou",
+    "gn:country_code":"BF",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362376,
+    "gn:latitude":11.25806,
+    "gn:longitude":-0.30611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bittou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bitou",
+        "Bittu",
+        "Bittou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362376
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f248c5d8ee80e7b16dfdb7f07a55357a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1276124221,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1276124221,
+    "wof:lastmodified":1537587212,
+    "wof:name":"Bittou",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.30611,
+    11.25806,
+    -0.30611,
+    11.25806
+],
+  "geometry": {"coordinates":[-0.30611,11.25806],"type":"Point"}
+}

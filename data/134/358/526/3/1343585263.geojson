@@ -1,0 +1,72 @@
+{
+  "id": 1343585263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.34833,11.59278,-0.34833,11.59278",
+    "geom:latitude":11.59278,
+    "geom:longitude":-0.34833,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"49",
+    "gn:asciiname":"Bane",
+    "gn:country_code":"BF",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362912,
+    "gn:latitude":11.59278,
+    "gn:longitude":-0.34833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ban\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362912,
+        "wk:page":"Ban%C3%A9_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5440c1b0e981b4655950f0da91978b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1343585263,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1343585263,
+    "wof:lastmodified":1537587220,
+    "wof:name":"Bane",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.34833,
+    11.59278,
+    -0.34833,
+    11.59278
+],
+  "geometry": {"coordinates":[-0.34833,11.59278],"type":"Point"}
+}

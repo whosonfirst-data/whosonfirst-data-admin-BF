@@ -1,0 +1,68 @@
+{
+  "id": 1209024485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.24067,13.4777,-2.24067,13.4777",
+    "geom:latitude":13.4777,
+    "geom:longitude":-2.24067,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Robena",
+    "gn:country_code":"BF",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356208,
+    "gn:latitude":13.4777,
+    "gn:longitude":-2.24067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rob\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobegnana",
+        "Dob\u00e9gn\u00e9ma",
+        "Rob\u00e8\u00e8na",
+        "Rob\u00e9na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356208
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0b22c958ad342fb6f3830b408dce54c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209024485
+        }
+    ],
+    "wof:id":1209024485,
+    "wof:lastmodified":1537587132,
+    "wof:name":"Robena",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.24067,
+    13.4777,
+    -2.24067,
+    13.4777
+],
+  "geometry": {"coordinates":[-2.24067,13.4777],"type":"Point"}
+}

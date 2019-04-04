@@ -1,0 +1,67 @@
+{
+  "id": 1277156571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.46667,9.93333,-3.46667,9.93333",
+    "geom:latitude":9.93333,
+    "geom:longitude":-3.46667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Koursiera",
+    "gn:country_code":"BF",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358672,
+    "gn:latitude":9.93333,
+    "gn:longitude":-3.46667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koursi\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358672
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"080b8f4603cd392b7874c394518bf6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1277156571,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1277156571,
+    "wof:lastmodified":1536661332,
+    "wof:name":"Koursiera",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.46667,
+    9.93333,
+    -3.46667,
+    9.93333
+],
+  "geometry": {"coordinates":[-3.46667,9.93333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243440619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.15,9.85,-3.15,9.85",
+    "geom:latitude":9.85,
+    "geom:longitude":-3.15,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Setado",
+    "gn:country_code":"BF",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355710,
+    "gn:latitude":9.85,
+    "gn:longitude":-3.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"S\u00e9tado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355710
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e016a0e0a1c1e579be731fb0ac75e2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1243440619,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1243440619,
+    "wof:lastmodified":1536813295,
+    "wof:name":"Setado",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.15,
+    9.85,
+    -3.15,
+    9.85
+],
+  "geometry": {"coordinates":[-3.15,9.85],"type":"Point"}
+}

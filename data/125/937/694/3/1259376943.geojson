@@ -1,0 +1,68 @@
+{
+  "id": 1259376943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.59479,13.09933,-2.59479,13.09933",
+    "geom:latitude":13.09933,
+    "geom:longitude":-2.59479,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Bangasse",
+    "gn:country_code":"BF",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362897,
+    "gn:latitude":13.09933,
+    "gn:longitude":-2.59479,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bangass\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890422535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362897
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0111a02987871bd13d316a6afea2fbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422535,
+            "locality_id":1259376943,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1259376943,
+    "wof:lastmodified":1537010982,
+    "wof:name":"Bangasse",
+    "wof:parent_id":890422535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.59479,
+    13.09933,
+    -2.59479,
+    13.09933
+],
+  "geometry": {"coordinates":[-2.59479,13.09933],"type":"Point"}
+}

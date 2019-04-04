@@ -1,0 +1,73 @@
+{
+  "id": 421184643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-2.321548,12.163527,-2.321548,12.163527",
+    "geom:latitude":12.163527,
+    "geom:longitude":-2.321548,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Koudougou",
+    "qs:name_adm0":"Burkina Faso",
+    "qs:name_adm1":"Boulkiemde",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1002751,
+    "qs:woe_adm0":23424978,
+    "qs:woe_id":55967391,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        85668873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55967391,
+        "qs:id":1002751
+    },
+    "wof:country":"BF",
+    "wof:created":1459009417,
+    "wof:geomhash":"65cca3c150c18e3c1d55687a3d004b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421184643,
+            "region_id":85668873
+        }
+    ],
+    "wof:id":421184643,
+    "wof:lastmodified":1474491951,
+    "wof:name":"Koudougou",
+    "wof:parent_id":85668873,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.321548,
+    12.163527,
+    -2.321548,
+    12.163527
+],
+  "geometry": {"coordinates":[-2.321548,12.163527],"type":"Point"}
+}

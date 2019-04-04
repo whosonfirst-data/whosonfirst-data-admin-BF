@@ -1,0 +1,62 @@
+{
+  "id": 1209206455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23333,11.86667,-1.23333,11.86667",
+    "geom:latitude":11.86667,
+    "geom:longitude":-1.23333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Binsboumbou",
+    "gn:country_code":"BF",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362441,
+    "gn:latitude":11.86667,
+    "gn:longitude":-1.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Binsboumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362441,
+        "wk:page":"Binsboumbou"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2d0bb45caa39bb868f5a66bb43ec64ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209206455
+        }
+    ],
+    "wof:id":1209206455,
+    "wof:lastmodified":1537487650,
+    "wof:name":"Binsboumbou",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23333,
+    11.86667,
+    -1.23333,
+    11.86667
+],
+  "geometry": {"coordinates":[-1.23333,11.86667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360169137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.96788,11.90347,-4.96788,11.90347",
+    "geom:latitude":11.90347,
+    "geom:longitude":-4.96788,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Zinguina",
+    "gn:country_code":"BF",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353258,
+    "gn:latitude":11.90347,
+    "gn:longitude":-4.96788,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Zinguina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353258
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d2f538c131592d4769b12b528e8643f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1360169137,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1360169137,
+    "wof:lastmodified":1536823533,
+    "wof:name":"Zinguina",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.96788,
+    11.90347,
+    -4.96788,
+    11.90347
+],
+  "geometry": {"coordinates":[-4.96788,11.90347],"type":"Point"}
+}

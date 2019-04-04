@@ -1,0 +1,62 @@
+{
+  "id": 1209502073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.75843,14.2443,-0.75843,14.2443",
+    "geom:latitude":14.2443,
+    "geom:longitude":-0.75843,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Oro Mango",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357061,
+    "gn:latitude":14.2443,
+    "gn:longitude":-0.75843,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Oro Mango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357061
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a6963f1f5d8d333800b48d480d60b45a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209502073
+        }
+    ],
+    "wof:id":1209502073,
+    "wof:lastmodified":1536285150,
+    "wof:name":"Oro Mango",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.75843,
+    14.2443,
+    -0.75843,
+    14.2443
+],
+  "geometry": {"coordinates":[-0.75843,14.2443],"type":"Point"}
+}

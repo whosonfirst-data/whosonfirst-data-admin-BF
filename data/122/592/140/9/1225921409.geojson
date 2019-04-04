@@ -1,0 +1,68 @@
+{
+  "id": 1225921409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23731,13.92644,-1.23731,13.92644",
+    "geom:latitude":13.92644,
+    "geom:longitude":-1.23731,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Namasiri",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357626,
+    "gn:latitude":13.92644,
+    "gn:longitude":-1.23731,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Namasiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357626
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e16107eac4481e5703185500b0e24758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1225921409,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1225921409,
+    "wof:lastmodified":1536904831,
+    "wof:name":"Namasiri",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23731,
+    13.92644,
+    -1.23731,
+    13.92644
+],
+  "geometry": {"coordinates":[-1.23731,13.92644],"type":"Point"}
+}

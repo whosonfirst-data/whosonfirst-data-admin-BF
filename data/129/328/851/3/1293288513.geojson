@@ -1,0 +1,68 @@
+{
+  "id": 1293288513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.03247,13.08971,-2.03247,13.08971",
+    "geom:latitude":13.08971,
+    "geom:longitude":-2.03247,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Somtingre",
+    "gn:country_code":"BF",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355371,
+    "gn:latitude":13.08971,
+    "gn:longitude":-2.03247,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Somtingr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355371
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5d520b819aac05596481d9a2bca106f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1293288513,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1293288513,
+    "wof:lastmodified":1537070811,
+    "wof:name":"Somtingre",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.03247,
+    13.08971,
+    -2.03247,
+    13.08971
+],
+  "geometry": {"coordinates":[-2.03247,13.08971],"type":"Point"}
+}

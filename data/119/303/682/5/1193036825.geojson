@@ -1,0 +1,72 @@
+{
+  "id": 1193036825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.0148,11.75309,-5.0148,11.75309",
+    "geom:latitude":11.75309,
+    "geom:longitude":-5.0148,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Zanfara",
+    "gn:country_code":"BF",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353385,
+    "gn:latitude":11.75309,
+    "gn:longitude":-5.0148,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Zanfara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zanfana",
+        "Zanfara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353385
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"136e3f0a4ea6c0f5c5802e0ba34d1528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1193036825,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1193036825,
+    "wof:lastmodified":1537587091,
+    "wof:name":"Zanfara",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.0148,
+    11.75309,
+    -5.0148,
+    11.75309
+],
+  "geometry": {"coordinates":[-5.0148,11.75309],"type":"Point"}
+}

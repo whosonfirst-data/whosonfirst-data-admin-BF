@@ -1,0 +1,73 @@
+{
+  "id": 1226134245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.475,12.10833,-1.475,12.10833",
+    "geom:latitude":12.10833,
+    "geom:longitude":-1.475,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Bonkore",
+    "gn:country_code":"BF",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362198,
+    "gn:latitude":12.10833,
+    "gn:longitude":-1.475,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bonkor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bankor\u00e9",
+        "Bonkor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362198,
+        "wk:page":"Bonkor%C3%A9"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7e066d35f87b5fd33be2de73a3ee43c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1226134245,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1226134245,
+    "wof:lastmodified":1537587211,
+    "wof:name":"Bonkore",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.475,
+    12.10833,
+    -1.475,
+    12.10833
+],
+  "geometry": {"coordinates":[-1.475,12.10833],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310715665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.33785,11.89822,-4.33785,11.89822",
+    "geom:latitude":11.89822,
+    "geom:longitude":-4.33785,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Kouka",
+    "gn:country_code":"BF",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358899,
+    "gn:latitude":11.89822,
+    "gn:longitude":-4.33785,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuko",
+        "Kouba",
+        "Kouko",
+        "Kouka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890416507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358899
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0884b784dc7cebbafeccd3a4a07f90ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416507,
+            "locality_id":1310715665,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1310715665,
+    "wof:lastmodified":1537587169,
+    "wof:name":"Kouka",
+    "wof:parent_id":890416507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.33785,
+    11.89822,
+    -4.33785,
+    11.89822
+],
+  "geometry": {"coordinates":[-4.33785,11.89822],"type":"Point"}
+}

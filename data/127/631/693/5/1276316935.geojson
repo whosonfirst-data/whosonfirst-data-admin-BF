@@ -1,0 +1,73 @@
+{
+  "id": 1276316935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.1763,13.02135,-2.1763,13.02135",
+    "geom:latitude":13.02135,
+    "geom:longitude":-2.1763,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Gomponsom",
+    "gn:country_code":"BF",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360441,
+    "gn:latitude":13.02135,
+    "gn:longitude":-2.1763,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gomponsom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gommp\u00e9la",
+        "Gomponsom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360441,
+        "wk:page":"Gomponsom_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e5a9acbda562e8fd1ffc14b60e6c8753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1276316935,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1276316935,
+    "wof:lastmodified":1537587188,
+    "wof:name":"Gomponsom",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.1763,
+    13.02135,
+    -2.1763,
+    13.02135
+],
+  "geometry": {"coordinates":[-2.1763,13.02135],"type":"Point"}
+}

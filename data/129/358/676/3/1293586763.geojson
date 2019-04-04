@@ -1,0 +1,71 @@
+{
+  "id": 1293586763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.6,11.85,-2.6,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":-2.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tiodie",
+    "gn:country_code":"BF",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354407,
+    "gn:latitude":11.85,
+    "gn:longitude":-2.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tiodi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti\u00e9oudi\u00e9",
+        "Tiodi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354407
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2bc1c22a34c8857e1aa5d8f1145d59fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1293586763,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1293586763,
+    "wof:lastmodified":1537587104,
+    "wof:name":"Tiodie",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.6,
+    11.85,
+    -2.6,
+    11.85
+],
+  "geometry": {"coordinates":[-2.6,11.85],"type":"Point"}
+}

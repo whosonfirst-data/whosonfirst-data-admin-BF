@@ -1,0 +1,61 @@
+{
+  "id": 1209494625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.31667,10.76667,-3.31667,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":-3.31667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ntohiro",
+    "gn:country_code":"BF",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357148,
+    "gn:latitude":10.76667,
+    "gn:longitude":-3.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ntohiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357148
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"23e6bc9748515815abab2ffcb7ff06ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209494625
+        }
+    ],
+    "wof:id":1209494625,
+    "wof:lastmodified":1536285376,
+    "wof:name":"Ntohiro",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.31667,
+    10.76667,
+    -3.31667,
+    10.76667
+],
+  "geometry": {"coordinates":[-3.31667,10.76667],"type":"Point"}
+}

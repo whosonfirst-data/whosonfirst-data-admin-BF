@@ -1,0 +1,61 @@
+{
+  "id": 1209115645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.68333,11.35,-2.68333,11.35",
+    "geom:latitude":11.35,
+    "geom:longitude":-2.68333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kosso",
+    "gn:country_code":"BF",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359025,
+    "gn:latitude":11.35,
+    "gn:longitude":-2.68333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359025
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2e15da023c1ba1656877e9588fbf14e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209115645
+        }
+    ],
+    "wof:id":1209115645,
+    "wof:lastmodified":1536297262,
+    "wof:name":"Kosso",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.68333,
+    11.35,
+    -2.68333,
+    11.35
+],
+  "geometry": {"coordinates":[-2.68333,11.35],"type":"Point"}
+}

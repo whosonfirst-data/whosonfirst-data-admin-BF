@@ -1,0 +1,72 @@
+{
+  "id": 1310027775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.98333,11.8,-1.98333,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":-1.98333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"77",
+    "gn:asciiname":"Bouyounou",
+    "gn:country_code":"BF",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361823,
+    "gn:latitude":11.8,
+    "gn:longitude":-1.98333,
+    "gn:modification_date":"2016-08-06",
+    "gn:name":"Bouyounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bougounou",
+        "Bouyounou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890422531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361823
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5f07dead90d76870a6898ce0eaf459ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422531,
+            "locality_id":1310027775,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1310027775,
+    "wof:lastmodified":1537587206,
+    "wof:name":"Bouyounou",
+    "wof:parent_id":890422531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.98333,
+    11.8,
+    -1.98333,
+    11.8
+],
+  "geometry": {"coordinates":[-1.98333,11.8],"type":"Point"}
+}

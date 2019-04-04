@@ -1,0 +1,61 @@
+{
+  "id": 1209193679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.65,11.11667,-2.65,11.11667",
+    "geom:latitude":11.11667,
+    "geom:longitude":-2.65,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Wakanale",
+    "gn:country_code":"BF",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353892,
+    "gn:latitude":11.11667,
+    "gn:longitude":-2.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Wakanal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353892
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9b65ecd495a37413b86493c0c9506028",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209193679
+        }
+    ],
+    "wof:id":1209193679,
+    "wof:lastmodified":1536294847,
+    "wof:name":"Wakanale",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.65,
+    11.11667,
+    -2.65,
+    11.11667
+],
+  "geometry": {"coordinates":[-2.65,11.11667],"type":"Point"}
+}

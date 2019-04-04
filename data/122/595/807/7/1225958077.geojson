@@ -1,0 +1,71 @@
+{
+  "id": 1225958077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.31086,12.86831,-3.31086,12.86831",
+    "geom:latitude":12.86831,
+    "geom:longitude":-3.31086,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lessere",
+    "gn:country_code":"BF",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358365,
+    "gn:latitude":12.86831,
+    "gn:longitude":-3.31086,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"L\u00e9ss\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9ss\u00e9r\u00e9",
+        "Les\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890453951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358365
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bd4a845755da333b480c4a49e1368925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453951,
+            "locality_id":1225958077,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1225958077,
+    "wof:lastmodified":1537587162,
+    "wof:name":"Lessere",
+    "wof:parent_id":890453951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.31086,
+    12.86831,
+    -3.31086,
+    12.86831
+],
+  "geometry": {"coordinates":[-3.31086,12.86831],"type":"Point"}
+}

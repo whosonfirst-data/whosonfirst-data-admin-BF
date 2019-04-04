@@ -1,0 +1,72 @@
+{
+  "id": 1310306645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.62361,12.29278,-1.62361,12.29278",
+    "geom:latitude":12.29278,
+    "geom:longitude":-1.62361,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Toguen",
+    "gn:country_code":"BF",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570322,
+    "gn:latitude":12.29278,
+    "gn:longitude":-1.62361,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Toguen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teghin",
+        "Toguen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570322
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"699676f431b08c7a1e91b220671b1f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1310306645,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1310306645,
+    "wof:lastmodified":1537587225,
+    "wof:name":"Toguen",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.62361,
+    12.29278,
+    -1.62361,
+    12.29278
+],
+  "geometry": {"coordinates":[-1.62361,12.29278],"type":"Point"}
+}

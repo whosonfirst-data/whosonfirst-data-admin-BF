@@ -1,0 +1,67 @@
+{
+  "id": 1327038661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.4,10.03333,-4.4,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":-4.4,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Torokoro",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354201,
+    "gn:latitude":10.03333,
+    "gn:longitude":-4.4,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Torokoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354201
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0f766d4c5e3a1458bc9f247e79b9ac1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1327038661,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1327038661,
+    "wof:lastmodified":1536751214,
+    "wof:name":"Torokoro",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.4,
+    10.03333,
+    -4.4,
+    10.03333
+],
+  "geometry": {"coordinates":[-4.4,10.03333],"type":"Point"}
+}

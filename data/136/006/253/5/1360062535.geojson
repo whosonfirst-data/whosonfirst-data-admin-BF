@@ -1,0 +1,68 @@
+{
+  "id": 1360062535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.42579,14.55222,-0.42579,14.55222",
+    "geom:latitude":14.55222,
+    "geom:longitude":-0.42579,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Kolel",
+    "gn:country_code":"BF",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359291,
+    "gn:latitude":14.55222,
+    "gn:longitude":-0.42579,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kol\u00e8l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359291
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"82e62a136b447a802d7d7a89b2bc0fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413153,
+            "locality_id":1360062535,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1360062535,
+    "wof:lastmodified":1536977709,
+    "wof:name":"Kolel",
+    "wof:parent_id":890413153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.42579,
+    14.55222,
+    -0.42579,
+    14.55222
+],
+  "geometry": {"coordinates":[-0.42579,14.55222],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327139133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.80944,13.64056,-0.80944,13.64056",
+    "geom:latitude":13.64056,
+    "geom:longitude":-0.80944,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Pensa",
+    "gn:country_code":"BF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356499,
+    "gn:latitude":13.64056,
+    "gn:longitude":-0.80944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pensa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pinsa",
+        "Ponsa",
+        "Pensa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356499,
+        "wk:page":"Pensa_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4d60c324087d6e3e46676e4d5c2ddcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1327139133,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1327139133,
+    "wof:lastmodified":1537587136,
+    "wof:name":"Pensa",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.80944,
+    13.64056,
+    -0.80944,
+    13.64056
+],
+  "geometry": {"coordinates":[-0.80944,13.64056],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226142029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.66487,13.05675,-1.66487,13.05675",
+    "geom:latitude":13.05675,
+    "geom:longitude":-1.66487,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Gouera",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360312,
+    "gn:latitude":13.05675,
+    "gn:longitude":-1.66487,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gou\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360312
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bfde7aad2569c6a8f0d20e9ed424bd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1226142029,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1226142029,
+    "wof:lastmodified":1537079948,
+    "wof:name":"Gouera",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.66487,
+    13.05675,
+    -1.66487,
+    13.05675
+],
+  "geometry": {"coordinates":[-1.66487,13.05675],"type":"Point"}
+}

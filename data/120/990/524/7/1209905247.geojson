@@ -1,0 +1,67 @@
+{
+  "id": 1209905247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.06667,12.8,-2.06667,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":-2.06667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Laleara",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358519,
+    "gn:latitude":12.8,
+    "gn:longitude":-2.06667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lal\u00e9ara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358519
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6f443483c6834ffe9371dd74365ad7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1209905247,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1209905247,
+    "wof:lastmodified":1536384523,
+    "wof:name":"Laleara",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.06667,
+    12.8,
+    -2.06667,
+    12.8
+],
+  "geometry": {"coordinates":[-2.06667,12.8],"type":"Point"}
+}

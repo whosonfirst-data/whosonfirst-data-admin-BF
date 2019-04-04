@@ -1,0 +1,68 @@
+{
+  "id": 1243152213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.94153,14.26741,-0.94153,14.26741",
+    "geom:latitude":14.26741,
+    "geom:longitude":-0.94153,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Dala",
+    "gn:country_code":"BF",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361691,
+    "gn:latitude":14.26741,
+    "gn:longitude":-0.94153,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Dala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361691
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1cbbe591c92f920c727bf81ea2b245e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1243152213,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1243152213,
+    "wof:lastmodified":1536733075,
+    "wof:name":"Dala",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.94153,
+    14.26741,
+    -0.94153,
+    14.26741
+],
+  "geometry": {"coordinates":[-0.94153,14.26741],"type":"Point"}
+}

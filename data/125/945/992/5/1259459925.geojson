@@ -1,0 +1,68 @@
+{
+  "id": 1259459925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.34054,13.55389,0.34054,13.55389",
+    "geom:latitude":13.55389,
+    "geom:longitude":0.34054,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Mounere",
+    "gn:country_code":"BF",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357839,
+    "gn:latitude":13.55389,
+    "gn:longitude":0.34054,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Moun\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357839
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"715d8a7c667c0ad498bdd5861dabc228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1259459925,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1259459925,
+    "wof:lastmodified":1536892373,
+    "wof:name":"Mounere",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.34054,
+    13.55389,
+    0.34054,
+    13.55389
+],
+  "geometry": {"coordinates":[0.34054,13.55389],"type":"Point"}
+}

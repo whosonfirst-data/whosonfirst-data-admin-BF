@@ -1,0 +1,68 @@
+{
+  "id": 1343565935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6344,13.49242,-1.6344,13.49242",
+    "geom:latitude":13.49242,
+    "geom:longitude":-1.6344,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Boulli Foulbes",
+    "gn:country_code":"BF",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361979,
+    "gn:latitude":13.49242,
+    "gn:longitude":-1.6344,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Boulli Foulb\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361979
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"cdb4c4c947053b6bb683308fec1a1b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1343565935,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1343565935,
+    "wof:lastmodified":1537088313,
+    "wof:name":"Boulli Foulbes",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6344,
+    13.49242,
+    -1.6344,
+    13.49242
+],
+  "geometry": {"coordinates":[-1.6344,13.49242],"type":"Point"}
+}

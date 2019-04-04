@@ -1,0 +1,68 @@
+{
+  "id": 1259682987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.26827,13.39029,-1.26827,13.39029",
+    "geom:latitude":13.39029,
+    "geom:longitude":-1.26827,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Yaka",
+    "gn:country_code":"BF",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353696,
+    "gn:latitude":13.39029,
+    "gn:longitude":-1.26827,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Yaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353696
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"90d0a1771eac697c93abb2ebefc38d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1259682987,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1259682987,
+    "wof:lastmodified":1537064880,
+    "wof:name":"Yaka",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.26827,
+    13.39029,
+    -1.26827,
+    13.39029
+],
+  "geometry": {"coordinates":[-1.26827,13.39029],"type":"Point"}
+}

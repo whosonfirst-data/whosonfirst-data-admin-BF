@@ -1,0 +1,68 @@
+{
+  "id": 1259570021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.58237,14.04587,-0.58237,14.04587",
+    "geom:latitude":14.04587,
+    "geom:longitude":-0.58237,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Dolma",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361137,
+    "gn:latitude":14.04587,
+    "gn:longitude":-0.58237,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Dolma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361137
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6f72edb5b77f964a27b03ed868d6d333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1259570021,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1259570021,
+    "wof:lastmodified":1536734453,
+    "wof:name":"Dolma",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.58237,
+    14.04587,
+    -0.58237,
+    14.04587
+],
+  "geometry": {"coordinates":[-0.58237,14.04587],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259777937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.36869,11.28987,-4.36869,11.28987",
+    "geom:latitude":11.28987,
+    "geom:longitude":-4.36869,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Wolankoto",
+    "gn:country_code":"BF",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353745,
+    "gn:latitude":11.28987,
+    "gn:longitude":-4.36869,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Wolankoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353745
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"215de25737253c0253a3c1ae9ea78b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1259777937,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1259777937,
+    "wof:lastmodified":1536931911,
+    "wof:name":"Wolankoto",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.36869,
+    11.28987,
+    -4.36869,
+    11.28987
+],
+  "geometry": {"coordinates":[-4.36869,11.28987],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310200293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51631,13.48671,-2.51631,13.48671",
+    "geom:latitude":13.48671,
+    "geom:longitude":-2.51631,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Dalo",
+    "gn:country_code":"BF",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361678,
+    "gn:latitude":13.48671,
+    "gn:longitude":-2.51631,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Dalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361678
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"035c61cec9622f0f8d923da40c03cfdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1310200293,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1310200293,
+    "wof:lastmodified":1536858505,
+    "wof:name":"Dalo",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51631,
+    13.48671,
+    -2.51631,
+    13.48671
+],
+  "geometry": {"coordinates":[-2.51631,13.48671],"type":"Point"}
+}

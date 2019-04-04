@@ -1,0 +1,72 @@
+{
+  "id": 1259797665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.3969,13.251,-3.3969,13.251",
+    "geom:latitude":13.251,
+    "geom:longitude":-3.3969,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Bouna",
+    "gn:country_code":"BF",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361923,
+    "gn:latitude":13.251,
+    "gn:longitude":-3.3969,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boura",
+        "Bouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361923
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"dfca15f66568dbfe63c820d55d5f01d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1259797665,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1259797665,
+    "wof:lastmodified":1537587208,
+    "wof:name":"Bouna",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.3969,
+    13.251,
+    -3.3969,
+    13.251
+],
+  "geometry": {"coordinates":[-3.3969,13.251],"type":"Point"}
+}

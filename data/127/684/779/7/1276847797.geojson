@@ -1,0 +1,72 @@
+{
+  "id": 1276847797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.51049,14.11797,-1.51049,14.11797",
+    "geom:latitude":14.11797,
+    "geom:longitude":-1.51049,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Sibe",
+    "gn:country_code":"BF",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355685,
+    "gn:latitude":14.11797,
+    "gn:longitude":-1.51049,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Sib\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sid\u00e9",
+        "Sib\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355685
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9b85f042da0d6ee0b320f56ab8ef4c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1276847797,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1276847797,
+    "wof:lastmodified":1537587124,
+    "wof:name":"Sibe",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.51049,
+    14.11797,
+    -1.51049,
+    14.11797
+],
+  "geometry": {"coordinates":[-1.51049,14.11797],"type":"Point"}
+}

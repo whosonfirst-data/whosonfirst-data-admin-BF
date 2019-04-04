@@ -1,0 +1,67 @@
+{
+  "id": 1292927993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.15,12.35,-2.15,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":-2.15,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kougsen",
+    "gn:country_code":"BF",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358915,
+    "gn:latitude":12.35,
+    "gn:longitude":-2.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kougsen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358915
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"71d359cd2b95d1a6a5a89c4ed0175798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1292927993,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1292927993,
+    "wof:lastmodified":1537093541,
+    "wof:name":"Kougsen",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.15,
+    12.35,
+    -2.15,
+    12.35
+],
+  "geometry": {"coordinates":[-2.15,12.35],"type":"Point"}
+}

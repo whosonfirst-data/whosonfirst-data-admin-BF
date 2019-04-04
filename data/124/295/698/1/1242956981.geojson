@@ -1,0 +1,72 @@
+{
+  "id": 1242956981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.14101,13.70167,-2.14101,13.70167",
+    "geom:latitude":13.70167,
+    "geom:longitude":-2.14101,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"You",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353468,
+    "gn:latitude":13.70167,
+    "gn:longitude":-2.14101,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"You",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yu",
+        "You"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890453949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353468
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c456eac6eb6e6cf841ea0119fae9628d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":1242956981,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1242956981,
+    "wof:lastmodified":1537587093,
+    "wof:name":"You",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.14101,
+    13.70167,
+    -2.14101,
+    13.70167
+],
+  "geometry": {"coordinates":[-2.14101,13.70167],"type":"Point"}
+}

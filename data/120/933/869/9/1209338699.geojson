@@ -1,0 +1,65 @@
+{
+  "id": 1209338699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.36667,12.06667,-0.36667,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":-0.36667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Liguidi Malgam",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358345,
+    "gn:latitude":12.06667,
+    "gn:longitude":-0.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Liguidi Malgam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liguid Malgam",
+        "Liguidi Malgam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358345
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ebf4fcfd823fd9fda6e47584fc475a53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209338699
+        }
+    ],
+    "wof:id":1209338699,
+    "wof:lastmodified":1537587161,
+    "wof:name":"Liguidi Malgam",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.36667,
+    12.06667,
+    -0.36667,
+    12.06667
+],
+  "geometry": {"coordinates":[-0.36667,12.06667],"type":"Point"}
+}

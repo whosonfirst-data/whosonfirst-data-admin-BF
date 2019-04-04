@@ -1,0 +1,72 @@
+{
+  "id": 1310297757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.4464,11.55882,-2.4464,11.55882",
+    "geom:latitude":11.55882,
+    "geom:longitude":-2.4464,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sadoin",
+    "gn:country_code":"BF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356103,
+    "gn:latitude":11.55882,
+    "gn:longitude":-2.4464,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sadoin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saduin",
+        "Sadouin",
+        "Sadoin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890421465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356103
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d647acb91561a7173ca08a7c86818295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421465,
+            "locality_id":1310297757,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1310297757,
+    "wof:lastmodified":1537587130,
+    "wof:name":"Sadoin",
+    "wof:parent_id":890421465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.4464,
+    11.55882,
+    -2.4464,
+    11.55882
+],
+  "geometry": {"coordinates":[-2.4464,11.55882],"type":"Point"}
+}

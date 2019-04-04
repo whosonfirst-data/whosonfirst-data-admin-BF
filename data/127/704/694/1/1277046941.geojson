@@ -1,0 +1,67 @@
+{
+  "id": 1277046941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.35,10.68333,-3.35,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":-3.35,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Perbolinbiro",
+    "gn:country_code":"BF",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356591,
+    "gn:latitude":10.68333,
+    "gn:longitude":-3.35,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Perbolinbiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890428985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356591
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f818e0c2ce194113c6462b9b579d9fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428985,
+            "locality_id":1277046941,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1277046941,
+    "wof:lastmodified":1536816481,
+    "wof:name":"Perbolinbiro",
+    "wof:parent_id":890428985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.35,
+    10.68333,
+    -3.35,
+    10.68333
+],
+  "geometry": {"coordinates":[-3.35,10.68333],"type":"Point"}
+}

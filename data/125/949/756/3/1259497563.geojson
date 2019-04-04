@@ -1,0 +1,73 @@
+{
+  "id": 1259497563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8694,13.2637,-3.8694,13.2637",
+    "geom:latitude":13.2637,
+    "geom:longitude":-3.8694,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Kolonkan Goure Ba",
+    "gn:country_code":"BF",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359266,
+    "gn:latitude":13.2637,
+    "gn:longitude":-3.8694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolonkan Gour\u00e9 Ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolonkan",
+        "Kolokan Gour\u00e9 B\u00e2",
+        "Kolonkan Gour\u00e9 Ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359266
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e600cf3215b32d14d0c2cfe54d574464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1259497563,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1259497563,
+    "wof:lastmodified":1537587174,
+    "wof:name":"Kolonkan Goure Ba",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8694,
+    13.2637,
+    -3.8694,
+    13.2637
+],
+  "geometry": {"coordinates":[-3.8694,13.2637],"type":"Point"}
+}

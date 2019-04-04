@@ -1,0 +1,67 @@
+{
+  "id": 1343950689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58333,12.11667,-2.58333,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-2.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Batondo",
+    "gn:country_code":"BF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362661,
+    "gn:latitude":12.11667,
+    "gn:longitude":-2.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Batondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362661
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9b8e16fd589a1f47599d142be4d80712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1343950689,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1343950689,
+    "wof:lastmodified":1537032738,
+    "wof:name":"Batondo",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58333,
+    12.11667,
+    -2.58333,
+    12.11667
+],
+  "geometry": {"coordinates":[-2.58333,12.11667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242770243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96667,12.23333,-1.96667,12.23333",
+    "geom:latitude":12.23333,
+    "geom:longitude":-1.96667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zerkom",
+    "gn:country_code":"BF",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353310,
+    "gn:latitude":12.23333,
+    "gn:longitude":-1.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zerkom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353310
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2447c3a00fc03dfd8b3e3e58a5aafba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1242770243,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1242770243,
+    "wof:lastmodified":1536786719,
+    "wof:name":"Zerkom",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96667,
+    12.23333,
+    -1.96667,
+    12.23333
+],
+  "geometry": {"coordinates":[-1.96667,12.23333],"type":"Point"}
+}

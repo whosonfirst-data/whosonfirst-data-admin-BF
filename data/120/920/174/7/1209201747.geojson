@@ -1,0 +1,62 @@
+{
+  "id": 1209201747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.79082,13.26116,0.79082,13.26116",
+    "geom:latitude":13.26116,
+    "geom:longitude":0.79082,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Tamna",
+    "gn:country_code":"BF",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355079,
+    "gn:latitude":13.26116,
+    "gn:longitude":0.79082,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tamna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355079
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6aa991b9c625e22afa7fcd6e133c01c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209201747
+        }
+    ],
+    "wof:id":1209201747,
+    "wof:lastmodified":1536294586,
+    "wof:name":"Tamna",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.79082,
+    13.26116,
+    0.79082,
+    13.26116
+],
+  "geometry": {"coordinates":[0.79082,13.26116],"type":"Point"}
+}

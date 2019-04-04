@@ -1,0 +1,68 @@
+{
+  "id": 1276894113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.77353,12.33616,1.77353,12.33616",
+    "geom:latitude":12.33616,
+    "geom:longitude":1.77353,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Bwenbwangou",
+    "gn:country_code":"BF",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361801,
+    "gn:latitude":12.33616,
+    "gn:longitude":1.77353,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Bwenbwangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361801
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d6cd92b4be77aeaf9c5115680e5493e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1276894113,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1276894113,
+    "wof:lastmodified":1537021202,
+    "wof:name":"Bwenbwangou",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.77353,
+    12.33616,
+    1.77353,
+    12.33616
+],
+  "geometry": {"coordinates":[1.77353,12.33616],"type":"Point"}
+}

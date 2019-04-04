@@ -1,0 +1,62 @@
+{
+  "id": 1209298333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.90175,13.00442,-1.90175,13.00442",
+    "geom:latitude":13.00442,
+    "geom:longitude":-1.90175,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Kosgo",
+    "gn:country_code":"BF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359039,
+    "gn:latitude":13.00442,
+    "gn:longitude":-1.90175,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kosgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359039
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f4550742b3ea9b6c873fdfd7319c75a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209298333
+        }
+    ],
+    "wof:id":1209298333,
+    "wof:lastmodified":1536291446,
+    "wof:name":"Kosgo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.90175,
+    13.00442,
+    -1.90175,
+    13.00442
+],
+  "geometry": {"coordinates":[-1.90175,13.00442],"type":"Point"}
+}

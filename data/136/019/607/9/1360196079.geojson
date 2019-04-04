@@ -1,0 +1,73 @@
+{
+  "id": 1360196079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.59889,12.26694,-1.59889,12.26694",
+    "geom:latitude":12.26694,
+    "geom:longitude":-1.59889,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Tigandalegue",
+    "gn:country_code":"BF",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354499,
+    "gn:latitude":12.26694,
+    "gn:longitude":-1.59889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tigandal\u00e9gu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tigandal\u00e9g\u00e9",
+        "Tigandal\u00e9gu\u00e9",
+        "Tiguindalgu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354499
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a73dc203a1f8660cdd879fc3bb7a8e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1360196079,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1360196079,
+    "wof:lastmodified":1537587105,
+    "wof:name":"Tigandalegue",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.59889,
+    12.26694,
+    -1.59889,
+    12.26694
+],
+  "geometry": {"coordinates":[-1.59889,12.26694],"type":"Point"}
+}

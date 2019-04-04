@@ -1,0 +1,72 @@
+{
+  "id": 1259575907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.50196,11.04282,-2.50196,11.04282",
+    "geom:latitude":11.04282,
+    "geom:longitude":-2.50196,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Boura",
+    "gn:country_code":"BF",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361898,
+    "gn:latitude":11.04282,
+    "gn:longitude":-2.50196,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Boura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bura",
+        "Boura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890421465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361898,
+        "wk:page":"Boura_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8ca81670fc0f7665942b22192217e373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421465,
+            "locality_id":1259575907,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1259575907,
+    "wof:lastmodified":1537587208,
+    "wof:name":"Boura",
+    "wof:parent_id":890421465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.50196,
+    11.04282,
+    -2.50196,
+    11.04282
+],
+  "geometry": {"coordinates":[-2.50196,11.04282],"type":"Point"}
+}

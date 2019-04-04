@@ -1,0 +1,67 @@
+{
+  "id": 1327305445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.03333,11.33333,-3.03333,11.33333",
+    "geom:latitude":11.33333,
+    "geom:longitude":-3.03333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yerefe",
+    "gn:country_code":"BF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353526,
+    "gn:latitude":11.33333,
+    "gn:longitude":-3.03333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00e9r\u00e9f\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890416509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353526
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"75c38da07666c754390e2ebc36f1512e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416509,
+            "locality_id":1327305445,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1327305445,
+    "wof:lastmodified":1536862865,
+    "wof:name":"Yerefe",
+    "wof:parent_id":890416509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.03333,
+    11.33333,
+    -3.03333,
+    11.33333
+],
+  "geometry": {"coordinates":[-3.03333,11.33333],"type":"Point"}
+}

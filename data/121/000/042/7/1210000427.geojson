@@ -1,0 +1,68 @@
+{
+  "id": 1210000427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.6338,13.58285,-2.6338,13.58285",
+    "geom:latitude":13.58285,
+    "geom:longitude":-2.6338,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Somnawa",
+    "gn:country_code":"BF",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355373,
+    "gn:latitude":13.58285,
+    "gn:longitude":-2.6338,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Somnawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355373
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a5b345b43e5cbc29485d06467e6389be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1210000427,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1210000427,
+    "wof:lastmodified":1536379304,
+    "wof:name":"Somnawa",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.6338,
+    13.58285,
+    -2.6338,
+    13.58285
+],
+  "geometry": {"coordinates":[-2.6338,13.58285],"type":"Point"}
+}

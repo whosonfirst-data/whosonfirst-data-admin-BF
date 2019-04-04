@@ -1,0 +1,67 @@
+{
+  "id": 1344235089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.2,12.7,-1.2,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":-1.2,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yirane",
+    "gn:country_code":"BF",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353504,
+    "gn:latitude":12.7,
+    "gn:longitude":-1.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yiran\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890413157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353504
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c0fe3ebe62363ab421b6c120df55a4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":1344235089,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1344235089,
+    "wof:lastmodified":1536621604,
+    "wof:name":"Yirane",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.2,
+    12.7,
+    -1.2,
+    12.7
+],
+  "geometry": {"coordinates":[-1.2,12.7],"type":"Point"}
+}

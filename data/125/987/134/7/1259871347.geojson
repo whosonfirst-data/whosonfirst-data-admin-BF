@@ -1,0 +1,67 @@
+{
+  "id": 1259871347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.78333,11.3,-0.78333,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":-0.78333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Doumagou",
+    "gn:country_code":"BF",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361031,
+    "gn:latitude":11.3,
+    "gn:longitude":-0.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Doumagou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361031
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"141d01e83d972c7a2e94ddfcbe10ff05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693645,
+            "locality_id":1259871347,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1259871347,
+    "wof:lastmodified":1536796915,
+    "wof:name":"Doumagou",
+    "wof:parent_id":1108693645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.78333,
+    11.3,
+    -0.78333,
+    11.3
+],
+  "geometry": {"coordinates":[-0.78333,11.3],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344029295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.43333,10.28333,-3.43333,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":-3.43333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Silapene",
+    "gn:country_code":"BF",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355606,
+    "gn:latitude":10.28333,
+    "gn:longitude":-3.43333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Silap\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355606
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bb96b884baf0a3743fb8a727874edfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1344029295,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1344029295,
+    "wof:lastmodified":1536921341,
+    "wof:name":"Silapene",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.43333,
+    10.28333,
+    -3.43333,
+    10.28333
+],
+  "geometry": {"coordinates":[-3.43333,10.28333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327238981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53361,12.44472,-1.53361,12.44472",
+    "geom:latitude":12.44472,
+    "geom:longitude":-1.53361,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Ourgou Yargo",
+    "gn:country_code":"BF",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570227,
+    "gn:latitude":12.44472,
+    "gn:longitude":-1.53361,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Ourgou Yargo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570227
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"478287c826d5eee1ab4f316a5259e4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1327238981,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1327238981,
+    "wof:lastmodified":1536959964,
+    "wof:name":"Ourgou Yargo",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53361,
+    12.44472,
+    -1.53361,
+    12.44472
+],
+  "geometry": {"coordinates":[-1.53361,12.44472],"type":"Point"}
+}

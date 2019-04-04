@@ -1,0 +1,68 @@
+{
+  "id": 1343279597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2991,13.2207,-3.2991,13.2207",
+    "geom:latitude":13.2207,
+    "geom:longitude":-3.2991,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Ouroukou",
+    "gn:country_code":"BF",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356789,
+    "gn:latitude":13.2207,
+    "gn:longitude":-3.2991,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Ouroukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356789
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9ca74190f3106de5bf100af744d7b7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1343279597,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1343279597,
+    "wof:lastmodified":1537006556,
+    "wof:name":"Ouroukou",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2991,
+    13.2207,
+    -3.2991,
+    13.2207
+],
+  "geometry": {"coordinates":[-3.2991,13.2207],"type":"Point"}
+}

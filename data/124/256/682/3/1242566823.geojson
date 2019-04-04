@@ -1,0 +1,68 @@
+{
+  "id": 1242566823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.82506,13.2572,-1.82506,13.2572",
+    "geom:latitude":13.2572,
+    "geom:longitude":-1.82506,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Songya",
+    "gn:country_code":"BF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355348,
+    "gn:latitude":13.2572,
+    "gn:longitude":-1.82506,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Songya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355348
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d614c6ff9691ffb72b059d3a2f044312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1242566823,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1242566823,
+    "wof:lastmodified":1537076081,
+    "wof:name":"Songya",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.82506,
+    13.2572,
+    -1.82506,
+    13.2572
+],
+  "geometry": {"coordinates":[-1.82506,13.2572],"type":"Point"}
+}

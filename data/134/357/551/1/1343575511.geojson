@@ -1,0 +1,68 @@
+{
+  "id": 1343575511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.77481,13.39533,-2.77481,13.39533",
+    "geom:latitude":13.39533,
+    "geom:longitude":-2.77481,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Gala",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360686,
+    "gn:latitude":13.39533,
+    "gn:longitude":-2.77481,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360686
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bebe7cb2fd03c9c97cb0caf05784ffd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1343575511,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1343575511,
+    "wof:lastmodified":1537074581,
+    "wof:name":"Gala",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.77481,
+    13.39533,
+    -2.77481,
+    13.39533
+],
+  "geometry": {"coordinates":[-2.77481,13.39533],"type":"Point"}
+}

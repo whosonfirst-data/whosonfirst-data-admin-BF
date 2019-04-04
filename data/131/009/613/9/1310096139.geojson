@@ -1,0 +1,72 @@
+{
+  "id": 1310096139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.20189,13.47769,-0.20189,13.47769",
+    "geom:latitude":13.47769,
+    "geom:longitude":-0.20189,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Bonsiega",
+    "gn:country_code":"BF",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362183,
+    "gn:latitude":13.47769,
+    "gn:longitude":-0.20189,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bonsi\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonsi\u00e9ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362183,
+        "wk:page":"Bonsiega"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bf0ffb1300e556ce9eadbc3035e75249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1310096139,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1310096139,
+    "wof:lastmodified":1537587210,
+    "wof:name":"Bonsiega",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.20189,
+    13.47769,
+    -0.20189,
+    13.47769
+],
+  "geometry": {"coordinates":[-0.20189,13.47769],"type":"Point"}
+}

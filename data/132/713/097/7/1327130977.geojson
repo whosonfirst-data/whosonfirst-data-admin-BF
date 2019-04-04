@@ -1,0 +1,67 @@
+{
+  "id": 1327130977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.31667,11.81667,-1.31667,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":-1.31667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sabin",
+    "gn:country_code":"BF",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356141,
+    "gn:latitude":11.81667,
+    "gn:longitude":-1.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sabin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356141
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ceb83acab95a546a418f3beefc0418c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1327130977,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1327130977,
+    "wof:lastmodified":1536615889,
+    "wof:name":"Sabin",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.31667,
+    11.81667,
+    -1.31667,
+    11.81667
+],
+  "geometry": {"coordinates":[-1.31667,11.81667],"type":"Point"}
+}

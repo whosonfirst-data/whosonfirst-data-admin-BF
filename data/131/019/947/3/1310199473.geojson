@@ -1,0 +1,74 @@
+{
+  "id": 1310199473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.44833,11.29833,-1.44833,11.29833",
+    "geom:latitude":11.29833,
+    "geom:longitude":-1.44833,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"65",
+    "gn:asciiname":"Koumbili",
+    "gn:country_code":"BF",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361776,
+    "gn:latitude":11.29833,
+    "gn:longitude":-1.44833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koumbili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coumbili",
+        "Koumbouli",
+        "Kumbili",
+        "Koumbili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        890413159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361776
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b05d1f3bcf8a63b84855a59d74bbfd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413159,
+            "locality_id":1310199473,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1310199473,
+    "wof:lastmodified":1537587205,
+    "wof:name":"Koumbili",
+    "wof:parent_id":890413159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.44833,
+    11.29833,
+    -1.44833,
+    11.29833
+],
+  "geometry": {"coordinates":[-1.44833,11.29833],"type":"Point"}
+}

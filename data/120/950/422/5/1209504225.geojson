@@ -1,0 +1,66 @@
+{
+  "id": 1209504225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.25088,13.68036,-2.25088,13.68036",
+    "geom:latitude":13.68036,
+    "geom:longitude":-2.25088,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Tougou",
+    "gn:country_code":"BF",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354167,
+    "gn:latitude":13.68036,
+    "gn:longitude":-2.25088,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tugu",
+        "Tougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354167
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"cda12abec80538ce6d61e4e4b017de85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209504225
+        }
+    ],
+    "wof:id":1209504225,
+    "wof:lastmodified":1537587101,
+    "wof:name":"Tougou",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.25088,
+    13.68036,
+    -2.25088,
+    13.68036
+],
+  "geometry": {"coordinates":[-2.25088,13.68036],"type":"Point"}
+}

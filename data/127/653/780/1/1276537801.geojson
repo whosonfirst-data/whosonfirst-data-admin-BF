@@ -1,0 +1,72 @@
+{
+  "id": 1276537801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.56219,13.59898,-2.56219,13.59898",
+    "geom:latitude":13.59898,
+    "geom:longitude":-2.56219,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Namsiguia",
+    "gn:country_code":"BF",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357601,
+    "gn:latitude":13.59898,
+    "gn:longitude":-2.56219,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Namsiguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namsiglia",
+        "Namsiguia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357601
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"84f2fb5eeeef9a70939513b81c7ba530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1276537801,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1276537801,
+    "wof:lastmodified":1537587152,
+    "wof:name":"Namsiguia",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.56219,
+    13.59898,
+    -2.56219,
+    13.59898
+],
+  "geometry": {"coordinates":[-2.56219,13.59898],"type":"Point"}
+}

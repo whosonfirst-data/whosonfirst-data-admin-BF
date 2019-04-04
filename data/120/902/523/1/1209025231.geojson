@@ -1,0 +1,68 @@
+{
+  "id": 1209025231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.98487,11.38697,-3.98487,11.38697",
+    "geom:latitude":11.38697,
+    "geom:longitude":-3.98487,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Diorossiamanso",
+    "gn:country_code":"BF",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361214,
+    "gn:latitude":11.38697,
+    "gn:longitude":-3.98487,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Diorossiamanso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diorossaminso",
+        "Dorossiamenso",
+        "Dorosamienso",
+        "Diorossiamanso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361214
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e46aacc4bb365b9348243af74cbf99ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209025231
+        }
+    ],
+    "wof:id":1209025231,
+    "wof:lastmodified":1537587199,
+    "wof:name":"Diorossiamanso",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.98487,
+    11.38697,
+    -3.98487,
+    11.38697
+],
+  "geometry": {"coordinates":[-3.98487,11.38697],"type":"Point"}
+}

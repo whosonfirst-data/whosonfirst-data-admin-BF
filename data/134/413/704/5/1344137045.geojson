@@ -1,0 +1,68 @@
+{
+  "id": 1344137045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.92302,13.46695,0.92302,13.46695",
+    "geom:latitude":13.46695,
+    "geom:longitude":0.92302,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Dar Salam",
+    "gn:country_code":"BF",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361536,
+    "gn:latitude":13.46695,
+    "gn:longitude":0.92302,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Dar Salam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361536
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1143a4b6615729401286747a04d557b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1344137045,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1344137045,
+    "wof:lastmodified":1536765490,
+    "wof:name":"Dar Salam",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.92302,
+    13.46695,
+    0.92302,
+    13.46695
+],
+  "geometry": {"coordinates":[0.92302,13.46695],"type":"Point"}
+}

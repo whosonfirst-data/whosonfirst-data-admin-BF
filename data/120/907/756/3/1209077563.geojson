@@ -1,0 +1,61 @@
+{
+  "id": 1209077563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.0,10.86667,-3.0,10.86667",
+    "geom:latitude":10.86667,
+    "geom:longitude":-3.0,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nableteon",
+    "gn:country_code":"BF",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357750,
+    "gn:latitude":10.86667,
+    "gn:longitude":-3.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nabl\u00e9t\u00e9on",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357750
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5e4f863f8f0da6d608e5cd4b1253e13e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209077563
+        }
+    ],
+    "wof:id":1209077563,
+    "wof:lastmodified":1536298444,
+    "wof:name":"Nableteon",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0,
+    10.86667,
+    -3.0,
+    10.86667
+],
+  "geometry": {"coordinates":[-3.0,10.86667],"type":"Point"}
+}

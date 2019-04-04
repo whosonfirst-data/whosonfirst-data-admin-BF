@@ -1,0 +1,68 @@
+{
+  "id": 1226230309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.8,12.15,-0.8,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-0.8,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tanlouka",
+    "gn:country_code":"BF",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354891,
+    "gn:latitude":12.15,
+    "gn:longitude":-0.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tanlouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890428979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354891,
+        "wk:page":"Tanlouka"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"42ee3acaf7116cde07190249e6139d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428979,
+            "locality_id":1226230309,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1226230309,
+    "wof:lastmodified":1537487599,
+    "wof:name":"Tanlouka",
+    "wof:parent_id":890428979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.8,
+    12.15,
+    -0.8,
+    12.15
+],
+  "geometry": {"coordinates":[-0.8,12.15],"type":"Point"}
+}

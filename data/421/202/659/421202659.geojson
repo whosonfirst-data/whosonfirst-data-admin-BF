@@ -1,0 +1,73 @@
+{
+  "id": 421202659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-4.305267,11.186167,-4.305267,11.186167",
+    "geom:latitude":11.186167,
+    "geom:longitude":-4.305267,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Bobo-Dioulasso",
+    "qs:name_adm0":"Burkina Faso",
+    "qs:name_adm1":"Houet",
+    "qs:photos":312,
+    "qs:photos_1k":63,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1364,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":225264,
+    "qs:woe_adm0":23424978,
+    "qs:woe_id":55967424,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        85668839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55967424,
+        "qs:id":225264
+    },
+    "wof:country":"BF",
+    "wof:created":1459010125,
+    "wof:geomhash":"0b9abddc4874eec0f83a249667aad3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421202659,
+            "region_id":85668839
+        }
+    ],
+    "wof:id":421202659,
+    "wof:lastmodified":1474491953,
+    "wof:name":"Bobo-Dioulasso",
+    "wof:parent_id":85668839,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.305267,
+    11.186167,
+    -4.305267,
+    11.186167
+],
+  "geometry": {"coordinates":[-4.305267,11.186167],"type":"Point"}
+}

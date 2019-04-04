@@ -1,0 +1,70 @@
+{
+  "id": 1226518689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.57974,10.6585,-3.57974,10.6585",
+    "geom:latitude":10.6585,
+    "geom:longitude":-3.57974,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tinkiro",
+    "gn:country_code":"BF",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359487,
+    "gn:latitude":10.6585,
+    "gn:longitude":-3.57974,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tinkiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinkoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359487
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4f5518223fc0e896ef81a268ac0b39b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1226518689,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1226518689,
+    "wof:lastmodified":1537587176,
+    "wof:name":"Tinkiro",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.57974,
+    10.6585,
+    -3.57974,
+    10.6585
+],
+  "geometry": {"coordinates":[-3.57974,10.6585],"type":"Point"}
+}

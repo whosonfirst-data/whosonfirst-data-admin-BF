@@ -1,0 +1,68 @@
+{
+  "id": 1193122865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.06867,12.38017,2.06867,12.38017",
+    "geom:latitude":12.38017,
+    "geom:longitude":2.06867,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Kwarkorodi",
+    "gn:country_code":"BF",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358600,
+    "gn:latitude":12.38017,
+    "gn:longitude":2.06867,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kwarkorodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358600
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"751f5424b209466bb8e74cc387982b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1193122865,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1193122865,
+    "wof:lastmodified":1536384043,
+    "wof:name":"Kwarkorodi",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.06867,
+    12.38017,
+    2.06867,
+    12.38017
+],
+  "geometry": {"coordinates":[2.06867,12.38017],"type":"Point"}
+}

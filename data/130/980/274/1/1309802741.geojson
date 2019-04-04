@@ -1,0 +1,68 @@
+{
+  "id": 1309802741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.27332,13.369,-1.27332,13.369",
+    "geom:latitude":13.369,
+    "geom:longitude":-1.27332,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Kondiboken",
+    "gn:country_code":"BF",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359172,
+    "gn:latitude":13.369,
+    "gn:longitude":-1.27332,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kondiboken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359172
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b0337bc017812404083195c1135ecb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1309802741,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1309802741,
+    "wof:lastmodified":1536936240,
+    "wof:name":"Kondiboken",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.27332,
+    13.369,
+    -1.27332,
+    13.369
+],
+  "geometry": {"coordinates":[-1.27332,13.369],"type":"Point"}
+}

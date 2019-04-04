@@ -1,0 +1,75 @@
+{
+  "id": 1276239777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.38556,12.29917,-1.38556,12.29917",
+    "geom:latitude":12.29917,
+    "geom:longitude":-1.38556,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Tanlarguen",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354897,
+    "gn:latitude":12.29917,
+    "gn:longitude":-1.38556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tanlarguen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanlargen",
+        "Tangargen",
+        "Tanlarguin",
+        "Tanlarghin",
+        "Tanlarguen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354897
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"14a986850495b23d3712da5aa226cad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1276239777,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1276239777,
+    "wof:lastmodified":1537587111,
+    "wof:name":"Tanlarguen",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.38556,
+    12.29917,
+    -1.38556,
+    12.29917
+],
+  "geometry": {"coordinates":[-1.38556,12.29917],"type":"Point"}
+}

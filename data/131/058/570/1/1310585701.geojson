@@ -1,0 +1,72 @@
+{
+  "id": 1310585701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.31667,11.4,-3.31667,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-3.31667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kovio",
+    "gn:country_code":"BF",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358636,
+    "gn:latitude":11.4,
+    "gn:longitude":-3.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kovio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kouoio",
+        "Kou\u00e9",
+        "Kovio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890422527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358636
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"36eb805521cd1675b35d0089ffb52e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422527,
+            "locality_id":1310585701,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1310585701,
+    "wof:lastmodified":1537587165,
+    "wof:name":"Kovio",
+    "wof:parent_id":890422527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.31667,
+    11.4,
+    -3.31667,
+    11.4
+],
+  "geometry": {"coordinates":[-3.31667,11.4],"type":"Point"}
+}

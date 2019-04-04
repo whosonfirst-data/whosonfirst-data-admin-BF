@@ -1,0 +1,62 @@
+{
+  "id": 1209024601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.40935,14.02819,-2.40935,14.02819",
+    "geom:latitude":14.02819,
+    "geom:longitude":-2.40935,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Baouene",
+    "gn:country_code":"BF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362801,
+    "gn:latitude":14.02819,
+    "gn:longitude":-2.40935,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Baou\u00e8n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362801
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"33872225dfb253752b524bb168515883",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209024601
+        }
+    ],
+    "wof:id":1209024601,
+    "wof:lastmodified":1536300041,
+    "wof:name":"Baouene",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.40935,
+    14.02819,
+    -2.40935,
+    14.02819
+],
+  "geometry": {"coordinates":[-2.40935,14.02819],"type":"Point"}
+}

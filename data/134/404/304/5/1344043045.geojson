@@ -1,0 +1,68 @@
+{
+  "id": 1344043045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.82605,12.48848,1.82605,12.48848",
+    "geom:latitude":12.48848,
+    "geom:longitude":1.82605,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Ahkoudewe",
+    "gn:country_code":"BF",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363234,
+    "gn:latitude":12.48848,
+    "gn:longitude":1.82605,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Ahkoud\u00e8we",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363234
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b09873b7bfb8803a320068b165b41744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1344043045,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1344043045,
+    "wof:lastmodified":1536900850,
+    "wof:name":"Ahkoudewe",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.82605,
+    12.48848,
+    1.82605,
+    12.48848
+],
+  "geometry": {"coordinates":[1.82605,12.48848],"type":"Point"}
+}

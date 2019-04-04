@@ -1,0 +1,69 @@
+{
+  "id": 1310091121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.83,11.18111,0.83,11.18111",
+    "geom:latitude":11.18111,
+    "geom:longitude":0.83,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"57",
+    "gn:asciiname":"Tindangou",
+    "gn:country_code":"BF",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354450,
+    "gn:latitude":11.18111,
+    "gn:longitude":0.83,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tindangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890453941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354450,
+        "wk:page":"Tindangou"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"3166ee8e765327058a24fdffa086b977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453941,
+            "locality_id":1310091121,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1310091121,
+    "wof:lastmodified":1537487596,
+    "wof:name":"Tindangou",
+    "wof:parent_id":890453941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.83,
+    11.18111,
+    0.83,
+    11.18111
+],
+  "geometry": {"coordinates":[0.83,11.18111],"type":"Point"}
+}

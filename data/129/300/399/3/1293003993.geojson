@@ -1,0 +1,68 @@
+{
+  "id": 1293003993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.8,10.55,-4.8,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-4.8,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Niankar",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357363,
+    "gn:latitude":10.55,
+    "gn:longitude":-4.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Niankar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357363,
+        "wk:page":"Niankar"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4696bb87025eec267e06285362b619c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1293003993,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1293003993,
+    "wof:lastmodified":1537487616,
+    "wof:name":"Niankar",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.8,
+    10.55,
+    -4.8,
+    10.55
+],
+  "geometry": {"coordinates":[-4.8,10.55],"type":"Point"}
+}

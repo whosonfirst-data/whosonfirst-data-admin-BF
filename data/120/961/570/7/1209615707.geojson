@@ -1,0 +1,61 @@
+{
+  "id": 1209615707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.38333,11.13333,-0.38333,11.13333",
+    "geom:latitude":11.13333,
+    "geom:longitude":-0.38333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ounigare",
+    "gn:country_code":"BF",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356890,
+    "gn:latitude":11.13333,
+    "gn:longitude":-0.38333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ounigar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356890
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4239cab01b17f185b2dfa91c493276a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209615707
+        }
+    ],
+    "wof:id":1209615707,
+    "wof:lastmodified":1536281696,
+    "wof:name":"Ounigare",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.38333,
+    11.13333,
+    -0.38333,
+    11.13333
+],
+  "geometry": {"coordinates":[-0.38333,11.13333],"type":"Point"}
+}

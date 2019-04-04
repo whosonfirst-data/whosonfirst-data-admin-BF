@@ -1,0 +1,72 @@
+{
+  "id": 1360270877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.45932,12.92675,0.45932,12.92675",
+    "geom:latitude":12.92675,
+    "geom:longitude":0.45932,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bosega",
+    "gn:country_code":"BF",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362140,
+    "gn:latitude":12.92675,
+    "gn:longitude":0.45932,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Bos\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bos\u00e9ga",
+        "Bons\u00e9ga",
+        "Boss\u00e9gal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362140
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"555f0815f36c91d6004df912d9855265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1360270877,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1360270877,
+    "wof:lastmodified":1537587210,
+    "wof:name":"Bosega",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.45932,
+    12.92675,
+    0.45932,
+    12.92675
+],
+  "geometry": {"coordinates":[0.45932,12.92675],"type":"Point"}
+}

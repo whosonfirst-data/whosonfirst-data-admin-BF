@@ -1,0 +1,68 @@
+{
+  "id": 1226322953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.11371,13.85414,-1.11371,13.85414",
+    "geom:latitude":13.85414,
+    "geom:longitude":-1.11371,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Kelbo-Yarces",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359584,
+    "gn:latitude":13.85414,
+    "gn:longitude":-1.11371,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"K\u00e8lbo-Yarc\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359584
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2be7273b21254b08777049f04fcd942c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1226322953,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1226322953,
+    "wof:lastmodified":1536821546,
+    "wof:name":"Kelbo-Yarces",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.11371,
+    13.85414,
+    -1.11371,
+    13.85414
+],
+  "geometry": {"coordinates":[-1.11371,13.85414],"type":"Point"}
+}

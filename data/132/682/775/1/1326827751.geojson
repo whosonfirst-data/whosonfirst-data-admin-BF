@@ -1,0 +1,75 @@
+{
+  "id": 1326827751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.94616,12.32212,-1.94616,12.32212",
+    "geom:latitude":12.32212,
+    "geom:longitude":-1.94616,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"19",
+    "gn:asciiname":"Zekemzougou",
+    "gn:country_code":"BF",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353329,
+    "gn:latitude":12.32212,
+    "gn:longitude":-1.94616,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Z\u00e9k\u00e9mzougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9kamsougoye",
+        "Z\u00e9k\u00e9mzougou",
+        "Zinkemzougou",
+        "Z\u00e9k\u00e8mzougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353329,
+        "wk:page":"Z%C3%A9kemzougou"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"820b1950c7e80eee586f47faf17c7557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1326827751,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1326827751,
+    "wof:lastmodified":1537587090,
+    "wof:name":"Zekemzougou",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.94616,
+    12.32212,
+    -1.94616,
+    12.32212
+],
+  "geometry": {"coordinates":[-1.94616,12.32212],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209610439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86667,12.86667,-1.86667,12.86667",
+    "geom:latitude":12.86667,
+    "geom:longitude":-1.86667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nabazinerema",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357782,
+    "gn:latitude":12.86667,
+    "gn:longitude":-1.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nabazin\u00e9r\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabazigu\u00e9ma",
+        "Nabazin\u00e9r\u00e9ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357782
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ad6560b5042b7b11550aaa5930c05dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209610439
+        }
+    ],
+    "wof:id":1209610439,
+    "wof:lastmodified":1537587154,
+    "wof:name":"Nabazinerema",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86667,
+    12.86667,
+    -1.86667,
+    12.86667
+],
+  "geometry": {"coordinates":[-1.86667,12.86667],"type":"Point"}
+}

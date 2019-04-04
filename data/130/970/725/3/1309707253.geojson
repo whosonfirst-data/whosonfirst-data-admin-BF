@@ -1,0 +1,72 @@
+{
+  "id": 1309707253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.66877,11.67232,-4.66877,11.67232",
+    "geom:latitude":11.67232,
+    "geom:longitude":-4.66877,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Sabou",
+    "gn:country_code":"BF",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356137,
+    "gn:latitude":11.67232,
+    "gn:longitude":-4.66877,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sabou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saboua",
+        "Sabou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356137
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"644707fb98e65f9a2d303d07da689e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1309707253,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1309707253,
+    "wof:lastmodified":1537587131,
+    "wof:name":"Sabou",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.66877,
+    11.67232,
+    -4.66877,
+    11.67232
+],
+  "geometry": {"coordinates":[-4.66877,11.67232],"type":"Point"}
+}

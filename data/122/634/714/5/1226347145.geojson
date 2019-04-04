@@ -1,0 +1,72 @@
+{
+  "id": 1226347145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6906,13.31497,-1.6906,13.31497",
+    "geom:latitude":13.31497,
+    "geom:longitude":-1.6906,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Tamniga",
+    "gn:country_code":"BF",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355077,
+    "gn:latitude":13.31497,
+    "gn:longitude":-1.6906,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tamniga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talmigou",
+        "Tamniga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355077
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"aa488d4c5e95580ee8478de0ba0d7b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1226347145,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1226347145,
+    "wof:lastmodified":1537587115,
+    "wof:name":"Tamniga",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6906,
+    13.31497,
+    -1.6906,
+    13.31497
+],
+  "geometry": {"coordinates":[-1.6906,13.31497],"type":"Point"}
+}

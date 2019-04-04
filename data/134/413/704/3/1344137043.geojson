@@ -1,0 +1,68 @@
+{
+  "id": 1344137043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.86453,13.90782,-0.86453,13.90782",
+    "geom:latitude":13.90782,
+    "geom:longitude":-0.86453,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Tioke",
+    "gn:country_code":"BF",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354403,
+    "gn:latitude":13.90782,
+    "gn:longitude":-0.86453,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tiok\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354403
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2dd03d427ffc1310c8b9ebb4f6f4be13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1344137043,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1344137043,
+    "wof:lastmodified":1536765493,
+    "wof:name":"Tioke",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.86453,
+    13.90782,
+    -0.86453,
+    13.90782
+],
+  "geometry": {"coordinates":[-0.86453,13.90782],"type":"Point"}
+}

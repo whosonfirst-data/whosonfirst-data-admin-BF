@@ -1,0 +1,72 @@
+{
+  "id": 1293509915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.41568,12.59803,0.41568,12.59803",
+    "geom:latitude":12.59803,
+    "geom:longitude":0.41568,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oue",
+    "gn:country_code":"BF",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353810,
+    "gn:latitude":12.59803,
+    "gn:longitude":0.41568,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Ou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ou\u00e9",
+        "Kapol",
+        "W\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890435617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353810
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d7461f7f1f375f8f17355133b608159b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890435617,
+            "locality_id":1293509915,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1293509915,
+    "wof:lastmodified":1537587097,
+    "wof:name":"Oue",
+    "wof:parent_id":890435617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.41568,
+    12.59803,
+    0.41568,
+    12.59803
+],
+  "geometry": {"coordinates":[0.41568,12.59803],"type":"Point"}
+}

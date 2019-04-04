@@ -1,0 +1,68 @@
+{
+  "id": 1226331995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.84499,11.27292,-4.84499,11.27292",
+    "geom:latitude":11.27292,
+    "geom:longitude":-4.84499,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Niaoure",
+    "gn:country_code":"BF",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357348,
+    "gn:latitude":11.27292,
+    "gn:longitude":-4.84499,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Niaour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357348
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e7a6d321b38d589f74da12aa12324c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1226331995,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1226331995,
+    "wof:lastmodified":1536808957,
+    "wof:name":"Niaoure",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.84499,
+    11.27292,
+    -4.84499,
+    11.27292
+],
+  "geometry": {"coordinates":[-4.84499,11.27292],"type":"Point"}
+}

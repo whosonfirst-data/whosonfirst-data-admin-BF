@@ -1,0 +1,67 @@
+{
+  "id": 1293860213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.7,11.05,-2.7,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":-2.7,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dableteon",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361763,
+    "gn:latitude":11.05,
+    "gn:longitude":-2.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dabl\u00e9t\u00e9on",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890416509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361763
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"de1a4863b68ea5341052268d4f33b75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416509,
+            "locality_id":1293860213,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1293860213,
+    "wof:lastmodified":1536746687,
+    "wof:name":"Dableteon",
+    "wof:parent_id":890416509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.7,
+    11.05,
+    -2.7,
+    11.05
+],
+  "geometry": {"coordinates":[-2.7,11.05],"type":"Point"}
+}

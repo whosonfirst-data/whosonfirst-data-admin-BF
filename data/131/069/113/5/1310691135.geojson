@@ -1,0 +1,72 @@
+{
+  "id": 1310691135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.10735,11.08091,-4.10735,11.08091",
+    "geom:latitude":11.08091,
+    "geom:longitude":-4.10735,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Bare",
+    "gn:country_code":"BF",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362776,
+    "gn:latitude":11.08091,
+    "gn:longitude":-4.10735,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bari",
+        "Bar\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362776
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1346187128c4e2c3a3e8e4a7bb43e1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1310691135,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1310691135,
+    "wof:lastmodified":1537587218,
+    "wof:name":"Bare",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.10735,
+    11.08091,
+    -4.10735,
+    11.08091
+],
+  "geometry": {"coordinates":[-4.10735,11.08091],"type":"Point"}
+}

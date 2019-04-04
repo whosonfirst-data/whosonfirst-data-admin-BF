@@ -1,0 +1,67 @@
+{
+  "id": 1226739545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.08333,10.85,-5.08333,10.85",
+    "geom:latitude":10.85,
+    "geom:longitude":-5.08333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Todie",
+    "gn:country_code":"BF",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354325,
+    "gn:latitude":10.85,
+    "gn:longitude":-5.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Todi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354325
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d2b0e75ca1714e955e20981d5cdda586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1226739545,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1226739545,
+    "wof:lastmodified":1536724816,
+    "wof:name":"Todie",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.08333,
+    10.85,
+    -5.08333,
+    10.85
+],
+  "geometry": {"coordinates":[-5.08333,10.85],"type":"Point"}
+}

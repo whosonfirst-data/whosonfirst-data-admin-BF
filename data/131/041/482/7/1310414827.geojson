@@ -1,0 +1,71 @@
+{
+  "id": 1310414827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95,10.15,-3.95,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-3.95,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Poikoro",
+    "gn:country_code":"BF",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356408,
+    "gn:latitude":10.15,
+    "gn:longitude":-3.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Po\u00efkoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Po\u00efkoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356408,
+        "wk:page":"Poikoro"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"66fa339e127a690d31caaa6d0f4aec39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1310414827,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1310414827,
+    "wof:lastmodified":1537587135,
+    "wof:name":"Poikoro",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95,
+    10.15,
+    -3.95,
+    10.15
+],
+  "geometry": {"coordinates":[-3.95,10.15],"type":"Point"}
+}

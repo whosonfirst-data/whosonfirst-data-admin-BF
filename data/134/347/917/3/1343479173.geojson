@@ -1,0 +1,73 @@
+{
+  "id": 1343479173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.28618,13.61022,-2.28618,13.61022",
+    "geom:latitude":13.61022,
+    "geom:longitude":-2.28618,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Ouatinoma",
+    "gn:country_code":"BF",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353826,
+    "gn:latitude":13.61022,
+    "gn:longitude":-2.28618,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouatinoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Watimona",
+        "Watinoma",
+        "Ouatinoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353826
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"81954c5a9c061c878a24b62978ddee44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1343479173,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1343479173,
+    "wof:lastmodified":1537587098,
+    "wof:name":"Ouatinoma",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.28618,
+    13.61022,
+    -2.28618,
+    13.61022
+],
+  "geometry": {"coordinates":[-2.28618,13.61022],"type":"Point"}
+}

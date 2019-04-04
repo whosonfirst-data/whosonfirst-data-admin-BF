@@ -1,0 +1,67 @@
+{
+  "id": 1292992541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.16667,11.76667,-1.16667,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":-1.16667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Banguissame",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362870,
+    "gn:latitude":11.76667,
+    "gn:longitude":-1.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Banguissam\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362870
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e4d53f5d51fc9a545275ead9b7beebe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693645,
+            "locality_id":1292992541,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1292992541,
+    "wof:lastmodified":1537002829,
+    "wof:name":"Banguissame",
+    "wof:parent_id":1108693645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.16667,
+    11.76667,
+    -1.16667,
+    11.76667
+],
+  "geometry": {"coordinates":[-1.16667,11.76667],"type":"Point"}
+}

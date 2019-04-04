@@ -1,0 +1,67 @@
+{
+  "id": 1259872293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.58333,12.71667,-2.58333,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":-2.58333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nepoen",
+    "gn:country_code":"BF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357422,
+    "gn:latitude":12.71667,
+    "gn:longitude":-2.58333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00e9poen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357422
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ce1045f7199e9a4fae279c8560226d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1259872293,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1259872293,
+    "wof:lastmodified":1536795590,
+    "wof:name":"Nepoen",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.58333,
+    12.71667,
+    -2.58333,
+    12.71667
+],
+  "geometry": {"coordinates":[-2.58333,12.71667],"type":"Point"}
+}

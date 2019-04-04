@@ -1,0 +1,68 @@
+{
+  "id": 1293700883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.89003,13.25642,-2.89003,13.25642",
+    "geom:latitude":13.25642,
+    "geom:longitude":-2.89003,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Gan",
+    "gn:country_code":"BF",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360673,
+    "gn:latitude":13.25642,
+    "gn:longitude":-2.89003,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360673
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"84274e66b248ca674db7f13d46e516e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1293700883,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1293700883,
+    "wof:lastmodified":1536976104,
+    "wof:name":"Gan",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.89003,
+    13.25642,
+    -2.89003,
+    13.25642
+],
+  "geometry": {"coordinates":[-2.89003,13.25642],"type":"Point"}
+}

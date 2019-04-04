@@ -1,0 +1,68 @@
+{
+  "id": 1242757871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55579,13.28008,0.55579,13.28008",
+    "geom:latitude":13.28008,
+    "geom:longitude":0.55579,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Koygouroua",
+    "gn:country_code":"BF",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358626,
+    "gn:latitude":13.28008,
+    "gn:longitude":0.55579,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Koygouroua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358626
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a349c37510b793e5864d7cf106f7ab8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1242757871,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1242757871,
+    "wof:lastmodified":1536803951,
+    "wof:name":"Koygouroua",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55579,
+    13.28008,
+    0.55579,
+    13.28008
+],
+  "geometry": {"coordinates":[0.55579,13.28008],"type":"Point"}
+}

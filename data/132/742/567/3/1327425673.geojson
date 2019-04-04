@@ -1,0 +1,68 @@
+{
+  "id": 1327425673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.59472,12.07806,-1.59472,12.07806",
+    "geom:latitude":12.07806,
+    "geom:longitude":-1.59472,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Kodogo",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359370,
+    "gn:latitude":12.07806,
+    "gn:longitude":-1.59472,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kodogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359370
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"64f3d65aca11945bcf888c41b3dbf6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1327425673,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1327425673,
+    "wof:lastmodified":1536690707,
+    "wof:name":"Kodogo",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.59472,
+    12.07806,
+    -1.59472,
+    12.07806
+],
+  "geometry": {"coordinates":[-1.59472,12.07806],"type":"Point"}
+}

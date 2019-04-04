@@ -1,0 +1,67 @@
+{
+  "id": 1343583553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.25888,12.45943,0.25888,12.45943",
+    "geom:latitude":12.45943,
+    "geom:longitude":0.25888,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dyamou",
+    "gn:country_code":"BF",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360939,
+    "gn:latitude":12.45943,
+    "gn:longitude":0.25888,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Dyamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360939
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8280bf5ac197ee5a87871c94c4dd5080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1343583553,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1343583553,
+    "wof:lastmodified":1537063374,
+    "wof:name":"Dyamou",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.25888,
+    12.45943,
+    0.25888,
+    12.45943
+],
+  "geometry": {"coordinates":[0.25888,12.45943],"type":"Point"}
+}

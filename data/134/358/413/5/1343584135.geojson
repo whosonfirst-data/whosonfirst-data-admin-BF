@@ -1,0 +1,68 @@
+{
+  "id": 1343584135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03072,13.53031,-1.03072,13.53031",
+    "geom:latitude":13.53031,
+    "geom:longitude":-1.03072,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Lafi",
+    "gn:country_code":"BF",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7056448,
+    "gn:latitude":13.53031,
+    "gn:longitude":-1.03072,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Lafi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7056448
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c0f83a8d2c97c1610077a15830836311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1343584135,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1343584135,
+    "wof:lastmodified":1537062532,
+    "wof:name":"Lafi",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.03072,
+    13.53031,
+    -1.03072,
+    13.53031
+],
+  "geometry": {"coordinates":[-1.03072,13.53031],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210005699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.40759,13.93539,-2.40759,13.93539",
+    "geom:latitude":13.93539,
+    "geom:longitude":-2.40759,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Donombene",
+    "gn:country_code":"BF",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361104,
+    "gn:latitude":13.93539,
+    "gn:longitude":-2.40759,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Donomb\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donommb\u00e8n\u00e9",
+        "Donomb\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361104
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"23c214da033dd2d8d9c9b0bdca1cb83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1210005699,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1210005699,
+    "wof:lastmodified":1537587197,
+    "wof:name":"Donombene",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.40759,
+    13.93539,
+    -2.40759,
+    13.93539
+],
+  "geometry": {"coordinates":[-2.40759,13.93539],"type":"Point"}
+}

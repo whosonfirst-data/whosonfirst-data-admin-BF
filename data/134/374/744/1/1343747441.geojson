@@ -1,0 +1,67 @@
+{
+  "id": 1343747441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.25,12.88333,0.25,12.88333",
+    "geom:latitude":12.88333,
+    "geom:longitude":0.25,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Atyeri",
+    "gn:country_code":"BF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363159,
+    "gn:latitude":12.88333,
+    "gn:longitude":0.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Aty\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363159
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2a8a5654454009b1b7c40cb03127b9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1343747441,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1343747441,
+    "wof:lastmodified":1536828752,
+    "wof:name":"Atyeri",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.25,
+    12.88333,
+    0.25,
+    12.88333
+],
+  "geometry": {"coordinates":[0.25,12.88333],"type":"Point"}
+}

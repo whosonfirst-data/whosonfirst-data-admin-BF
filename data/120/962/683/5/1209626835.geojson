@@ -1,0 +1,62 @@
+{
+  "id": 1209626835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.70722,12.30306,-1.70722,12.30306",
+    "geom:latitude":12.30306,
+    "geom:longitude":-1.70722,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Songpelse",
+    "gn:country_code":"BF",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570341,
+    "gn:latitude":12.30306,
+    "gn:longitude":-1.70722,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Songpels\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570341
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"301168a9aadfcf1f37037d4e492f16ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209626835
+        }
+    ],
+    "wof:id":1209626835,
+    "wof:lastmodified":1536281328,
+    "wof:name":"Songpelse",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.7072200000000002,
+    12.30306,
+    -1.7072200000000002,
+    12.30306
+],
+  "geometry": {"coordinates":[-1.70722,12.30306],"type":"Point"}
+}

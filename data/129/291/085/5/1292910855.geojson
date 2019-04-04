@@ -1,0 +1,72 @@
+{
+  "id": 1292910855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.59389,12.14306,-1.59389,12.14306",
+    "geom:latitude":12.14306,
+    "geom:longitude":-1.59389,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Tangsega",
+    "gn:country_code":"BF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354956,
+    "gn:latitude":12.14306,
+    "gn:longitude":-1.59389,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tangs\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tans\u00e9ga",
+        "Tangs\u00e9ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354956
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a410953ef212c5e15a679ee787a06b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1292910855,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1292910855,
+    "wof:lastmodified":1537587112,
+    "wof:name":"Tangsega",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.59389,
+    12.14306,
+    -1.59389,
+    12.14306
+],
+  "geometry": {"coordinates":[-1.59389,12.14306],"type":"Point"}
+}

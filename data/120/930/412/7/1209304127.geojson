@@ -1,0 +1,62 @@
+{
+  "id": 1209304127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.70916,11.90484,-4.70916,11.90484",
+    "geom:latitude":11.90484,
+    "geom:longitude":-4.70916,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Zangazoni",
+    "gn:country_code":"BF",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353382,
+    "gn:latitude":11.90484,
+    "gn:longitude":-4.70916,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Zangazoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353382
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c3808113b066cef1e73f72c67f82b6ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209304127
+        }
+    ],
+    "wof:id":1209304127,
+    "wof:lastmodified":1536291254,
+    "wof:name":"Zangazoni",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.70916,
+    11.90484,
+    -4.70916,
+    11.90484
+],
+  "geometry": {"coordinates":[-4.70916,11.90484],"type":"Point"}
+}

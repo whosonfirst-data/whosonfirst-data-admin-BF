@@ -1,0 +1,68 @@
+{
+  "id": 1209496315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.025,12.54167,-1.025,12.54167",
+    "geom:latitude":12.54167,
+    "geom:longitude":-1.025,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Moaken",
+    "gn:country_code":"BF",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357953,
+    "gn:latitude":12.54167,
+    "gn:longitude":-1.025,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Moaken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mokin",
+        "Moaken",
+        "Mockin",
+        "Moakin",
+        "Moken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357953
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7dfd62659092c113cd32a2d262a97366",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209496315
+        }
+    ],
+    "wof:id":1209496315,
+    "wof:lastmodified":1537587157,
+    "wof:name":"Moaken",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.025,
+    12.54167,
+    -1.025,
+    12.54167
+],
+  "geometry": {"coordinates":[-1.025,12.54167],"type":"Point"}
+}

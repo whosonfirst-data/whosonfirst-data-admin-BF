@@ -1,0 +1,73 @@
+{
+  "id": 1226520487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.73083,12.65556,-1.73083,12.65556",
+    "geom:latitude":12.65556,
+    "geom:longitude":-1.73083,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"60",
+    "gn:asciiname":"Tyenpalogo",
+    "gn:country_code":"BF",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354002,
+    "gn:latitude":12.65556,
+    "gn:longitude":-1.73083,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tyenpalogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiendpalgo",
+        "Tyenpalogo",
+        "Tiempalogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354002
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"82de5a988554940ee84a69bcd63d511f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1226520487,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1226520487,
+    "wof:lastmodified":1537587100,
+    "wof:name":"Tyenpalogo",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.73083,
+    12.65556,
+    -1.73083,
+    12.65556
+],
+  "geometry": {"coordinates":[-1.73083,12.65556],"type":"Point"}
+}

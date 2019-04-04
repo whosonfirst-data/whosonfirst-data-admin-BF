@@ -1,0 +1,72 @@
+{
+  "id": 1293591009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6125,12.16056,-1.6125,12.16056",
+    "geom:latitude":12.16056,
+    "geom:longitude":-1.6125,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Nabayiri",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357780,
+    "gn:latitude":12.16056,
+    "gn:longitude":-1.6125,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nabayiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nab\u00e9aoudiyiri",
+        "Nabayiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357780
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4f0d6ba4795620362a1dd90e067eed10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1293591009,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1293591009,
+    "wof:lastmodified":1537587154,
+    "wof:name":"Nabayiri",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6125,
+    12.16056,
+    -1.6125,
+    12.16056
+],
+  "geometry": {"coordinates":[-1.6125,12.16056],"type":"Point"}
+}

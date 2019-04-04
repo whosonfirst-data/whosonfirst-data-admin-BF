@@ -1,0 +1,68 @@
+{
+  "id": 1326842035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.68361,12.14056,-1.68361,12.14056",
+    "geom:latitude":12.14056,
+    "geom:longitude":-1.68361,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Yaningue",
+    "gn:country_code":"BF",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570079,
+    "gn:latitude":12.14056,
+    "gn:longitude":-1.68361,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Yaningu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570079
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d50cdede91ac4d432bbab1ca7ec11764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1326842035,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1326842035,
+    "wof:lastmodified":1537033153,
+    "wof:name":"Yaningue",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.68361,
+    12.14056,
+    -1.68361,
+    12.14056
+],
+  "geometry": {"coordinates":[-1.68361,12.14056],"type":"Point"}
+}

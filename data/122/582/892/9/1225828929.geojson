@@ -1,0 +1,67 @@
+{
+  "id": 1225828929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08333,12.7,-2.08333,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":-2.08333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sibou",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355682,
+    "gn:latitude":12.7,
+    "gn:longitude":-2.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sibou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355682
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6ccb5d8651401c41e20c9e802b046c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1225828929,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1225828929,
+    "wof:lastmodified":1537036371,
+    "wof:name":"Sibou",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08333,
+    12.7,
+    -2.08333,
+    12.7
+],
+  "geometry": {"coordinates":[-2.08333,12.7],"type":"Point"}
+}

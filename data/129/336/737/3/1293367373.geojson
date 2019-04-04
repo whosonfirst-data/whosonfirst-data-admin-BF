@@ -1,0 +1,68 @@
+{
+  "id": 1293367373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.60544,13.5089,0.60544,13.5089",
+    "geom:latitude":13.5089,
+    "geom:longitude":0.60544,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Tyanga",
+    "gn:country_code":"BF",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354032,
+    "gn:latitude":13.5089,
+    "gn:longitude":0.60544,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tyanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354032
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b381b9283821ad8b5c59a062a4e6b627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1293367373,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1293367373,
+    "wof:lastmodified":1536960208,
+    "wof:name":"Tyanga",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.60544,
+    13.5089,
+    0.60544,
+    13.5089
+],
+  "geometry": {"coordinates":[0.60544,13.5089],"type":"Point"}
+}

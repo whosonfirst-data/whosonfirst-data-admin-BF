@@ -1,0 +1,68 @@
+{
+  "id": 1209804473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.97269,14.01403,-1.97269,14.01403",
+    "geom:latitude":14.01403,
+    "geom:longitude":-1.97269,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"62",
+    "gn:asciiname":"Feto Nay",
+    "gn:country_code":"BF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6873908,
+    "gn:latitude":14.01403,
+    "gn:longitude":-1.97269,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"F\u00e9to Nay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890453949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6873908
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d25460e839c5d60a5e0e7d9d07bc5223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":1209804473,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1209804473,
+    "wof:lastmodified":1536389228,
+    "wof:name":"Feto Nay",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.97269,
+    14.01403,
+    -1.97269,
+    14.01403
+],
+  "geometry": {"coordinates":[-1.97269,14.01403],"type":"Point"}
+}

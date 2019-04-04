@@ -1,0 +1,115 @@
+{
+  "id": 421196817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.49314,12.64824,0.49314,12.64824",
+    "geom:latitude":12.64824,
+    "geom:longitude":0.49314,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:deu_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:eng_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:fra_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:ita_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:nld_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:pol_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:por_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:ron_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0435\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Gay\u00e9ri"
+    ],
+    "qs:gn_country":"BF",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":2360541,
+    "qs:gn_pop":1958,
+    "qs:name":"Gay\u00e9ri",
+    "qs:name_adm0":"Burkina Faso",
+    "qs:name_adm1":"Komondjari",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1298935,
+    "qs:woe_adm0":23424978,
+    "qs:woe_id":1457911,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890435617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360541,
+        "gp:id":1457911,
+        "qs:id":1298935,
+        "wd:id":"Q1496612",
+        "wk:page":"Gay\u00e9ri"
+    },
+    "wof:country":"BF",
+    "wof:created":1459009894,
+    "wof:geomhash":"8bfe2329a8143e3abfc73a2cbcd3386b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890435617,
+            "locality_id":421196817,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":421196817,
+    "wof:lastmodified":1527716362,
+    "wof:name":"Gay\u00e9ri",
+    "wof:parent_id":890435617,
+    "wof:placetype":"locality",
+    "wof:population":1958,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.49314,
+    12.64824,
+    0.49314,
+    12.64824
+],
+  "geometry": {"coordinates":[0.49314,12.64824],"type":"Point"}
+}

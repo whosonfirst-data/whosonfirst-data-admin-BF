@@ -1,0 +1,66 @@
+{
+  "id": 1209512993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.08333,12.55,-2.08333,12.55",
+    "geom:latitude":12.55,
+    "geom:longitude":-2.08333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Coala",
+    "gn:country_code":"BF",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361780,
+    "gn:latitude":12.55,
+    "gn:longitude":-2.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Coala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goala",
+        "Coala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361780,
+        "wk:page":"Goala%2C_Burkina_Faso"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"37c7734f6de6b301cd66f88ba2c24fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209512993
+        }
+    ],
+    "wof:id":1209512993,
+    "wof:lastmodified":1537587206,
+    "wof:name":"Coala",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.08333,
+    12.55,
+    -2.08333,
+    12.55
+],
+  "geometry": {"coordinates":[-2.08333,12.55],"type":"Point"}
+}

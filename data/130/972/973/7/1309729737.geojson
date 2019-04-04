@@ -1,0 +1,72 @@
+{
+  "id": 1309729737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.95,12.96667,-3.95,12.96667",
+    "geom:latitude":12.96667,
+    "geom:longitude":-3.95,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Niankouni",
+    "gn:country_code":"BF",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357360,
+    "gn:latitude":12.96667,
+    "gn:longitude":-3.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Niankouni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niankoin\u00e9",
+        "Mianko\u00efne",
+        "Niankouni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357360
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b2577a6a6bd495e1caae37b7727c6eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1309729737,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1309729737,
+    "wof:lastmodified":1537587149,
+    "wof:name":"Niankouni",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.95,
+    12.96667,
+    -3.95,
+    12.96667
+],
+  "geometry": {"coordinates":[-3.95,12.96667],"type":"Point"}
+}

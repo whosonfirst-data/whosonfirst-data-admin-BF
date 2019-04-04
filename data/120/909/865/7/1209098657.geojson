@@ -1,0 +1,61 @@
+{
+  "id": 1209098657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13333,11.83333,-2.13333,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":-2.13333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Danialo",
+    "gn:country_code":"BF",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361601,
+    "gn:latitude":11.83333,
+    "gn:longitude":-2.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Danialo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361601
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"75ac7c02bf37c5c841742c7904c095e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209098657
+        }
+    ],
+    "wof:id":1209098657,
+    "wof:lastmodified":1536297805,
+    "wof:name":"Danialo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13333,
+    11.83333,
+    -2.13333,
+    11.83333
+],
+  "geometry": {"coordinates":[-2.13333,11.83333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225857857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3,10.45,-5.3,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":-5.3,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Niankorodougou",
+    "gn:country_code":"BF",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357361,
+    "gn:latitude":10.45,
+    "gn:longitude":-5.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Niankorodougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890453947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357361,
+        "wk:page":"Niankorodougou_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"00e264051751709205ca08f0c4408b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453947,
+            "locality_id":1225857857,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1225857857,
+    "wof:lastmodified":1537487616,
+    "wof:name":"Niankorodougou",
+    "wof:parent_id":890453947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3,
+    10.45,
+    -5.3,
+    10.45
+],
+  "geometry": {"coordinates":[-5.3,10.45],"type":"Point"}
+}

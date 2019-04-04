@@ -1,0 +1,61 @@
+{
+  "id": 1209207181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53333,11.55,-2.53333,11.55",
+    "geom:latitude":11.55,
+    "geom:longitude":-2.53333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Naparo",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357531,
+    "gn:latitude":11.55,
+    "gn:longitude":-2.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Naparo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357531
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c8b80387d1a8618dcf467141b797927e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209207181
+        }
+    ],
+    "wof:id":1209207181,
+    "wof:lastmodified":1536294415,
+    "wof:name":"Naparo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53333,
+    11.55,
+    -2.53333,
+    11.55
+],
+  "geometry": {"coordinates":[-2.53333,11.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343367813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.9,10.63333,-4.9,10.63333",
+    "geom:latitude":10.63333,
+    "geom:longitude":-4.9,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Toumousseni",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354118,
+    "gn:latitude":10.63333,
+    "gn:longitude":-4.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Toumouss\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toumouseni",
+        "Toumouss\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354118,
+        "wk:page":"Toumousseni"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2c6be1b538fc434a678f7a3746038356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1343367813,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1343367813,
+    "wof:lastmodified":1537587101,
+    "wof:name":"Toumousseni",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.9,
+    10.63333,
+    -4.9,
+    10.63333
+],
+  "geometry": {"coordinates":[-4.9,10.63333],"type":"Point"}
+}

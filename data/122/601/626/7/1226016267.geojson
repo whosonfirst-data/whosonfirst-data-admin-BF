@@ -1,0 +1,73 @@
+{
+  "id": 1226016267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.25588,10.76634,-3.25588,10.76634",
+    "geom:latitude":10.76634,
+    "geom:longitude":-3.25588,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tiankoura",
+    "gn:country_code":"BF",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354607,
+    "gn:latitude":10.76634,
+    "gn:longitude":-3.25588,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tiankoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiankura",
+        "Tionkoura",
+        "Tiankoura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890428985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354607,
+        "wk:page":"Tiankoura"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8dfe87d75053fc149a77ad44abaf511c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428985,
+            "locality_id":1226016267,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1226016267,
+    "wof:lastmodified":1537587107,
+    "wof:name":"Tiankoura",
+    "wof:parent_id":890428985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.25588,
+    10.76634,
+    -3.25588,
+    10.76634
+],
+  "geometry": {"coordinates":[-3.25588,10.76634],"type":"Point"}
+}

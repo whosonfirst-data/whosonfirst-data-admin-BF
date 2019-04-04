@@ -1,0 +1,72 @@
+{
+  "id": 1309729955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2199,13.2123,-4.2199,13.2123",
+    "geom:latitude":13.2123,
+    "geom:longitude":-4.2199,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Yaraye",
+    "gn:country_code":"BF",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353611,
+    "gn:latitude":13.2123,
+    "gn:longitude":-4.2199,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yaray\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9noulo",
+        "Yaray\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353611
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"08ab5e238e28ecbf709c6172866cef4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1309729955,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1309729955,
+    "wof:lastmodified":1537587094,
+    "wof:name":"Yaraye",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2199,
+    13.2123,
+    -4.2199,
+    13.2123
+],
+  "geometry": {"coordinates":[-4.2199,13.2123],"type":"Point"}
+}

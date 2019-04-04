@@ -1,0 +1,66 @@
+{
+  "id": 1209319239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03333,12.8,-1.03333,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":-1.03333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nyoroshen",
+    "gn:country_code":"BF",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357097,
+    "gn:latitude":12.8,
+    "gn:longitude":-1.03333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nyoroshen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niorochen",
+        "Nyoroshen",
+        "Nyorochin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357097
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b4c50278b9f9a4debac704d41494baaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209319239
+        }
+    ],
+    "wof:id":1209319239,
+    "wof:lastmodified":1537587145,
+    "wof:name":"Nyoroshen",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.03333,
+    12.8,
+    -1.03333,
+    12.8
+],
+  "geometry": {"coordinates":[-1.03333,12.8],"type":"Point"}
+}

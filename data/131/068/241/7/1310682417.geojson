@@ -1,0 +1,73 @@
+{
+  "id": 1310682417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.72694,12.79083,-1.72694,12.79083",
+    "geom:latitude":12.79083,
+    "geom:longitude":-1.72694,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"60",
+    "gn:asciiname":"Zegedegen",
+    "gn:country_code":"BF",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353343,
+    "gn:latitude":12.79083,
+    "gn:longitude":-1.72694,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Z\u00e9g\u00e9d\u00e9gen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e9gu\u00e9d\u00e9guen II",
+        "Z\u00e9g\u00e9d\u00e9gen",
+        "Z\u00e9gu\u00e9d\u00e9guin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353343
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fff64d95a18b5aa52ffe642f1a1910ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1310682417,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1310682417,
+    "wof:lastmodified":1537587091,
+    "wof:name":"Zegedegen",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.72694,
+    12.79083,
+    -1.72694,
+    12.79083
+],
+  "geometry": {"coordinates":[-1.72694,12.79083],"type":"Point"}
+}

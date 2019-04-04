@@ -1,0 +1,67 @@
+{
+  "id": 1259670139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.25,10.13333,-3.25,10.13333",
+    "geom:latitude":10.13333,
+    "geom:longitude":-3.25,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Denouara",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361446,
+    "gn:latitude":10.13333,
+    "gn:longitude":-3.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"D\u00e9nouara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361446
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"550abcee4d9a9a62624b94096247ffcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1259670139,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1259670139,
+    "wof:lastmodified":1537083101,
+    "wof:name":"Denouara",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.25,
+    10.13333,
+    -3.25,
+    10.13333
+],
+  "geometry": {"coordinates":[-3.25,10.13333],"type":"Point"}
+}

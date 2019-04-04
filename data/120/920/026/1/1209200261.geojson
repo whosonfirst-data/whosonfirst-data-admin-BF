@@ -1,0 +1,61 @@
+{
+  "id": 1209200261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31667,12.25,0.31667,12.25",
+    "geom:latitude":12.25,
+    "geom:longitude":0.31667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kondidyoaga",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359171,
+    "gn:latitude":12.25,
+    "gn:longitude":0.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kondidyoaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359171
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0e76418cfca6ac4c6e915cd8b9cacd3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209200261
+        }
+    ],
+    "wof:id":1209200261,
+    "wof:lastmodified":1536294636,
+    "wof:name":"Kondidyoaga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31667,
+    12.25,
+    0.31667,
+    12.25
+],
+  "geometry": {"coordinates":[0.31667,12.25],"type":"Point"}
+}

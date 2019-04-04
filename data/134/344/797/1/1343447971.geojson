@@ -1,0 +1,72 @@
+{
+  "id": 1343447971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.14505,13.92775,-1.14505,13.92775",
+    "geom:latitude":13.92775,
+    "geom:longitude":-1.14505,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Dioumssogui",
+    "gn:country_code":"BF",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361203,
+    "gn:latitude":13.92775,
+    "gn:longitude":-1.14505,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dioumssogui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dioumsogui",
+        "Dioumssogui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361203
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7f23bc8c8df2f4af06a2c5416ed96cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1343447971,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1343447971,
+    "wof:lastmodified":1537587199,
+    "wof:name":"Dioumssogui",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.14505,
+    13.92775,
+    -1.14505,
+    13.92775
+],
+  "geometry": {"coordinates":[-1.14505,13.92775],"type":"Point"}
+}

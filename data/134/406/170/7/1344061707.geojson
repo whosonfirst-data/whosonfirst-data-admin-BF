@@ -1,0 +1,69 @@
+{
+  "id": 1344061707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.72356,13.20918,-0.72356,13.20918",
+    "geom:latitude":13.20918,
+    "geom:longitude":-0.72356,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Doga",
+    "gn:country_code":"BF",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361148,
+    "gn:latitude":13.20918,
+    "gn:longitude":-0.72356,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361148,
+        "wk:page":"Doga%2C_Burkina_Faso"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fa60be68409e304ec5cdc2551789c0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1344061707,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1344061707,
+    "wof:lastmodified":1537487641,
+    "wof:name":"Doga",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.72356,
+    13.20918,
+    -0.72356,
+    13.20918
+],
+  "geometry": {"coordinates":[-0.72356,13.20918],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209291001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.65,11.1,-2.65,11.1",
+    "geom:latitude":11.1,
+    "geom:longitude":-2.65,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tamagan",
+    "gn:country_code":"BF",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355128,
+    "gn:latitude":11.1,
+    "gn:longitude":-2.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tamagan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355128
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1f45cb12ce57e8dbbf7eeb75110f97c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209291001
+        }
+    ],
+    "wof:id":1209291001,
+    "wof:lastmodified":1536291695,
+    "wof:name":"Tamagan",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.65,
+    11.1,
+    -2.65,
+    11.1
+],
+  "geometry": {"coordinates":[-2.65,11.1],"type":"Point"}
+}

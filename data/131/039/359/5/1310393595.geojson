@@ -1,0 +1,68 @@
+{
+  "id": 1310393595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.55,12.31667,-0.55,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":-0.55,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Imiga",
+    "gn:country_code":"BF",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360034,
+    "gn:latitude":12.31667,
+    "gn:longitude":-0.55,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Imiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890428979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360034,
+        "wk:page":"Imiga"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2410f1d6d3fdcdd8df8b090625872e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428979,
+            "locality_id":1310393595,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1310393595,
+    "wof:lastmodified":1537487634,
+    "wof:name":"Imiga",
+    "wof:parent_id":890428979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.55,
+    12.31667,
+    -0.55,
+    12.31667
+],
+  "geometry": {"coordinates":[-0.55,12.31667],"type":"Point"}
+}

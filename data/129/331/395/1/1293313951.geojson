@@ -1,0 +1,72 @@
+{
+  "id": 1293313951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.65306,12.04333,-1.65306,12.04333",
+    "geom:latitude":12.04333,
+    "geom:longitude":-1.65306,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Kouizili",
+    "gn:country_code":"BF",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358901,
+    "gn:latitude":12.04333,
+    "gn:longitude":-1.65306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouizili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kousila",
+        "Kouizili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358901
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ea042b0f321f1a70b25e943acd67079e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1293313951,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1293313951,
+    "wof:lastmodified":1537587169,
+    "wof:name":"Kouizili",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.65306,
+    12.04333,
+    -1.65306,
+    12.04333
+],
+  "geometry": {"coordinates":[-1.65306,12.04333],"type":"Point"}
+}

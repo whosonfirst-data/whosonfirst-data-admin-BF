@@ -1,0 +1,72 @@
+{
+  "id": 1309901027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.98333,12.71667,-1.98333,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":-1.98333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gouda",
+    "gn:country_code":"BF",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360331,
+    "gn:latitude":12.71667,
+    "gn:longitude":-1.98333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gouda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gounda",
+        "Gouda",
+        "Godou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360331
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"91149c28d3242f1fd44e310ba36278ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1309901027,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1309901027,
+    "wof:lastmodified":1537587187,
+    "wof:name":"Gouda",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.98333,
+    12.71667,
+    -1.98333,
+    12.71667
+],
+  "geometry": {"coordinates":[-1.98333,12.71667],"type":"Point"}
+}

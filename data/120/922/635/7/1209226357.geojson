@@ -1,0 +1,63 @@
+{
+  "id": 1209226357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.16972,12.21611,-1.16972,12.21611",
+    "geom:latitude":12.21611,
+    "geom:longitude":-1.16972,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Tansablogo",
+    "gn:country_code":"BF",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593813,
+    "gn:latitude":12.21611,
+    "gn:longitude":-1.16972,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tansablogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593813,
+        "wk:page":"Tansablogo"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9a52dc7050d268feecc1c740bf4cf3c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209226357
+        }
+    ],
+    "wof:id":1209226357,
+    "wof:lastmodified":1537487656,
+    "wof:name":"Tansablogo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.16972,
+    12.21611,
+    -1.16972,
+    12.21611
+],
+  "geometry": {"coordinates":[-1.16972,12.21611],"type":"Point"}
+}

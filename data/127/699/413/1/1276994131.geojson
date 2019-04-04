@@ -1,0 +1,77 @@
+{
+  "id": 1276994131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.46667,10.58333,-5.46667,10.58333",
+    "geom:latitude":10.58333,
+    "geom:longitude":-5.46667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Soumeila",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355239,
+    "gn:latitude":10.58333,
+    "gn:longitude":-5.46667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Soume\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890453947,
+        85632553,
+        85674531,
+        1108562817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355239
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ac55feb3a79db26664a1829e3727d5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453947,
+            "locality_id":1276994131,
+            "region_id":1108805703
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632553,
+            "county_id":1108562817,
+            "locality_id":1276994131,
+            "region_id":85674531
+        }
+    ],
+    "wof:id":1276994131,
+    "wof:lastmodified":1536887402,
+    "wof:name":"Soumeila",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.46667,
+    10.58333,
+    -5.46667,
+    10.58333
+],
+  "geometry": {"coordinates":[-5.46667,10.58333],"type":"Point"}
+}

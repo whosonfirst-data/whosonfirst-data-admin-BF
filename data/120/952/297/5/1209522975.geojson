@@ -1,0 +1,62 @@
+{
+  "id": 1209522975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.43544,12.39085,-1.43544,12.39085",
+    "geom:latitude":12.39085,
+    "geom:longitude":-1.43544,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Ganganden",
+    "gn:country_code":"BF",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570168,
+    "gn:latitude":12.39085,
+    "gn:longitude":-1.43544,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ganganden",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570168
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8456b44426200635bf99d3a93560fc9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209522975
+        }
+    ],
+    "wof:id":1209522975,
+    "wof:lastmodified":1536284521,
+    "wof:name":"Ganganden",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.43544,
+    12.39085,
+    -1.43544,
+    12.39085
+],
+  "geometry": {"coordinates":[-1.43544,12.39085],"type":"Point"}
+}

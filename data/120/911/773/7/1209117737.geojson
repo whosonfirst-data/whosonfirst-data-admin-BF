@@ -1,0 +1,65 @@
+{
+  "id": 1209117737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.41472,12.38016,-1.41472,12.38016",
+    "geom:latitude":12.38016,
+    "geom:longitude":-1.41472,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Wamtenga",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570158,
+    "gn:latitude":12.38016,
+    "gn:longitude":-1.41472,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Wamtenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouamtenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570158
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"3856c88e3819acc985bfd75fa7790249",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209117737
+        }
+    ],
+    "wof:id":1209117737,
+    "wof:lastmodified":1537587224,
+    "wof:name":"Wamtenga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.41472,
+    12.38016,
+    -1.41472,
+    12.38016
+],
+  "geometry": {"coordinates":[-1.41472,12.38016],"type":"Point"}
+}

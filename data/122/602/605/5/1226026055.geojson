@@ -1,0 +1,73 @@
+{
+  "id": 1226026055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23333,12.63333,-1.23333,12.63333",
+    "geom:latitude":12.63333,
+    "geom:longitude":-1.23333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kalougyese",
+    "gn:country_code":"BF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359854,
+    "gn:latitude":12.63333,
+    "gn:longitude":-1.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kalougy\u00e9s\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boalin",
+        "Kalougy\u00e9s\u00e9",
+        "Kalouguy\u00e9ss\u00e9",
+        "Boalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890413157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359854
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"09dcda56af955a8a0d1b471079103b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":1226026055,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1226026055,
+    "wof:lastmodified":1537587181,
+    "wof:name":"Kalougyese",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23333,
+    12.63333,
+    -1.23333,
+    12.63333
+],
+  "geometry": {"coordinates":[-1.23333,12.63333],"type":"Point"}
+}

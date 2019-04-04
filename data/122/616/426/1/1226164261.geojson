@@ -1,0 +1,73 @@
+{
+  "id": 1226164261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.37361,12.03611,-1.37361,12.03611",
+    "geom:latitude":12.03611,
+    "geom:longitude":-1.37361,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Belegre",
+    "gn:country_code":"BF",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362616,
+    "gn:latitude":12.03611,
+    "gn:longitude":-1.37361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9l\u00e9gr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9lagar\u00e9",
+        "B\u00e9l\u00e9gr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362616,
+        "wk:page":"B%C3%A9l%C3%A9gr%C3%A9"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"37fee8ded412d81c89f9c33cbee80386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1226164261,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1226164261,
+    "wof:lastmodified":1537587215,
+    "wof:name":"Belegre",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.37361,
+    12.03611,
+    -1.37361,
+    12.03611
+],
+  "geometry": {"coordinates":[-1.37361,12.03611],"type":"Point"}
+}

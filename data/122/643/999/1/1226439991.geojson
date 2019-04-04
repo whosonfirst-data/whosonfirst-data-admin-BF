@@ -1,0 +1,67 @@
+{
+  "id": 1226439991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.61667,12.65,-2.61667,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-2.61667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Semala",
+    "gn:country_code":"BF",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355757,
+    "gn:latitude":12.65,
+    "gn:longitude":-2.61667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"S\u00e8mala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355757
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6f4fbd4e1b29103c573fc21c2726f61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1226439991,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1226439991,
+    "wof:lastmodified":1536653755,
+    "wof:name":"Semala",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.61667,
+    12.65,
+    -2.61667,
+    12.65
+],
+  "geometry": {"coordinates":[-2.61667,12.65],"type":"Point"}
+}

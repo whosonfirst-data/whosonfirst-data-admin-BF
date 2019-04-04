@@ -1,0 +1,66 @@
+{
+  "id": 1209626741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.7125,12.24972,-1.7125,12.24972",
+    "geom:latitude":12.24972,
+    "geom:longitude":-1.7125,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Siguinvousse",
+    "gn:country_code":"BF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355629,
+    "gn:latitude":12.24972,
+    "gn:longitude":-1.7125,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Siguinvouss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siguinvous\u00e9",
+        "Siguinvouss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355629
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"69b9051e2ce1d84b15a16c09a7216f15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209626741
+        }
+    ],
+    "wof:id":1209626741,
+    "wof:lastmodified":1537587123,
+    "wof:name":"Siguinvousse",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.7125,
+    12.24972,
+    -1.7125,
+    12.24972
+],
+  "geometry": {"coordinates":[-1.7125,12.24972],"type":"Point"}
+}

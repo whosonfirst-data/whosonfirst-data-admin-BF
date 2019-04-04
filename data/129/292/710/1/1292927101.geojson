@@ -1,0 +1,72 @@
+{
+  "id": 1292927101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63444,12.08611,-1.63444,12.08611",
+    "geom:latitude":12.08611,
+    "geom:longitude":-1.63444,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Pouken",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570115,
+    "gn:latitude":12.08611,
+    "gn:longitude":-1.63444,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Pouken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poukin",
+        "Pouken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570115
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"cd2b09593d8da85ed514693d70315300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1292927101,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1292927101,
+    "wof:lastmodified":1537587224,
+    "wof:name":"Pouken",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63444,
+    12.08611,
+    -1.63444,
+    12.08611
+],
+  "geometry": {"coordinates":[-1.63444,12.08611],"type":"Point"}
+}

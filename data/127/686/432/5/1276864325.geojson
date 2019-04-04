@@ -1,0 +1,72 @@
+{
+  "id": 1276864325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.85,12.2,-1.85,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":-1.85,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pasotenga",
+    "gn:country_code":"BF",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356677,
+    "gn:latitude":12.2,
+    "gn:longitude":-1.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pasotenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bassotenga",
+        "Pasotenga",
+        "Passotenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356677
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5d56728883f27313131d242fb368d249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1276864325,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1276864325,
+    "wof:lastmodified":1537587138,
+    "wof:name":"Pasotenga",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.85,
+    12.2,
+    -1.85,
+    12.2
+],
+  "geometry": {"coordinates":[-1.85,12.2],"type":"Point"}
+}

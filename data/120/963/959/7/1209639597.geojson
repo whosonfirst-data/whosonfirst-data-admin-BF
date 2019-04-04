@@ -1,0 +1,61 @@
+{
+  "id": 1209639597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.36667,11.11667,-0.36667,11.11667",
+    "geom:latitude":11.11667,
+    "geom:longitude":-0.36667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Belaherla",
+    "gn:country_code":"BF",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362615,
+    "gn:latitude":11.11667,
+    "gn:longitude":-0.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u00e9laherla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362615
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8b5a1e7f12eb2f0297e97ded45f3a6cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209639597
+        }
+    ],
+    "wof:id":1209639597,
+    "wof:lastmodified":1536280926,
+    "wof:name":"Belaherla",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.36667,
+    11.11667,
+    -0.36667,
+    11.11667
+],
+  "geometry": {"coordinates":[-0.36667,11.11667],"type":"Point"}
+}

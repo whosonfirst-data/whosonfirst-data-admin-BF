@@ -1,0 +1,71 @@
+{
+  "id": 1276429197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.65,12.7,-1.65,12.7",
+    "geom:latitude":12.7,
+    "geom:longitude":-1.65,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sirmissi",
+    "gn:country_code":"BF",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355490,
+    "gn:latitude":12.7,
+    "gn:longitude":-1.65,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sirmissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silmissi",
+        "Sirmissi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355490
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f1138eb9525e4a7fa32af817bfed265f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1276429197,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1276429197,
+    "wof:lastmodified":1537587121,
+    "wof:name":"Sirmissi",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.65,
+    12.7,
+    -1.65,
+    12.7
+],
+  "geometry": {"coordinates":[-1.65,12.7],"type":"Point"}
+}

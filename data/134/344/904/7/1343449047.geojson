@@ -1,0 +1,71 @@
+{
+  "id": 1343449047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.26667,12.66667,-1.26667,12.66667",
+    "geom:latitude":12.66667,
+    "geom:longitude":-1.26667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gam Silmimose",
+    "gn:country_code":"BF",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360675,
+    "gn:latitude":12.66667,
+    "gn:longitude":-1.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gam Silmimos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gam Silmimoss\u00e9",
+        "Gam Silmimos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890413157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360675
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d5de8ad39d4a0f6d9d6d10d44e530d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":1343449047,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1343449047,
+    "wof:lastmodified":1537587192,
+    "wof:name":"Gam Silmimose",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.26667,
+    12.66667,
+    -1.26667,
+    12.66667
+],
+  "geometry": {"coordinates":[-1.26667,12.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276648217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.5,11.36667,-1.5,11.36667",
+    "geom:latitude":11.36667,
+    "geom:longitude":-1.5,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Netiana",
+    "gn:country_code":"BF",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357410,
+    "gn:latitude":11.36667,
+    "gn:longitude":-1.5,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"N\u00e9tiana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        890413159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357410
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ce3181a1fd3729ea5dd80a43ca7dcb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413159,
+            "locality_id":1276648217,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1276648217,
+    "wof:lastmodified":1536852804,
+    "wof:name":"Netiana",
+    "wof:parent_id":890413159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.5,
+    11.36667,
+    -1.5,
+    11.36667
+],
+  "geometry": {"coordinates":[-1.5,11.36667],"type":"Point"}
+}

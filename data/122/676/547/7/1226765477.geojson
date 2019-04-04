@@ -1,0 +1,67 @@
+{
+  "id": 1226765477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.9,12.35,-2.9,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":-2.9,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Woro",
+    "gn:country_code":"BF",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353733,
+    "gn:latitude":12.35,
+    "gn:longitude":-2.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Woro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353733
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"daac38813ba85d339e6b8563bbf2f0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413161,
+            "locality_id":1226765477,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1226765477,
+    "wof:lastmodified":1536687176,
+    "wof:name":"Woro",
+    "wof:parent_id":890413161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.9,
+    12.35,
+    -2.9,
+    12.35
+],
+  "geometry": {"coordinates":[-2.9,12.35],"type":"Point"}
+}

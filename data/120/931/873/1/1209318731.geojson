@@ -1,0 +1,65 @@
+{
+  "id": 1209318731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.8,12.61667,-2.8,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":-2.8,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sui",
+    "gn:country_code":"BF",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355196,
+    "gn:latitude":12.61667,
+    "gn:longitude":-2.8,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soui",
+        "Sui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355196
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"50f6bf37f14ac1f617edbb572b9f4807",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209318731
+        }
+    ],
+    "wof:id":1209318731,
+    "wof:lastmodified":1537587116,
+    "wof:name":"Sui",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8,
+    12.61667,
+    -2.8,
+    12.61667
+],
+  "geometry": {"coordinates":[-2.8,12.61667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209332287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.0265,13.1073,-4.0265,13.1073",
+    "geom:latitude":13.1073,
+    "geom:longitude":-4.0265,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Medou",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358011,
+    "gn:latitude":13.1073,
+    "gn:longitude":-4.0265,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"M\u00e8dou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358011
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c0b3e1b05588bfd5dae047b5f948bde9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209332287
+        }
+    ],
+    "wof:id":1209332287,
+    "wof:lastmodified":1536290335,
+    "wof:name":"Medou",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.0265,
+    13.1073,
+    -4.0265,
+    13.1073
+],
+  "geometry": {"coordinates":[-4.0265,13.1073],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243156575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.47159,11.69144,-4.47159,11.69144",
+    "geom:latitude":11.69144,
+    "geom:longitude":-4.47159,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Tarama",
+    "gn:country_code":"BF",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354761,
+    "gn:latitude":11.69144,
+    "gn:longitude":-4.47159,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354761
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"19db9758c85b8c0f0c54a1dee5fdfa42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1243156575,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1243156575,
+    "wof:lastmodified":1536726879,
+    "wof:name":"Tarama",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.47159,
+    11.69144,
+    -4.47159,
+    11.69144
+],
+  "geometry": {"coordinates":[-4.47159,11.69144],"type":"Point"}
+}

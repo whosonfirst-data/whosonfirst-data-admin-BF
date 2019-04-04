@@ -1,0 +1,71 @@
+{
+  "id": 1310305253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.32223,11.59508,-0.32223,11.59508",
+    "geom:latitude":11.59508,
+    "geom:longitude":-0.32223,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Oumnogue",
+    "gn:country_code":"BF",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356893,
+    "gn:latitude":11.59508,
+    "gn:longitude":-0.32223,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Oumnogu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oumnogu\u00e9",
+        "Oumnogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356893
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"193a9b999b231ef550f4ea83ac6c8a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1310305253,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1310305253,
+    "wof:lastmodified":1537587141,
+    "wof:name":"Oumnogue",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.32223,
+    11.59508,
+    -0.32223,
+    11.59508
+],
+  "geometry": {"coordinates":[-0.32223,11.59508],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343838173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.41881,14.69103,-0.41881,14.69103",
+    "geom:latitude":14.69103,
+    "geom:longitude":-0.41881,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Bouloy",
+    "gn:country_code":"BF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361951,
+    "gn:latitude":14.69103,
+    "gn:longitude":-0.41881,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Bouloy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361951
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"3e974b4d011629f83ad1ba7522d1bff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413153,
+            "locality_id":1343838173,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1343838173,
+    "wof:lastmodified":1536699055,
+    "wof:name":"Bouloy",
+    "wof:parent_id":890413153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.41881,
+    14.69103,
+    -0.41881,
+    14.69103
+],
+  "geometry": {"coordinates":[-0.41881,14.69103],"type":"Point"}
+}

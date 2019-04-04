@@ -1,0 +1,72 @@
+{
+  "id": 1343779655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.075,12.0543,-4.075,12.0543",
+    "geom:latitude":12.0543,
+    "geom:longitude":-4.075,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Baye",
+    "gn:country_code":"BF",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362652,
+    "gn:latitude":12.0543,
+    "gn:longitude":-4.075,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bay\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bay\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890416507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362652,
+        "wk:page":"Bay%C3%A9"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d5d74a6c26b9370ca802bda28a2d3539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416507,
+            "locality_id":1343779655,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1343779655,
+    "wof:lastmodified":1537587216,
+    "wof:name":"Baye",
+    "wof:parent_id":890416507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.075,
+    12.0543,
+    -4.075,
+    12.0543
+],
+  "geometry": {"coordinates":[-4.075,12.0543],"type":"Point"}
+}

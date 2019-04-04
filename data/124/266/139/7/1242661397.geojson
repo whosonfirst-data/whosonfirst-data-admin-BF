@@ -1,0 +1,72 @@
+{
+  "id": 1242661397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.4985,13.93688,-2.4985,13.93688",
+    "geom:latitude":13.93688,
+    "geom:longitude":-2.4985,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Bidibawoy",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362517,
+    "gn:latitude":13.93688,
+    "gn:longitude":-2.4985,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bidibawoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bidibawoye",
+        "Bidibawoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362517
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4b697c50cb9c14a35ed8d5cf2b2514f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1242661397,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1242661397,
+    "wof:lastmodified":1537587214,
+    "wof:name":"Bidibawoy",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.4985,
+    13.93688,
+    -2.4985,
+    13.93688
+],
+  "geometry": {"coordinates":[-2.4985,13.93688],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209311369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.02712,13.0286,0.02712,13.0286",
+    "geom:latitude":13.0286,
+    "geom:longitude":0.02712,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Kobori",
+    "gn:country_code":"BF",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359396,
+    "gn:latitude":13.0286,
+    "gn:longitude":0.02712,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kobori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359396
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"62d8b5f23fdf739cc8777df502d6d36d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209311369
+        }
+    ],
+    "wof:id":1209311369,
+    "wof:lastmodified":1536291017,
+    "wof:name":"Kobori",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.02712,
+    13.0286,
+    0.02712,
+    13.0286
+],
+  "geometry": {"coordinates":[0.02712,13.0286],"type":"Point"}
+}

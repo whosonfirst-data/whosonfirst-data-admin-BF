@@ -1,0 +1,67 @@
+{
+  "id": 1293313801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.36667,11.95,-1.36667,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-1.36667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sare",
+    "gn:country_code":"BF",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355850,
+    "gn:latitude":11.95,
+    "gn:longitude":-1.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355850
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"296b438e2aa69b954c19816198befbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1293313801,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1293313801,
+    "wof:lastmodified":1537035955,
+    "wof:name":"Sare",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.36667,
+    11.95,
+    -1.36667,
+    11.95
+],
+  "geometry": {"coordinates":[-1.36667,11.95],"type":"Point"}
+}

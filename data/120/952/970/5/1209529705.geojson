@@ -1,0 +1,67 @@
+{
+  "id": 1209529705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1995,12.3527,-4.1995,12.3527",
+    "geom:latitude":12.3527,
+    "geom:longitude":-4.1995,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Badinga",
+    "gn:country_code":"BF",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363114,
+    "gn:latitude":12.3527,
+    "gn:longitude":-4.1995,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Badinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badigna",
+        "Badinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363114,
+        "wk:page":"Badinga"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"30ed9a01c9fe36e9ab0dafb4917b2cad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209529705
+        }
+    ],
+    "wof:id":1209529705,
+    "wof:lastmodified":1537587222,
+    "wof:name":"Badinga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1995,
+    12.3527,
+    -4.1995,
+    12.3527
+],
+  "geometry": {"coordinates":[-4.1995,12.3527],"type":"Point"}
+}

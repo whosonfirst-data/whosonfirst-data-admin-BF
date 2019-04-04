@@ -1,0 +1,72 @@
+{
+  "id": 1360099301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.20165,12.81831,-3.20165,12.81831",
+    "geom:latitude":12.81831,
+    "geom:longitude":-3.20165,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gassan",
+    "gn:country_code":"BF",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360560,
+    "gn:latitude":12.81831,
+    "gn:longitude":-3.20165,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Gassan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gasson",
+        "Gassan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890453951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360560,
+        "wk:page":"Gassam_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f447cd572e52847239ab06f51cfd4453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453951,
+            "locality_id":1360099301,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1360099301,
+    "wof:lastmodified":1537587191,
+    "wof:name":"Gassan",
+    "wof:parent_id":890453951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.20165,
+    12.81831,
+    -3.20165,
+    12.81831
+],
+  "geometry": {"coordinates":[-3.20165,12.81831],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293865069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53444,12.66917,-1.53444,12.66917",
+    "geom:latitude":12.66917,
+    "geom:longitude":-1.53444,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"68",
+    "gn:asciiname":"Dapelogo",
+    "gn:country_code":"BF",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361567,
+    "gn:latitude":12.66917,
+    "gn:longitude":-1.53444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dap\u00e9logo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dap\u00e9lgo",
+        "Dapelgho",
+        "Dap\u00e9logo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890413157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361567,
+        "wk:page":"Dap%C3%A9logo_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c216f6350796a533849d1b9b82a4aea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":1293865069,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1293865069,
+    "wof:lastmodified":1537587203,
+    "wof:name":"Dapelogo",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53444,
+    12.66917,
+    -1.53444,
+    12.66917
+],
+  "geometry": {"coordinates":[-1.53444,12.66917],"type":"Point"}
+}

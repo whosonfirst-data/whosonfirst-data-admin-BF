@@ -1,0 +1,67 @@
+{
+  "id": 1259388701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.31667,11.95,-0.31667,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-0.31667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Soumde",
+    "gn:country_code":"BF",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355240,
+    "gn:latitude":11.95,
+    "gn:longitude":-0.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Soumd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890413163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355240
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"501ddbb2c68c236166acc506acfe8eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413163,
+            "locality_id":1259388701,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1259388701,
+    "wof:lastmodified":1536993846,
+    "wof:name":"Soumde",
+    "wof:parent_id":890413163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.31667,
+    11.95,
+    -0.31667,
+    11.95
+],
+  "geometry": {"coordinates":[-0.31667,11.95],"type":"Point"}
+}

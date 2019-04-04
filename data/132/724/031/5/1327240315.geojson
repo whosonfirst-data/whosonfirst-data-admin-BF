@@ -1,0 +1,67 @@
+{
+  "id": 1327240315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.26667,10.56667,-5.26667,10.56667",
+    "geom:latitude":10.56667,
+    "geom:longitude":-5.26667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Koukouli",
+    "gn:country_code":"BF",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358887,
+    "gn:latitude":10.56667,
+    "gn:longitude":-5.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koukouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890453947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358887
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bc32c47585f0b546f294a20219a81436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453947,
+            "locality_id":1327240315,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1327240315,
+    "wof:lastmodified":1536958026,
+    "wof:name":"Koukouli",
+    "wof:parent_id":890453947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.26667,
+    10.56667,
+    -5.26667,
+    10.56667
+],
+  "geometry": {"coordinates":[-5.26667,10.56667],"type":"Point"}
+}

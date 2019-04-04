@@ -1,0 +1,62 @@
+{
+  "id": 1209523039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.42207,12.35749,-1.42207,12.35749",
+    "geom:latitude":12.35749,
+    "geom:longitude":-1.42207,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Koulogroure",
+    "gn:country_code":"BF",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570189,
+    "gn:latitude":12.35749,
+    "gn:longitude":-1.42207,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Koulogrour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570189
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9172224d8c6aea3d68cc1a12fc42854c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209523039
+        }
+    ],
+    "wof:id":1209523039,
+    "wof:lastmodified":1536284519,
+    "wof:name":"Koulogroure",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.4220700000000002,
+    12.35749,
+    -1.4220700000000002,
+    12.35749
+],
+  "geometry": {"coordinates":[-1.42207,12.35749],"type":"Point"}
+}

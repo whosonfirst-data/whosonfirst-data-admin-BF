@@ -1,0 +1,67 @@
+{
+  "id": 1226165109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.5,11.88333,-2.5,11.88333",
+    "geom:latitude":11.88333,
+    "geom:longitude":-2.5,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lalipoure",
+    "gn:country_code":"BF",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358516,
+    "gn:latitude":11.88333,
+    "gn:longitude":-2.5,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lalipour\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358516
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c2f8c9cdfea736fca95803e645efc8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1226165109,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1226165109,
+    "wof:lastmodified":1537047807,
+    "wof:name":"Lalipoure",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.5,
+    11.88333,
+    -2.5,
+    11.88333
+],
+  "geometry": {"coordinates":[-2.5,11.88333],"type":"Point"}
+}

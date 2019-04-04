@@ -1,0 +1,72 @@
+{
+  "id": 1327143955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.68103,12.35395,-3.68103,12.35395",
+    "geom:latitude":12.35395,
+    "geom:longitude":-3.68103,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lekui",
+    "gn:country_code":"BF",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358411,
+    "gn:latitude":12.35395,
+    "gn:longitude":-3.68103,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"L\u00e9kui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tourouba",
+        "L\u00e9kui",
+        "L\u00e9kuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358411
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2afc94658cf13c33c8210f03dc08e157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413161,
+            "locality_id":1327143955,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1327143955,
+    "wof:lastmodified":1537587162,
+    "wof:name":"Lekui",
+    "wof:parent_id":890413161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.68103,
+    12.35395,
+    -3.68103,
+    12.35395
+],
+  "geometry": {"coordinates":[-3.68103,12.35395],"type":"Point"}
+}

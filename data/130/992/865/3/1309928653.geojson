@@ -1,0 +1,67 @@
+{
+  "id": 1309928653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.83333,12.65,-0.83333,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-0.83333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ganworodo",
+    "gn:country_code":"BF",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360632,
+    "gn:latitude":12.65,
+    "gn:longitude":-0.83333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ganworodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360632
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"12efe7ad5cf573cf4695cdba383d1d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1309928653,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1309928653,
+    "wof:lastmodified":1536754059,
+    "wof:name":"Ganworodo",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.83333,
+    12.65,
+    -0.83333,
+    12.65
+],
+  "geometry": {"coordinates":[-0.83333,12.65],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259805581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.7,12.36667,-2.7,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":-2.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Byiwele",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361791,
+    "gn:latitude":12.36667,
+    "gn:longitude":-2.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Byiw\u00e8l\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361791
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d9fb225188aad9d440959d5cb20cebc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1259805581,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1259805581,
+    "wof:lastmodified":1536891090,
+    "wof:name":"Byiwele",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.7,
+    12.36667,
+    -2.7,
+    12.36667
+],
+  "geometry": {"coordinates":[-2.7,12.36667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344068495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.47333,12.48861,-1.47333,12.48861",
+    "geom:latitude":12.48861,
+    "geom:longitude":-1.47333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Yargo Kiongo",
+    "gn:country_code":"BF",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570101,
+    "gn:latitude":12.48861,
+    "gn:longitude":-1.47333,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Yargo Kiongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570101
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e3225a890c988a313e70513c03bfa600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1344068495,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1344068495,
+    "wof:lastmodified":1536862544,
+    "wof:name":"Yargo Kiongo",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.47333,
+    12.48861,
+    -1.47333,
+    12.48861
+],
+  "geometry": {"coordinates":[-1.47333,12.48861],"type":"Point"}
+}

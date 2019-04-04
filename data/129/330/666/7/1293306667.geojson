@@ -1,0 +1,73 @@
+{
+  "id": 1293306667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5153,13.0925,-3.5153,13.0925",
+    "geom:latitude":13.0925,
+    "geom:longitude":-3.5153,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Koube",
+    "gn:country_code":"BF",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358965,
+    "gn:latitude":13.0925,
+    "gn:longitude":-3.5153,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koub\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulbe",
+        "Koulb\u00e9",
+        "Koub\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358965
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c2efbb020d5a71241e3fc2a586e319e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1293306667,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1293306667,
+    "wof:lastmodified":1537587170,
+    "wof:name":"Koube",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5153,
+    13.0925,
+    -3.5153,
+    13.0925
+],
+  "geometry": {"coordinates":[-3.5153,13.0925],"type":"Point"}
+}

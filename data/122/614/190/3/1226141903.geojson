@@ -1,0 +1,68 @@
+{
+  "id": 1226141903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.54112,13.44966,-1.54112,13.44966",
+    "geom:latitude":13.44966,
+    "geom:longitude":-1.54112,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Koupelle",
+    "gn:country_code":"BF",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358733,
+    "gn:latitude":13.44966,
+    "gn:longitude":-1.54112,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Koupell\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358733
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"51d159cb7d8de4ce2eebc13ce2b63b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1226141903,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1226141903,
+    "wof:lastmodified":1537080140,
+    "wof:name":"Koupelle",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.54112,
+    13.44966,
+    -1.54112,
+    13.44966
+],
+  "geometry": {"coordinates":[-1.54112,13.44966],"type":"Point"}
+}

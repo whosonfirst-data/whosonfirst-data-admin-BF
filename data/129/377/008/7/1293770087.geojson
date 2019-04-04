@@ -1,0 +1,67 @@
+{
+  "id": 1293770087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.51471,10.17059,-3.51471,10.17059",
+    "geom:latitude":10.17059,
+    "geom:longitude":-3.51471,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tiossera",
+    "gn:country_code":"BF",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354377,
+    "gn:latitude":10.17059,
+    "gn:longitude":-3.51471,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tioss\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354377
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e312887903735076bb9175086d48cb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1293770087,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1293770087,
+    "wof:lastmodified":1536875864,
+    "wof:name":"Tiossera",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.51471,
+    10.17059,
+    -3.51471,
+    10.17059
+],
+  "geometry": {"coordinates":[-3.51471,10.17059],"type":"Point"}
+}

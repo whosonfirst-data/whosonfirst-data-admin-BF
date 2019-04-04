@@ -1,0 +1,72 @@
+{
+  "id": 1242982439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.23694,12.20417,-1.23694,12.20417",
+    "geom:latitude":12.20417,
+    "geom:longitude":-1.23694,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Didri",
+    "gn:country_code":"BF",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593810,
+    "gn:latitude":12.20417,
+    "gn:longitude":-1.23694,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Didri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ridri",
+        "Didri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593810
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7f4dd1fc387a985060c41294f876073d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1242982439,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1242982439,
+    "wof:lastmodified":1537587225,
+    "wof:name":"Didri",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.23694,
+    12.20417,
+    -1.23694,
+    12.20417
+],
+  "geometry": {"coordinates":[-1.23694,12.20417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226241853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.80811,12.89441,-0.80811,12.89441",
+    "geom:latitude":12.89441,
+    "geom:longitude":-0.80811,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pibaore",
+    "gn:country_code":"BF",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356536,
+    "gn:latitude":12.89441,
+    "gn:longitude":-0.80811,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Pibaor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pibour\u00e9",
+        "Pibaor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356536
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b264cac8e71b4a02830ca802ad075be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1226241853,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1226241853,
+    "wof:lastmodified":1537587136,
+    "wof:name":"Pibaore",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.80811,
+    12.89441,
+    -0.80811,
+    12.89441
+],
+  "geometry": {"coordinates":[-0.80811,12.89441],"type":"Point"}
+}

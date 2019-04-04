@@ -1,0 +1,67 @@
+{
+  "id": 1276742555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.93333,9.68333,-2.93333,9.68333",
+    "geom:latitude":9.68333,
+    "geom:longitude":-2.93333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yembago",
+    "gn:country_code":"BF",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353547,
+    "gn:latitude":9.68333,
+    "gn:longitude":-2.93333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Y\u00e8mbago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353547
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"db01febe85fb9a84de27804a91c3955f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1276742555,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1276742555,
+    "wof:lastmodified":1536727970,
+    "wof:name":"Yembago",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.93333,
+    9.68333,
+    -2.93333,
+    9.68333
+],
+  "geometry": {"coordinates":[-2.93333,9.68333],"type":"Point"}
+}

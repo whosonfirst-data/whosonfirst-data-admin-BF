@@ -1,0 +1,117 @@
+{
+  "id": 890437075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.7075,11.24972,0.7075,11.24972",
+    "geom:latitude":11.24972,
+    "geom:longitude":0.7075,
+    "gn:country":"BF",
+    "gn:fcode":"PPLA2",
+    "gn:pop":8902,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pama"
+    ],
+    "name:eng_x_preferred":[
+        "Pama"
+    ],
+    "name:fre_x_preferred":[
+        "Pama"
+    ],
+    "name:ger_x_preferred":[
+        "Pama"
+    ],
+    "name:ita_x_preferred":[
+        "Pama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30de"
+    ],
+    "name:nob_x_preferred":[
+        "Pama"
+    ],
+    "name:pol_x_preferred":[
+        "Pama"
+    ],
+    "name:por_x_preferred":[
+        "Pama"
+    ],
+    "name:rum_x_preferred":[
+        "Pama"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pama"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Panea"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0645\u0627\u060c \u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Pama"
+    ],
+    "qs:name":"Pama",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890453941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356738,
+        "gp:id":56618288,
+        "qs:id":1035180,
+        "wd:id":"Q2048608",
+        "wk:page":"Pama"
+    },
+    "wof:country":"BF",
+    "wof:created":1469052137,
+    "wof:geomhash":"54c58edae3b84a22a0e48e6b2c62d8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453941,
+            "locality_id":890437075,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":890437075,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Pama",
+    "wof:parent_id":890453941,
+    "wof:placetype":"locality",
+    "wof:population":8902,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.7075,
+    11.24972,
+    0.7075,
+    11.24972
+],
+  "geometry": {"coordinates":[0.7075,11.24972],"type":"Point"}
+}

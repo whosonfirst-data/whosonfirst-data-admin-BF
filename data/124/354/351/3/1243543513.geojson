@@ -1,0 +1,68 @@
+{
+  "id": 1243543513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.22802,13.70899,-2.22802,13.70899",
+    "geom:latitude":13.70899,
+    "geom:longitude":-2.22802,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Koumbani",
+    "gn:country_code":"BF",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358795,
+    "gn:latitude":13.70899,
+    "gn:longitude":-2.22802,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Koumbani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358795
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7f318183524ce8974cb0b60289a48c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1243543513,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1243543513,
+    "wof:lastmodified":1536665667,
+    "wof:name":"Koumbani",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.22802,
+    13.70899,
+    -2.22802,
+    13.70899
+],
+  "geometry": {"coordinates":[-2.22802,13.70899],"type":"Point"}
+}

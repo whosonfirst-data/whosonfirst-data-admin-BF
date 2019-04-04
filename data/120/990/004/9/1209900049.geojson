@@ -1,0 +1,72 @@
+{
+  "id": 1209900049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9125,12.96333,-1.9125,12.96333",
+    "geom:latitude":12.96333,
+    "geom:longitude":-1.9125,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Yarogo",
+    "gn:country_code":"BF",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353578,
+    "gn:latitude":12.96333,
+    "gn:longitude":-1.9125,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Yarogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yargo",
+        "Yarogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353578
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f76233ab4302af1514e3a50596b857a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1209900049,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1209900049,
+    "wof:lastmodified":1537587094,
+    "wof:name":"Yarogo",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9125,
+    12.96333,
+    -1.9125,
+    12.96333
+],
+  "geometry": {"coordinates":[-1.9125,12.96333],"type":"Point"}
+}

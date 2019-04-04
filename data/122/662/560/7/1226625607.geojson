@@ -1,0 +1,72 @@
+{
+  "id": 1226625607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2,10.48333,-3.2,10.48333",
+    "geom:latitude":10.48333,
+    "geom:longitude":-3.2,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lantao",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358483,
+    "gn:latitude":10.48333,
+    "gn:longitude":-3.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lantao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lanta",
+        "Lantadi",
+        "Lantao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358483
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c9305fbf85d31b6c210c4d3e1ada0064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1226625607,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1226625607,
+    "wof:lastmodified":1537587163,
+    "wof:name":"Lantao",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2,
+    10.48333,
+    -3.2,
+    10.48333
+],
+  "geometry": {"coordinates":[-3.2,10.48333],"type":"Point"}
+}

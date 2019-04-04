@@ -1,0 +1,61 @@
+{
+  "id": 1209017363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.23333,10.81667,-5.23333,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":-5.23333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kapere",
+    "gn:country_code":"BF",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359708,
+    "gn:latitude":10.81667,
+    "gn:longitude":-5.23333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kap\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359708
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"863a0042ee9ae31e6e64d6b1ec0750d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209017363
+        }
+    ],
+    "wof:id":1209017363,
+    "wof:lastmodified":1536300254,
+    "wof:name":"Kapere",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.2333300000000005,
+    10.81667,
+    -5.2333300000000005,
+    10.81667
+],
+  "geometry": {"coordinates":[-5.23333,10.81667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209514493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.25,12.6,-0.25,12.6",
+    "geom:latitude":12.6,
+    "geom:longitude":-0.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Weanga",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353808,
+    "gn:latitude":12.6,
+    "gn:longitude":-0.25,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"W\u00e9anga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353808
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"989f667f15bb21eb5fd5e44548327f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209514493
+        }
+    ],
+    "wof:id":1209514493,
+    "wof:lastmodified":1536284777,
+    "wof:name":"Weanga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.25,
+    12.6,
+    -0.25,
+    12.6
+],
+  "geometry": {"coordinates":[-0.25,12.6],"type":"Point"}
+}

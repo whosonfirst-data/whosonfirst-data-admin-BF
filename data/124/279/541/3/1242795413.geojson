@@ -1,0 +1,68 @@
+{
+  "id": 1242795413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.66302,13.18008,-2.66302,13.18008",
+    "geom:latitude":13.18008,
+    "geom:longitude":-2.66302,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Gouloumani",
+    "gn:country_code":"BF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6785987,
+    "gn:latitude":13.18008,
+    "gn:longitude":-2.66302,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gouloumani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6785987
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"16ddc41f106adcec339b0202b1de92ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1242795413,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1242795413,
+    "wof:lastmodified":1536749789,
+    "wof:name":"Gouloumani",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.66302,
+    13.18008,
+    -2.66302,
+    13.18008
+],
+  "geometry": {"coordinates":[-2.66302,13.18008],"type":"Point"}
+}

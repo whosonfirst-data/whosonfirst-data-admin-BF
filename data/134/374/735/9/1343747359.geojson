@@ -1,0 +1,67 @@
+{
+  "id": 1343747359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.08333,12.45,-0.08333,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-0.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gonponsago",
+    "gn:country_code":"BF",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360407,
+    "gn:latitude":12.45,
+    "gn:longitude":-0.08333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gonponsago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360407
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0f227c1ae6c708c23ac04b9266565147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1343747359,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1343747359,
+    "wof:lastmodified":1536828867,
+    "wof:name":"Gonponsago",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.08333,
+    12.45,
+    -0.08333,
+    12.45
+],
+  "geometry": {"coordinates":[-0.08333,12.45],"type":"Point"}
+}

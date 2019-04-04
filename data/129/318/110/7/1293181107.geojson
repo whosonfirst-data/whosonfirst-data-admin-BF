@@ -1,0 +1,73 @@
+{
+  "id": 1293181107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.23875,14.18737,-0.23875,14.18737",
+    "geom:latitude":14.18737,
+    "geom:longitude":-0.23875,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Touka Bayel",
+    "gn:country_code":"BF",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354152,
+    "gn:latitude":14.18737,
+    "gn:longitude":-0.23875,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Touka Bay\u00e8l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuka",
+        "Touka",
+        "Touka Bay\u00e8l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354152
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"20d52aa085e26fb941c869c3b974abfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1293181107,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1293181107,
+    "wof:lastmodified":1537587101,
+    "wof:name":"Touka Bayel",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.23875,
+    14.18737,
+    -0.23875,
+    14.18737
+],
+  "geometry": {"coordinates":[-0.23875,14.18737],"type":"Point"}
+}

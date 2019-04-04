@@ -1,0 +1,67 @@
+{
+  "id": 1209599111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.54689,13.54009,-2.54689,13.54009",
+    "geom:latitude":13.54009,
+    "geom:longitude":-2.54689,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Tangaye",
+    "gn:country_code":"BF",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354998,
+    "gn:latitude":13.54009,
+    "gn:longitude":-2.54689,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tangaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangay",
+        "Tangaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354998,
+        "wk:page":"Tangaye%2C_Bam"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8050939b527812aec3c956c3ae22e12e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209599111
+        }
+    ],
+    "wof:id":1209599111,
+    "wof:lastmodified":1537587114,
+    "wof:name":"Tangaye",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.54689,
+    13.54009,
+    -2.54689,
+    13.54009
+],
+  "geometry": {"coordinates":[-2.54689,13.54009],"type":"Point"}
+}

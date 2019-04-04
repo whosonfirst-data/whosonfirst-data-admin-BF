@@ -1,0 +1,72 @@
+{
+  "id": 1276784599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.56874,13.44366,-2.56874,13.44366",
+    "geom:latitude":13.44366,
+    "geom:longitude":-2.56874,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Teonsogo",
+    "gn:country_code":"BF",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354661,
+    "gn:latitude":13.44366,
+    "gn:longitude":-2.56874,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00e9onsogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e9oss\u00e9go",
+        "T\u00e9onsogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354661
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1f199b67fc1cea9d9c8543eccebe6d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1276784599,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1276784599,
+    "wof:lastmodified":1537587108,
+    "wof:name":"Teonsogo",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.56874,
+    13.44366,
+    -2.56874,
+    13.44366
+],
+  "geometry": {"coordinates":[-2.56874,13.44366],"type":"Point"}
+}

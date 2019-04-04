@@ -1,0 +1,67 @@
+{
+  "id": 1260056537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.6157,10.2585,-3.6157,10.2585",
+    "geom:latitude":10.2585,
+    "geom:longitude":-3.6157,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Soukera",
+    "gn:country_code":"BF",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355267,
+    "gn:latitude":10.2585,
+    "gn:longitude":-3.6157,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Souk\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355267
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b266751b9be22ce4db3b162f0c274544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1260056537,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1260056537,
+    "wof:lastmodified":1537025773,
+    "wof:name":"Soukera",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.6157,
+    10.2585,
+    -3.6157,
+    10.2585
+],
+  "geometry": {"coordinates":[-3.6157,10.2585],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209517255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.32972,12.22972,-1.32972,12.22972",
+    "geom:latitude":12.22972,
+    "geom:longitude":-1.32972,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Zegomde",
+    "gn:country_code":"BF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569951,
+    "gn:latitude":12.22972,
+    "gn:longitude":-1.32972,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Z\u00e9gomd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569951
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7a79c81979460783a645d48fb9147997",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209517255
+        }
+    ],
+    "wof:id":1209517255,
+    "wof:lastmodified":1536284693,
+    "wof:name":"Zegomde",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.32972,
+    12.22972,
+    -1.32972,
+    12.22972
+],
+  "geometry": {"coordinates":[-1.32972,12.22972],"type":"Point"}
+}

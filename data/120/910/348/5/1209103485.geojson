@@ -1,0 +1,65 @@
+{
+  "id": 1209103485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.28333,12.13333,-2.28333,12.13333",
+    "geom:latitude":12.13333,
+    "geom:longitude":-2.28333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sourgou",
+    "gn:country_code":"BF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355222,
+    "gn:latitude":12.13333,
+    "gn:longitude":-2.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sourgou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surgu",
+        "Sourgou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355222
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"03d02e06a7705afa0603498fc2f91c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209103485
+        }
+    ],
+    "wof:id":1209103485,
+    "wof:lastmodified":1537587117,
+    "wof:name":"Sourgou",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.28333,
+    12.13333,
+    -2.28333,
+    12.13333
+],
+  "geometry": {"coordinates":[-2.28333,12.13333],"type":"Point"}
+}

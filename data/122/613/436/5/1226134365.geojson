@@ -1,0 +1,67 @@
+{
+  "id": 1226134365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.18333,11.85,-1.18333,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":-1.18333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kondrin",
+    "gn:country_code":"BF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359164,
+    "gn:latitude":11.85,
+    "gn:longitude":-1.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kondrin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359164
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"733bb6808ad186285c4d56e5d5239b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693645,
+            "locality_id":1226134365,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1226134365,
+    "wof:lastmodified":1537090940,
+    "wof:name":"Kondrin",
+    "wof:parent_id":1108693645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.18333,
+    11.85,
+    -1.18333,
+    11.85
+],
+  "geometry": {"coordinates":[-1.18333,11.85],"type":"Point"}
+}

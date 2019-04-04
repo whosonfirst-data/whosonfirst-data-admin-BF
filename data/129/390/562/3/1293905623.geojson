@@ -1,0 +1,73 @@
+{
+  "id": 1293905623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.45,12.1,-2.45,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-2.45,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nadiolo",
+    "gn:country_code":"BF",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357722,
+    "gn:latitude":12.1,
+    "gn:longitude":-2.45,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nadiolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadiogo",
+        "Ndi\u00e9lo",
+        "Nadiolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357722,
+        "wk:page":"Nadiolo"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c37c88282d851921368a5da8e4e9bec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1293905623,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1293905623,
+    "wof:lastmodified":1537587154,
+    "wof:name":"Nadiolo",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.45,
+    12.1,
+    -2.45,
+    12.1
+],
+  "geometry": {"coordinates":[-2.45,12.1],"type":"Point"}
+}

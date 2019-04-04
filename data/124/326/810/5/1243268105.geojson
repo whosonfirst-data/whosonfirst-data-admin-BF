@@ -1,0 +1,67 @@
+{
+  "id": 1243268105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.5,12.06667,-3.5,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":-3.5,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La",
+    "gn:country_code":"BF",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358570,
+    "gn:latitude":12.06667,
+    "gn:longitude":-3.5,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358570
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e78eaa3307a20767585bed102b47e060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413161,
+            "locality_id":1243268105,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1243268105,
+    "wof:lastmodified":1537059943,
+    "wof:name":"La",
+    "wof:parent_id":890413161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.5,
+    12.06667,
+    -3.5,
+    12.06667
+],
+  "geometry": {"coordinates":[-3.5,12.06667],"type":"Point"}
+}

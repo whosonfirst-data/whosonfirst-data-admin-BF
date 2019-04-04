@@ -1,0 +1,67 @@
+{
+  "id": 1343640855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.88333,10.06667,-2.88333,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":-2.88333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nakoun",
+    "gn:country_code":"BF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357647,
+    "gn:latitude":10.06667,
+    "gn:longitude":-2.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nakoun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357647
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e67056b19d764b5e1ef517ac17752c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1343640855,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1343640855,
+    "wof:lastmodified":1536982653,
+    "wof:name":"Nakoun",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.88333,
+    10.06667,
+    -2.88333,
+    10.06667
+],
+  "geometry": {"coordinates":[-2.88333,10.06667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1277072175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.0,12.08333,-2.0,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-2.0,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sam",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356032,
+    "gn:latitude":12.08333,
+    "gn:longitude":-2.0,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Sam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356032,
+        "wk:page":"Sam%2C_Boulkiemd%C3%A9"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a848b1660b6158c84d5d5fd4f0b8992b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1277072175,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1277072175,
+    "wof:lastmodified":1537487607,
+    "wof:name":"Sam",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.0,
+    12.08333,
+    -2.0,
+    12.08333
+],
+  "geometry": {"coordinates":[-2.0,12.08333],"type":"Point"}
+}

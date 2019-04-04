@@ -1,0 +1,67 @@
+{
+  "id": 1209800029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9,11.4,-3.9,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-3.9,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Koukourouna",
+    "gn:country_code":"BF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358879,
+    "gn:latitude":11.4,
+    "gn:longitude":-3.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koukourouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358879
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a6e3f9d5ff2afe613ee03fcdf63deeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1209800029,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1209800029,
+    "wof:lastmodified":1536391135,
+    "wof:name":"Koukourouna",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9,
+    11.4,
+    -3.9,
+    11.4
+],
+  "geometry": {"coordinates":[-3.9,11.4],"type":"Point"}
+}

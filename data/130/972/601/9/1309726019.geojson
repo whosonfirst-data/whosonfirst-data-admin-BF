@@ -1,0 +1,68 @@
+{
+  "id": 1309726019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.28204,11.9703,-4.28204,11.9703",
+    "geom:latitude":11.9703,
+    "geom:longitude":-4.28204,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Kotou",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359002,
+    "gn:latitude":11.9703,
+    "gn:longitude":-4.28204,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kotou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890416507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359002
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"683662526b518de9fcfce03564bc5b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416507,
+            "locality_id":1309726019,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1309726019,
+    "wof:lastmodified":1537044206,
+    "wof:name":"Kotou",
+    "wof:parent_id":890416507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.28204,
+    11.9703,
+    -4.28204,
+    11.9703
+],
+  "geometry": {"coordinates":[-4.28204,11.9703],"type":"Point"}
+}

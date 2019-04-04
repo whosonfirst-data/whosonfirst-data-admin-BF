@@ -1,0 +1,67 @@
+{
+  "id": 1360007203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.88333,11.83333,-0.88333,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":-0.88333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ouilimteoga",
+    "gn:country_code":"BF",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356927,
+    "gn:latitude":11.83333,
+    "gn:longitude":-0.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ouilimt\u00e9oga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356927
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6b18c26e871e278b8bb187b4bda8e23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693645,
+            "locality_id":1360007203,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1360007203,
+    "wof:lastmodified":1537055639,
+    "wof:name":"Ouilimteoga",
+    "wof:parent_id":1108693645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.88333,
+    11.83333,
+    -0.88333,
+    11.83333
+],
+  "geometry": {"coordinates":[-0.88333,11.83333],"type":"Point"}
+}

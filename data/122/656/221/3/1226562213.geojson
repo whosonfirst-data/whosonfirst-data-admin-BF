@@ -1,0 +1,67 @@
+{
+  "id": 1226562213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3,12.31667,0.3,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":0.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sougoudou",
+    "gn:country_code":"BF",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355274,
+    "gn:latitude":12.31667,
+    "gn:longitude":0.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sougoudou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355274
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"eb5c80f8a99064f95e49eee33b323338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428971,
+            "locality_id":1226562213,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1226562213,
+    "wof:lastmodified":1536973941,
+    "wof:name":"Sougoudou",
+    "wof:parent_id":890428971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3,
+    12.31667,
+    0.3,
+    12.31667
+],
+  "geometry": {"coordinates":[0.3,12.31667],"type":"Point"}
+}

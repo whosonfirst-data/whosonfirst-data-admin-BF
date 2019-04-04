@@ -1,0 +1,72 @@
+{
+  "id": 1276672129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.41667,12.6,-3.41667,12.6",
+    "geom:latitude":12.6,
+    "geom:longitude":-3.41667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dakui",
+    "gn:country_code":"BF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361692,
+    "gn:latitude":12.6,
+    "gn:longitude":-3.41667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dakui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakoui",
+        "Dakouy",
+        "Dakui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361692
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"690ab38e3d2330ab33229230e4fadd9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413161,
+            "locality_id":1276672129,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1276672129,
+    "wof:lastmodified":1537587204,
+    "wof:name":"Dakui",
+    "wof:parent_id":890413161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.41667,
+    12.6,
+    -3.41667,
+    12.6
+],
+  "geometry": {"coordinates":[-3.41667,12.6],"type":"Point"}
+}

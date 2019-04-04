@@ -1,0 +1,62 @@
+{
+  "id": 1209614359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.56424,13.32372,-0.56424,13.32372",
+    "geom:latitude":13.32372,
+    "geom:longitude":-0.56424,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"64",
+    "gn:asciiname":"Nabele",
+    "gn:country_code":"BF",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357777,
+    "gn:latitude":13.32372,
+    "gn:longitude":-0.56424,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Nab\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357777
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e5e09a1e4f213898edbab9b0dc77c5ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209614359
+        }
+    ],
+    "wof:id":1209614359,
+    "wof:lastmodified":1536281740,
+    "wof:name":"Nabele",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.56424,
+    13.323720000000002,
+    -0.56424,
+    13.323720000000002
+],
+  "geometry": {"coordinates":[-0.56424,13.32372],"type":"Point"}
+}

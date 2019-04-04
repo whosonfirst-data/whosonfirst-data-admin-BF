@@ -1,0 +1,71 @@
+{
+  "id": 1276204505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9,12.43333,-1.9,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":-1.9,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zoundouri",
+    "gn:country_code":"BF",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353170,
+    "gn:latitude":12.43333,
+    "gn:longitude":-1.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zoundouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoundri",
+        "Zoundouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353170
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"af6dbbbc33e317b077e233898e16db44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1276204505,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1276204505,
+    "wof:lastmodified":1537587088,
+    "wof:name":"Zoundouri",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9,
+    12.43333,
+    -1.9,
+    12.43333
+],
+  "geometry": {"coordinates":[-1.9,12.43333],"type":"Point"}
+}

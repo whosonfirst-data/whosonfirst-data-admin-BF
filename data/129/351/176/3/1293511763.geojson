@@ -1,0 +1,72 @@
+{
+  "id": 1293511763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.52094,12.04605,-2.52094,12.04605",
+    "geom:latitude":12.04605,
+    "geom:longitude":-2.52094,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bandeo-Napone",
+    "gn:country_code":"BF",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362920,
+    "gn:latitude":12.04605,
+    "gn:longitude":-2.52094,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Band\u00e9o-Napon\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banda Napoli",
+        "Band\u00e9o-Napon\u00e9",
+        "Bandeo Napor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362920
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"59e7983086f32a9e1f4f16725aa014f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1293511763,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1293511763,
+    "wof:lastmodified":1537587220,
+    "wof:name":"Bandeo-Napone",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.52094,
+    12.04605,
+    -2.52094,
+    12.04605
+],
+  "geometry": {"coordinates":[-2.52094,12.04605],"type":"Point"}
+}

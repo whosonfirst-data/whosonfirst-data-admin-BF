@@ -1,0 +1,68 @@
+{
+  "id": 1276463777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.04541,13.27408,0.04541,13.27408",
+    "geom:latitude":13.27408,
+    "geom:longitude":0.04541,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Dankondou",
+    "gn:country_code":"BF",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361592,
+    "gn:latitude":13.27408,
+    "gn:longitude":0.04541,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Dankondou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361592
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"36dac745c5af1c05b49dc3484abb98ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1276463777,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1276463777,
+    "wof:lastmodified":1536600816,
+    "wof:name":"Dankondou",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.04541,
+    13.27408,
+    0.04541,
+    13.27408
+],
+  "geometry": {"coordinates":[0.04541,13.27408],"type":"Point"}
+}

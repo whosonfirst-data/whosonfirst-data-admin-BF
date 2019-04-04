@@ -1,0 +1,68 @@
+{
+  "id": 1326814757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.15622,11.155,-4.15622,11.155",
+    "geom:latitude":11.155,
+    "geom:longitude":-4.15622,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Yegueresso",
+    "gn:country_code":"BF",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353559,
+    "gn:latitude":11.155,
+    "gn:longitude":-4.15622,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Y\u00e9gu\u00e9resso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353559
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"55b69976b831c62d02fa65c267572bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1326814757,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1326814757,
+    "wof:lastmodified":1537070925,
+    "wof:name":"Yegueresso",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.15622,
+    11.155,
+    -4.15622,
+    11.155
+],
+  "geometry": {"coordinates":[-4.15622,11.155],"type":"Point"}
+}

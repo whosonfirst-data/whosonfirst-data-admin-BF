@@ -1,0 +1,68 @@
+{
+  "id": 1226829095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.16206,14.04969,-0.16206,14.04969",
+    "geom:latitude":14.04969,
+    "geom:longitude":-0.16206,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Dani",
+    "gn:country_code":"BF",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361602,
+    "gn:latitude":14.04969,
+    "gn:longitude":-0.16206,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Dani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361602
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"aaa15cbf79a22160542aed39d43bba4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1226829095,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1226829095,
+    "wof:lastmodified":1537089130,
+    "wof:name":"Dani",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.16206,
+    14.04969,
+    -0.16206,
+    14.04969
+],
+  "geometry": {"coordinates":[-0.16206,14.04969],"type":"Point"}
+}

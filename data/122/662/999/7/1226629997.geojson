@@ -1,0 +1,73 @@
+{
+  "id": 1226629997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.91375,13.31186,-2.91375,13.31186",
+    "geom:latitude":13.31186,
+    "geom:longitude":-2.91375,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Bangassoko",
+    "gn:country_code":"BF",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362893,
+    "gn:latitude":13.31186,
+    "gn:longitude":-2.91375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bangassoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangasoko",
+        "Bangassago",
+        "Bangassoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362893
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"92f675573642a750ac7d321bda506836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1226629997,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1226629997,
+    "wof:lastmodified":1537587219,
+    "wof:name":"Bangassoko",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.91375,
+    13.31186,
+    -2.91375,
+    13.31186
+],
+  "geometry": {"coordinates":[-2.91375,13.31186],"type":"Point"}
+}

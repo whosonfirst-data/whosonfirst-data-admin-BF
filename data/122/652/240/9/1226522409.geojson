@@ -1,0 +1,68 @@
+{
+  "id": 1226522409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.32828,13.80832,-1.32828,13.80832",
+    "geom:latitude":13.80832,
+    "geom:longitude":-1.32828,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Silgadji",
+    "gn:country_code":"BF",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355597,
+    "gn:latitude":13.80832,
+    "gn:longitude":-1.32828,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Silgadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355597
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"01ab344bdcf8705ccade900aefd9d17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1226522409,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1226522409,
+    "wof:lastmodified":1537030423,
+    "wof:name":"Silgadji",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.32828,
+    13.80832,
+    -1.32828,
+    13.80832
+],
+  "geometry": {"coordinates":[-1.32828,13.80832],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243464005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7001,13.0903,-3.7001,13.0903",
+    "geom:latitude":13.0903,
+    "geom:longitude":-3.7001,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Kinsere",
+    "gn:country_code":"BF",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359484,
+    "gn:latitude":13.0903,
+    "gn:longitude":-3.7001,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kins\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinsik\u00e9",
+        "Kinsir\u00e9",
+        "Kins\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359484
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ec015109c905d3a49e3d41dc917de07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1243464005,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1243464005,
+    "wof:lastmodified":1537587176,
+    "wof:name":"Kinsere",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7001,
+    13.0903,
+    -3.7001,
+    13.0903
+],
+  "geometry": {"coordinates":[-3.7001,13.0903],"type":"Point"}
+}

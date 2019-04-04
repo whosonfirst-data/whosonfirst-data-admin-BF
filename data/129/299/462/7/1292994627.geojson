@@ -1,0 +1,68 @@
+{
+  "id": 1292994627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.09839,13.23399,-2.09839,13.23399",
+    "geom:latitude":13.23399,
+    "geom:longitude":-2.09839,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Lebanga",
+    "gn:country_code":"BF",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358429,
+    "gn:latitude":13.23399,
+    "gn:longitude":-2.09839,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"L\u00e9banga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890422535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358429
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ec3f7f55f0132e8b3b238bb56e796123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422535,
+            "locality_id":1292994627,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1292994627,
+    "wof:lastmodified":1536999851,
+    "wof:name":"Lebanga",
+    "wof:parent_id":890422535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.09839,
+    13.23399,
+    -2.09839,
+    13.23399
+],
+  "geometry": {"coordinates":[-2.09839,13.23399],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259877335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.72385,11.95033,-2.72385,11.95033",
+    "geom:latitude":11.95033,
+    "geom:longitude":-2.72385,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bonga",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362210,
+    "gn:latitude":11.95033,
+    "gn:longitude":-2.72385,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Bonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362210
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"de9b046c33e446e9037a336434eae703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1259877335,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1259877335,
+    "wof:lastmodified":1536788533,
+    "wof:name":"Bonga",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.72385,
+    11.95033,
+    -2.72385,
+    11.95033
+],
+  "geometry": {"coordinates":[-2.72385,11.95033],"type":"Point"}
+}

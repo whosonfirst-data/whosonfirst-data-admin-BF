@@ -1,0 +1,68 @@
+{
+  "id": 1259893639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.4932,12.82577,-3.4932,12.82577",
+    "geom:latitude":12.82577,
+    "geom:longitude":-3.4932,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sono",
+    "gn:country_code":"BF",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355345,
+    "gn:latitude":12.82577,
+    "gn:longitude":-3.4932,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Sono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355345,
+        "wk:page":"Sono_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8eb593c82d8c974a62daa50a2faf90c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1259893639,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1259893639,
+    "wof:lastmodified":1537487602,
+    "wof:name":"Sono",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.4932,
+    12.82577,
+    -3.4932,
+    12.82577
+],
+  "geometry": {"coordinates":[-3.4932,12.82577],"type":"Point"}
+}

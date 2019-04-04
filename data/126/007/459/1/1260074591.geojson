@@ -1,0 +1,67 @@
+{
+  "id": 1260074591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.91667,11.3,-3.91667,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":-3.91667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Warana",
+    "gn:country_code":"BF",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353843,
+    "gn:latitude":11.3,
+    "gn:longitude":-3.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Warana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353843
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"17ef28bec3ba014c6e35cdb60d61a3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1260074591,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1260074591,
+    "wof:lastmodified":1537000123,
+    "wof:name":"Warana",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.91667,
+    11.3,
+    -3.91667,
+    11.3
+],
+  "geometry": {"coordinates":[-3.91667,11.3],"type":"Point"}
+}

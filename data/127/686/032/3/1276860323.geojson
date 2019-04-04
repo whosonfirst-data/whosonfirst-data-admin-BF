@@ -1,0 +1,72 @@
+{
+  "id": 1276860323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.24711,13.91409,-2.24711,13.91409",
+    "geom:latitude":13.91409,
+    "geom:longitude":-2.24711,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Zongouma",
+    "gn:country_code":"BF",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353186,
+    "gn:latitude":13.91409,
+    "gn:longitude":-2.24711,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zongouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zougouma",
+        "Zongouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890453949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353186
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"28f3b05d37cab385ae364f644d120cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":1276860323,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1276860323,
+    "wof:lastmodified":1537587089,
+    "wof:name":"Zongouma",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.24711,
+    13.91409,
+    -2.24711,
+    13.91409
+],
+  "geometry": {"coordinates":[-2.24711,13.91409],"type":"Point"}
+}

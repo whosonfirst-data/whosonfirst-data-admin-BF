@@ -1,0 +1,72 @@
+{
+  "id": 1243347229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.16987,13.38426,-2.16987,13.38426",
+    "geom:latitude":13.38426,
+    "geom:longitude":-2.16987,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Oumsom",
+    "gn:country_code":"BF",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353741,
+    "gn:latitude":13.38426,
+    "gn:longitude":-2.16987,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oumsom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Womsom",
+        "Oumsom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353741
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e09974a28aa01d4831e44025fb9bbf1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1243347229,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1243347229,
+    "wof:lastmodified":1537587097,
+    "wof:name":"Oumsom",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.16987,
+    13.38426,
+    -2.16987,
+    13.38426
+],
+  "geometry": {"coordinates":[-2.16987,13.38426],"type":"Point"}
+}

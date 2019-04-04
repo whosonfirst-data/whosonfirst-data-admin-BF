@@ -1,0 +1,66 @@
+{
+  "id": 1209533289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.99439,13.60263,-2.99439,13.60263",
+    "geom:latitude":13.60263,
+    "geom:longitude":-2.99439,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Sindio",
+    "gn:country_code":"BF",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355550,
+    "gn:latitude":13.60263,
+    "gn:longitude":-2.99439,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sindio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sindi\u00e9",
+        "Sindio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355550
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e2c32c2837c6dbdf0375679875db6e68",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209533289
+        }
+    ],
+    "wof:id":1209533289,
+    "wof:lastmodified":1537587122,
+    "wof:name":"Sindio",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.99439,
+    13.60263,
+    -2.99439,
+    13.60263
+],
+  "geometry": {"coordinates":[-2.99439,13.60263],"type":"Point"}
+}

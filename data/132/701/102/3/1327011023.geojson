@@ -1,0 +1,67 @@
+{
+  "id": 1327011023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.63333,12.71667,-1.63333,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":-1.63333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Listenga",
+    "gn:country_code":"BF",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358307,
+    "gn:latitude":12.71667,
+    "gn:longitude":-1.63333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Listenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358307
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e506705d11ddf33d6cd320ef5ce52968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1327011023,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1327011023,
+    "wof:lastmodified":1536791715,
+    "wof:name":"Listenga",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.63333,
+    12.71667,
+    -1.63333,
+    12.71667
+],
+  "geometry": {"coordinates":[-1.63333,12.71667],"type":"Point"}
+}

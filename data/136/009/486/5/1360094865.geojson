@@ -1,0 +1,70 @@
+{
+  "id": 1360094865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.58484,11.02903,0.58484,11.02903",
+    "geom:latitude":11.02903,
+    "geom:longitude":0.58484,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pognoa Sankoado",
+    "gn:country_code":"BF",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445253,
+    "gn:latitude":11.02903,
+    "gn:longitude":0.58484,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Pognoa Sankoado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pouniouassankoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890453941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445253
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"074fe3f20f1897016bc46a96fcd3574f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453941,
+            "locality_id":1360094865,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1360094865,
+    "wof:lastmodified":1537587226,
+    "wof:name":"Pognoa Sankoado",
+    "wof:parent_id":890453941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.58484,
+    11.02903,
+    0.58484,
+    11.02903
+],
+  "geometry": {"coordinates":[0.58484,11.02903],"type":"Point"}
+}

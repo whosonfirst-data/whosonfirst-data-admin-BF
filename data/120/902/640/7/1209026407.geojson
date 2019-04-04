@@ -1,0 +1,62 @@
+{
+  "id": 1209026407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.0843,12.44883,2.0843,12.44883",
+    "geom:latitude":12.44883,
+    "geom:longitude":2.0843,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Penyon",
+    "gn:country_code":"BF",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356601,
+    "gn:latitude":12.44883,
+    "gn:longitude":2.0843,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"P\u00e9nyon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356601
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9ad2c6e048c4055843c051915699e7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209026407
+        }
+    ],
+    "wof:id":1209026407,
+    "wof:lastmodified":1536299983,
+    "wof:name":"Penyon",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.0843,
+    12.44883,
+    2.0843,
+    12.44883
+],
+  "geometry": {"coordinates":[2.0843,12.44883],"type":"Point"}
+}

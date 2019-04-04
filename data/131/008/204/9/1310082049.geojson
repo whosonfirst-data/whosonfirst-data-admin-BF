@@ -1,0 +1,67 @@
+{
+  "id": 1310082049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2,9.98333,-3.2,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":-3.2,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dianaperoudouo",
+    "gn:country_code":"BF",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361396,
+    "gn:latitude":9.98333,
+    "gn:longitude":-3.2,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dianap\u00e9roudouo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361396
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a1f6c1a2849c36ede7779d591d32c591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1310082049,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1310082049,
+    "wof:lastmodified":1537029139,
+    "wof:name":"Dianaperoudouo",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2,
+    9.98333,
+    -3.2,
+    9.98333
+],
+  "geometry": {"coordinates":[-3.2,9.98333],"type":"Point"}
+}

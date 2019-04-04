@@ -1,0 +1,67 @@
+{
+  "id": 1209813051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.13333,11.91667,-2.13333,11.91667",
+    "geom:latitude":11.91667,
+    "geom:longitude":-2.13333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Salo",
+    "gn:country_code":"BF",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356039,
+    "gn:latitude":11.91667,
+    "gn:longitude":-2.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Salo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890422531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356039
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d0427983f36a441c4f97f86cfb37b947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422531,
+            "locality_id":1209813051,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1209813051,
+    "wof:lastmodified":1536385562,
+    "wof:name":"Salo",
+    "wof:parent_id":890422531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.13333,
+    11.91667,
+    -2.13333,
+    11.91667
+],
+  "geometry": {"coordinates":[-2.13333,11.91667],"type":"Point"}
+}

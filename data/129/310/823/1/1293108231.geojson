@@ -1,0 +1,68 @@
+{
+  "id": 1293108231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2,12.08333,-3.2,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-3.2,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Siou",
+    "gn:country_code":"BF",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355508,
+    "gn:latitude":12.08333,
+    "gn:longitude":-3.2,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Siou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890452781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355508,
+        "wk:page":"Siou%2C_Burkina_Faso"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"806be97feddf392204bee059b81d9b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890452781,
+            "locality_id":1293108231,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1293108231,
+    "wof:lastmodified":1537487603,
+    "wof:name":"Siou",
+    "wof:parent_id":890452781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2,
+    12.08333,
+    -3.2,
+    12.08333
+],
+  "geometry": {"coordinates":[-3.2,12.08333],"type":"Point"}
+}

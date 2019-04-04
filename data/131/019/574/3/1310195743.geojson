@@ -1,0 +1,68 @@
+{
+  "id": 1310195743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.4577,13.04294,0.4577,13.04294",
+    "geom:latitude":13.04294,
+    "geom:longitude":0.4577,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Tanfwogou",
+    "gn:country_code":"BF",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355018,
+    "gn:latitude":13.04294,
+    "gn:longitude":0.4577,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tanfwogou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355018
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"dd92b6418a73cd525c73c5ad8ee3d24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1310195743,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1310195743,
+    "wof:lastmodified":1536865076,
+    "wof:name":"Tanfwogou",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.4577,
+    13.04294,
+    0.4577,
+    13.04294
+],
+  "geometry": {"coordinates":[0.4577,13.04294],"type":"Point"}
+}

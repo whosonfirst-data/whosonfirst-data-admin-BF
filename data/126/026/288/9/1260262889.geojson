@@ -1,0 +1,68 @@
+{
+  "id": 1260262889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.05549,14.15445,-0.05549,14.15445",
+    "geom:latitude":14.15445,
+    "geom:longitude":-0.05549,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Goudoubo",
+    "gn:country_code":"BF",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9256495,
+    "gn:latitude":14.15445,
+    "gn:longitude":-0.05549,
+    "gn:modification_date":"2014-07-29",
+    "gn:name":"Goudoubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256495
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"80c0261a48e3b55358466ab8845ad118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1260262889,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1260262889,
+    "wof:lastmodified":1536739497,
+    "wof:name":"Goudoubo",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.05549,
+    14.15445,
+    -0.05549,
+    14.15445
+],
+  "geometry": {"coordinates":[-0.05549,14.15445],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276750715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.7237,14.03329,-0.7237,14.03329",
+    "geom:latitude":14.03329,
+    "geom:longitude":-0.7237,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Kourigue",
+    "gn:country_code":"BF",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358704,
+    "gn:latitude":14.03329,
+    "gn:longitude":-0.7237,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Kourigu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358704
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ee53af1dfd3b807890ce985181918cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1276750715,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1276750715,
+    "wof:lastmodified":1536716995,
+    "wof:name":"Kourigue",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.7237,
+    14.03329,
+    -0.7237,
+    14.03329
+],
+  "geometry": {"coordinates":[-0.7237,14.03329],"type":"Point"}
+}

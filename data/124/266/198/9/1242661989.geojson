@@ -1,0 +1,68 @@
+{
+  "id": 1242661989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.05,11.4,-3.05,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":-3.05,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Koti",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359005,
+    "gn:latitude":11.4,
+    "gn:longitude":-3.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890422527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359005,
+        "wk:page":"Koti_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a72c7ed581e3accf6e2508240d345128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422527,
+            "locality_id":1242661989,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1242661989,
+    "wof:lastmodified":1537487627,
+    "wof:name":"Koti",
+    "wof:parent_id":890422527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.05,
+    11.4,
+    -3.05,
+    11.4
+],
+  "geometry": {"coordinates":[-3.05,11.4],"type":"Point"}
+}

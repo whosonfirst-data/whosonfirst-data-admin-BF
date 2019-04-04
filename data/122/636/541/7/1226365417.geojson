@@ -1,0 +1,69 @@
+{
+  "id": 1226365417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81438,13.42537,-1.81438,13.42537",
+    "geom:latitude":13.42537,
+    "geom:longitude":-1.81438,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Yoba",
+    "gn:country_code":"BF",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353493,
+    "gn:latitude":13.42537,
+    "gn:longitude":-1.81438,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Yoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353493,
+        "wk:page":"Yoba"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"57fe30708472c805351f65814def733b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1226365417,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1226365417,
+    "wof:lastmodified":1537487591,
+    "wof:name":"Yoba",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81438,
+    13.42537,
+    -1.81438,
+    13.42537
+],
+  "geometry": {"coordinates":[-1.81438,13.42537],"type":"Point"}
+}

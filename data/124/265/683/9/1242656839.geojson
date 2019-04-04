@@ -1,0 +1,72 @@
+{
+  "id": 1242656839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.28333,10.78333,-3.28333,10.78333",
+    "geom:latitude":10.78333,
+    "geom:longitude":-3.28333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bombara",
+    "gn:country_code":"BF",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362244,
+    "gn:latitude":10.78333,
+    "gn:longitude":-3.28333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bombara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonboura",
+        "Bombara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890428985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362244,
+        "wk:page":"Bombara"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"79444c5bf00c55b8c055ebc2c9290aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428985,
+            "locality_id":1242656839,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1242656839,
+    "wof:lastmodified":1537587211,
+    "wof:name":"Bombara",
+    "wof:parent_id":890428985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.28333,
+    10.78333,
+    -3.28333,
+    10.78333
+],
+  "geometry": {"coordinates":[-3.28333,10.78333],"type":"Point"}
+}

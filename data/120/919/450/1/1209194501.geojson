@@ -1,0 +1,66 @@
+{
+  "id": 1209194501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.56342,14.08764,-0.56342,14.08764",
+    "geom:latitude":14.08764,
+    "geom:longitude":-0.56342,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Oulfo Alfa",
+    "gn:country_code":"BF",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356895,
+    "gn:latitude":14.08764,
+    "gn:longitude":-0.56342,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Oulfo Alfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oulphou Alpha",
+        "Oulfo Alfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356895
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c0b440d71f717ce82213305f99c5cb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209194501
+        }
+    ],
+    "wof:id":1209194501,
+    "wof:lastmodified":1537587141,
+    "wof:name":"Oulfo Alfa",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.56342,
+    14.08764,
+    -0.56342,
+    14.08764
+],
+  "geometry": {"coordinates":[-0.56342,14.08764],"type":"Point"}
+}

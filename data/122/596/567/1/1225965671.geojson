@@ -1,0 +1,67 @@
+{
+  "id": 1225965671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.31667,11.95,-1.31667,11.95",
+    "geom:latitude":11.95,
+    "geom:longitude":-1.31667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yorogo",
+    "gn:country_code":"BF",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353469,
+    "gn:latitude":11.95,
+    "gn:longitude":-1.31667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yorogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353469
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ba86dc3e0a361160e6024c6786f1accf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1225965671,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1225965671,
+    "wof:lastmodified":1536839566,
+    "wof:name":"Yorogo",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.31667,
+    11.95,
+    -1.31667,
+    11.95
+],
+  "geometry": {"coordinates":[-1.31667,11.95],"type":"Point"}
+}

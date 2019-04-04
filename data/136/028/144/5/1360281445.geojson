@@ -1,0 +1,68 @@
+{
+  "id": 1360281445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21825,13.40268,-2.21825,13.40268",
+    "geom:latitude":13.40268,
+    "geom:longitude":-2.21825,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Kounga",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358756,
+    "gn:latitude":13.40268,
+    "gn:longitude":-2.21825,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358756
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8b46c8d499d4455ee9b28d46380f7515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1360281445,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1360281445,
+    "wof:lastmodified":1536662407,
+    "wof:name":"Kounga",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21825,
+    13.40268,
+    -2.21825,
+    13.40268
+],
+  "geometry": {"coordinates":[-2.21825,13.40268],"type":"Point"}
+}

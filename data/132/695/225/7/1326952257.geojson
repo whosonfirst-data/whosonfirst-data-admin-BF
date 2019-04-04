@@ -1,0 +1,73 @@
+{
+  "id": 1326952257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57226,12.27971,-2.57226,12.27971",
+    "geom:latitude":12.27971,
+    "geom:longitude":-2.57226,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kyon",
+    "gn:country_code":"BF",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359552,
+    "gn:latitude":12.27971,
+    "gn:longitude":-2.57226,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Kyon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tion",
+        "Kyon",
+        "Khyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359552,
+        "wk:page":"Kyon_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e2981adbcb4408a38816d6923280c2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1326952257,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1326952257,
+    "wof:lastmodified":1537587177,
+    "wof:name":"Kyon",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57226,
+    12.27971,
+    -2.57226,
+    12.27971
+],
+  "geometry": {"coordinates":[-2.57226,12.27971],"type":"Point"}
+}

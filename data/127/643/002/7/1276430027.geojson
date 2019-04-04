@@ -1,0 +1,68 @@
+{
+  "id": 1276430027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.40163,13.55683,-2.40163,13.55683",
+    "geom:latitude":13.55683,
+    "geom:longitude":-2.40163,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Souli",
+    "gn:country_code":"BF",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786842,
+    "gn:latitude":13.55683,
+    "gn:longitude":-2.40163,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Souli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786842
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f30f16cd4558894e30b9d3a4c5201513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1276430027,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1276430027,
+    "wof:lastmodified":1536648755,
+    "wof:name":"Souli",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.40163,
+    13.55683,
+    -2.40163,
+    13.55683
+],
+  "geometry": {"coordinates":[-2.40163,13.55683],"type":"Point"}
+}

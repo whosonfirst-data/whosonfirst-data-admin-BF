@@ -1,0 +1,73 @@
+{
+  "id": 1327128719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.03454,11.43382,-4.03454,11.43382",
+    "geom:latitude":11.43382,
+    "geom:longitude":-4.03454,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Satiri",
+    "gn:country_code":"BF",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355822,
+    "gn:latitude":11.43382,
+    "gn:longitude":-4.03454,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Satiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satir",
+        "Satiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355822,
+        "wk:page":"Satiri_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ff4c37ce794a0962cff6a507c613087f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1327128719,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1327128719,
+    "wof:lastmodified":1537587126,
+    "wof:name":"Satiri",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.03454,
+    11.43382,
+    -4.03454,
+    11.43382
+],
+  "geometry": {"coordinates":[-4.03454,11.43382],"type":"Point"}
+}

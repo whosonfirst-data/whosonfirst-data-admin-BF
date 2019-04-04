@@ -1,0 +1,72 @@
+{
+  "id": 1343256491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.36611,12.08806,-1.36611,12.08806",
+    "geom:latitude":12.08806,
+    "geom:longitude":-1.36611,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Koukpela",
+    "gn:country_code":"BF",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358917,
+    "gn:latitude":12.08806,
+    "gn:longitude":-1.36611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koukp\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kougp\u00e9la",
+        "Koukp\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358917
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2214b1a1ed092b5b9440bc8e7137dcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1343256491,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1343256491,
+    "wof:lastmodified":1537587169,
+    "wof:name":"Koukpela",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.36611,
+    12.08806,
+    -1.36611,
+    12.08806
+],
+  "geometry": {"coordinates":[-1.36611,12.08806],"type":"Point"}
+}

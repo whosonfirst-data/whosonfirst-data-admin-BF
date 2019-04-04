@@ -1,0 +1,71 @@
+{
+  "id": 1225920569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.24542,11.18464,-3.24542,11.18464",
+    "geom:latitude":11.18464,
+    "geom:longitude":-3.24542,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nakar",
+    "gn:country_code":"BF",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357675,
+    "gn:latitude":11.18464,
+    "gn:longitude":-3.24542,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Nakar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakari",
+        "Nakar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890416509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357675
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2d85de4ddc19981ea738e1bf6eed853f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416509,
+            "locality_id":1225920569,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1225920569,
+    "wof:lastmodified":1537587153,
+    "wof:name":"Nakar",
+    "wof:parent_id":890416509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.24542,
+    11.18464,
+    -3.24542,
+    11.18464
+],
+  "geometry": {"coordinates":[-3.24542,11.18464],"type":"Point"}
+}

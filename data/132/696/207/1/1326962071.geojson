@@ -1,0 +1,67 @@
+{
+  "id": 1326962071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.88333,12.65,-0.88333,12.65",
+    "geom:latitude":12.65,
+    "geom:longitude":-0.88333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sapelse",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355875,
+    "gn:latitude":12.65,
+    "gn:longitude":-0.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sapels\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355875
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"08c9048893720c6a1cb21df3852599fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1326962071,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1326962071,
+    "wof:lastmodified":1536860505,
+    "wof:name":"Sapelse",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.88333,
+    12.65,
+    -0.88333,
+    12.65
+],
+  "geometry": {"coordinates":[-0.88333,12.65],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193159719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.30262,13.25739,-1.30262,13.25739",
+    "geom:latitude":13.25739,
+    "geom:longitude":-1.30262,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Donguen",
+    "gn:country_code":"BF",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361118,
+    "gn:latitude":13.25739,
+    "gn:longitude":-1.30262,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Donguen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361118
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"29c47e85adc801d53242e851ee57f66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1193159719,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1193159719,
+    "wof:lastmodified":1536369265,
+    "wof:name":"Donguen",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.30262,
+    13.25739,
+    -1.30262,
+    13.25739
+],
+  "geometry": {"coordinates":[-1.30262,13.25739],"type":"Point"}
+}

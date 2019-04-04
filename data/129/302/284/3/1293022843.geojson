@@ -1,0 +1,71 @@
+{
+  "id": 1293022843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.19869,11.95523,-2.19869,11.95523",
+    "geom:latitude":11.95523,
+    "geom:longitude":-2.19869,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tiou",
+    "gn:country_code":"BF",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354631,
+    "gn:latitude":11.95523,
+    "gn:longitude":-2.19869,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Tiou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thiu",
+        "Thyou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354631
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a34321a2d5e11a2934e4de810dc99fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1293022843,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1293022843,
+    "wof:lastmodified":1537587107,
+    "wof:name":"Tiou",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.19869,
+    11.95523,
+    -2.19869,
+    11.95523
+],
+  "geometry": {"coordinates":[-2.19869,11.95523],"type":"Point"}
+}

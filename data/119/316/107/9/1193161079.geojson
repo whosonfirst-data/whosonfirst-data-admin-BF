@@ -1,0 +1,68 @@
+{
+  "id": 1193161079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.45196,11.06537,-0.45196,11.06537",
+    "geom:latitude":11.06537,
+    "geom:longitude":-0.45196,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Youga",
+    "gn:country_code":"BF",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353461,
+    "gn:latitude":11.06537,
+    "gn:longitude":-0.45196,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Youga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353461,
+        "wk:page":"Youga"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"64b21290634d4fafdd2d584d0e637ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1193161079,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1193161079,
+    "wof:lastmodified":1537487591,
+    "wof:name":"Youga",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.45196,
+    11.06537,
+    -0.45196,
+    11.06537
+],
+  "geometry": {"coordinates":[-0.45196,11.06537],"type":"Point"}
+}

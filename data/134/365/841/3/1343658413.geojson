@@ -1,0 +1,75 @@
+{
+  "id": 1343658413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.93882,11.39249,-4.93882,11.39249",
+    "geom:latitude":11.39249,
+    "geom:longitude":-4.93882,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Samorogouan",
+    "gn:country_code":"BF",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355993,
+    "gn:latitude":11.39249,
+    "gn:longitude":-4.93882,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samorogouan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samorogan",
+        "Samorogwan",
+        "Samorokogan",
+        "Samorogouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355993,
+        "wk:page":"Samorogouan_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"896b07bd0b3d4b731496382a5eb73688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1343658413,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1343658413,
+    "wof:lastmodified":1537587128,
+    "wof:name":"Samorogouan",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.93882,
+    11.39249,
+    -4.93882,
+    11.39249
+],
+  "geometry": {"coordinates":[-4.93882,11.39249],"type":"Point"}
+}

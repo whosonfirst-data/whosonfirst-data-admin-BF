@@ -1,0 +1,72 @@
+{
+  "id": 1276217569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.01784,12.58949,2.01784,12.58949",
+    "geom:latitude":12.58949,
+    "geom:longitude":2.01784,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Twabangou",
+    "gn:country_code":"BF",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354049,
+    "gn:latitude":12.58949,
+    "gn:longitude":2.01784,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Twabangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Twobangou",
+        "Twabangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354049
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6183f33abb4cbe9656ebdea667bbd228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1276217569,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1276217569,
+    "wof:lastmodified":1537587100,
+    "wof:name":"Twabangou",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.01784,
+    12.58949,
+    2.01784,
+    12.58949
+],
+  "geometry": {"coordinates":[2.01784,12.58949],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310706619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.05987,13.04631,-1.05987,13.04631",
+    "geom:latitude":13.04631,
+    "geom:longitude":-1.05987,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Nasre",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357504,
+    "gn:latitude":13.04631,
+    "gn:longitude":-1.05987,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Nasr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357504
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"47d7785de24a96989095ae3bddb60f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1310706619,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1310706619,
+    "wof:lastmodified":1536624765,
+    "wof:name":"Nasre",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.05987,
+    13.04631,
+    -1.05987,
+    13.04631
+],
+  "geometry": {"coordinates":[-1.05987,13.04631],"type":"Point"}
+}

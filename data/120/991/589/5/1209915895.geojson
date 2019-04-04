@@ -1,0 +1,72 @@
+{
+  "id": 1209915895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.41917,12.26583,-1.41917,12.26583",
+    "geom:latitude":12.26583,
+    "geom:longitude":-1.41917,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Kalgonde",
+    "gn:country_code":"BF",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359270,
+    "gn:latitude":12.26583,
+    "gn:longitude":-1.41917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalgond\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kologoud\u00e9",
+        "Kalgond\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359270
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"924bf8c2efda2315be7ddd46748f4854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1209915895,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1209915895,
+    "wof:lastmodified":1537587174,
+    "wof:name":"Kalgonde",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.41917,
+    12.26583,
+    -1.41917,
+    12.26583
+],
+  "geometry": {"coordinates":[-1.41917,12.26583],"type":"Point"}
+}

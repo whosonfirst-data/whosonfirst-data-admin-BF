@@ -1,0 +1,71 @@
+{
+  "id": 1343665937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.20362,12.7114,-3.20362,12.7114",
+    "geom:latitude":12.7114,
+    "geom:longitude":-3.20362,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Soroni",
+    "gn:country_code":"BF",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355311,
+    "gn:latitude":12.7114,
+    "gn:longitude":-3.20362,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Soroni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seroni",
+        "Soroni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890453951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355311
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bee5ef5313335ac49959e293c1401140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453951,
+            "locality_id":1343665937,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1343665937,
+    "wof:lastmodified":1537587118,
+    "wof:name":"Soroni",
+    "wof:parent_id":890453951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.20362,
+    12.7114,
+    -3.20362,
+    12.7114
+],
+  "geometry": {"coordinates":[-3.20362,12.7114],"type":"Point"}
+}

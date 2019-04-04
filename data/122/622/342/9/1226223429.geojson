@@ -1,0 +1,68 @@
+{
+  "id": 1226223429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81528,12.62889,-1.81528,12.62889",
+    "geom:latitude":12.62889,
+    "geom:longitude":-1.81528,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"60",
+    "gn:asciiname":"Sao",
+    "gn:country_code":"BF",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355888,
+    "gn:latitude":12.62889,
+    "gn:longitude":-1.81528,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Sao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355888
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"cf79647102ddd3da8ea78623ad2937b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1226223429,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1226223429,
+    "wof:lastmodified":1536965626,
+    "wof:name":"Sao",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81528,
+    12.62889,
+    -1.81528,
+    12.62889
+],
+  "geometry": {"coordinates":[-1.81528,12.62889],"type":"Point"}
+}

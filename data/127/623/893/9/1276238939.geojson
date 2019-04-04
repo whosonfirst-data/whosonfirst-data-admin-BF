@@ -1,0 +1,67 @@
+{
+  "id": 1276238939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.37056,12.12389,-1.37056,12.12389",
+    "geom:latitude":12.12389,
+    "geom:longitude":-1.37056,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Goanguen",
+    "gn:country_code":"BF",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569981,
+    "gn:latitude":12.12389,
+    "gn:longitude":-1.37056,
+    "gn:modification_date":"2001-03-21",
+    "gn:name":"Goanguen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569981
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9d9f4440893100ceeb67cc24c32348a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1276238939,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1276238939,
+    "wof:lastmodified":1536905248,
+    "wof:name":"Goanguen",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.37056,
+    12.12389,
+    -1.37056,
+    12.12389
+],
+  "geometry": {"coordinates":[-1.37056,12.12389],"type":"Point"}
+}

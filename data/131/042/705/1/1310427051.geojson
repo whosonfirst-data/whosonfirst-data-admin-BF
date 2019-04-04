@@ -1,0 +1,67 @@
+{
+  "id": 1310427051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.15,11.6,-1.15,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-1.15,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bakogo",
+    "gn:country_code":"BF",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2363032,
+    "gn:latitude":11.6,
+    "gn:longitude":-1.15,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bakogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2363032
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4cb00520ac74c742a3eb38f3021eac31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693645,
+            "locality_id":1310427051,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1310427051,
+    "wof:lastmodified":1537028955,
+    "wof:name":"Bakogo",
+    "wof:parent_id":1108693645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.15,
+    11.6,
+    -1.15,
+    11.6
+],
+  "geometry": {"coordinates":[-1.15,11.6],"type":"Point"}
+}

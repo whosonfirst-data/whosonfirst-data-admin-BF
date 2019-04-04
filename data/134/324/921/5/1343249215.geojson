@@ -1,0 +1,68 @@
+{
+  "id": 1343249215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.77488,13.80724,-1.77488,13.80724",
+    "geom:latitude":13.80724,
+    "geom:longitude":-1.77488,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Gargaboulli",
+    "gn:country_code":"BF",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360605,
+    "gn:latitude":13.80724,
+    "gn:longitude":-1.77488,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gargaboulli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360605
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"71e69227b471fd511f42dae225580ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1343249215,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1343249215,
+    "wof:lastmodified":1537049113,
+    "wof:name":"Gargaboulli",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.77488,
+    13.80724,
+    -1.77488,
+    13.80724
+],
+  "geometry": {"coordinates":[-1.77488,13.80724],"type":"Point"}
+}

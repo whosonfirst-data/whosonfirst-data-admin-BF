@@ -1,0 +1,66 @@
+{
+  "id": 1209324569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.05,12.71667,-2.05,12.71667",
+    "geom:latitude":12.71667,
+    "geom:longitude":-2.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kaba",
+    "gn:cc2":"BF",
+    "gn:country_code":"BF",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359955,
+    "gn:latitude":12.71667,
+    "gn:longitude":-2.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabba",
+        "Kaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359955
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0ae3f057dd862947bef4bd87fb6a3766",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209324569
+        }
+    ],
+    "wof:id":1209324569,
+    "wof:lastmodified":1537587182,
+    "wof:name":"Kaba",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.05,
+    12.71667,
+    -2.05,
+    12.71667
+],
+  "geometry": {"coordinates":[-2.05,12.71667],"type":"Point"}
+}

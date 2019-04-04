@@ -1,0 +1,68 @@
+{
+  "id": 1226122665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.77027,13.53482,0.77027,13.53482",
+    "geom:latitude":13.53482,
+    "geom:longitude":0.77027,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Binguel",
+    "gn:country_code":"BF",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362455,
+    "gn:latitude":13.53482,
+    "gn:longitude":0.77027,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bingu\u00e8l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362455
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b50e25ee080144a5d057c22206da884a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1226122665,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1226122665,
+    "wof:lastmodified":1536611650,
+    "wof:name":"Binguel",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.77027,
+    13.53482,
+    0.77027,
+    13.53482
+],
+  "geometry": {"coordinates":[0.77027,13.53482],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343953941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.3154,13.51993,-2.3154,13.51993",
+    "geom:latitude":13.51993,
+    "geom:longitude":-2.3154,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Lougouri",
+    "gn:country_code":"BF",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358216,
+    "gn:latitude":13.51993,
+    "gn:longitude":-2.3154,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Lougouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358216
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ec3bc21ab027a93161a79befa6bc85da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1343953941,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1343953941,
+    "wof:lastmodified":1537028263,
+    "wof:name":"Lougouri",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.3154,
+    13.51993,
+    -2.3154,
+    13.51993
+],
+  "geometry": {"coordinates":[-2.3154,13.51993],"type":"Point"}
+}

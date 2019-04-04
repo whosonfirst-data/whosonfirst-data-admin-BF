@@ -1,0 +1,68 @@
+{
+  "id": 1293806045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.7825,11.75611,-1.7825,11.75611",
+    "geom:latitude":11.75611,
+    "geom:longitude":-1.7825,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"77",
+    "gn:asciiname":"Bouganyana",
+    "gn:country_code":"BF",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362071,
+    "gn:latitude":11.75611,
+    "gn:longitude":-1.7825,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bouganyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890422531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362071
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"089bdc8b8c1901d07a194e855f8bfabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422531,
+            "locality_id":1293806045,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1293806045,
+    "wof:lastmodified":1536824040,
+    "wof:name":"Bouganyana",
+    "wof:parent_id":890422531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.7825,
+    11.75611,
+    -1.7825,
+    11.75611
+],
+  "geometry": {"coordinates":[-1.7825,11.75611],"type":"Point"}
+}

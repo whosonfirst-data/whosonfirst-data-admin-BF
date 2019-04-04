@@ -1,0 +1,67 @@
+{
+  "id": 1293675545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.91667,10.76667,-2.91667,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":-2.91667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nakui",
+    "gn:country_code":"BF",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357644,
+    "gn:latitude":10.76667,
+    "gn:longitude":-2.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nakui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890416509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357644
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7bc21e6672b6a743214ecbf7076a8ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416509,
+            "locality_id":1293675545,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1293675545,
+    "wof:lastmodified":1537012515,
+    "wof:name":"Nakui",
+    "wof:parent_id":890416509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.91667,
+    10.76667,
+    -2.91667,
+    10.76667
+],
+  "geometry": {"coordinates":[-2.91667,10.76667],"type":"Point"}
+}

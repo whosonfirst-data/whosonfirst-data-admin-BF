@@ -1,0 +1,68 @@
+{
+  "id": 1309992905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.55621,13.20515,0.55621,13.20515",
+    "geom:latitude":13.20515,
+    "geom:longitude":0.55621,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Nyimatoulay",
+    "gn:country_code":"BF",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357115,
+    "gn:latitude":13.20515,
+    "gn:longitude":0.55621,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Nyimatoulay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357115
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"dcf68b0b2ff09e817a561d3b42f50a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1309992905,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1309992905,
+    "wof:lastmodified":1536661524,
+    "wof:name":"Nyimatoulay",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.55621,
+    13.20515,
+    0.55621,
+    13.20515
+],
+  "geometry": {"coordinates":[0.55621,13.20515],"type":"Point"}
+}

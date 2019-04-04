@@ -1,0 +1,73 @@
+{
+  "id": 1276240115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.65389,12.21333,-1.65389,12.21333",
+    "geom:latitude":12.21333,
+    "geom:longitude":-1.65389,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Lougoubissi",
+    "gn:country_code":"BF",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570053,
+    "gn:latitude":12.21333,
+    "gn:longitude":-1.65389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lougoubissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nahartenga",
+        "Lougoubissi",
+        "Lougbiss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570053
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9534cdf4eadb7041cccaedaac38d1445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1276240115,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1276240115,
+    "wof:lastmodified":1537587223,
+    "wof:name":"Lougoubissi",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.65389,
+    12.21333,
+    -1.65389,
+    12.21333
+],
+  "geometry": {"coordinates":[-1.65389,12.21333],"type":"Point"}
+}

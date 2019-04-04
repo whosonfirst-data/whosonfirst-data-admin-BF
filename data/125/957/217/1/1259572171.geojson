@@ -1,0 +1,72 @@
+{
+  "id": 1259572171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.21426,13.01424,-2.21426,13.01424",
+    "geom:latitude":13.01424,
+    "geom:longitude":-2.21426,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Zambele",
+    "gn:country_code":"BF",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353302,
+    "gn:latitude":13.01424,
+    "gn:longitude":-2.21426,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zamb\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ziammb\u00e9l\u00e9",
+        "Zamb\u00e9l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353302
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"da9586f5d159cea7e9e16540459e674b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1259572171,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1259572171,
+    "wof:lastmodified":1537587090,
+    "wof:name":"Zambele",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.21426,
+    13.01424,
+    -2.21426,
+    13.01424
+],
+  "geometry": {"coordinates":[-2.21426,13.01424],"type":"Point"}
+}

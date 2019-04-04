@@ -1,0 +1,72 @@
+{
+  "id": 1209699489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51516,13.29833,-2.51516,13.29833",
+    "geom:latitude":13.29833,
+    "geom:longitude":-2.51516,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Rassouli",
+    "gn:country_code":"BF",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356235,
+    "gn:latitude":13.29833,
+    "gn:longitude":-2.51516,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rassouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dassouri",
+        "Rassouli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356235
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"24c63ccca123d31d322eb9704382c235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1209699489,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1209699489,
+    "wof:lastmodified":1537587133,
+    "wof:name":"Rassouli",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51516,
+    13.29833,
+    -2.51516,
+    13.29833
+],
+  "geometry": {"coordinates":[-2.51516,13.29833],"type":"Point"}
+}

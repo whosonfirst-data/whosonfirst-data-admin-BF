@@ -1,0 +1,68 @@
+{
+  "id": 1343249069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.08065,13.66469,0.08065,13.66469",
+    "geom:latitude":13.66469,
+    "geom:longitude":0.08065,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Ouro Sibiri",
+    "gn:country_code":"BF",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356802,
+    "gn:latitude":13.66469,
+    "gn:longitude":0.08065,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Ouro Sibiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890413145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356802
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0cd55386b0709026f0b0443d5954fe14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":1343249069,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1343249069,
+    "wof:lastmodified":1537049328,
+    "wof:name":"Ouro Sibiri",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.08065,
+    13.66469,
+    0.08065,
+    13.66469
+],
+  "geometry": {"coordinates":[0.08065,13.66469],"type":"Point"}
+}

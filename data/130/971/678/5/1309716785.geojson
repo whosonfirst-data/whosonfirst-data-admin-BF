@@ -1,0 +1,72 @@
+{
+  "id": 1309716785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.43673,13.48061,-1.43673,13.48061",
+    "geom:latitude":13.48061,
+    "geom:longitude":-1.43673,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Peta",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356580,
+    "gn:latitude":13.48061,
+    "gn:longitude":-1.43673,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9tra",
+        "P\u00e9ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356580
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"84fac23ac916d3d6f006a27393831850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1309716785,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1309716785,
+    "wof:lastmodified":1537587137,
+    "wof:name":"Peta",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.43673,
+    13.48061,
+    -1.43673,
+    13.48061
+],
+  "geometry": {"coordinates":[-1.43673,13.48061],"type":"Point"}
+}

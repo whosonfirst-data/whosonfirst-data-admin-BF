@@ -1,0 +1,360 @@
+{
+  "id": 421174633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.2979,11.17715,-4.2979,11.17715",
+    "geom:latitude":11.17715,
+    "geom:longitude":-4.2979,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.6,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0628\u0648\u062f\u064a\u0648\u0644\u0627\u0633\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09ac\u09cb \u09a1\u09bf\u0993\u09b2\u09be\u09b8\u09cb"
+    ],
+    "name:bre_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:cat_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:chi_x_preferred":[
+        "\u535a\u535a\u8fea\u4e4c\u62c9\u7d22"
+    ],
+    "name:cze_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:dan_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:deu_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:dut_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:eng_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:epo_x_preferred":[
+        "Bobo Dioulasso"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0628\u0648 \u062f\u06cc\u0648\u0644\u0627\u0633\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Bobo Dioulasso"
+    ],
+    "name:fra_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:fre_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:frr_x_preferred":[
+        "Bobo Dioulasso"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10dd\u10d1\u10dd-\u10d3\u10d8\u10e3\u10da\u10d0\u10e1\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03bc\u03c0\u03cc-\u039d\u03c4\u03b9\u03bf\u03c5\u03bb\u03b1\u03c3\u03cc"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0aac\u0acb \u0aa1\u0ac0\u0a89\u0ab2\u0ab8\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d1\u05d5 \u05d3\u05d9\u05d0\u05d5\u05dc\u05d0\u05e1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u092c\u094b-\u0921\u093f\u0913\u0932\u093e\u0938\u094d\u0938\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:hun_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:ind_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:ita_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30dc\u30fb\u30c7\u30a3\u30a6\u30e9\u30c3\u30bd"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cca\u0cac\u0ccb \u0ca1\u0ccc\u0cb2\u0cbe\u0cb8\u0ccd\u0cb8\u0cca"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0431\u043e-\u0414\u0438\u0443\u043b\u0430co \u0448\u0430\u0430\u0440\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ubcf4\ub514\uc6b8\ub77c\uc18c"
+    ],
+    "name:lav_x_preferred":[
+        "Bobodjulaso"
+    ],
+    "name:lit_x_preferred":[
+        "Bobo Diulasas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094b\u092c\u094b \u0921\u093f\u0906\u0932\u0938\u094b"
+    ],
+    "name:may_x_preferred":[
+        "Bobo Dioulasso"
+    ],
+    "name:nan_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:nld_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:nob_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0628\u0648 \u062f\u06cc\u0648\u0644\u0627\u0633\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:por_x_preferred":[
+        "Bobo Dioulasso"
+    ],
+    "name:ron_x_preferred":[
+        "Bobo Dioulasso"
+    ],
+    "name:rum_x_preferred":[
+        "Bobo Dioulasso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u043e-\u0414\u0438\u0443\u043b\u0430\u0441\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddc\u0db6\u0ddd \u0da9\u0dba\u0dbd\u0dc3\u0dca\u0dc3\u0ddd"
+    ],
+    "name:spa_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0431\u043e-\u0414\u0458\u0443\u043b\u0430\u0441\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0baa\u0bcb  \u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bc1\u0bb2\u0bbe\u0bb8\u0bcd\u0bb8\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c2c\u0c4b \u0c21\u0c3f\u0c2f\u0c41\u0c32\u0c4b\u0c38\u0c4d\u0c38\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e1a\u0e42\u0e1a \u0e14\u0e34\u0e2d\u0e39\u0e25\u0e32\u0e2a\u0e42\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0431\u043e-\u0414\u0456\u0443\u043b\u0430\u0441\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Bobo-Diulasso"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0628\u0648-\u062f\u06cc\u0624\u0644\u0627\u0633\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Bobodiulaso"
+    ],
+    "name:vie_x_preferred":[
+        "Bobo Dioulasso"
+    ],
+    "name:vol_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:war_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:wel_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u535a\u8fea\u4e4c\u62c9\u7d22"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Burkina Faso",
+    "ne:ADM0_A3":"BFA",
+    "ne:ADM1NAME":"Houet",
+    "ne:ADMIN1_COD":51,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":2362344,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Bobo Dioulasso",
+    "ne:GN_POP":360106,
+    "ne:GTOPO30":446.0,
+    "ne:ISO_A2":"BF",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":11.179975,
+    "ne:LONGITUDE":-4.289981,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Bobo Dioulasso",
+    "ne:MAX_AREAKM":70.0,
+    "ne:MAX_AREAMI":27.0,
+    "ne:MAX_BBXMAX":-4.233333,
+    "ne:MAX_BBXMIN":-4.35,
+    "ne:MAX_BBYMAX":11.216667,
+    "ne:MAX_BBYMIN":11.133333,
+    "ne:MAX_NATSCA":50.0,
+    "ne:MAX_PERKM":51.0,
+    "ne:MAX_PERMI":32.0,
+    "ne:MAX_POP10":331964,
+    "ne:MAX_POP20":331964,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":331964,
+    "ne:MEAN_BBXC":-4.292018,
+    "ne:MEAN_BBYC":11.174448,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":70.0,
+    "ne:MIN_AREAMI":27.0,
+    "ne:MIN_BBXMAX":-4.233333,
+    "ne:MIN_BBXMIN":-4.35,
+    "ne:MIN_BBYMAX":11.216667,
+    "ne:MIN_BBYMIN":11.133333,
+    "ne:MIN_PERKM":51.0,
+    "ne:MIN_PERMI":32.0,
+    "ne:NAME":"Bobo Dioulasso",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Bobo Dioulasso",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":50,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":360106,
+    "ne:POP_MIN":331964,
+    "ne:POP_OTHER":312675,
+    "ne:RANK_MAX":10,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":4,
+    "ne:SOV0NAME":"Burkina Faso",
+    "ne:SOV_A3":"BFA",
+    "ne:TIMEZONE":"Africa/Ouagadougou",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"BF",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":2362344,
+    "qs:gn_pop":360106,
+    "qs:name":"Bobo-Dioulasso",
+    "qs:name_adm0":"Burkina Faso",
+    "qs:name_adm1":"Houet",
+    "qs:photos":1052,
+    "qs:photos_1k":213,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1052,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":890001,
+    "qs:woe_adm0":23424978,
+    "qs:woe_id":1456351,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":11.183333,
+    "wd:longitude":-4.283333,
+    "wd:wordcount":1701,
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362344,
+        "gp:id":1456351,
+        "qs:id":890001,
+        "wd:id":"Q223761",
+        "wk:page":"Bobo-Dioulasso"
+    },
+    "wof:country":"BF",
+    "wof:created":1459009038,
+    "wof:geomhash":"4349e50ff81e5f2f59341f3599e1aee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":421174633,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":421174633,
+    "wof:lastmodified":1527716225,
+    "wof:name":"Bobo-Dioulasso",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:population":360106,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.2979,
+    11.17715,
+    -4.2979,
+    11.17715
+],
+  "geometry": {"coordinates":[-4.2979,11.17715],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292898473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.3,11.6,-2.3,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-2.3,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lerou",
+    "gn:country_code":"BF",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358366,
+    "gn:latitude":11.6,
+    "gn:longitude":-2.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e9rou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Larou",
+        "L\u00e9rou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890422531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358366
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"96a65a2491504d35177c330b75126f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422531,
+            "locality_id":1292898473,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1292898473,
+    "wof:lastmodified":1537587162,
+    "wof:name":"Lerou",
+    "wof:parent_id":890422531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.3,
+    11.6,
+    -2.3,
+    11.6
+],
+  "geometry": {"coordinates":[-2.3,11.6],"type":"Point"}
+}

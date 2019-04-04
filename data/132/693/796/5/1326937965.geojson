@@ -1,0 +1,74 @@
+{
+  "id": 1326937965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.6925,12.07611,-1.6925,12.07611",
+    "geom:latitude":12.07611,
+    "geom:longitude":-1.6925,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Toeguen",
+    "gn:country_code":"BF",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354321,
+    "gn:latitude":12.07611,
+    "gn:longitude":-1.6925,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"To\u00e9guen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "To\u00e9gen",
+        "To\u00e9guen",
+        "To\u00e9ghin",
+        "To\u00e9guin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354321
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"17af2959e5679e296c2aadc44138cf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1326937965,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1326937965,
+    "wof:lastmodified":1537587103,
+    "wof:name":"Toeguen",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.6925,
+    12.07611,
+    -1.6925,
+    12.07611
+],
+  "geometry": {"coordinates":[-1.6925,12.07611],"type":"Point"}
+}

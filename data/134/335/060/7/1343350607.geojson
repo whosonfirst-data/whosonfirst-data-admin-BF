@@ -1,0 +1,68 @@
+{
+  "id": 1343350607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.42887,13.06588,-2.42887,13.06588",
+    "geom:latitude":13.06588,
+    "geom:longitude":-2.42887,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Toubiango",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354186,
+    "gn:latitude":13.06588,
+    "gn:longitude":-2.42887,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Toubiango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890422535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354186
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"57f83ae041847948727511cb998fa7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422535,
+            "locality_id":1343350607,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1343350607,
+    "wof:lastmodified":1536904971,
+    "wof:name":"Toubiango",
+    "wof:parent_id":890422535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.42887,
+    13.06588,
+    -2.42887,
+    13.06588
+],
+  "geometry": {"coordinates":[-2.42887,13.06588],"type":"Point"}
+}

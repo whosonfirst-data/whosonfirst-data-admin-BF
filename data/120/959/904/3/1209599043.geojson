@@ -1,0 +1,62 @@
+{
+  "id": 1209599043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.10483,13.78779,-2.10483,13.78779",
+    "geom:latitude":13.78779,
+    "geom:longitude":-2.10483,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Siguinoguin",
+    "gn:country_code":"BF",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786971,
+    "gn:latitude":13.78779,
+    "gn:longitude":-2.10483,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Siguinoguin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786971
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2ae5a78fdf0edd273cffcd6d62c1be69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209599043
+        }
+    ],
+    "wof:id":1209599043,
+    "wof:lastmodified":1536282229,
+    "wof:name":"Siguinoguin",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.10483,
+    13.78779,
+    -2.10483,
+    13.78779
+],
+  "geometry": {"coordinates":[-2.10483,13.78779],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360171061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.18333,10.15,-3.18333,10.15",
+    "geom:latitude":10.15,
+    "geom:longitude":-3.18333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Guenemena",
+    "gn:country_code":"BF",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360186,
+    "gn:latitude":10.15,
+    "gn:longitude":-3.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Gu\u00e9n\u00e9m\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360186
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a423cf249cc4c5f540ebf715669eaf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1360171061,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1360171061,
+    "wof:lastmodified":1536820797,
+    "wof:name":"Guenemena",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.18333,
+    10.15,
+    -3.18333,
+    10.15
+],
+  "geometry": {"coordinates":[-3.18333,10.15],"type":"Point"}
+}

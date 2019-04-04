@@ -1,0 +1,61 @@
+{
+  "id": 1209193711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.0,10.35,-3.0,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":-3.0,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Soropera",
+    "gn:country_code":"BF",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355306,
+    "gn:latitude":10.35,
+    "gn:longitude":-3.0,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sorop\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355306
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ec2eccc7e9ec8268b2a1ecf2d4009708",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209193711
+        }
+    ],
+    "wof:id":1209193711,
+    "wof:lastmodified":1536294845,
+    "wof:name":"Soropera",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0,
+    10.35,
+    -3.0,
+    10.35
+],
+  "geometry": {"coordinates":[-3.0,10.35],"type":"Point"}
+}

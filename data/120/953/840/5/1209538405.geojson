@@ -1,0 +1,67 @@
+{
+  "id": 1209538405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.3327,13.28941,-1.3327,13.28941",
+    "geom:latitude":13.28941,
+    "geom:longitude":-1.3327,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Fenerame",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360828,
+    "gn:latitude":13.28941,
+    "gn:longitude":-1.3327,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"F\u00e9n\u00e9ram\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e9n\u00e9rr\u00e9",
+        "F\u00e9n\u00e9gu\u00e9r\u00e9",
+        "F\u00e9n\u00e9ram\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360828
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"15fce55dd206a87571c5fb35e479d46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209538405
+        }
+    ],
+    "wof:id":1209538405,
+    "wof:lastmodified":1537587194,
+    "wof:name":"Fenerame",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.3327,
+    13.28941,
+    -1.3327,
+    13.28941
+],
+  "geometry": {"coordinates":[-1.3327,13.28941],"type":"Point"}
+}

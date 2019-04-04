@@ -1,0 +1,68 @@
+{
+  "id": 1260161119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.89484,13.44795,0.89484,13.44795",
+    "geom:latitude":13.44795,
+    "geom:longitude":0.89484,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Kobini",
+    "gn:country_code":"BF",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359402,
+    "gn:latitude":13.44795,
+    "gn:longitude":0.89484,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kobini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359402
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5b92cdf2c54afc494519f5b143290e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1260161119,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1260161119,
+    "wof:lastmodified":1536877881,
+    "wof:name":"Kobini",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.89484,
+    13.44795,
+    0.89484,
+    13.44795
+],
+  "geometry": {"coordinates":[0.89484,13.44795],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209110917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.00528,12.80167,-1.00528,12.80167",
+    "geom:latitude":12.80167,
+    "geom:longitude":-1.00528,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Foula",
+    "gn:country_code":"BF",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360744,
+    "gn:latitude":12.80167,
+    "gn:longitude":-1.00528,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Foula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Foulla",
+        "Foula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360744
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6015cfc1306dd7279a868cef4ba764ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209110917
+        }
+    ],
+    "wof:id":1209110917,
+    "wof:lastmodified":1537587193,
+    "wof:name":"Foula",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.00528,
+    12.80167,
+    -1.00528,
+    12.80167
+],
+  "geometry": {"coordinates":[-1.00528,12.80167],"type":"Point"}
+}

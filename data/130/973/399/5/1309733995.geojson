@@ -1,0 +1,67 @@
+{
+  "id": 1309733995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.88333,11.5,-1.88333,11.5",
+    "geom:latitude":11.5,
+    "geom:longitude":-1.88333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zavara",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353349,
+    "gn:latitude":11.5,
+    "gn:longitude":-1.88333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zavara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890422531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353349
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7b5d2a3db83a625847069d723331ed9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422531,
+            "locality_id":1309733995,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1309733995,
+    "wof:lastmodified":1537033211,
+    "wof:name":"Zavara",
+    "wof:parent_id":890422531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.88333,
+    11.5,
+    -1.88333,
+    11.5
+],
+  "geometry": {"coordinates":[-1.88333,11.5],"type":"Point"}
+}

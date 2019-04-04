@@ -1,0 +1,68 @@
+{
+  "id": 1226664007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.66667,11.46667,-2.66667,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":-2.66667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Fitien",
+    "gn:country_code":"BF",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360780,
+    "gn:latitude":11.46667,
+    "gn:longitude":-2.66667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Fitien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890452781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360780,
+        "wk:page":"Fitien"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ba30a741b73d0f4bc2ea3bb0a127b854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890452781,
+            "locality_id":1226664007,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1226664007,
+    "wof:lastmodified":1537487638,
+    "wof:name":"Fitien",
+    "wof:parent_id":890452781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.66667,
+    11.46667,
+    -2.66667,
+    11.46667
+],
+  "geometry": {"coordinates":[-2.66667,11.46667],"type":"Point"}
+}

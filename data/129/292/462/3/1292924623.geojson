@@ -1,0 +1,71 @@
+{
+  "id": 1292924623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.93595,10.87875,-3.93595,10.87875",
+    "geom:latitude":10.87875,
+    "geom:longitude":-3.93595,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Karankasso",
+    "gn:country_code":"BF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359696,
+    "gn:latitude":10.87875,
+    "gn:longitude":-3.93595,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Karankasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karankaso",
+        "Karankasso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359696
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1431ab42916e93fa2eaa8338b63f38bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1292924623,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1292924623,
+    "wof:lastmodified":1537587179,
+    "wof:name":"Karankasso",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.93595,
+    10.87875,
+    -3.93595,
+    10.87875
+],
+  "geometry": {"coordinates":[-3.93595,10.87875],"type":"Point"}
+}

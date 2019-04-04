@@ -1,0 +1,67 @@
+{
+  "id": 1293469217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.91667,10.35,-2.91667,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":-2.91667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kobouteon Tienkbe",
+    "gn:country_code":"BF",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359392,
+    "gn:latitude":10.35,
+    "gn:longitude":-2.91667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kobout\u00e9on Tienkb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359392
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6fee416fdca60c09d82854423dc87a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1293469217,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1293469217,
+    "wof:lastmodified":1536812905,
+    "wof:name":"Kobouteon Tienkbe",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.91667,
+    10.35,
+    -2.91667,
+    10.35
+],
+  "geometry": {"coordinates":[-2.91667,10.35],"type":"Point"}
+}

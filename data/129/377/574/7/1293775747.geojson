@@ -1,0 +1,69 @@
+{
+  "id": 1293775747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.57111,12.03333,-1.57111,12.03333",
+    "geom:latitude":12.03333,
+    "geom:longitude":-1.57111,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Koagma",
+    "gn:country_code":"BF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359441,
+    "gn:latitude":12.03333,
+    "gn:longitude":-1.57111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koagma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359441,
+        "wk:page":"Koagma"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d4d6a8a88d30c7d28036c1aec45bf411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1293775747,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1293775747,
+    "wof:lastmodified":1537487630,
+    "wof:name":"Koagma",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.57111,
+    12.03333,
+    -1.57111,
+    12.03333
+],
+  "geometry": {"coordinates":[-1.57111,12.03333],"type":"Point"}
+}

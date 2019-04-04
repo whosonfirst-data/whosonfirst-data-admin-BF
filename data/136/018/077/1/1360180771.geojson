@@ -1,0 +1,72 @@
+{
+  "id": 1360180771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.53108,13.68019,-2.53108,13.68019",
+    "geom:latitude":13.68019,
+    "geom:longitude":-2.53108,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Bossomnore Rimaibe",
+    "gn:country_code":"BF",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362129,
+    "gn:latitude":13.68019,
+    "gn:longitude":-2.53108,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bossomnor\u00e9 Rima\u00efb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bossomnor\u00e9",
+        "Bossomnor\u00e9 Rima\u00efb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362129
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e2547d78c8d2fa4e9fed889e50cfcb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1360180771,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1360180771,
+    "wof:lastmodified":1537587210,
+    "wof:name":"Bossomnore Rimaibe",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.53108,
+    13.68019,
+    -2.53108,
+    13.68019
+],
+  "geometry": {"coordinates":[-2.53108,13.68019],"type":"Point"}
+}

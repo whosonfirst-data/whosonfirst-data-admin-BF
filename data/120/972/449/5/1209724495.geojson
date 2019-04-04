@@ -1,0 +1,67 @@
+{
+  "id": 1209724495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.05,10.75,-5.05,10.75",
+    "geom:latitude":10.75,
+    "geom:longitude":-5.05,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Konbili",
+    "gn:country_code":"BF",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359182,
+    "gn:latitude":10.75,
+    "gn:longitude":-5.05,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Konbili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890453947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359182
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1f7fe6c0f01c84924ce558f4091205c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453947,
+            "locality_id":1209724495,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1209724495,
+    "wof:lastmodified":1536384862,
+    "wof:name":"Konbili",
+    "wof:parent_id":890453947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.05,
+    10.75,
+    -5.05,
+    10.75
+],
+  "geometry": {"coordinates":[-5.05,10.75],"type":"Point"}
+}

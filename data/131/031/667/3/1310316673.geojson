@@ -1,0 +1,72 @@
+{
+  "id": 1310316673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.29611,12.485,-1.29611,12.485",
+    "geom:latitude":12.485,
+    "geom:longitude":-1.29611,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Bassomen",
+    "gn:country_code":"BF",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361529,
+    "gn:latitude":12.485,
+    "gn:longitude":-1.29611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bassomen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dasom\u00e9",
+        "Bassomen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361529
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"64de4119c8d0f52bc55b36536c18bdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1310316673,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1310316673,
+    "wof:lastmodified":1537587202,
+    "wof:name":"Bassomen",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.29611,
+    12.485,
+    -1.29611,
+    12.485
+],
+  "geometry": {"coordinates":[-1.29611,12.485],"type":"Point"}
+}

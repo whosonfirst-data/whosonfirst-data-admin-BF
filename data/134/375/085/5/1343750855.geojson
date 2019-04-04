@@ -1,0 +1,68 @@
+{
+  "id": 1343750855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2829,14.00298,-2.2829,14.00298",
+    "geom:latitude":14.00298,
+    "geom:longitude":-2.2829,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Lossa",
+    "gn:country_code":"BF",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358236,
+    "gn:latitude":14.00298,
+    "gn:longitude":-2.2829,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Lossa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890453949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358236
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b5625e7a6e47d5b841a2b47a1057b2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":1343750855,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1343750855,
+    "wof:lastmodified":1536823870,
+    "wof:name":"Lossa",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2829,
+    14.00298,
+    -2.2829,
+    14.00298
+],
+  "geometry": {"coordinates":[-2.2829,14.00298],"type":"Point"}
+}

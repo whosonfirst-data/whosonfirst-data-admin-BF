@@ -1,0 +1,72 @@
+{
+  "id": 1360297011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.73861,12.19528,-1.73861,12.19528",
+    "geom:latitude":12.19528,
+    "geom:longitude":-1.73861,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Samben",
+    "gn:country_code":"BF",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356017,
+    "gn:latitude":12.19528,
+    "gn:longitude":-1.73861,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Samben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sambin",
+        "Samben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356017
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e8b5a6ab80e219245c1e56e68b91c321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1360297011,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1360297011,
+    "wof:lastmodified":1537587129,
+    "wof:name":"Samben",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.73861,
+    12.19528,
+    -1.73861,
+    12.19528
+],
+  "geometry": {"coordinates":[-1.73861,12.19528],"type":"Point"}
+}

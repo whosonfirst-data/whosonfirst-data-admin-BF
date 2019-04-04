@@ -1,0 +1,67 @@
+{
+  "id": 1343948735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.10197,12.45822,-0.10197,12.45822",
+    "geom:latitude":12.45822,
+    "geom:longitude":-0.10197,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bilanga Yanga",
+    "gn:country_code":"BF",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362497,
+    "gn:latitude":12.45822,
+    "gn:longitude":-0.10197,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Bilanga Yanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362497
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"be30ae0714e6cefc30b35fbcb95f68c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1343948735,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1343948735,
+    "wof:lastmodified":1537035431,
+    "wof:name":"Bilanga Yanga",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.10197,
+    12.45822,
+    -0.10197,
+    12.45822
+],
+  "geometry": {"coordinates":[-0.10197,12.45822],"type":"Point"}
+}

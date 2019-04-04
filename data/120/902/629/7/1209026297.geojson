@@ -1,0 +1,61 @@
+{
+  "id": 1209026297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21667,13.0,-0.21667,13.0",
+    "geom:latitude":13.0,
+    "geom:longitude":-0.21667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tieri",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354509,
+    "gn:latitude":13.0,
+    "gn:longitude":-0.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ti\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354509
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6dffb67abe03359508dd97a0c0706783",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209026297
+        }
+    ],
+    "wof:id":1209026297,
+    "wof:lastmodified":1536299987,
+    "wof:name":"Tieri",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21667,
+    13.0,
+    -0.21667,
+    13.0
+],
+  "geometry": {"coordinates":[-0.21667,13.0],"type":"Point"}
+}

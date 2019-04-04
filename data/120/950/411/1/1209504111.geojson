@@ -1,0 +1,62 @@
+{
+  "id": 1209504111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.18873,13.22689,-2.18873,13.22689",
+    "geom:latitude":13.22689,
+    "geom:longitude":-2.18873,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Kindiba",
+    "gn:country_code":"BF",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359494,
+    "gn:latitude":13.22689,
+    "gn:longitude":-2.18873,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Kindiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359494
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"daa8ab9b57bde0330996ab75b68c6a21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209504111
+        }
+    ],
+    "wof:id":1209504111,
+    "wof:lastmodified":1536285088,
+    "wof:name":"Kindiba",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.18873,
+    13.22689,
+    -2.18873,
+    13.22689
+],
+  "geometry": {"coordinates":[-2.18873,13.22689],"type":"Point"}
+}

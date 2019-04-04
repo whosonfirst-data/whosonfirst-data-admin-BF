@@ -1,0 +1,71 @@
+{
+  "id": 1259865965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.69869,11.11471,-2.69869,11.11471",
+    "geom:latitude":11.11471,
+    "geom:longitude":-2.69869,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Niego",
+    "gn:country_code":"BF",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357328,
+    "gn:latitude":11.11471,
+    "gn:longitude":-2.69869,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ni\u00e9go",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niebo",
+        "Ni\u00e9go"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890416509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357328
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e378e967a60db9ad5d7e22fc7ff57056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416509,
+            "locality_id":1259865965,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1259865965,
+    "wof:lastmodified":1537587149,
+    "wof:name":"Niego",
+    "wof:parent_id":890416509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.69869,
+    11.11471,
+    -2.69869,
+    11.11471
+],
+  "geometry": {"coordinates":[-2.69869,11.11471],"type":"Point"}
+}

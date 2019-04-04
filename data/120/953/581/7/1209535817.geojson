@@ -1,0 +1,62 @@
+{
+  "id": 1209535817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.00297,12.68877,1.00297,12.68877",
+    "geom:latitude":12.68877,
+    "geom:longitude":1.00297,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"56",
+    "gn:asciiname":"Foadyendyengou",
+    "gn:country_code":"BF",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360776,
+    "gn:latitude":12.68877,
+    "gn:longitude":1.00297,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Foadyendyengou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360776
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"46eba7b89bca69a8e39523ffc2c68c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209535817
+        }
+    ],
+    "wof:id":1209535817,
+    "wof:lastmodified":1536284146,
+    "wof:name":"Foadyendyengou",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.00297,
+    12.68877,
+    1.00297,
+    12.68877
+],
+  "geometry": {"coordinates":[1.00297,12.68877],"type":"Point"}
+}

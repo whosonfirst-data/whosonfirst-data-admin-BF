@@ -1,0 +1,67 @@
+{
+  "id": 1343980897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.9,12.58333,-0.9,12.58333",
+    "geom:latitude":12.58333,
+    "geom:longitude":-0.9,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sabatenga",
+    "gn:country_code":"BF",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356150,
+    "gn:latitude":12.58333,
+    "gn:longitude":-0.9,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sabatenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356150
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b8e928ea26c07f68574a2234e06eb2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1343980897,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1343980897,
+    "wof:lastmodified":1536989687,
+    "wof:name":"Sabatenga",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9,
+    12.58333,
+    -0.9,
+    12.58333
+],
+  "geometry": {"coordinates":[-0.9,12.58333],"type":"Point"}
+}

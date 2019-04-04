@@ -1,0 +1,67 @@
+{
+  "id": 1226760789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.13333,10.46667,-5.13333,10.46667",
+    "geom:latitude":10.46667,
+    "geom:longitude":-5.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kanieleke",
+    "gn:country_code":"BF",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359765,
+    "gn:latitude":10.46667,
+    "gn:longitude":-5.13333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kani\u00e9l\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890453947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359765
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fba82ab0a206ca68315ee41a03dcd225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453947,
+            "locality_id":1226760789,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1226760789,
+    "wof:lastmodified":1536694043,
+    "wof:name":"Kanieleke",
+    "wof:parent_id":890453947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.13333,
+    10.46667,
+    -5.13333,
+    10.46667
+],
+  "geometry": {"coordinates":[-5.13333,10.46667],"type":"Point"}
+}

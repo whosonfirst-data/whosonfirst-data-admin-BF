@@ -1,0 +1,118 @@
+{
+  "id": 421179715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.55056,11.8,-0.55056,11.8",
+    "geom:latitude":11.8,
+    "geom:longitude":-0.55056,
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Garango"
+    ],
+    "name:deu_x_preferred":[
+        "Garango"
+    ],
+    "name:dut_x_preferred":[
+        "Garango"
+    ],
+    "name:eng_x_preferred":[
+        "Garango"
+    ],
+    "name:fra_x_preferred":[
+        "Garango"
+    ],
+    "name:fre_x_preferred":[
+        "Garango"
+    ],
+    "name:pol_x_preferred":[
+        "Garango"
+    ],
+    "name:ron_x_preferred":[
+        "Garango"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0430\u043d\u0433\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Garango"
+    ],
+    "name:swe_x_preferred":[
+        "Garango"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0430\u043d\u0433\u043e"
+    ],
+    "qs:gn_country":"BF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2360615,
+    "qs:gn_pop":29076,
+    "qs:name":"Garango",
+    "qs:name_adm0":"Burkina Faso",
+    "qs:name_adm1":"Boulgou",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":183730,
+    "qs:woe_adm0":23424978,
+    "qs:woe_id":1457862,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360615,
+        "gp:id":1457862,
+        "qs:id":183730,
+        "wd:id":"Q2668534",
+        "wk:page":"Garango"
+    },
+    "wof:country":"BF",
+    "wof:created":1459009230,
+    "wof:geomhash":"952cc8e794746b11150d86ceedc2048d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":421179715,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":421179715,
+    "wof:lastmodified":1527717707,
+    "wof:name":"Garango",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:population":29076,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.55056,
+    11.8,
+    -0.55056,
+    11.8
+],
+  "geometry": {"coordinates":[-0.55056,11.8],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242664591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.81806,14.30362,-0.81806,14.30362",
+    "geom:latitude":14.30362,
+    "geom:longitude":-0.81806,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Oulo Ba",
+    "gn:country_code":"BF",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356898,
+    "gn:latitude":14.30362,
+    "gn:longitude":-0.81806,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Oulo Ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356898
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"12928608cf83db46c932f37cba7520f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1242664591,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1242664591,
+    "wof:lastmodified":1536939275,
+    "wof:name":"Oulo Ba",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.81806,
+    14.30362,
+    -0.81806,
+    14.30362
+],
+  "geometry": {"coordinates":[-0.81806,14.30362],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293203809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.16667,10.73333,-4.16667,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-4.16667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kongbelegban",
+    "gn:country_code":"BF",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359156,
+    "gn:latitude":10.73333,
+    "gn:longitude":-4.16667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kongb\u00e9legban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359156
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d5a541da3777df7d7c388fe563207e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1293203809,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1293203809,
+    "wof:lastmodified":1536699282,
+    "wof:name":"Kongbelegban",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.16667,
+    10.73333,
+    -4.16667,
+    10.73333
+],
+  "geometry": {"coordinates":[-4.16667,10.73333],"type":"Point"}
+}

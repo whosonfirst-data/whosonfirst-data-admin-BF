@@ -1,0 +1,71 @@
+{
+  "id": 1310604119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7,10.73333,-4.7,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-4.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Serefedougou",
+    "gn:country_code":"BF",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355718,
+    "gn:latitude":10.73333,
+    "gn:longitude":-4.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"S\u00e9r\u00e9f\u00e9dougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9r\u00e9f\u00e9dougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890413167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355718,
+        "wk:page":"Serefedougou"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4d7bcdd5aa4a35b4ff9bb46bc219b2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":1310604119,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1310604119,
+    "wof:lastmodified":1537587124,
+    "wof:name":"Serefedougou",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7,
+    10.73333,
+    -4.7,
+    10.73333
+],
+  "geometry": {"coordinates":[-4.7,10.73333],"type":"Point"}
+}

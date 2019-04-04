@@ -1,0 +1,68 @@
+{
+  "id": 1327322795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.57991,13.79438,-2.57991,13.79438",
+    "geom:latitude":13.79438,
+    "geom:longitude":-2.57991,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Sim",
+    "gn:country_code":"BF",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355565,
+    "gn:latitude":13.79438,
+    "gn:longitude":-2.57991,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Sim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355565
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7db41b0119b9ff9834d6cc94cdd1731e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1327322795,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1327322795,
+    "wof:lastmodified":1536838126,
+    "wof:name":"Sim",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.57991,
+    13.79438,
+    -2.57991,
+    13.79438
+],
+  "geometry": {"coordinates":[-2.57991,13.79438],"type":"Point"}
+}

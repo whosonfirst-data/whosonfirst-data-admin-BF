@@ -1,0 +1,62 @@
+{
+  "id": 1209291639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.28872,14.02377,-0.28872,14.02377",
+    "geom:latitude":14.02377,
+    "geom:longitude":-0.28872,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:asciiname":"Fairdi Syenou",
+    "gn:country_code":"BF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360877,
+    "gn:latitude":14.02377,
+    "gn:longitude":-0.28872,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Fairdi Sy\u00e9nou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360877
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f057d53f111aeff8f0a323e58694079b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209291639
+        }
+    ],
+    "wof:id":1209291639,
+    "wof:lastmodified":1536291673,
+    "wof:name":"Fairdi Syenou",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.28872,
+    14.02377,
+    -0.28872,
+    14.02377
+],
+  "geometry": {"coordinates":[-0.28872,14.02377],"type":"Point"}
+}

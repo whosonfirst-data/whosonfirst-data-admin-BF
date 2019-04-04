@@ -1,0 +1,67 @@
+{
+  "id": 1260262227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.18333,10.36667,-3.18333,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":-3.18333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pounela",
+    "gn:country_code":"BF",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356331,
+    "gn:latitude":10.36667,
+    "gn:longitude":-3.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Poun\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890413151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356331
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"55e6376c59db222c27886c6690a45c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":1260262227,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1260262227,
+    "wof:lastmodified":1536740429,
+    "wof:name":"Pounela",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.18333,
+    10.36667,
+    -3.18333,
+    10.36667
+],
+  "geometry": {"coordinates":[-3.18333,10.36667],"type":"Point"}
+}

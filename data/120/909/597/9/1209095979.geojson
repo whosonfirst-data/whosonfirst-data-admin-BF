@@ -1,0 +1,61 @@
+{
+  "id": 1209095979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.18333,11.38333,-3.18333,11.38333",
+    "geom:latitude":11.38333,
+    "geom:longitude":-3.18333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pana",
+    "gn:country_code":"BF",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356729,
+    "gn:latitude":11.38333,
+    "gn:longitude":-3.18333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356729
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f2c2b1989cdcdacf3faacaf026ac7de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209095979
+        }
+    ],
+    "wof:id":1209095979,
+    "wof:lastmodified":1536297885,
+    "wof:name":"Pana",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.18333,
+    11.38333,
+    -3.18333,
+    11.38333
+],
+  "geometry": {"coordinates":[-3.18333,11.38333],"type":"Point"}
+}

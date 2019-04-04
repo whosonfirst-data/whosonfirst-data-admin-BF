@@ -1,0 +1,67 @@
+{
+  "id": 1293892229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.36667,10.48333,-5.36667,10.48333",
+    "geom:latitude":10.48333,
+    "geom:longitude":-5.36667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kabarikaha",
+    "gn:country_code":"BF",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359950,
+    "gn:latitude":10.48333,
+    "gn:longitude":-5.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kabarikaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805703,
+        890453947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359950
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4f1eec2a9fff2d36fb089e73cc140421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453947,
+            "locality_id":1293892229,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":1293892229,
+    "wof:lastmodified":1536700954,
+    "wof:name":"Kabarikaha",
+    "wof:parent_id":890453947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.36667,
+    10.48333,
+    -5.36667,
+    10.48333
+],
+  "geometry": {"coordinates":[-5.36667,10.48333],"type":"Point"}
+}

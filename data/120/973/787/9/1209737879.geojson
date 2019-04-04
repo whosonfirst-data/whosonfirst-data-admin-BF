@@ -1,0 +1,68 @@
+{
+  "id": 1209737879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.31248,13.15718,-0.31248,13.15718",
+    "geom:latitude":13.15718,
+    "geom:longitude":-0.31248,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Boussangli",
+    "gn:country_code":"BF",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361847,
+    "gn:latitude":13.15718,
+    "gn:longitude":-0.31248,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Boussangli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361847
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9667a467486a940d13b9f78573e705fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1209737879,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1209737879,
+    "wof:lastmodified":1536371712,
+    "wof:name":"Boussangli",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.31248,
+    13.15718,
+    -0.31248,
+    13.15718
+],
+  "geometry": {"coordinates":[-0.31248,13.15718],"type":"Point"}
+}

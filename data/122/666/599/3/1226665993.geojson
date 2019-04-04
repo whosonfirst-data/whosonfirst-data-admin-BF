@@ -1,0 +1,68 @@
+{
+  "id": 1226665993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.06394,12.55465,2.06394,12.55465",
+    "geom:latitude":12.55465,
+    "geom:longitude":2.06394,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Saradabeyngo",
+    "gn:country_code":"BF",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355865,
+    "gn:latitude":12.55465,
+    "gn:longitude":2.06394,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Saradab\u00e8yngo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355865
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bf67a7ddd97952eb422a8681a48f4576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1226665993,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1226665993,
+    "wof:lastmodified":1536829388,
+    "wof:name":"Saradabeyngo",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.06394,
+    12.55465,
+    2.06394,
+    12.55465
+],
+  "geometry": {"coordinates":[2.06394,12.55465],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343842391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.7,11.7,-3.7,11.7",
+    "geom:latitude":11.7,
+    "geom:longitude":-3.7,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kandeni",
+    "gn:country_code":"BF",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359787,
+    "gn:latitude":11.7,
+    "gn:longitude":-3.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kand\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890422527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359787
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fafcf73567fe63c5474fd2c12fe756f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422527,
+            "locality_id":1343842391,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1343842391,
+    "wof:lastmodified":1536692889,
+    "wof:name":"Kandeni",
+    "wof:parent_id":890422527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.7,
+    11.7,
+    -3.7,
+    11.7
+],
+  "geometry": {"coordinates":[-3.7,11.7],"type":"Point"}
+}

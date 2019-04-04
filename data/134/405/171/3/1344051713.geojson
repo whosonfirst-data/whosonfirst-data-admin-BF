@@ -1,0 +1,68 @@
+{
+  "id": 1344051713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.20882,11.76282,-5.20882,11.76282",
+    "geom:latitude":11.76282,
+    "geom:longitude":-5.20882,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Temetemesso",
+    "gn:country_code":"BF",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354700,
+    "gn:latitude":11.76282,
+    "gn:longitude":-5.20882,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"T\u00e9m\u00e9t\u00e9m\u00e9sso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354700
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8db7efbda20c9d4c76c8322be61ff606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1344051713,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1344051713,
+    "wof:lastmodified":1536887838,
+    "wof:name":"Temetemesso",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.20882,
+    11.76282,
+    -5.20882,
+    11.76282
+],
+  "geometry": {"coordinates":[-5.20882,11.76282],"type":"Point"}
+}

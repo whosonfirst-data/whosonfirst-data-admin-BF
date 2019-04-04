@@ -1,0 +1,68 @@
+{
+  "id": 1293583693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.7301,11.07385,-4.7301,11.07385",
+    "geom:latitude":11.07385,
+    "geom:longitude":-4.7301,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Guena",
+    "gn:country_code":"BF",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360189,
+    "gn:latitude":11.07385,
+    "gn:longitude":-4.7301,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gu\u00e9na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360189
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"f21980c2f707097238bdf9e3b836cd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1293583693,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1293583693,
+    "wof:lastmodified":1536648104,
+    "wof:name":"Guena",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.7301,
+    11.07385,
+    -4.7301,
+    11.07385
+],
+  "geometry": {"coordinates":[-4.7301,11.07385],"type":"Point"}
+}

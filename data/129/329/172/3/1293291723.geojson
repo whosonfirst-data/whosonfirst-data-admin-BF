@@ -1,0 +1,72 @@
+{
+  "id": 1293291723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.64985,13.70578,-1.64985,13.70578",
+    "geom:latitude":13.70578,
+    "geom:longitude":-1.64985,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Basse",
+    "gn:country_code":"BF",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362696,
+    "gn:latitude":13.70578,
+    "gn:longitude":-1.64985,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bass\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bass\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362696,
+        "wk:page":"Bass%C3%A9"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a91e827c16476fecf294f3986c664438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1293291723,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1293291723,
+    "wof:lastmodified":1537587217,
+    "wof:name":"Basse",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.64985,
+    13.70578,
+    -1.64985,
+    13.70578
+],
+  "geometry": {"coordinates":[-1.64985,13.70578],"type":"Point"}
+}

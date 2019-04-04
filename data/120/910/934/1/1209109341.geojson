@@ -1,0 +1,61 @@
+{
+  "id": 1209109341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.3,10.6,-5.3,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":-5.3,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lera",
+    "gn:country_code":"BF",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358378,
+    "gn:latitude":10.6,
+    "gn:longitude":-5.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"L\u00e9ra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358378
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1fd35fff9e7c105928d12541b22559cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209109341
+        }
+    ],
+    "wof:id":1209109341,
+    "wof:lastmodified":1536297459,
+    "wof:name":"Lera",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.3,
+    10.6,
+    -5.3,
+    10.6
+],
+  "geometry": {"coordinates":[-5.3,10.6],"type":"Point"}
+}

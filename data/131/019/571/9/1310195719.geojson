@@ -1,0 +1,68 @@
+{
+  "id": 1310195719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.9943,12.65717,1.9943,12.65717",
+    "geom:latitude":12.65717,
+    "geom:longitude":1.9943,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Seneguele",
+    "gn:country_code":"BF",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355743,
+    "gn:latitude":12.65717,
+    "gn:longitude":1.9943,
+    "gn:modification_date":"2013-05-08",
+    "gn:name":"S\u00e9n\u00e9gu\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355743
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e414dd0a9f40820340d0e1b7f98c043a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1310195719,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1310195719,
+    "wof:lastmodified":1536865115,
+    "wof:name":"Seneguele",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.9943,
+    12.65717,
+    1.9943,
+    12.65717
+],
+  "geometry": {"coordinates":[1.9943,12.65717],"type":"Point"}
+}

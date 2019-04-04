@@ -1,0 +1,61 @@
+{
+  "id": 1209307043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.7,11.71667,-1.7,11.71667",
+    "geom:latitude":11.71667,
+    "geom:longitude":-1.7,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bassawarga",
+    "gn:country_code":"BF",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362698,
+    "gn:latitude":11.71667,
+    "gn:longitude":-1.7,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bassawarga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362698
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1fed5825f1e2f4fd1a04266743801567",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209307043
+        }
+    ],
+    "wof:id":1209307043,
+    "wof:lastmodified":1536291159,
+    "wof:name":"Bassawarga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.7,
+    11.71667,
+    -1.7,
+    11.71667
+],
+  "geometry": {"coordinates":[-1.7,11.71667],"type":"Point"}
+}

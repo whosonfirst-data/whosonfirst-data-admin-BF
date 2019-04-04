@@ -1,0 +1,73 @@
+{
+  "id": 1259777195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.79028,13.00806,-1.79028,13.00806",
+    "geom:latitude":13.00806,
+    "geom:longitude":-1.79028,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Boken",
+    "gn:cc2":"BF",
+    "gn:country_code":"BF",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362287,
+    "gn:latitude":13.00806,
+    "gn:longitude":-1.79028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boken",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokin",
+        "Boken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362287
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d11500971b629c02caf1f4cfbbeec582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1259777195,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1259777195,
+    "wof:lastmodified":1537587212,
+    "wof:name":"Boken",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.79028,
+    13.00806,
+    -1.79028,
+    13.00806
+],
+  "geometry": {"coordinates":[-1.79028,13.00806],"type":"Point"}
+}

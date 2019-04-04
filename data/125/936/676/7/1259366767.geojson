@@ -1,0 +1,68 @@
+{
+  "id": 1259366767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.56985,13.43095,-2.56985,13.43095",
+    "geom:latitude":13.43095,
+    "geom:longitude":-2.56985,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Boulounsi",
+    "gn:country_code":"BF",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361955,
+    "gn:latitude":13.43095,
+    "gn:longitude":-2.56985,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Boulounsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361955
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6f85ff048a1f439a64b71891f1a4570f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1259366767,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1259366767,
+    "wof:lastmodified":1537025209,
+    "wof:name":"Boulounsi",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.56985,
+    13.43095,
+    -2.56985,
+    13.43095
+],
+  "geometry": {"coordinates":[-2.56985,13.43095],"type":"Point"}
+}

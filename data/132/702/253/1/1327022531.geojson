@@ -1,0 +1,72 @@
+{
+  "id": 1327022531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.56667,11.51667,-2.56667,11.51667",
+    "geom:latitude":11.51667,
+    "geom:longitude":-2.56667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kalo",
+    "gn:country_code":"BF",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359864,
+    "gn:latitude":11.51667,
+    "gn:longitude":-2.56667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koalo",
+        "Kalao",
+        "Kalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890421465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359864
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"01fabb135c7cb1bbb99856f04302c02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421465,
+            "locality_id":1327022531,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1327022531,
+    "wof:lastmodified":1537587181,
+    "wof:name":"Kalo",
+    "wof:parent_id":890421465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.56667,
+    11.51667,
+    -2.56667,
+    11.51667
+],
+  "geometry": {"coordinates":[-2.56667,11.51667],"type":"Point"}
+}

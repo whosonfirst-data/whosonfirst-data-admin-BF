@@ -1,0 +1,72 @@
+{
+  "id": 1292938773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.26667,11.78333,-0.26667,11.78333",
+    "geom:latitude":11.78333,
+    "geom:longitude":-0.26667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kologanaba",
+    "gn:country_code":"BF",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359275,
+    "gn:latitude":11.78333,
+    "gn:longitude":-0.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kologanaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolognaba",
+        "Kologonaba",
+        "Kologanaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359275
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"78deb69320e44c08b18be045d2288589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1292938773,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1292938773,
+    "wof:lastmodified":1537587174,
+    "wof:name":"Kologanaba",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.26667,
+    11.78333,
+    -0.26667,
+    11.78333
+],
+  "geometry": {"coordinates":[-0.26667,11.78333],"type":"Point"}
+}

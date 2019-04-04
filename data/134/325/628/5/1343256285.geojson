@@ -1,0 +1,73 @@
+{
+  "id": 1343256285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.81667,12.06667,-1.81667,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":-1.81667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pyeren",
+    "gn:country_code":"BF",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356288,
+    "gn:latitude":12.06667,
+    "gn:longitude":-1.81667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Py\u00e9ren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Penghin",
+        "Py\u00e9ren",
+        "Py\u00e9rin",
+        "Penguen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356288
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fce2f286a06151d1973538da1ce9c641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1343256285,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1343256285,
+    "wof:lastmodified":1537587133,
+    "wof:name":"Pyeren",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.81667,
+    12.06667,
+    -1.81667,
+    12.06667
+],
+  "geometry": {"coordinates":[-1.81667,12.06667],"type":"Point"}
+}

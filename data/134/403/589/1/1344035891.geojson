@@ -1,0 +1,74 @@
+{
+  "id": 1344035891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.93639,12.76889,-1.93639,12.76889",
+    "geom:latitude":12.76889,
+    "geom:longitude":-1.93639,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"60",
+    "gn:asciiname":"Niou",
+    "gn:country_code":"BF",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357095,
+    "gn:latitude":12.76889,
+    "gn:longitude":-1.93639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Niou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyou",
+        "Niu",
+        "Niou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357095,
+        "wk:page":"Niou_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"856a4ca8421d3a09ac75d02b83468363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1344035891,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1344035891,
+    "wof:lastmodified":1537587144,
+    "wof:name":"Niou",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.93639,
+    12.76889,
+    -1.93639,
+    12.76889
+],
+  "geometry": {"coordinates":[-1.93639,12.76889],"type":"Point"}
+}

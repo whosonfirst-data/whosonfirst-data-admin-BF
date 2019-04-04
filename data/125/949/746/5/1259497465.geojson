@@ -1,0 +1,67 @@
+{
+  "id": 1259497465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.86667,12.33333,-3.86667,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":-3.86667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dio",
+    "gn:country_code":"BF",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361251,
+    "gn:latitude":12.33333,
+    "gn:longitude":-3.86667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890416507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361251
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"766efa23ca7b52ba3ead9d1a5c47736a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416507,
+            "locality_id":1259497465,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1259497465,
+    "wof:lastmodified":1536837626,
+    "wof:name":"Dio",
+    "wof:parent_id":890416507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.86667,
+    12.33333,
+    -3.86667,
+    12.33333
+],
+  "geometry": {"coordinates":[-3.86667,12.33333],"type":"Point"}
+}

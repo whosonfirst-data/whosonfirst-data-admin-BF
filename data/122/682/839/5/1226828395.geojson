@@ -1,0 +1,67 @@
+{
+  "id": 1226828395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.83333,9.91667,-2.83333,9.91667",
+    "geom:latitude":9.91667,
+    "geom:longitude":-2.83333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Koriba Kinkeni",
+    "gn:country_code":"BF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359071,
+    "gn:latitude":9.91667,
+    "gn:longitude":-2.83333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koriba Kink\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359071
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d1851d1abe602750b8480c9ef4d2c48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1226828395,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1226828395,
+    "wof:lastmodified":1537090144,
+    "wof:name":"Koriba Kinkeni",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.83333,
+    9.91667,
+    -2.83333,
+    9.91667
+],
+  "geometry": {"coordinates":[-2.83333,9.91667],"type":"Point"}
+}

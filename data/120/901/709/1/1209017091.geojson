@@ -1,0 +1,62 @@
+{
+  "id": 1209017091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.73333,10.55,-3.73333,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-3.73333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bini",
+    "gn:country_code":"BF",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362449,
+    "gn:latitude":10.55,
+    "gn:longitude":-3.73333,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Bini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362449,
+        "wk:page":"Bini%2C_Burkina_Faso"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"72039d956061e3c54f49d33b5d30b7fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209017091
+        }
+    ],
+    "wof:id":1209017091,
+    "wof:lastmodified":1537487650,
+    "wof:name":"Bini",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.73333,
+    10.55,
+    -3.73333,
+    10.55
+],
+  "geometry": {"coordinates":[-3.73333,10.55],"type":"Point"}
+}

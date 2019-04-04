@@ -1,0 +1,67 @@
+{
+  "id": 1260360993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.95,9.95,-2.95,9.95",
+    "geom:latitude":9.95,
+    "geom:longitude":-2.95,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Toanta",
+    "gn:country_code":"BF",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354335,
+    "gn:latitude":9.95,
+    "gn:longitude":-2.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Toanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354335
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7da3f7ae38bcddf18aa556eda142d469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1260360993,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1260360993,
+    "wof:lastmodified":1536605165,
+    "wof:name":"Toanta",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.95,
+    9.95,
+    -2.95,
+    9.95
+],
+  "geometry": {"coordinates":[-2.95,9.95],"type":"Point"}
+}

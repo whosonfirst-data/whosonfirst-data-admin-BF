@@ -1,0 +1,65 @@
+{
+  "id": 1209316281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.32833,12.15389,-1.32833,12.15389",
+    "geom:latitude":12.15389,
+    "geom:longitude":-1.32833,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bangre",
+    "gn:country_code":"BF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362782,
+    "gn:latitude":12.15389,
+    "gn:longitude":-1.32833,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bangr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baran\u00e9",
+        "Bangr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362782
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d28ba4c68de0d9d0a2c48c7dd4042017",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209316281
+        }
+    ],
+    "wof:id":1209316281,
+    "wof:lastmodified":1537587218,
+    "wof:name":"Bangre",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.32833,
+    12.15389,
+    -1.32833,
+    12.15389
+],
+  "geometry": {"coordinates":[-1.32833,12.15389],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309719553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.71528,12.26944,-1.71528,12.26944",
+    "geom:latitude":12.26944,
+    "geom:longitude":-1.71528,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Tanguen-Dassouri",
+    "gn:country_code":"BF",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354971,
+    "gn:latitude":12.26944,
+    "gn:longitude":-1.71528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tanguen-Dassouri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dassouri",
+        "Tangen-Dassouri",
+        "Dassuri",
+        "Tangin Dassouri",
+        "Tanghin-Dassouri",
+        "Tanguen-Dassouri",
+        "Tanguin Dassouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354971,
+        "wk:page":"Tangin_Dassouri"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4b49e9f8a8c5cc42bd08d0f7de02a303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1309719553,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1309719553,
+    "wof:lastmodified":1537587113,
+    "wof:name":"Tanguen-Dassouri",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.71528,
+    12.26944,
+    -1.71528,
+    12.26944
+],
+  "geometry": {"coordinates":[-1.71528,12.26944],"type":"Point"}
+}

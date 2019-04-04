@@ -1,0 +1,67 @@
+{
+  "id": 1260102981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.01667,12.88333,-1.01667,12.88333",
+    "geom:latitude":12.88333,
+    "geom:longitude":-1.01667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yandaga",
+    "gn:country_code":"BF",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353638,
+    "gn:latitude":12.88333,
+    "gn:longitude":-1.01667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yandaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353638
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"54e3eb1f57ba35645bf0f83723ee1ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1260102981,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1260102981,
+    "wof:lastmodified":1536959980,
+    "wof:name":"Yandaga",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.01667,
+    12.88333,
+    -1.01667,
+    12.88333
+],
+  "geometry": {"coordinates":[-1.01667,12.88333],"type":"Point"}
+}

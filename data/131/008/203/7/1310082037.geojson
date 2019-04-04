@@ -1,0 +1,67 @@
+{
+  "id": 1310082037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.96667,9.7,-2.96667,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":-2.96667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Talkaouna",
+    "gn:country_code":"BF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355135,
+    "gn:latitude":9.7,
+    "gn:longitude":-2.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Talkaouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355135
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9495153bc49a5f2549af5e578504711e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1310082037,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1310082037,
+    "wof:lastmodified":1537029154,
+    "wof:name":"Talkaouna",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.96667,
+    9.7,
+    -2.96667,
+    9.7
+],
+  "geometry": {"coordinates":[-2.96667,9.7],"type":"Point"}
+}

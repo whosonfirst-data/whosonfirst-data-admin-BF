@@ -1,0 +1,67 @@
+{
+  "id": 1309789473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76667,12.93333,-1.76667,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":-1.76667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Yake",
+    "gn:country_code":"BF",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353693,
+    "gn:latitude":12.93333,
+    "gn:longitude":-1.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yak\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353693
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"44740cf8873e407485e8f360aa28b4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1309789473,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1309789473,
+    "wof:lastmodified":1536954694,
+    "wof:name":"Yake",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76667,
+    12.93333,
+    -1.76667,
+    12.93333
+],
+  "geometry": {"coordinates":[-1.76667,12.93333],"type":"Point"}
+}

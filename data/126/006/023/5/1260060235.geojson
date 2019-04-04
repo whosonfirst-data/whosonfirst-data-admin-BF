@@ -1,0 +1,73 @@
+{
+  "id": 1260060235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.16084,13.86584,-1.16084,13.86584",
+    "geom:latitude":13.86584,
+    "geom:longitude":-1.16084,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Kelbo Foulces",
+    "gn:country_code":"BF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359586,
+    "gn:latitude":13.86584,
+    "gn:longitude":-1.16084,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00e8lbo Foulc\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kelbo",
+        "K\u00e8lbo Foulb\u00e9s",
+        "K\u00e8lbo Foulc\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359586
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"45296881da8490f8feaac93b3129227c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1260060235,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1260060235,
+    "wof:lastmodified":1537587177,
+    "wof:name":"Kelbo Foulces",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.16084,
+    13.86584,
+    -1.16084,
+    13.86584
+],
+  "geometry": {"coordinates":[-1.16084,13.86584],"type":"Point"}
+}

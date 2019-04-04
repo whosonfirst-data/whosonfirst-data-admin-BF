@@ -1,0 +1,68 @@
+{
+  "id": 1344264495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.72722,12.20417,-1.72722,12.20417",
+    "geom:latitude":12.20417,
+    "geom:longitude":-1.72722,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Lao",
+    "gn:country_code":"BF",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358478,
+    "gn:latitude":12.20417,
+    "gn:longitude":-1.72722,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Lao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358478
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5e80e89b5d67a43436bacb1a4b88e7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1344264495,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1344264495,
+    "wof:lastmodified":1537075174,
+    "wof:name":"Lao",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.72722,
+    12.20417,
+    -1.72722,
+    12.20417
+],
+  "geometry": {"coordinates":[-1.72722,12.20417],"type":"Point"}
+}

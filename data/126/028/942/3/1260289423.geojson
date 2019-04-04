@@ -1,0 +1,68 @@
+{
+  "id": 1260289423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.82498,13.8484,-0.82498,13.8484",
+    "geom:latitude":13.8484,
+    "geom:longitude":-0.82498,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Nama",
+    "gn:country_code":"BF",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357638,
+    "gn:latitude":13.8484,
+    "gn:longitude":-0.82498,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Nama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357638
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d10c72c53fda8d5234e13c0800512035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1260289423,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1260289423,
+    "wof:lastmodified":1536704231,
+    "wof:name":"Nama",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.82498,
+    13.8484,
+    -0.82498,
+    13.8484
+],
+  "geometry": {"coordinates":[-0.82498,13.8484],"type":"Point"}
+}

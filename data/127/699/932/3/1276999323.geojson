@@ -1,0 +1,73 @@
+{
+  "id": 1276999323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.76797,11.84444,-3.76797,11.84444",
+    "geom:latitude":11.84444,
+    "geom:longitude":-3.76797,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bondoukui",
+    "gn:country_code":"BF",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362216,
+    "gn:latitude":11.84444,
+    "gn:longitude":-3.76797,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Bondoukui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bondoukoui",
+        "Bondukui",
+        "Bondoukuy",
+        "Bondoukui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362216
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2142e6747bcb08ed66437e4749ce0d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413161,
+            "locality_id":1276999323,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1276999323,
+    "wof:lastmodified":1537587211,
+    "wof:name":"Bondoukui",
+    "wof:parent_id":890413161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.76797,
+    11.84444,
+    -3.76797,
+    11.84444
+],
+  "geometry": {"coordinates":[-3.76797,11.84444],"type":"Point"}
+}

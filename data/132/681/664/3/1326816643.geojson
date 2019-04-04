@@ -1,0 +1,67 @@
+{
+  "id": 1326816643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.56667,10.68333,-3.56667,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":-3.56667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Domana",
+    "gn:country_code":"BF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361131,
+    "gn:latitude":10.68333,
+    "gn:longitude":-3.56667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Domana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        890428985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361131
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a303334ed647b70ea27411208c07b531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428985,
+            "locality_id":1326816643,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1326816643,
+    "wof:lastmodified":1537068304,
+    "wof:name":"Domana",
+    "wof:parent_id":890428985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.56667,
+    10.68333,
+    -3.56667,
+    10.68333
+],
+  "geometry": {"coordinates":[-3.56667,10.68333],"type":"Point"}
+}

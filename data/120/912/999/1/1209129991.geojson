@@ -1,0 +1,61 @@
+{
+  "id": 1209129991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.68333,11.13333,-0.68333,11.13333",
+    "geom:latitude":11.13333,
+    "geom:longitude":-0.68333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Samporgo",
+    "gn:country_code":"BF",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355985,
+    "gn:latitude":11.13333,
+    "gn:longitude":-0.68333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Samporgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355985
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"83f8463167432b3cd6024a0bffd52f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209129991
+        }
+    ],
+    "wof:id":1209129991,
+    "wof:lastmodified":1536296834,
+    "wof:name":"Samporgo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.68333,
+    11.13333,
+    -0.68333,
+    11.13333
+],
+  "geometry": {"coordinates":[-0.68333,11.13333],"type":"Point"}
+}

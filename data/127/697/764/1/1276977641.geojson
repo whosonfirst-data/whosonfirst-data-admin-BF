@@ -1,0 +1,67 @@
+{
+  "id": 1276977641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96667,11.46667,-1.96667,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":-1.96667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pien",
+    "gn:country_code":"BF",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356529,
+    "gn:latitude":11.46667,
+    "gn:longitude":-1.96667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890422531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356529
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"673710c821f69e8062025530d078b784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422531,
+            "locality_id":1276977641,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1276977641,
+    "wof:lastmodified":1536910567,
+    "wof:name":"Pien",
+    "wof:parent_id":890422531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96667,
+    11.46667,
+    -1.96667,
+    11.46667
+],
+  "geometry": {"coordinates":[-1.96667,11.46667],"type":"Point"}
+}

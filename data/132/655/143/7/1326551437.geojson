@@ -1,0 +1,68 @@
+{
+  "id": 1326551437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.26667,11.61667,-1.26667,11.61667",
+    "geom:latitude":11.61667,
+    "geom:longitude":-1.26667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pouswaka",
+    "gn:country_code":"BF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356303,
+    "gn:latitude":11.61667,
+    "gn:longitude":-1.26667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pouswaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356303,
+        "wk:page":"Pouswaka"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5cee045c8da75f0c985f5db0477f9a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693645,
+            "locality_id":1326551437,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1326551437,
+    "wof:lastmodified":1537487609,
+    "wof:name":"Pouswaka",
+    "wof:parent_id":1108693645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.26667,
+    11.61667,
+    -1.26667,
+    11.61667
+],
+  "geometry": {"coordinates":[-1.26667,11.61667],"type":"Point"}
+}

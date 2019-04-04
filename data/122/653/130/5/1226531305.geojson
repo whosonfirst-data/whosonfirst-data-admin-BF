@@ -1,0 +1,68 @@
+{
+  "id": 1226531305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.51432,14.14274,-2.51432,14.14274",
+    "geom:latitude":14.14274,
+    "geom:longitude":-2.51432,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Nogodoum",
+    "gn:country_code":"BF",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357218,
+    "gn:latitude":14.14274,
+    "gn:longitude":-2.51432,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nogodoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890453949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357218
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"946c395408b03b2e07d6043422d8f399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":1226531305,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1226531305,
+    "wof:lastmodified":1537018109,
+    "wof:name":"Nogodoum",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.51432,
+    14.14274,
+    -2.51432,
+    14.14274
+],
+  "geometry": {"coordinates":[-2.51432,14.14274],"type":"Point"}
+}

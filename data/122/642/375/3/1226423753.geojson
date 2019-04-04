@@ -1,0 +1,67 @@
+{
+  "id": 1226423753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.73333,12.78333,-1.73333,12.78333",
+    "geom:latitude":12.78333,
+    "geom:longitude":-1.73333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zipele",
+    "gn:country_code":"BF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353241,
+    "gn:latitude":12.78333,
+    "gn:longitude":-1.73333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Zip\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805691,
+        890453945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353241
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"44a96073d2b7dfc2b97e7d6bc8624497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":1226423753,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":1226423753,
+    "wof:lastmodified":1536677188,
+    "wof:name":"Zipele",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.73333,
+    12.78333,
+    -1.73333,
+    12.78333
+],
+  "geometry": {"coordinates":[-1.73333,12.78333],"type":"Point"}
+}

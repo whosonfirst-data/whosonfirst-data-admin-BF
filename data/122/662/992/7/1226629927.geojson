@@ -1,0 +1,72 @@
+{
+  "id": 1226629927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.96694,13.44167,-1.96694,13.44167",
+    "geom:latitude":13.44167,
+    "geom:longitude":-1.96694,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Seguenega",
+    "gn:country_code":"BF",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355779,
+    "gn:latitude":13.44167,
+    "gn:longitude":-1.96694,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"S\u00e9gu\u00e9n\u00e9ga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9gu\u00e9n\u00e9ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355779,
+        "wk:page":"S%C3%A9gu%C3%A9n%C3%A9ga_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"27f22c684a01df2efb02749608125139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1226629927,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1226629927,
+    "wof:lastmodified":1537587125,
+    "wof:name":"Seguenega",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.96694,
+    13.44167,
+    -1.96694,
+    13.44167
+],
+  "geometry": {"coordinates":[-1.96694,13.44167],"type":"Point"}
+}

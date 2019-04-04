@@ -1,0 +1,65 @@
+{
+  "id": 1209307099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.6,11.03333,-2.6,11.03333",
+    "geom:latitude":11.03333,
+    "geom:longitude":-2.6,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Boara",
+    "gn:country_code":"BF",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362353,
+    "gn:latitude":11.03333,
+    "gn:longitude":-2.6,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Boara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bora",
+        "Boara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362353
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e19eb0748f4fcde480a2d7b5b63c453c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209307099
+        }
+    ],
+    "wof:id":1209307099,
+    "wof:lastmodified":1537587212,
+    "wof:name":"Boara",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.6,
+    11.03333,
+    -2.6,
+    11.03333
+],
+  "geometry": {"coordinates":[-2.6,11.03333],"type":"Point"}
+}

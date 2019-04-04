@@ -1,0 +1,68 @@
+{
+  "id": 1343962837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.55908,13.28071,-1.55908,13.28071",
+    "geom:latitude":13.28071,
+    "geom:longitude":-1.55908,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Mogode",
+    "gn:country_code":"BF",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357937,
+    "gn:latitude":13.28071,
+    "gn:longitude":-1.55908,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Mogod\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357937
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a54d0c3b55511b67b767f51e446d0526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1343962837,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1343962837,
+    "wof:lastmodified":1537015773,
+    "wof:name":"Mogode",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.55908,
+    13.28071,
+    -1.55908,
+    13.28071
+],
+  "geometry": {"coordinates":[-1.55908,13.28071],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209404515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.95444,11.72938,-4.95444,11.72938",
+    "geom:latitude":11.72938,
+    "geom:longitude":-4.95444,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Silorola",
+    "gn:country_code":"BF",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355568,
+    "gn:latitude":11.72938,
+    "gn:longitude":-4.95444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Silorola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokorola",
+        "Silorola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355568
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"241ec0ac6dfa63d0224e603827e71d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209404515
+        }
+    ],
+    "wof:id":1209404515,
+    "wof:lastmodified":1537587122,
+    "wof:name":"Silorola",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.95444,
+    11.72938,
+    -4.95444,
+    11.72938
+],
+  "geometry": {"coordinates":[-4.95444,11.72938],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293090035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.90833,12.84,-1.90833,12.84",
+    "geom:latitude":12.84,
+    "geom:longitude":-1.90833,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:asciiname":"Ouissiga",
+    "gn:cc2":"BF",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356922,
+    "gn:latitude":12.84,
+    "gn:longitude":-1.90833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouissiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouissega",
+        "Ouissiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        1108693651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356922
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0aef078705c0efd154688f5ba9bdc322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693651,
+            "locality_id":1293090035,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1293090035,
+    "wof:lastmodified":1537587142,
+    "wof:name":"Ouissiga",
+    "wof:parent_id":1108693651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.90833,
+    12.84,
+    -1.90833,
+    12.84
+],
+  "geometry": {"coordinates":[-1.90833,12.84],"type":"Point"}
+}

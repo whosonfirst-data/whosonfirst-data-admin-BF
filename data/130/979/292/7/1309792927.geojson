@@ -1,0 +1,68 @@
+{
+  "id": 1309792927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.60099,13.21886,0.60099,13.21886",
+    "geom:latitude":13.21886,
+    "geom:longitude":0.60099,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"75",
+    "gn:asciiname":"Pontityaga",
+    "gn:country_code":"BF",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356382,
+    "gn:latitude":13.21886,
+    "gn:longitude":0.60099,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Pontityaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890422529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356382
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a15c24e61076bf37570de3a1fd401ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":1309792927,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1309792927,
+    "wof:lastmodified":1536949900,
+    "wof:name":"Pontityaga",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.60099,
+    13.21886,
+    0.60099,
+    13.21886
+],
+  "geometry": {"coordinates":[0.60099,13.21886],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260084203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.2843,13.11,-3.2843,13.11",
+    "geom:latitude":13.11,
+    "geom:longitude":-3.2843,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"73",
+    "gn:asciiname":"Dian",
+    "gn:country_code":"BF",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361398,
+    "gn:latitude":13.11,
+    "gn:longitude":-3.2843,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Dian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890421461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361398
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a0d5b3ce4a405d45f8118148ac2b9897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421461,
+            "locality_id":1260084203,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1260084203,
+    "wof:lastmodified":1536986129,
+    "wof:name":"Dian",
+    "wof:parent_id":890421461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.2843,
+    13.11,
+    -3.2843,
+    13.11
+],
+  "geometry": {"coordinates":[-3.2843,13.11],"type":"Point"}
+}

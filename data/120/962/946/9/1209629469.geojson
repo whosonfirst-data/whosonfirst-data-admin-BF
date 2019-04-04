@@ -1,0 +1,67 @@
+{
+  "id": 1209629469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.1776,13.2017,-4.1776,13.2017",
+    "geom:latitude":13.2017,
+    "geom:longitude":-4.1776,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Koronso",
+    "gn:country_code":"BF",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2359237,
+    "gn:latitude":13.2017,
+    "gn:longitude":-4.1776,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koronso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osso",
+        "Kolonzo",
+        "Koronso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2359237
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ba44ac4afb738f73e41b71ccacb5d626",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209629469
+        }
+    ],
+    "wof:id":1209629469,
+    "wof:lastmodified":1537587173,
+    "wof:name":"Koronso",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.1776,
+    13.2017,
+    -4.1776,
+    13.2017
+],
+  "geometry": {"coordinates":[-4.1776,13.2017],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259697865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.9045,13.0263,-3.9045,13.0263",
+    "geom:latitude":13.0263,
+    "geom:longitude":-3.9045,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Ouomene",
+    "gn:country_code":"BF",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356878,
+    "gn:latitude":13.0263,
+    "gn:longitude":-3.9045,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouom\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wom\u00e9n\u00e9 Gombol\u00e9",
+        "Wom\u00e9n\u00e9-Gomb\u00e9l\u00e9",
+        "Ouom\u00e9n\u00e9 Gomb\u00e9l\u00e9",
+        "Gomb\u00e9l\u00e9",
+        "Ouom\u00e9n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356878
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"216775c3687759fb9bafede4c73b9f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1259697865,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1259697865,
+    "wof:lastmodified":1537587141,
+    "wof:name":"Ouomene",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.9045,
+    13.0263,
+    -3.9045,
+    13.0263
+],
+  "geometry": {"coordinates":[-3.9045,13.0263],"type":"Point"}
+}

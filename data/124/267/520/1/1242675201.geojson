@@ -1,0 +1,67 @@
+{
+  "id": 1242675201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.75,12.45,-2.75,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-2.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Foroba",
+    "gn:country_code":"BF",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360758,
+    "gn:latitude":12.45,
+    "gn:longitude":-2.75,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Foroba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890413149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360758
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"cd2309f91cf362f0ac46112fd583fd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413149,
+            "locality_id":1242675201,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1242675201,
+    "wof:lastmodified":1536923935,
+    "wof:name":"Foroba",
+    "wof:parent_id":890413149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.75,
+    12.45,
+    -2.75,
+    12.45
+],
+  "geometry": {"coordinates":[-2.75,12.45],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226236825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.28917,12.03194,-1.28917,12.03194",
+    "geom:latitude":12.03194,
+    "geom:longitude":-1.28917,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Gonse",
+    "gn:country_code":"BF",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570056,
+    "gn:latitude":12.03194,
+    "gn:longitude":-1.28917,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gons\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570056
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e394a70b38f0f3964119e4b3657d8299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1226236825,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1226236825,
+    "wof:lastmodified":1536946875,
+    "wof:name":"Gonse",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.28917,
+    12.03194,
+    -1.28917,
+    12.03194
+],
+  "geometry": {"coordinates":[-1.28917,12.03194],"type":"Point"}
+}

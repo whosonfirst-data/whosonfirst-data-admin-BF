@@ -1,0 +1,77 @@
+{
+  "id": 1193116583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.95,9.65,-2.95,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":-2.95,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Serapere",
+    "gn:country_code":"BF",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355722,
+    "gn:latitude":9.65,
+    "gn:longitude":-2.95,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"S\u00e9rap\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643,
+        85632449,
+        85669895,
+        1108785049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355722
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8116c81a0d530797f51aa91a3cb75c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1193116583,
+            "region_id":1108805683
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632449,
+            "county_id":1108785049,
+            "locality_id":1193116583,
+            "region_id":85669895
+        }
+    ],
+    "wof:id":1193116583,
+    "wof:lastmodified":1536367342,
+    "wof:name":"Serapere",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.95,
+    9.65,
+    -2.95,
+    9.65
+],
+  "geometry": {"coordinates":[-2.95,9.65],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225928285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-5.22688,11.27755,-5.22688,11.27755",
+    "geom:latitude":11.27755,
+    "geom:longitude":-5.22688,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Zetonasso",
+    "gn:country_code":"BF",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2353304,
+    "gn:latitude":11.27755,
+    "gn:longitude":-5.22688,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Z\u00e9tonasso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353304
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bfb6833866c294593286259e8301f7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1225928285,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1225928285,
+    "wof:lastmodified":1536894423,
+    "wof:name":"Zetonasso",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -5.22688,
+    11.27755,
+    -5.22688,
+    11.27755
+],
+  "geometry": {"coordinates":[-5.22688,11.27755],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309701259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2025,13.26906,-2.2025,13.26906",
+    "geom:latitude":13.26906,
+    "geom:longitude":-2.2025,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Linteba",
+    "gn:country_code":"BF",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358316,
+    "gn:latitude":13.26906,
+    "gn:longitude":-2.2025,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Lint\u00e9ba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890422535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358316
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2c0c243de5077700e7a18bd3512f9ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422535,
+            "locality_id":1309701259,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1309701259,
+    "wof:lastmodified":1537078729,
+    "wof:name":"Linteba",
+    "wof:parent_id":890422535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2025,
+    13.26906,
+    -2.2025,
+    13.26906
+],
+  "geometry": {"coordinates":[-2.2025,13.26906],"type":"Point"}
+}

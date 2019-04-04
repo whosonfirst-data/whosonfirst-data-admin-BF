@@ -1,0 +1,68 @@
+{
+  "id": 1226063883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.17208,11.23293,-4.17208,11.23293",
+    "geom:latitude":11.23293,
+    "geom:longitude":-4.17208,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Leguema",
+    "gn:country_code":"BF",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358416,
+    "gn:latitude":11.23293,
+    "gn:longitude":-4.17208,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"L\u00e9gu\u00e9ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358416
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"99f453cecc2f1a00198b82a336daecd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1226063883,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1226063883,
+    "wof:lastmodified":1536699354,
+    "wof:name":"Leguema",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.17208,
+    11.23293,
+    -4.17208,
+    11.23293
+],
+  "geometry": {"coordinates":[-4.17208,11.23293],"type":"Point"}
+}

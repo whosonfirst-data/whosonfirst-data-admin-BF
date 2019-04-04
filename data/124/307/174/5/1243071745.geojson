@@ -1,0 +1,68 @@
+{
+  "id": 1243071745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.96081,13.00749,-3.96081,13.00749",
+    "geom:latitude":13.00749,
+    "geom:longitude":-3.96081,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Bohui",
+    "gn:country_code":"BF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362302,
+    "gn:latitude":13.00749,
+    "gn:longitude":-3.96081,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bohui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890413165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362302
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e00d67b06444aedb051e7b98fa109a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413165,
+            "locality_id":1243071745,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1243071745,
+    "wof:lastmodified":1536847558,
+    "wof:name":"Bohui",
+    "wof:parent_id":890413165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.96081,
+    13.00749,
+    -3.96081,
+    13.00749
+],
+  "geometry": {"coordinates":[-3.96081,13.00749],"type":"Point"}
+}

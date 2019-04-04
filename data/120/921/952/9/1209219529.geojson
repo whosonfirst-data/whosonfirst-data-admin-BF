@@ -1,0 +1,62 @@
+{
+  "id": 1209219529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.35553,13.07031,-1.35553,13.07031",
+    "geom:latitude":13.07031,
+    "geom:longitude":-1.35553,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Lonnti",
+    "gn:country_code":"BF",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358254,
+    "gn:latitude":13.07031,
+    "gn:longitude":-1.35553,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Lonnti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358254
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"af4c4809fea0c8b33d5cfcb2d02a2f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209219529
+        }
+    ],
+    "wof:id":1209219529,
+    "wof:lastmodified":1536294012,
+    "wof:name":"Lonnti",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.35553,
+    13.07031,
+    -1.35553,
+    13.07031
+],
+  "geometry": {"coordinates":[-1.35553,13.07031],"type":"Point"}
+}

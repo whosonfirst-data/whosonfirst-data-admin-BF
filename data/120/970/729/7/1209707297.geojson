@@ -1,0 +1,76 @@
+{
+  "id": 1209707297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.60197,12.0485,-1.60197,12.0485",
+    "geom:latitude":12.0485,
+    "geom:longitude":-1.60197,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Sapone",
+    "gn:country_code":"BF",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355872,
+    "gn:latitude":12.0485,
+    "gn:longitude":-1.60197,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Sapon\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karkouidigen",
+        "Karkouidiguen",
+        "Sapon\u00e9",
+        "Karkuidinghin",
+        "Karkouidiguin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355872,
+        "wk:page":"Sapon%C3%A9%2C_Burkina_Faso"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1c772a0f0d195a5f36a8051db8b289ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1209707297,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1209707297,
+    "wof:lastmodified":1537587126,
+    "wof:name":"Sapone",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.60197,
+    12.0485,
+    -1.60197,
+    12.0485
+],
+  "geometry": {"coordinates":[-1.60197,12.0485],"type":"Point"}
+}

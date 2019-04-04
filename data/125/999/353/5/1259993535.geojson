@@ -1,0 +1,67 @@
+{
+  "id": 1259993535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.78333,11.28333,-2.78333,11.28333",
+    "geom:latitude":11.28333,
+    "geom:longitude":-2.78333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Payalo",
+    "gn:country_code":"BF",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356657,
+    "gn:latitude":11.28333,
+    "gn:longitude":-2.78333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Payalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890421465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356657
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2bd504b14d6ddda703ee63485d49f440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421465,
+            "locality_id":1259993535,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1259993535,
+    "wof:lastmodified":1536618413,
+    "wof:name":"Payalo",
+    "wof:parent_id":890421465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.78333,
+    11.28333,
+    -2.78333,
+    11.28333
+],
+  "geometry": {"coordinates":[-2.78333,11.28333],"type":"Point"}
+}

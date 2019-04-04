@@ -1,0 +1,73 @@
+{
+  "id": 1327253575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.21306,13.25833,-0.21306,13.25833",
+    "geom:latitude":13.25833,
+    "geom:longitude":-0.21306,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2358085",
+    "gn:asciiname":"Mani",
+    "gn:country_code":"BF",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10342754,
+    "gn:latitude":13.25833,
+    "gn:longitude":-0.21306,
+    "gn:modification_date":"2016-07-31",
+    "gn:name":"Mani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manni",
+        "Mani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10342754
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ee9405c347571d07f6bbda70394e87b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1327253575,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1327253575,
+    "wof:lastmodified":1537587226,
+    "wof:name":"Mani",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.21306,
+    13.25833,
+    -0.21306,
+    13.25833
+],
+  "geometry": {"coordinates":[-0.21306,13.25833],"type":"Point"}
+}

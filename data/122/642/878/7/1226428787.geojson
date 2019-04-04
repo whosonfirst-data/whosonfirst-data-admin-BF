@@ -1,0 +1,67 @@
+{
+  "id": 1226428787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.21667,10.01667,-3.21667,10.01667",
+    "geom:latitude":10.01667,
+    "geom:longitude":-3.21667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Talanpoura",
+    "gn:country_code":"BF",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355140,
+    "gn:latitude":10.01667,
+    "gn:longitude":-3.21667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Talanpoura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805683,
+        1108693643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355140
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5104f0a60a91a3bd07504dce999c1b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":1226428787,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":1226428787,
+    "wof:lastmodified":1536669902,
+    "wof:name":"Talanpoura",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.21667,
+    10.01667,
+    -3.21667,
+    10.01667
+],
+  "geometry": {"coordinates":[-3.21667,10.01667],"type":"Point"}
+}

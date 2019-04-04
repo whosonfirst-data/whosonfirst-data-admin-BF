@@ -1,0 +1,61 @@
+{
+  "id": 1209405503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.3,12.26667,0.3,12.26667",
+    "geom:latitude":12.26667,
+    "geom:longitude":0.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Koulga",
+    "gn:country_code":"BF",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358864,
+    "gn:latitude":12.26667,
+    "gn:longitude":0.3,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Koulga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358864
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9ab51831bfa0ec163af43dd08a79cb65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209405503
+        }
+    ],
+    "wof:id":1209405503,
+    "wof:lastmodified":1536288009,
+    "wof:name":"Koulga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.3,
+    12.26667,
+    0.3,
+    12.26667
+],
+  "geometry": {"coordinates":[0.3,12.26667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209935301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.63067,11.09233,-4.63067,11.09233",
+    "geom:latitude":11.09233,
+    "geom:longitude":-4.63067,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Gonion",
+    "gn:country_code":"BF",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360412,
+    "gn:latitude":11.09233,
+    "gn:longitude":-4.63067,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Gonion",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890428969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360412
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8dd8e0ee890ff034fb4accc464c17c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428969,
+            "locality_id":1209935301,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1209935301,
+    "wof:lastmodified":1536390920,
+    "wof:name":"Gonion",
+    "wof:parent_id":890428969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.63067,
+    11.09233,
+    -4.63067,
+    11.09233
+],
+  "geometry": {"coordinates":[-4.63067,11.09233],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343558685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.41667,12.18333,-2.41667,12.18333",
+    "geom:latitude":12.18333,
+    "geom:longitude":-2.41667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sigore",
+    "gn:country_code":"BF",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355643,
+    "gn:latitude":12.18333,
+    "gn:longitude":-2.41667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sigor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sigoro",
+        "Sigorin",
+        "Sigor\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805695,
+        890428981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355643
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"dddce7ff973e4afb9b78d0706e4b6164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":1343558685,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":1343558685,
+    "wof:lastmodified":1537587123,
+    "wof:name":"Sigore",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.41667,
+    12.18333,
+    -2.41667,
+    12.18333
+],
+  "geometry": {"coordinates":[-2.41667,12.18333],"type":"Point"}
+}

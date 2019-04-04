@@ -1,0 +1,68 @@
+{
+  "id": 1259984665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.06642,13.09612,-1.06642,13.09612",
+    "geom:latitude":13.09612,
+    "geom:longitude":-1.06642,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Dimassa",
+    "gn:country_code":"BF",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361284,
+    "gn:latitude":13.09612,
+    "gn:longitude":-1.06642,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Dimassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361284
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0fd4aa70b2976427693f94bee49ffc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1259984665,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1259984665,
+    "wof:lastmodified":1536631902,
+    "wof:name":"Dimassa",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.06642,
+    13.09612,
+    -1.06642,
+    13.09612
+],
+  "geometry": {"coordinates":[-1.06642,13.09612],"type":"Point"}
+}

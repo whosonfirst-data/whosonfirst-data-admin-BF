@@ -1,0 +1,73 @@
+{
+  "id": 1242579405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.76667,12.2,-1.76667,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":-1.76667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yaogen",
+    "gn:country_code":"BF",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353625,
+    "gn:latitude":12.2,
+    "gn:longitude":-1.76667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Yaogen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaoghin",
+        "Yaogen",
+        "Yaoguen",
+        "Yaoguin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805693,
+        421187907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353625
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"bee4e9f647ae4fa1be733064e155005c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":1242579405,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":1242579405,
+    "wof:lastmodified":1537587095,
+    "wof:name":"Yaogen",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.76667,
+    12.2,
+    -1.76667,
+    12.2
+],
+  "geometry": {"coordinates":[-1.76667,12.2],"type":"Point"}
+}

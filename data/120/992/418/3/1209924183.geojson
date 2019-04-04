@@ -1,0 +1,68 @@
+{
+  "id": 1209924183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.69408,12.70559,-2.69408,12.70559",
+    "geom:latitude":12.70559,
+    "geom:longitude":-2.69408,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sapala",
+    "gn:country_code":"BF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2355878,
+    "gn:latitude":12.70559,
+    "gn:longitude":-2.69408,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Sapala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805707,
+        890453951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2355878,
+        "wk:page":"Sapala"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ebe27fc5fdf5e36c647602abc238e689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453951,
+            "locality_id":1209924183,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":1209924183,
+    "wof:lastmodified":1537487606,
+    "wof:name":"Sapala",
+    "wof:parent_id":890453951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.69408,
+    12.70559,
+    -2.69408,
+    12.70559
+],
+  "geometry": {"coordinates":[-2.69408,12.70559],"type":"Point"}
+}

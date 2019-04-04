@@ -1,0 +1,71 @@
+{
+  "id": 1344076917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.00537,12.92478,0.00537,12.92478",
+    "geom:latitude":12.92478,
+    "geom:longitude":0.00537,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Leoura",
+    "gn:country_code":"BF",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358380,
+    "gn:latitude":12.92478,
+    "gn:longitude":0.00537,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"L\u00e9oura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u00e9oura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890428975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358380,
+        "wk:page":"L%C3%A9oura"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"eaeb05f7e8a05749d2445a126c136e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":1344076917,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1344076917,
+    "wof:lastmodified":1537587162,
+    "wof:name":"Leoura",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.00537,
+    12.92478,
+    0.00537,
+    12.92478
+],
+  "geometry": {"coordinates":[0.00537,12.92478],"type":"Point"}
+}

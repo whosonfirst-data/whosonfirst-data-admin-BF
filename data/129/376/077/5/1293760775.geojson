@@ -1,0 +1,68 @@
+{
+  "id": 1293760775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.20662,13.90793,-1.20662,13.90793",
+    "geom:latitude":13.90793,
+    "geom:longitude":-1.20662,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Tibiri",
+    "gn:country_code":"BF",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2354567,
+    "gn:latitude":13.90793,
+    "gn:longitude":-1.20662,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Tibiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2354567
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d76801aed8c631205ef93fe2066a9b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1293760775,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1293760775,
+    "wof:lastmodified":1536889822,
+    "wof:name":"Tibiri",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.20662,
+    13.90793,
+    -1.20662,
+    13.90793
+],
+  "geometry": {"coordinates":[-1.20662,13.90793],"type":"Point"}
+}

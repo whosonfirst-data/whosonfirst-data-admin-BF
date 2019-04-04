@@ -1,0 +1,67 @@
+{
+  "id": 1209629423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.8497,13.0991,-3.8497,13.0991",
+    "geom:latitude":13.0991,
+    "geom:longitude":-3.8497,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Boulemporo",
+    "gn:country_code":"BF",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362022,
+    "gn:latitude":13.0991,
+    "gn:longitude":-3.8497,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boulemporo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boulempourou",
+        "Boulanporo",
+        "Boulemporo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362022
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"559e71871fe8e59b1de4480b52e1e0dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209629423
+        }
+    ],
+    "wof:id":1209629423,
+    "wof:lastmodified":1537587209,
+    "wof:name":"Boulemporo",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.8497,
+    13.0991,
+    -3.8497,
+    13.0991
+],
+  "geometry": {"coordinates":[-3.8497,13.0991],"type":"Point"}
+}

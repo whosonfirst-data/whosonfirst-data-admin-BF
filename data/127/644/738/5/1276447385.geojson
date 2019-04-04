@@ -1,0 +1,69 @@
+{
+  "id": 1276447385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.34163,13.21948,-1.34163,13.21948",
+    "geom:latitude":13.21948,
+    "geom:longitude":-1.34163,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:asciiname":"Ouintini",
+    "gn:country_code":"BF",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356923,
+    "gn:latitude":13.21948,
+    "gn:longitude":-1.34163,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouintini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890428989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356923,
+        "wk:page":"Ouintini"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2e0e4bab853f3e4704b8255c091407bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":1276447385,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1276447385,
+    "wof:lastmodified":1537487613,
+    "wof:name":"Ouintini",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.34163,
+    13.21948,
+    -1.34163,
+    13.21948
+],
+  "geometry": {"coordinates":[-1.34163,13.21948],"type":"Point"}
+}

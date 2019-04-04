@@ -1,0 +1,72 @@
+{
+  "id": 1209699521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.12814,13.11035,-2.12814,13.11035",
+    "geom:latitude":13.11035,
+    "geom:longitude":-2.12814,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Beranga",
+    "gn:country_code":"BF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2362545,
+    "gn:latitude":13.11035,
+    "gn:longitude":-2.12814,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00e9ranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beringa",
+        "B\u00e9ranga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362545
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"765f89b4a238116f47282787a2265d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1209699521,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1209699521,
+    "wof:lastmodified":1537587215,
+    "wof:name":"Beranga",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.12814,
+    13.11035,
+    -2.12814,
+    13.11035
+],
+  "geometry": {"coordinates":[-2.12814,13.11035],"type":"Point"}
+}

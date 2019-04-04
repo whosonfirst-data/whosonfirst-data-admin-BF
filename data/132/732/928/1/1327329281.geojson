@@ -1,0 +1,68 @@
+{
+  "id": 1327329281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.81626,12.54465,1.81626,12.54465",
+    "geom:latitude":12.54465,
+    "geom:longitude":1.81626,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Tyongol",
+    "gn:country_code":"BF",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353987,
+    "gn:latitude":12.54465,
+    "gn:longitude":1.81626,
+    "gn:modification_date":"1993-12-30",
+    "gn:name":"Tyongol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805685,
+        890421459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353987
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"84a5140425e08423c9ff12da3ca6359e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":1327329281,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":1327329281,
+    "wof:lastmodified":1536828795,
+    "wof:name":"Tyongol",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.81626,
+    12.54465,
+    1.81626,
+    12.54465
+],
+  "geometry": {"coordinates":[1.81626,12.54465],"type":"Point"}
+}

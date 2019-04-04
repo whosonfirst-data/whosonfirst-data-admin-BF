@@ -1,0 +1,72 @@
+{
+  "id": 1360074821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.73277,11.88495,-4.73277,11.88495",
+    "geom:latitude":11.88495,
+    "geom:longitude":-4.73277,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Doro",
+    "gn:country_code":"BF",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361078,
+    "gn:latitude":11.88495,
+    "gn:longitude":-4.73277,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daro",
+        "Doro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361078
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a33cb7e79edd3cfd7425d777344d4589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1360074821,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1360074821,
+    "wof:lastmodified":1537587197,
+    "wof:name":"Doro",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.73277,
+    11.88495,
+    -4.73277,
+    11.88495
+],
+  "geometry": {"coordinates":[-4.73277,11.88495],"type":"Point"}
+}

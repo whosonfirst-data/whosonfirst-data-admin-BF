@@ -1,0 +1,67 @@
+{
+  "id": 1343957161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.85,12.9,-0.85,12.9",
+    "geom:latitude":12.9,
+    "geom:longitude":-0.85,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nioro",
+    "gn:country_code":"BF",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2357254,
+    "gn:latitude":12.9,
+    "gn:longitude":-0.85,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Nioro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805709,
+        890413147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2357254
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"eefe0172d1b96168eb6dd4a57b8e67ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":1343957161,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":1343957161,
+    "wof:lastmodified":1537023740,
+    "wof:name":"Nioro",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.85,
+    12.9,
+    -0.85,
+    12.9
+],
+  "geometry": {"coordinates":[-0.85,12.9],"type":"Point"}
+}

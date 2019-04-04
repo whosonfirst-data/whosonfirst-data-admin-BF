@@ -1,0 +1,72 @@
+{
+  "id": 1293493529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.36667,11.61667,-0.36667,11.61667",
+    "geom:latitude":11.61667,
+    "geom:longitude":-0.36667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cella",
+    "gn:country_code":"BF",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361788,
+    "gn:latitude":11.61667,
+    "gn:longitude":-0.36667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Cella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sella",
+        "Cella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890428983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361788,
+        "wk:page":"Cella%2C_Burkina_Faso"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e97a7b91a0223aa658c4b5f927e5b897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":1293493529,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1293493529,
+    "wof:lastmodified":1537587206,
+    "wof:name":"Cella",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.36667,
+    11.61667,
+    -0.36667,
+    11.61667
+],
+  "geometry": {"coordinates":[-0.36667,11.61667],"type":"Point"}
+}

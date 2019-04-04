@@ -1,0 +1,61 @@
+{
+  "id": 1209336827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.96118,12.99156,0.96118,12.99156",
+    "geom:latitude":12.99156,
+    "geom:longitude":0.96118,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gabouga",
+    "gn:country_code":"BF",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2360705,
+    "gn:latitude":12.99156,
+    "gn:longitude":0.96118,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Gabouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2360705
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ada2682938f65aeba647b7f39a6a0990",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209336827
+        }
+    ],
+    "wof:id":1209336827,
+    "wof:lastmodified":1536290192,
+    "wof:name":"Gabouga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.96118,
+    12.99156,
+    0.96118,
+    12.99156
+],
+  "geometry": {"coordinates":[0.96118,12.99156],"type":"Point"}
+}

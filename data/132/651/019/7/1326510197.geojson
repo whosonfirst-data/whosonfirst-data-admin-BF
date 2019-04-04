@@ -1,0 +1,68 @@
+{
+  "id": 1326510197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.45963,13.89689,-1.45963,13.89689",
+    "geom:latitude":13.89689,
+    "geom:longitude":-1.45963,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"40",
+    "gn:asciiname":"Oudoundayire",
+    "gn:country_code":"BF",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2356980,
+    "gn:latitude":13.89689,
+    "gn:longitude":-1.45963,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Oudoundayir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805689,
+        890421463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2356980
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2267b8953f03c0b5b058a39596e9b4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":1326510197,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":1326510197,
+    "wof:lastmodified":1537015101,
+    "wof:name":"Oudoundayire",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.45963,
+    13.89689,
+    -1.45963,
+    13.89689
+],
+  "geometry": {"coordinates":[-1.45963,13.89689],"type":"Point"}
+}

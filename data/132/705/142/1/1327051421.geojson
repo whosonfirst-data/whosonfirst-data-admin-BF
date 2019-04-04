@@ -1,0 +1,68 @@
+{
+  "id": 1327051421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.47389,12.04028,-1.47389,12.04028",
+    "geom:latitude":12.04028,
+    "geom:longitude":-1.47389,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Natenga",
+    "gn:country_code":"BF",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2570013,
+    "gn:latitude":12.04028,
+    "gn:longitude":-1.47389,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Natenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2570013
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5f59634a4cfe37a441a551df2385767c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1327051421,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1327051421,
+    "wof:lastmodified":1536733242,
+    "wof:name":"Natenga",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.47389,
+    12.04028,
+    -1.47389,
+    12.04028
+],
+  "geometry": {"coordinates":[-1.47389,12.04028],"type":"Point"}
+}

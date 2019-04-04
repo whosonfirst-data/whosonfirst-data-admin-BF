@@ -1,0 +1,68 @@
+{
+  "id": 1326814055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.49986,13.61852,-2.49986,13.61852",
+    "geom:latitude":13.61852,
+    "geom:longitude":-2.49986,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Bronakouli",
+    "gn:country_code":"BF",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361812,
+    "gn:latitude":13.61852,
+    "gn:longitude":-2.49986,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bronakouli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805701,
+        890421457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361812
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e5866e134bcbc28531775ab84ef452c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":1326814055,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":1326814055,
+    "wof:lastmodified":1537071897,
+    "wof:name":"Bronakouli",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.49986,
+    13.61852,
+    -2.49986,
+    13.61852
+],
+  "geometry": {"coordinates":[-2.49986,13.61852],"type":"Point"}
+}

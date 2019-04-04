@@ -1,0 +1,73 @@
+{
+  "id": 1276863283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.52306,12.18194,-1.52306,12.18194",
+    "geom:latitude":12.18194,
+    "geom:longitude":-1.52306,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Ouarmini",
+    "gn:country_code":"BF",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353839,
+    "gn:latitude":12.18194,
+    "gn:longitude":-1.52306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouarmini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Warmini",
+        "Ouarmini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353839,
+        "wk:page":"Ouarmini"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"231dff828e0b476919d7a79969908c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1276863283,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1276863283,
+    "wof:lastmodified":1537587098,
+    "wof:name":"Ouarmini",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.52306,
+    12.18194,
+    -1.52306,
+    12.18194
+],
+  "geometry": {"coordinates":[-1.52306,12.18194],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209609511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.53333,11.88333,-1.53333,11.88333",
+    "geom:latitude":11.88333,
+    "geom:longitude":-1.53333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dabogtinga",
+    "gn:country_code":"BF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361761,
+    "gn:latitude":11.88333,
+    "gn:longitude":-1.53333,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Dabogtinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361761,
+        "wk:page":"Dabogtinga"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"b808f01a6535c70a1ad347726c265b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632213,
+            "locality_id":1209609511
+        }
+    ],
+    "wof:id":1209609511,
+    "wof:lastmodified":1537487645,
+    "wof:name":"Dabogtinga",
+    "wof:parent_id":85632213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.53333,
+    11.88333,
+    -1.53333,
+    11.88333
+],
+  "geometry": {"coordinates":[-1.53333,11.88333],"type":"Point"}
+}

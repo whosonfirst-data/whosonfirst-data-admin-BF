@@ -1,0 +1,72 @@
+{
+  "id": 1327423565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.98479,11.15843,-4.98479,11.15843",
+    "geom:latitude":11.15843,
+    "geom:longitude":-4.98479,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"54",
+    "gn:asciiname":"Kouini",
+    "gn:country_code":"BF",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358903,
+    "gn:latitude":11.15843,
+    "gn:longitude":-4.98479,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kouini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwini",
+        "Kouini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805687,
+        890413171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358903
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c1fbccffb2deb2c0af7079c9acd30e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413171,
+            "locality_id":1327423565,
+            "region_id":1108805687
+        }
+    ],
+    "wof:id":1327423565,
+    "wof:lastmodified":1537587169,
+    "wof:name":"Kouini",
+    "wof:parent_id":890413171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.98479,
+    11.15843,
+    -4.98479,
+    11.15843
+],
+  "geometry": {"coordinates":[-4.98479,11.15843],"type":"Point"}
+}

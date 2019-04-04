@@ -1,0 +1,74 @@
+{
+  "id": 1193276051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.05816,11.583,-0.05816,11.583",
+    "geom:latitude":11.583,
+    "geom:longitude":-0.05816,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lalgay",
+    "gn:country_code":"BF",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2358518,
+    "gn:latitude":11.583,
+    "gn:longitude":-0.05816,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Lalgay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lalgai",
+        "Lallaga",
+        "Lalgaye",
+        "Lalgay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890421707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2358518,
+        "wk:page":"Lalgaye_Department"
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7e7a1a8a2b214c00078f2e5adf7fe6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421707,
+            "locality_id":1193276051,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1193276051,
+    "wof:lastmodified":1537587164,
+    "wof:name":"Lalgay",
+    "wof:parent_id":890421707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.05816,
+    11.583,
+    -0.05816,
+    11.583
+],
+  "geometry": {"coordinates":[-0.05816,11.583],"type":"Point"}
+}

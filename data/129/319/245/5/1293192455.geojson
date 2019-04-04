@@ -1,0 +1,68 @@
+{
+  "id": 1293192455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.48528,12.12417,-1.48528,12.12417",
+    "geom:latitude":12.12417,
+    "geom:longitude":-1.48528,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Bougren",
+    "gn:country_code":"BF",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569977,
+    "gn:latitude":12.12417,
+    "gn:longitude":-1.48528,
+    "gn:modification_date":"2010-07-31",
+    "gn:name":"Bougren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805699,
+        1108693649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569977
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6b720bb56462c22be0fbcee9d8405674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":1293192455,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":1293192455,
+    "wof:lastmodified":1536715758,
+    "wof:name":"Bougren",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.48528,
+    12.12417,
+    -1.48528,
+    12.12417
+],
+  "geometry": {"coordinates":[-1.48528,12.12417],"type":"Point"}
+}

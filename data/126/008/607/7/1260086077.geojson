@@ -1,0 +1,71 @@
+{
+  "id": 1260086077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.11667,11.56667,0.11667,11.56667",
+    "geom:latitude":11.56667,
+    "geom:longitude":0.11667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Broudabougou",
+    "gn:country_code":"BF",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2361811,
+    "gn:latitude":11.56667,
+    "gn:longitude":0.11667,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Broudabougou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Ouagadougou",
+    "iso:country":"BF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Broudabogou",
+        "Broudabougou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632213,
+        1108805705,
+        890421707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2361811
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a27db6dffc1139715a94b64276572fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421707,
+            "locality_id":1260086077,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":1260086077,
+    "wof:lastmodified":1537587206,
+    "wof:name":"Broudabougou",
+    "wof:parent_id":890421707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.11667,
+    11.56667,
+    0.11667,
+    11.56667
+],
+  "geometry": {"coordinates":[0.11667,11.56667],"type":"Point"}
+}
