@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":221733,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "K\u00e9n\u00e9dougou Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Kndougou"
+    ],
     "lbl:latitude":11.602363,
     "lbl:longitude":-4.931355,
     "meso:admin_1":"Hauts-Bassins",
@@ -117,6 +126,9 @@
         "\u0d9a\u0dd3\u0db1\u0dda\u0da9\u0ddc\u0d9c\u0dd4 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "K\u00e9n\u00e9dougou"
+    ],
+    "name:spa_x_variant":[
         "Provincia de K\u00e9n\u00e9dougou"
     ],
     "name:swe_x_preferred":[
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":890413171,
-    "wof:lastmodified":1536617368,
+    "wof:lastmodified":1555047003,
     "wof:name":"K\u00e9n\u00e9dougou",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

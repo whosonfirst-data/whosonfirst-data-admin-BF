@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":232425,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "S\u00e9no Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sno"
+    ],
     "lbl:latitude":13.89647,
     "lbl:longitude":0.007145,
     "meso:admin_1":"Sahel",
@@ -120,6 +129,9 @@
         "\u0dc3\u0dda\u0db1\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "S\u00e9no"
+    ],
+    "name:spa_x_variant":[
         "Provincia de S\u00e9no"
     ],
     "name:swe_x_preferred":[
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":890413145,
-    "wof:lastmodified":1536617367,
+    "wof:lastmodified":1555047001,
     "wof:name":"S\u00e9no",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

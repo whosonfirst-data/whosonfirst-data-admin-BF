@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":258192,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Gourma Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Gourma"
+    ],
     "lbl:latitude":12.095919,
     "lbl:longitude":0.394859,
     "meso:admin_1":"Est",
@@ -119,6 +128,9 @@
         "\u0d9c\u0ddc\u0dbb\u0dca\u0db8\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Gourma"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Gourma"
     ],
     "name:swe_x_preferred":[
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":890428971,
-    "wof:lastmodified":1536617378,
+    "wof:lastmodified":1555047004,
     "wof:name":"Gourma",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

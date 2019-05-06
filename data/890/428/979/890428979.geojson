@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":289270,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Ganzourgou Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Ganzourgou"
+    ],
     "lbl:latitude":12.237806,
     "lbl:longitude":-0.780515,
     "meso:admin_1":"Plateau Central",
@@ -119,6 +128,9 @@
         "\u0d9c\u0db1\u0dca\u0dc3\u0ddc\u0dbb\u0dca\u0d9c\u0ddd\u0d8b \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Ganzourgou"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Ganzourgou"
     ],
     "name:swe_x_preferred":[
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":890428979,
-    "wof:lastmodified":1536617378,
+    "wof:lastmodified":1555047004,
     "wof:name":"Ganzourgou",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":221200,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Poni Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Poni"
+    ],
     "lbl:latitude":10.369021,
     "lbl:longitude":-3.453788,
     "meso:admin_1":"Sud-Ouest",
@@ -119,6 +128,9 @@
         "\u0db4\u0ddc\u0db1\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Poni"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Poni"
     ],
     "name:swe_x_preferred":[
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":890413151,
-    "wof:lastmodified":1536617368,
+    "wof:lastmodified":1555047002,
     "wof:name":"Poni",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

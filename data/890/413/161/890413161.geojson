@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":273309,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Mouhoun Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Mouhoun"
+    ],
     "lbl:latitude":12.233905,
     "lbl:longitude":-3.407967,
     "meso:admin_1":"Boucle du Mouhoun",
@@ -115,6 +124,9 @@
         "\u0db8\u0dd4\u0dc4\u0dd4\u0db1\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Mouhoun"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Mouhoun"
     ],
     "name:swe_x_preferred":[
@@ -192,7 +204,7 @@
         }
     ],
     "wof:id":890413161,
-    "wof:lastmodified":1536617368,
+    "wof:lastmodified":1555047002,
     "wof:name":"Mouhoun",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

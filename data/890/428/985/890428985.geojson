@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":83697,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Bougouriba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Bougouriba"
+    ],
     "lbl:latitude":10.867917,
     "lbl:longitude":-3.418271,
     "meso:admin_1":"Sud-Ouest",
@@ -116,6 +125,9 @@
         "\u0db6\u0ddd\u0d9c\u0ddc\u0dbb\u0dd2\u0db6\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Bougouriba"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Bougouriba"
     ],
     "name:swe_x_preferred":[
@@ -193,7 +205,7 @@
         }
     ],
     "wof:id":890428985,
-    "wof:lastmodified":1536617378,
+    "wof:lastmodified":1555047005,
     "wof:name":"Bougouriba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

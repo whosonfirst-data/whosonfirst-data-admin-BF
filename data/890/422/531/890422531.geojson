@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.43884,
-    "geom:area_square_m":5314834881.256129,
+    "geom:area_square_m":5314834881.256128,
     "geom:bbox":"-2.364721372,11.28327077,-1.309292243,11.996131627",
     "geom:latitude":11.634596,
     "geom:longitude":-1.889043,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":119318,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Ziro Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Ziro"
+    ],
     "lbl:latitude":11.643913,
     "lbl:longitude":-1.889135,
     "meso:admin_1":"Centre-Ouest",
@@ -122,6 +131,9 @@
         "\u0dc3\u0dd2\u0dbb\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Ziro"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Ziro"
     ],
     "name:swe_x_preferred":[
@@ -199,7 +211,7 @@
         }
     ],
     "wof:id":890422531,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1555047004,
     "wof:name":"Ziro",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

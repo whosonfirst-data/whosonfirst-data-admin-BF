@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":482013,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Sanmatenga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sanmatenga"
+    ],
     "lbl:latitude":13.277414,
     "lbl:longitude":-0.994275,
     "meso:admin_1":"Centre-Nord",
@@ -116,6 +125,9 @@
         "\u0dc3\u0db1\u0dca\u0db8\u0da7\u0dd9\u0db1\u0dca\u0d9c\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Sanmatenga"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sanmatenga"
     ],
     "name:swe_x_preferred":[
@@ -193,7 +205,7 @@
         }
     ],
     "wof:id":890413147,
-    "wof:lastmodified":1536617367,
+    "wof:lastmodified":1555047001,
     "wof:name":"Sanmatenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

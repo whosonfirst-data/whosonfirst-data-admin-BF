@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355469,
-    "geom:area_square_m":4294259143.440664,
+    "geom:area_square_m":4294259143.440666,
     "geom:bbox":"-2.499938008,11.923457991,-1.785012509,12.70833816",
     "geom:latitude":12.315766,
     "geom:longitude":-2.145777,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":461158,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Boulkiemd\u00e9 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Boulkiemd"
+    ],
     "lbl:latitude":12.191177,
     "lbl:longitude":-2.217249,
     "meso:admin_1":"Centre-Ouest",
@@ -123,6 +132,9 @@
         "\u0db6\u0ddc\u0d8b\u0dbd\u0dca\u0d9a\u0dd3\u0db8\u0dca\u0da9\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Boulkiemd\u00e9"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Boulkiemd\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -200,7 +212,7 @@
         }
     ],
     "wof:id":890428981,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1555047005,
     "wof:name":"Boulkiemd\u00e9",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

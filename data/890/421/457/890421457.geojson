@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":483491,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Yatenga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Yatenga"
+    ],
     "lbl:latitude":13.704123,
     "lbl:longitude":-2.48653,
     "meso:admin_1":"Nord",
@@ -119,6 +128,9 @@
         "\u0dba\u0da7\u0dd9\u0db1\u0dca\u0d9c\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Yatenga"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Yatenga"
     ],
     "name:swe_x_preferred":[
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":890421457,
-    "wof:lastmodified":1536617373,
+    "wof:lastmodified":1555047003,
     "wof:name":"Yatenga",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":239060,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Bam Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Bam"
+    ],
     "lbl:latitude":13.490081,
     "lbl:longitude":-1.62238,
     "meso:admin_1":"Centre-Nord",
@@ -122,6 +131,9 @@
         "\u0db6\u0dcf\u0db8\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Bam"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Bam"
     ],
     "name:swe_x_preferred":[
@@ -199,7 +211,7 @@
         }
     ],
     "wof:id":890428989,
-    "wof:lastmodified":1536617378,
+    "wof:lastmodified":1555047005,
     "wof:name":"Bam",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

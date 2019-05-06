@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376722,
-    "geom:area_square_m":4561061503.511922,
+    "geom:area_square_m":4561061503.51191,
     "geom:bbox":"-3.60166991,11.239414574,-2.516193783,12.107048449",
     "geom:latitude":11.722246,
     "geom:longitude":-3.073397,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":196991,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Bal\u00e9 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Bal"
+    ],
     "lbl:latitude":11.73557,
     "lbl:longitude":-3.073214,
     "meso:admin_1":"Boucle du Mouhoun",
@@ -123,6 +132,9 @@
         "\u0db6\u0dcf\u0dbd\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Bal\u00e9"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Bal\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -200,7 +212,7 @@
         }
     ],
     "wof:id":890452781,
-    "wof:lastmodified":1553816403,
+    "wof:lastmodified":1555047005,
     "wof:name":"Bal\u00e9",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

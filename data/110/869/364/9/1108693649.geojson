@@ -10,6 +10,15 @@
     "geom:latitude":11.96059,
     "geom:longitude":-1.452626,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Baz\u00e8ga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Bazga"
+    ],
     "lbl:latitude":11.918177,
     "lbl:longitude":-1.452786,
     "meso:admin_1":"Centre-Sud",
@@ -120,6 +129,9 @@
         "\u0db6\u0dc3\u0dda\u0d9c\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Baz\u00e9ga"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Baz\u00e9ga"
     ],
     "name:swe_x_preferred":[
@@ -185,7 +197,7 @@
         }
     ],
     "wof:id":1108693649,
-    "wof:lastmodified":1536615335,
+    "wof:lastmodified":1555047006,
     "wof:name":"Baz\u00e8ga",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

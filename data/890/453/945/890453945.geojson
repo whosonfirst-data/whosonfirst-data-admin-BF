@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":124554,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Kourw\u00e9ogo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Kourwogo"
+    ],
     "lbl:latitude":12.728989,
     "lbl:longitude":-1.788784,
     "meso:admin_1":"Plateau Central",
@@ -120,6 +129,9 @@
         "\u0d9a\u0ddc\u0d8b\u0dbb\u0dca\u0dc0\u0dda\u0d9c\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Kourw\u00e9ogo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Kourw\u00e9ogo"
     ],
     "name:swe_x_preferred":[
@@ -197,7 +209,7 @@
         }
     ],
     "wof:id":890453945,
-    "wof:lastmodified":1536617388,
+    "wof:lastmodified":1555047005,
     "wof:name":"Kourw\u00e9ogo",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

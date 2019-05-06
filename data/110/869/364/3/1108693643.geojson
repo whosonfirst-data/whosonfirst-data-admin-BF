@@ -10,6 +10,15 @@
     "geom:latitude":9.874354,
     "geom:longitude":-2.959007,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Noumbiel Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Noumbiel"
+    ],
     "lbl:latitude":9.879945,
     "lbl:longitude":-2.933737,
     "meso:admin_1":"Sud-Ouest",
@@ -113,6 +122,9 @@
         "\u0db1\u0ddc\u0d8b\u0db8\u0dca\u0db6\u0dba\u0dd9\u0dbd\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Noumbiel"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Noumbiel"
     ],
     "name:swe_x_preferred":[
@@ -178,7 +190,7 @@
         }
     ],
     "wof:id":1108693643,
-    "wof:lastmodified":1536615335,
+    "wof:lastmodified":1555047005,
     "wof:name":"Noumbiel",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

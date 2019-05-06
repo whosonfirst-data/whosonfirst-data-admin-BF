@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":54885,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Komandjoari Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Komondjari"
+    ],
     "lbl:latitude":12.741321,
     "lbl:longitude":0.692984,
     "meso:admin_1":"Est",
@@ -117,6 +126,9 @@
         "\u0d9a\u0ddc\u0db8\u0ddc\u0db1\u0dca\u0daf\u0dca\u0da2\u0dbb\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Komondjari"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Komondjari"
     ],
     "name:swe_x_preferred":[
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":890435617,
-    "wof:lastmodified":1536617383,
+    "wof:lastmodified":1555047005,
     "wof:name":"Komandjoari",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

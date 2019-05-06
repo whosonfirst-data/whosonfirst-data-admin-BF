@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":270909,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Namentenga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Namentenga"
+    ],
     "lbl:latitude":13.188539,
     "lbl:longitude":-0.504143,
     "meso:admin_1":"Centre-Nord",
@@ -119,6 +128,9 @@
         "\u0db1\u0db8\u0dd9\u0db1\u0dca\u0da7\u0dd9\u0db1\u0dca\u0d9c\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Namentenga"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Namentenga"
     ],
     "name:swe_x_preferred":[
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":890413143,
-    "wof:lastmodified":1536617367,
+    "wof:lastmodified":1555047001,
     "wof:name":"Namentenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

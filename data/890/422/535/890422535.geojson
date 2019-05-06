@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165259,
-    "geom:area_square_m":1989510541.462658,
+    "geom:area_square_m":1989510541.46265,
     "geom:bbox":"-2.715893746,12.965792854,-2.071793755,13.437319558",
     "geom:latitude":13.19523,
     "geom:longitude":-2.37578,
@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":139784,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Zondoma Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Zondoma"
+    ],
     "lbl:latitude":13.228552,
     "lbl:longitude":-2.300196,
     "meso:admin_1":"Nord",
@@ -116,6 +125,9 @@
         "\u0dc3\u0ddc\u0db1\u0dca\u0daf\u0ddc\u0db8\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Zondoma"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Zondoma"
     ],
     "name:swe_x_preferred":[
@@ -193,7 +205,7 @@
         }
     ],
     "wof:id":890422535,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1555047004,
     "wof:name":"Zondoma",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

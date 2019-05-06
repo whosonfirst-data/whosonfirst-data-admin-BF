@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":172778,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Tuy Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Tuy"
+    ],
     "lbl:latitude":11.395766,
     "lbl:longitude":-3.575484,
     "meso:admin_1":"Hauts-Bassins",
@@ -122,6 +131,9 @@
         "\u0da7\u0dd4\u0dba\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Tuy"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Tuy"
     ],
     "name:swe_x_preferred":[
@@ -199,7 +211,7 @@
         }
     ],
     "wof:id":890422527,
-    "wof:lastmodified":1536617375,
+    "wof:lastmodified":1555047004,
     "wof:name":"Tuy",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

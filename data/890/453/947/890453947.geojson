@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":105895,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "L\u00e9raba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Lraba"
+    ],
     "lbl:latitude":10.645728,
     "lbl:longitude":-5.301517,
     "meso:admin_1":"Cascades",
@@ -123,6 +132,9 @@
         "\u0dbd\u0dda\u0dbb\u0db6\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "L\u00e9raba"
+    ],
+    "name:spa_x_variant":[
         "Provincia de L\u00e9raba"
     ],
     "name:swe_x_preferred":[
@@ -200,7 +212,7 @@
         }
     ],
     "wof:id":890453947,
-    "wof:lastmodified":1536617388,
+    "wof:lastmodified":1555047005,
     "wof:name":"L\u00e9raba",
     "wof:parent_id":1108805703,
     "wof:placetype":"county",

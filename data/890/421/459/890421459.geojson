@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":261117,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Tapoa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Tapoa"
+    ],
     "lbl:latitude":12.053715,
     "lbl:longitude":1.752181,
     "meso:admin_1":"Est",
@@ -119,6 +128,9 @@
         "\u0da7\u0dd0\u0db4\u0ddc\u0dc0\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Tapoa"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Tapoa"
     ],
     "name:swe_x_preferred":[
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":890421459,
-    "wof:lastmodified":1536617373,
+    "wof:lastmodified":1555047003,
     "wof:name":"Tapoa",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

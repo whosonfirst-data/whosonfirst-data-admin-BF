@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":169834,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Sissili Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sissili"
+    ],
     "lbl:latitude":11.22929,
     "lbl:longitude":-2.328288,
     "meso:admin_1":"Centre-Ouest",
@@ -122,6 +131,9 @@
         "\u0dc3\u0dd2\u0dc3\u0dd2\u0dbd\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Sissili"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sissili"
     ],
     "name:swe_x_preferred":[
@@ -199,7 +211,7 @@
         }
     ],
     "wof:id":890421465,
-    "wof:lastmodified":1536617373,
+    "wof:lastmodified":1555047003,
     "wof:name":"Sissili",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

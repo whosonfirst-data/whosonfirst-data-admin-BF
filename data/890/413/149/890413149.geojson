@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":270924,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Sangui\u00e9 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Sangui"
+    ],
     "lbl:latitude":12.32579,
     "lbl:longitude":-2.619169,
     "meso:admin_1":"Centre-Ouest",
@@ -117,6 +126,9 @@
         "\u0dc3\u0db1\u0dca\u0d9c\u0dd4\u0dba\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Sangui\u00e9"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Sangui\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":890413149,
-    "wof:lastmodified":1536617367,
+    "wof:lastmodified":1555047002,
     "wof:name":"Sangui\u00e9",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":338041,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Gnagna Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Gnagna"
+    ],
     "lbl:latitude":13.057328,
     "lbl:longitude":-0.029043,
     "meso:admin_1":"Est",
@@ -116,6 +125,9 @@
         "\u0d9c\u0dca\u0db1\u0d9c\u0dca\u0db1\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Gnagna"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Gnagna"
     ],
     "name:swe_x_preferred":[
@@ -192,7 +204,7 @@
         }
     ],
     "wof:id":890428975,
-    "wof:lastmodified":1536617378,
+    "wof:lastmodified":1555047004,
     "wof:name":"Gnagna",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

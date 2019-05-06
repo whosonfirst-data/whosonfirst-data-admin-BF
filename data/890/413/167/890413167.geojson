@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":261738,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Como\u00e9 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Como"
+    ],
     "lbl:latitude":10.257927,
     "lbl:longitude":-4.5038,
     "meso:admin_1":"Cascades",
@@ -117,6 +126,9 @@
         "\u0d9a\u0ddc\u0db8\u0ddc\u0dba\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Como\u00e9"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Como\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -194,7 +206,7 @@
         }
     ],
     "wof:id":890413167,
-    "wof:lastmodified":1536617368,
+    "wof:lastmodified":1555047002,
     "wof:name":"Como\u00e9",
     "wof:parent_id":1108805703,
     "wof:placetype":"county",

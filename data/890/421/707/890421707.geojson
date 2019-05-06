@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":319606,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Koulp\u00e9logo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Koulplogo"
+    ],
     "lbl:latitude":11.437042,
     "lbl:longitude":0.249136,
     "meso:admin_1":"Centre-Est",
@@ -120,6 +129,9 @@
         "\u0d9a\u0dde\u0dbd\u0dca\u0db4\u0dda\u0dbd\u0dca\u0d9c\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Koulp\u00e9logo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Koulp\u00e9logo"
     ],
     "name:swe_x_preferred":[
@@ -197,7 +209,7 @@
         }
     ],
     "wof:id":890421707,
-    "wof:lastmodified":1536617375,
+    "wof:lastmodified":1555047003,
     "wof:name":"Koulp\u00e9logo",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

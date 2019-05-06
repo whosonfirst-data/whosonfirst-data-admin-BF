@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":455306,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Boulgou Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":11.609116,
     "lbl:longitude":-0.404461,
     "meso:admin_1":"Centre-Est",
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":890428983,
-    "wof:lastmodified":1536617378,
+    "wof:lastmodified":1553717598,
     "wof:name":"Boulgou",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

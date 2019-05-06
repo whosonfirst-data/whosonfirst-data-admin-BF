@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":280024,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Kouritenga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Kouritenga"
+    ],
     "lbl:latitude":12.144522,
     "lbl:longitude":-0.268315,
     "meso:admin_1":"Centre-Est",
@@ -116,6 +125,9 @@
         "\u0d9a\u0ddc\u0d8b\u0dbb\u0dd2\u0da7\u0dd9\u0db1\u0dca\u0d9c\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Kouritenga"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Kouritenga"
     ],
     "name:swe_x_preferred":[
@@ -195,7 +207,7 @@
         }
     ],
     "wof:id":890413163,
-    "wof:lastmodified":1536617368,
+    "wof:lastmodified":1555047002,
     "wof:name":"Kouritenga",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

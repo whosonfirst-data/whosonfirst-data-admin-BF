@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":285722,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Soum Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Soum"
+    ],
     "lbl:latitude":14.2592,
     "lbl:longitude":-1.225973,
     "meso:admin_1":"Sahel",
@@ -77,6 +86,9 @@
         "\u0421\u0443\u043c"
     ],
     "name:spa_x_preferred":[
+        "Soum"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Soum"
     ],
     "name:swe_x_preferred":[
@@ -142,7 +154,7 @@
         }
     ],
     "wof:id":890421463,
-    "wof:lastmodified":1536617373,
+    "wof:lastmodified":1555047003,
     "wof:name":"Soum",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

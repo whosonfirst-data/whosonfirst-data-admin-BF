@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":149002,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Nayala Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "lbl:latitude":12.681443,
     "lbl:longitude":-3.016781,
     "meso:admin_1":"Boucle du Mouhoun",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890453951,
-    "wof:lastmodified":1536617388,
+    "wof:lastmodified":1553717607,
     "wof:name":"Nayala",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":12.900509,
     "geom:longitude":-2.169158,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Passor\u00e9 Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Passor"
+    ],
     "lbl:latitude":12.897143,
     "lbl:longitude":-2.228381,
     "meso:admin_1":"Nord",
@@ -114,6 +123,9 @@
         "\u0db4\u0dd0\u0dc3\u0ddc\u0dbb\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Passor\u00e9"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Passor\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -179,7 +191,7 @@
         }
     ],
     "wof:id":1108693651,
-    "wof:lastmodified":1536615335,
+    "wof:lastmodified":1555047006,
     "wof:name":"Passor\u00e9",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

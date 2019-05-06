@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":227843,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Banwa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Banwa"
+    ],
     "lbl:latitude":12.175766,
     "lbl:longitude":-4.224557,
     "meso:admin_1":"Boucle du Mouhoun",
@@ -122,6 +131,9 @@
         "\u0db6\u0db1\u0dca\u0dc0\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Banwa"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Banwa"
     ],
     "name:swe_x_preferred":[
@@ -199,7 +211,7 @@
         }
     ],
     "wof:id":890416507,
-    "wof:lastmodified":1536617371,
+    "wof:lastmodified":1555047003,
     "wof:name":"Banwa",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":12.322549,
     "geom:longitude":-1.502275,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Kadiogo Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Kadiogo"
+    ],
     "lbl:latitude":12.35132,
     "lbl:longitude":-1.539902,
     "meso:admin_1":"Centre",
@@ -44,9 +53,10 @@
         "Kadiogo"
     ],
     "name:eng_x_preferred":[
-        "Kadiogo Province"
+        "Kadiogo"
     ],
     "name:eng_x_variant":[
+        "Kadiogo",
         "Kadiogo"
     ],
     "name:epo_x_preferred":[
@@ -125,6 +135,9 @@
         "\u0d9a\u0da9\u0dba\u0ddd\u0d9c\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Kadiogo"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Kadiogo"
     ],
     "name:swe_x_preferred":[
@@ -218,7 +231,7 @@
         }
     ],
     "wof:id":421187907,
-    "wof:lastmodified":1536616042,
+    "wof:lastmodified":1555047001,
     "wof:name":"Kadiogo",
     "wof:parent_id":1108805693,
     "wof:placetype":"county",

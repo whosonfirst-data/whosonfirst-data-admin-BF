@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":145749,
     "iso:country":"BF",
+    "label:eng_x_preferred_longname":[
+        "Nahouri Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "label:spa_x_preferred_longname":[
+        "Provincia de Nahouri"
+    ],
     "lbl:latitude":11.205427,
     "lbl:longitude":-1.213118,
     "meso:admin_1":"Centre-Sud",
@@ -43,9 +52,10 @@
         "Nahouri"
     ],
     "name:eng_x_preferred":[
-        "Nahouri Province"
+        "Nahouri"
     ],
     "name:eng_x_variant":[
+        "Nahouri",
         "Nahouri"
     ],
     "name:fin_x_preferred":[
@@ -115,6 +125,9 @@
         "\u0db1\u0dc4\u0ddc\u0dbb\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:spa_x_preferred":[
+        "Nahouri"
+    ],
+    "name:spa_x_variant":[
         "Provincia de Nahouri"
     ],
     "name:swe_x_preferred":[
@@ -194,7 +207,7 @@
         }
     ],
     "wof:id":890413159,
-    "wof:lastmodified":1536617368,
+    "wof:lastmodified":1555047002,
     "wof:name":"Nahouri",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",
