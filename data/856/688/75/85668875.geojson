@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.139415,
-    "geom:area_square_m":1682308866.83717,
+    "geom:area_square_m":1682308866.837174,
     "geom:bbox":"-2.07769710933,12.2679853383,-1.59571102464,12.9007115755",
     "geom:latitude":12.607627,
     "geom:longitude":-1.81216,
@@ -33,9 +33,6 @@
     ],
     "name:fre_x_colloquial":[
         "Kourweogo"
-    ],
-    "name:fre_x_preferred":[
-        "Kourw\u00e9ogo"
     ],
     "name:glg_x_preferred":[
         "Kourw\u00e9ogo"
@@ -99,7 +96,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540172,
+    "wof:lastmodified":1561833587,
     "wof:name":"Kourw\u00e9ogo",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

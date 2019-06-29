@@ -19,14 +19,14 @@
     "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:chi_x_preferred":[
-        "\u5361\u7126\u6208"
-    ],
     "name:eng_x_preferred":[
         "Kadiogo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kadiogo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7126\u6208"
     ],
     "qs:a0":"Burkina Faso",
     "qs:a0_lc":"BF",
@@ -72,7 +72,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540173,
+    "wof:lastmodified":1561833588,
     "wof:name":"Kadiogo",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.946982,
-    "geom:area_square_m":11483117673.627769,
+    "geom:area_square_m":11483117673.627787,
     "geom:bbox":"-4.79383622856,10.6868932151,-3.58613216797,12.082337755",
     "geom:latitude":11.282516,
     "geom:longitude":-4.2585,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Houet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Houet"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540169,
+    "wof:lastmodified":1561833587,
     "wof:name":"Houet",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

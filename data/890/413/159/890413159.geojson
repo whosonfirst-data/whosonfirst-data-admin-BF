@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b9\u09cc\u09b0\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u70cf\u91cc\u7701"
-    ],
     "name:dan_x_preferred":[
         "Nahouri"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nahouri"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c7\u03bf\u03cd\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Nahouri"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Nahouri"
     ],
-    "name:fre_x_preferred":[
-        "Nahouri"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nahouri"
     ],
     "name:glg_x_preferred":[
         "Nahouri"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03c7\u03bf\u03cd\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0ab9\u0acb\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0928\u0939\u094c\u0930\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nahouri Province"
+    ],
+    "name:nld_x_preferred":[
+        "Nahouri"
     ],
     "name:nob_x_preferred":[
         "Nahouri"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Nahouri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nahouri"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Nahouri"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u70cf\u91cc\u7701"
     ],
     "qs:name":"Nahouri Province",
     "qs:photos_9r":0,
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":890413159,
-    "wof:lastmodified":1555047002,
+    "wof:lastmodified":1561833611,
     "wof:name":"Nahouri",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

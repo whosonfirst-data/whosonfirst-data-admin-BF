@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.574439,
-    "geom:area_square_m":6965452100.052663,
+    "geom:area_square_m":6965452100.052668,
     "geom:bbox":"-2.80419023339,10.986057355,-1.41355308521,11.9095317648",
     "geom:latitude":11.293821,
     "geom:longitude":-2.233156,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Sissili"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sissili"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540175,
+    "wof:lastmodified":1561833588,
     "wof:name":"Sissili",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

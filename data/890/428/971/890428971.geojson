@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09b0\u09ae\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u723e\u99ac\u7701"
-    ],
     "name:dan_x_preferred":[
         "Gourma Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gourma"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03cd\u03c1\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gourma"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Gourma"
     ],
-    "name:fre_x_preferred":[
-        "Gourma"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gourma"
     ],
     "name:glg_x_preferred":[
         "Gourma"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03cd\u03c1\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acc\u0ab0\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,11 +97,14 @@
     "name:mar_x_preferred":[
         "\u0917\u094c\u0930\u092e\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gourma Province"
     ],
     "name:nan_x_preferred":[
         "Gourma S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Gourma"
     ],
     "name:nob_x_preferred":[
         "Gourma"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Gourma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gourma"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +159,9 @@
     ],
     "name:war_x_preferred":[
         "Gourma"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u723e\u99ac\u7701"
     ],
     "qs:name":"Province du Gourma",
     "qs:photos_9r":0,
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":890428971,
-    "wof:lastmodified":1555047004,
+    "wof:lastmodified":1561833614,
     "wof:name":"Gourma",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

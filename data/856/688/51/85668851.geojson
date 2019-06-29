@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.58348,
-    "geom:area_square_m":7051865281.121685,
+    "geom:area_square_m":7051865281.121716,
     "geom:bbox":"-3.98099178714,11.7185615098,-2.79251135941,12.7497130405",
     "geom:latitude":12.199539,
     "geom:longitude":-3.41938,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Mou Houn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mouhoun"
     ],
     "name:fre_x_variant":[
@@ -64,7 +64,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540185,
+    "wof:lastmodified":1561833587,
     "wof:name":"Mou Houn",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

@@ -19,11 +19,11 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u063a\u0627\u0648\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u74e6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gaoua"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bf\u03c5\u03ac"
     ],
     "name:eng_x_preferred":[
         "Gaoua"
@@ -31,14 +31,8 @@
     "name:fin_x_preferred":[
         "Gaoua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gaoua"
-    ],
-    "name:ger_x_preferred":[
-        "Gaoua"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03bf\u03c5\u03ac"
     ],
     "name:ita_x_preferred":[
         "Gaoua"
@@ -52,6 +46,9 @@
     "name:lit_x_preferred":[
         "Gaua"
     ],
+    "name:nld_x_preferred":[
+        "Gaoua"
+    ],
     "name:nob_x_preferred":[
         "Gaoua"
     ],
@@ -61,7 +58,7 @@
     "name:por_x_preferred":[
         "Gaoua"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gaoua"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Gaoua"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u74e6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Burkina Faso",
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":890444527,
-    "wof:lastmodified":1553816400,
+    "wof:lastmodified":1561833615,
     "wof:name":"Gaoua",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",

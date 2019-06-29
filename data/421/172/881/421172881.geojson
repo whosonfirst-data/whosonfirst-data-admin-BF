@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Koup\u00e9la"
     ],
-    "name:dut_x_preferred":[
-        "Koup\u00e9la"
-    ],
     "name:eng_x_preferred":[
         "Koup\u00e9la"
     ],
@@ -36,12 +33,6 @@
         "Koup\u00e9la"
     ],
     "name:fra_x_preferred":[
-        "Koup\u00e9la"
-    ],
-    "name:fre_x_preferred":[
-        "Koup\u00e9la"
-    ],
-    "name:ger_x_preferred":[
         "Koup\u00e9la"
     ],
     "name:ita_x_preferred":[
@@ -69,9 +60,6 @@
         "Koup\u00e9la"
     ],
     "name:ron_x_preferred":[
-        "Koup\u00e9la"
-    ],
-    "name:rum_x_preferred":[
         "Koup\u00e9la"
     ],
     "name:rus_x_preferred":[
@@ -238,7 +226,7 @@
         }
     ],
     "wof:id":421172881,
-    "wof:lastmodified":1527716301,
+    "wof:lastmodified":1561833610,
     "wof:name":"Koup\u00e9la",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

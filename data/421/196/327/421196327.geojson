@@ -13,22 +13,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bani"
     ],
     "name:eng_x_preferred":[
         "Bani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dori"
-    ],
-    "name:ger_x_preferred":[
-        "Bani"
     ],
     "name:ita_x_preferred":[
         "Bani"
     ],
     "name:nan_x_preferred":[
+        "Bani"
+    ],
+    "name:nld_x_preferred":[
         "Bani"
     ],
     "name:unk_x_variant":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":421196327,
-    "wof:lastmodified":1513899610,
+    "wof:lastmodified":1561833610,
     "wof:name":"Bani",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

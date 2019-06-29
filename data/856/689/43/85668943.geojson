@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.350943,
-    "geom:area_square_m":4240926613.01019,
+    "geom:area_square_m":4240926613.010198,
     "geom:bbox":"-1.11615373361,11.8376498485,-0.42105404281,12.6793814151",
     "geom:latitude":12.232907,
     "geom:longitude":-0.764014,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Ganzourgou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ganzourgou"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540171,
+    "wof:lastmodified":1561833588,
     "wof:name":"Ganzourgou",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

@@ -19,16 +19,13 @@
     "name:deu_x_preferred":[
         "Garango"
     ],
-    "name:dut_x_preferred":[
-        "Garango"
-    ],
     "name:eng_x_preferred":[
         "Garango"
     ],
     "name:fra_x_preferred":[
         "Garango"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Garango"
     ],
     "name:pol_x_preferred":[
@@ -97,7 +94,7 @@
         }
     ],
     "wof:id":421179715,
-    "wof:lastmodified":1527717707,
+    "wof:lastmodified":1561833610,
     "wof:name":"Garango",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

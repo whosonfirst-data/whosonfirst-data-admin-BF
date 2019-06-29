@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u0987\u0989\u09ac\u09cd\u09b0\u09bf\u099f\u09c7\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u5e03\u91cc\u6ed5\u52a0\u7701"
-    ],
     "name:dan_x_preferred":[
         "Oubritenga Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oubritenga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03bc\u03c0\u03c1\u03b9\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Oubritenga"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Oubritenga"
     ],
-    "name:fre_x_preferred":[
-        "Oubritenga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oubritenga"
     ],
     "name:glg_x_preferred":[
         "Oubritenga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03bc\u03c0\u03c1\u03b9\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a91\u0aac\u0acd\u0ab0\u0ac0\u0a9f\u0ac7\u0a82\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0913\u092c\u094d\u0930\u093f\u091f\u0947\u0902\u0917\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Oubritenga"
+    ],
+    "name:nld_x_preferred":[
+        "Oubritenga"
     ],
     "name:nob_x_preferred":[
         "Oubritenga"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Oubritenga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oubritenga"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Oubritenga"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5e03\u91cc\u6ed5\u52a0\u7701"
     ],
     "qs:name":"Province d\u2019 Oubritenga",
     "qs:photos_9r":0,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":890413157,
-    "wof:lastmodified":1555047002,
+    "wof:lastmodified":1561833611,
     "wof:name":"Oubritenga",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

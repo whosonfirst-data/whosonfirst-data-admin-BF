@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.43469,
-    "geom:area_square_m":5264976058.278449,
+    "geom:area_square_m":5264976058.278446,
     "geom:bbox":"-2.3499802308,11.2866498889,-1.3137644108,11.9817495788",
     "geom:latitude":11.613144,
     "geom:longitude":-1.870149,
@@ -32,9 +32,6 @@
         "Ziro"
     ],
     "name:fra_x_preferred":[
-        "Ziro"
-    ],
-    "name:fre_x_preferred":[
         "Ziro"
     ],
     "name:guj_x_preferred":[
@@ -116,7 +113,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540175,
+    "wof:lastmodified":1561833588,
     "wof:name":"Ziro",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

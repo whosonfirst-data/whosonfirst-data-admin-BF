@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u099c\u09c7\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u6fa4\u52a0\u7701"
-    ],
     "name:dan_x_preferred":[
         "Baz\u00e8ga Province"
     ],
-    "name:dut_x_preferred":[
-        "Baz\u00e9ga"
+    "name:deu_x_preferred":[
+        "Baz\u00e8ga"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03b6\u03ad\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Baz\u00e8ga"
@@ -56,20 +56,17 @@
         "Baz\u00e8ga",
         "Baz\u00e8ga Province"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0632\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Baz\u00e8ga"
     ],
-    "name:fre_x_preferred":[
-        "Baz\u00e8ga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Baz\u00e8ga"
     ],
     "name:glg_x_preferred":[
         "Baz\u00e8ga"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03b6\u03ad\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0a9c\u0ac7\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,17 +98,17 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u091c\u0947\u0917\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Bazega"
     ],
     "name:nan_x_preferred":[
         "Baz\u00e8ga S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Baz\u00e9ga"
+    ],
     "name:nob_x_preferred":[
         "Baz\u00e8ga"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0632\u06af\u0627"
     ],
     "name:pol_x_preferred":[
         "Prowincja Baz\u00e9ga"
@@ -119,7 +116,7 @@
     "name:por_x_preferred":[
         "Baz\u00e9ga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Baz\u00e8ga"
     ],
     "name:rus_x_preferred":[
@@ -161,6 +158,9 @@
     "name:war_x_preferred":[
         "Baz\u00e8ga"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6fa4\u52a0\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -197,7 +197,7 @@
         }
     ],
     "wof:id":1108693649,
-    "wof:lastmodified":1555047006,
+    "wof:lastmodified":1561833603,
     "wof:name":"Baz\u00e8ga",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

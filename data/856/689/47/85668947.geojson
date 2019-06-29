@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.239984,
-    "geom:area_square_m":2900757876.457891,
+    "geom:area_square_m":2900757876.457896,
     "geom:bbox":"-0.61365210576,11.7933631453,0.0305979749166,12.5604739454",
     "geom:latitude":12.168179,
     "geom:longitude":-0.292632,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Kouritenga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kouritenga"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540171,
+    "wof:lastmodified":1561833589,
     "wof:name":"Kouritenga",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

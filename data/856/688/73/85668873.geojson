@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.350113,
-    "geom:area_square_m":4229763621.876209,
+    "geom:area_square_m":4229763621.876217,
     "geom:bbox":"-2.4815225898,11.9018836531,-1.78991105805,12.7080101588",
     "geom:latitude":12.303079,
     "geom:longitude":-2.141155,
@@ -31,7 +31,7 @@
     "name:fra_x_preferred":[
         "Boulkiemd\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Boulkiemde"
     ],
     "name:glg_x_preferred":[
@@ -96,7 +96,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540172,
+    "wof:lastmodified":1561833587,
     "wof:name":"Boulkiemd\u00e9",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

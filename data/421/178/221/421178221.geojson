@@ -20,16 +20,10 @@
     "name:ceb_x_preferred":[
         "Tenkodogo"
     ],
-    "name:chi_x_preferred":[
-        "\u6ed5\u79d1\u591a\u6208"
-    ],
     "name:dan_x_preferred":[
         "Tenkodogo"
     ],
     "name:deu_x_preferred":[
-        "Tenkodogo"
-    ],
-    "name:dut_x_preferred":[
         "Tenkodogo"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "Tenkodogo"
     ],
     "name:fra_x_preferred":[
-        "Tenkodogo"
-    ],
-    "name:fre_x_preferred":[
-        "Tenkodogo"
-    ],
-    "name:ger_x_preferred":[
         "Tenkodogo"
     ],
     "name:ind_x_preferred":[
@@ -81,9 +69,6 @@
         "Tenkodogo"
     ],
     "name:ron_x_preferred":[
-        "Tenkodogo"
-    ],
-    "name:rum_x_preferred":[
         "Tenkodogo"
     ],
     "name:rus_x_preferred":[
@@ -253,7 +238,7 @@
         }
     ],
     "wof:id":421178221,
-    "wof:lastmodified":1527717719,
+    "wof:lastmodified":1561833610,
     "wof:name":"Tenkodogo",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

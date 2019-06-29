@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.222599,
-    "geom:area_square_m":2701350632.019905,
+    "geom:area_square_m":2701350632.019904,
     "geom:bbox":"-3.30268693735,10.6980036483,-2.63665523895,11.3499535184",
     "geom:latitude":11.058989,
     "geom:longitude":-2.981505,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Ioba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ioba"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540175,
+    "wof:lastmodified":1561833589,
     "wof:name":"Ioba",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

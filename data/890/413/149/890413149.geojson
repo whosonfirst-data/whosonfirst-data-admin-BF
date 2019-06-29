@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0999\u09cd\u0997\u09c1\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u5409\u7701"
-    ],
     "name:dan_x_preferred":[
         "Sangui\u00e9 Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sangui\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03b3\u03ba\u03b9\u03ad"
     ],
     "name:eng_x_preferred":[
         "Sangui\u00e9"
@@ -62,17 +62,11 @@
     "name:fin_x_preferred":[
         "Sangui\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Sangui\u00e9"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sangui\u00e9"
     ],
     "name:glg_x_preferred":[
         "Sangui\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03b3\u03ba\u03b9\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac5\u0a97\u0ac1\u0a88\u0a8f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,8 +98,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0917\u094d\u0917\u0940\u092f \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sanguie Province"
+    ],
+    "name:nld_x_preferred":[
+        "Sangui\u00e9"
     ],
     "name:nob_x_preferred":[
         "Sangui\u00e9"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "Sangui\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sangui\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -160,6 +157,9 @@
     ],
     "name:war_x_preferred":[
         "Sangui\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u5409\u7701"
     ],
     "qs:name":"Province du Sangui\u00e9",
     "qs:photos_9r":0,
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":890413149,
-    "wof:lastmodified":1555047002,
+    "wof:lastmodified":1561833612,
     "wof:name":"Sangui\u00e9",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

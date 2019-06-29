@@ -20,13 +20,7 @@
     "name:ceb_x_preferred":[
         "Salanso"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u502b\u4f50"
-    ],
     "name:deu_x_preferred":[
-        "Solenzo"
-    ],
-    "name:dut_x_preferred":[
         "Solenzo"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
     "name:fra_x_preferred":[
         "Solenzo"
     ],
-    "name:fre_x_preferred":[
-        "Solenzo"
-    ],
-    "name:ger_x_preferred":[
-        "Solenzo"
-    ],
     "name:jpn_x_preferred":[
         "\u30bd\u30e9\u30f3\u30be"
     ],
@@ -53,9 +41,6 @@
     "name:nob_x_preferred":[
         "Solenzo"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0644\u0646\u0632\u0648"
-    ],
     "name:pol_x_preferred":[
         "Solenzo"
     ],
@@ -63,9 +48,6 @@
         "Solenzo"
     ],
     "name:ron_x_preferred":[
-        "Solenzo"
-    ],
-    "name:rum_x_preferred":[
         "Solenzo"
     ],
     "name:swe_x_preferred":[
@@ -223,7 +205,7 @@
         }
     ],
     "wof:id":421200317,
-    "wof:lastmodified":1527716430,
+    "wof:lastmodified":1561833610,
     "wof:name":"Solenzo",
     "wof:parent_id":890416507,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.698112,
-    "geom:area_square_m":8460804773.135743,
+    "geom:area_square_m":8460804773.135741,
     "geom:bbox":"-5.50733353661,10.8100639921,-4.54664201492,12.0372630946",
     "geom:latitude":11.435347,
     "geom:longitude":-4.975594,
@@ -25,7 +25,7 @@
     "name:fra_x_preferred":[
         "K\u00e9n\u00e9dougou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Kenedougou"
     ],
     "name:rus_x_preferred":[
@@ -71,7 +71,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540170,
+    "wof:lastmodified":1561833588,
     "wof:name":"K\u00e9n\u00e9dougou",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

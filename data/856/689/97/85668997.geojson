@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Yagha"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yagha"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540173,
+    "wof:lastmodified":1561833589,
     "wof:name":"Yagha",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

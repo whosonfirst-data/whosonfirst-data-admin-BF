@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.307028,
-    "geom:area_square_m":3719480126.809122,
+    "geom:area_square_m":3719480126.809118,
     "geom:bbox":"-1.34771582712,11.1668639182,-0.532752651314,11.9263266058",
     "geom:latitude":11.556029,
     "geom:longitude":-0.973844,
@@ -31,7 +31,7 @@
     "name:fra_x_preferred":[
         "Zoundw\u00e9ogo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Zoundweogo"
     ],
     "name:glg_x_preferred":[
@@ -96,7 +96,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540172,
+    "wof:lastmodified":1561833589,
     "wof:name":"Zoundw\u00e9ogo",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

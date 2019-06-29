@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09ae\u09a8\u09cd\u09a6\u09be\u09b0\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u8499\u52a0\u91cc\u7701"
-    ],
     "name:dan_x_preferred":[
         "Komondjari Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Komondjari"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03bf\u03bd\u03c4\u03b6\u03ac\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Komandjoari"
@@ -62,17 +62,11 @@
     "name:fin_x_preferred":[
         "Komondjari"
     ],
-    "name:fre_x_preferred":[
-        "Komondjari"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Komondjari"
     ],
     "name:glg_x_preferred":[
         "Komondjari"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc\u03bf\u03bd\u03c4\u03b6\u03ac\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aae\u0acb\u0aa8\u0a9c\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,8 +98,11 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u092e\u094b\u0928\u091c\u0930\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Komondjari Province"
+    ],
+    "name:nld_x_preferred":[
+        "Komondjari"
     ],
     "name:nob_x_preferred":[
         "Komondjari"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "Komondjari"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Komondjari"
     ],
     "name:rus_x_preferred":[
@@ -160,6 +157,9 @@
     ],
     "name:war_x_preferred":[
         "Komondjari"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u8499\u52a0\u91cc\u7701"
     ],
     "qs:name":"Province de la Komandjoari",
     "qs:photos_9r":0,
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":890435617,
-    "wof:lastmodified":1555047005,
+    "wof:lastmodified":1561833615,
     "wof:name":"Komandjoari",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

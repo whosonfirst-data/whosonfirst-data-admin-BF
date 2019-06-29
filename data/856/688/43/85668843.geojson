@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.492951,
-    "geom:area_square_m":5956615989.814821,
+    "geom:area_square_m":5956615989.814792,
     "geom:bbox":"-4.65273685332,11.7168561875,-3.56370459599,12.7389909885",
     "geom:latitude":12.249559,
     "geom:longitude":-4.174624,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Banwa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Banwa"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540183,
+    "wof:lastmodified":1561833587,
     "wof:name":"Banwa",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":1.070689,
-    "geom:area_square_m":12832933038.301973,
+    "geom:area_square_m":12832933038.30196,
     "geom:bbox":"-2.0850078898,13.7292656523,-0.550787725773,14.8180616065",
     "geom:latitude":14.228872,
     "geom:longitude":-1.291403,
@@ -23,9 +23,6 @@
         "Soum"
     ],
     "name:fra_x_preferred":[
-        "Soum"
-    ],
-    "name:fre_x_preferred":[
         "Soum"
     ],
     "qs:a0":"Burkina Faso",
@@ -68,7 +65,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540170,
+    "wof:lastmodified":1561833587,
     "wof:name":"Soum",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

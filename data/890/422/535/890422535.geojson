@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u099c\u09cb\u09a8\u09cd\u09a1\u09cb\u09ae\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u5b97\u591a\u99ac\u7701"
-    ],
     "name:dan_x_preferred":[
         "Zondoma Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zondoma"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03bd\u03c4\u03cc\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Zondoma"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Zondoma"
     ],
-    "name:fre_x_preferred":[
-        "Zondoma"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zondoma"
     ],
     "name:glg_x_preferred":[
         "Zondoma"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bf\u03bd\u03c4\u03cc\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0acb\u0a82\u0aa1\u0acb\u0aae\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u091d\u094b\u0928\u094d\u0921\u092e\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zondoma Province"
+    ],
+    "name:nld_x_preferred":[
+        "Zondoma"
     ],
     "name:nob_x_preferred":[
         "Zondoma"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Zondoma"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zondoma"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Zondoma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b97\u591a\u99ac\u7701"
     ],
     "qs:name":"Province du Zondoma",
     "qs:photos_9r":0,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":890422535,
-    "wof:lastmodified":1555047004,
+    "wof:lastmodified":1561833610,
     "wof:name":"Zondoma",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

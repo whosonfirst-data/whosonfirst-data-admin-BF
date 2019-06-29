@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Yatenga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yatenga"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540176,
+    "wof:lastmodified":1561833588,
     "wof:name":"Yatenga",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

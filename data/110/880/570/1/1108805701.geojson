@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.369645,
-    "geom:area_square_m":16470322728.425409,
+    "geom:area_square_m":16470322728.425413,
     "geom:bbox":"-2.953706026,12.616235402,-1.532084795,14.29787",
     "geom:latitude":13.458961,
     "geom:longitude":-2.28311,
@@ -25,34 +25,28 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0645\u0627\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Iparraldeko eskualdea"
-    ],
     "name:bre_x_preferred":[
         "Nord"
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 Nord"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u90e8\u5927\u5340"
-    ],
     "name:dan_x_preferred":[
         "Nord"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nord"
     ],
     "name:eng_x_preferred":[
         "Nord"
     ],
+    "name:eus_x_preferred":[
+        "Iparraldeko eskualdea"
+    ],
     "name:fin_x_preferred":[
         "Nord"
     ],
-    "name:fre_x_preferred":[
-        "Nord"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nord"
     ],
     "name:glg_x_preferred":[
@@ -79,6 +73,9 @@
     "name:nan_x_preferred":[
         "Nord"
     ],
+    "name:nld_x_preferred":[
+        "Nord"
+    ],
     "name:nob_x_preferred":[
         "Nord"
     ],
@@ -88,7 +85,7 @@
     "name:por_x_preferred":[
         "Regi\u00e3o Norte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Nord"
     ],
     "name:rus_x_preferred":[
@@ -108,6 +105,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0644\u06cc \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u90e8\u5927\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -153,7 +153,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553816515,
+    "wof:lastmodified":1561833603,
     "wof:name":"Nord",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

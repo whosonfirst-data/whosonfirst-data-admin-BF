@@ -45,14 +45,14 @@
     "name:bre_x_preferred":[
         "Tuy"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u4f0a\u7701"
-    ],
     "name:dan_x_preferred":[
         "Tuy Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tuy"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Tuy"
@@ -64,17 +64,11 @@
     "name:fin_x_preferred":[
         "Tuy"
     ],
-    "name:fre_x_preferred":[
-        "Tuy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tuy"
     ],
     "name:glg_x_preferred":[
         "Tuy"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03cd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0aaf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -106,11 +100,14 @@
     "name:mar_x_preferred":[
         "\u091f\u094d\u092f\u0942 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tuy Province"
     ],
     "name:nan_x_preferred":[
         "Tuy S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Tuy"
     ],
     "name:nob_x_preferred":[
         "Tuy"
@@ -121,7 +118,7 @@
     "name:por_x_preferred":[
         "Tuy"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tuy"
     ],
     "name:rus_x_preferred":[
@@ -165,6 +162,9 @@
     ],
     "name:war_x_preferred":[
         "Tuy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u4f0a\u7701"
     ],
     "qs:name":"Province du Tuy",
     "qs:photos_9r":0,
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":890422527,
-    "wof:lastmodified":1555047004,
+    "wof:lastmodified":1561833611,
     "wof:name":"Tuy",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

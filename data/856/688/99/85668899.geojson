@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.148143,
-    "geom:area_square_m":1783643264.697392,
+    "geom:area_square_m":1783643264.69739,
     "geom:bbox":"-2.69613481267,12.9582274444,-2.06640580898,13.3883562278",
     "geom:latitude":13.1689,
     "geom:longitude":-2.366268,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Zondoma"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zondoma"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540175,
+    "wof:lastmodified":1561833587,
     "wof:name":"Zondoma",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.329123,
-    "geom:area_square_m":3981433132.578628,
+    "geom:area_square_m":3981433132.578632,
     "geom:bbox":"-2.04180782667,11.5840994334,-0.887950608833,12.1945014515",
     "geom:latitude":11.952919,
     "geom:longitude":-1.446249,
@@ -34,7 +34,7 @@
     "name:fra_x_preferred":[
         "Baz\u00e8ga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Bazega"
     ],
     "name:glg_x_preferred":[
@@ -94,7 +94,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540173,
+    "wof:lastmodified":1561833588,
     "wof:name":"Baz\u00e9ga",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

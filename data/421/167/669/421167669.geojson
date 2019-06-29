@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Gourcy"
     ],
-    "name:dut_x_preferred":[
-        "Gourcy"
-    ],
     "name:eng_x_preferred":[
         "Gourcy"
     ],
@@ -29,12 +26,6 @@
         "Gourcy"
     ],
     "name:fra_x_preferred":[
-        "Gourcy"
-    ],
-    "name:fre_x_preferred":[
-        "Gourcy"
-    ],
-    "name:ger_x_preferred":[
         "Gourcy"
     ],
     "name:ita_x_preferred":[
@@ -56,9 +47,6 @@
         "Gourcy"
     ],
     "name:ron_x_preferred":[
-        "Gourcy"
-    ],
-    "name:rum_x_preferred":[
         "Gourcy"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":421167669,
-    "wof:lastmodified":1527716155,
+    "wof:lastmodified":1561833609,
     "wof:name":"Gourcy",
     "wof:parent_id":890422535,
     "wof:placetype":"locality",

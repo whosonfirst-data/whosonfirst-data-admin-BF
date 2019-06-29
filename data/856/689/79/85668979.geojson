@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.667345,
-    "geom:area_square_m":8119239477.511619,
+    "geom:area_square_m":8119239477.511615,
     "geom:bbox":"-3.990396898,9.84113169467,-2.75437495964,10.7445899522",
     "geom:latitude":10.283486,
     "geom:longitude":-3.335232,
@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Poni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Poni"
     ],
     "name:hbs_x_preferred":[
@@ -69,7 +69,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540170,
+    "wof:lastmodified":1561833589,
     "wof:name":"Poni",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

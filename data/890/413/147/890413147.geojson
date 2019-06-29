@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09ae\u09be\u099f\u09c7\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u99ac\u6ed5\u52a0\u7701"
-    ],
     "name:dan_x_preferred":[
         "Sanmatenga Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sanmatenga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03bc\u03b1\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sanmatenga"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Sanmatenga"
     ],
-    "name:fre_x_preferred":[
-        "Sanmatenga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sanmatenga"
     ],
     "name:glg_x_preferred":[
         "Sanmatenga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03bc\u03b1\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0aae\u0abe\u0a9f\u0ac7\u0aa8\u0acd\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928\u092e\u091f\u0917\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sanmatenga Province"
+    ],
+    "name:nld_x_preferred":[
+        "Sanmatenga"
     ],
     "name:nob_x_preferred":[
         "Sanmatenga"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Sanmatenga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sanmatenga"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Sanmatenga"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u99ac\u6ed5\u52a0\u7701"
     ],
     "qs:name":"Province du Sanmatenga",
     "qs:photos_9r":0,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":890413147,
-    "wof:lastmodified":1555047001,
+    "wof:lastmodified":1561833612,
     "wof:name":"Sanmatenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

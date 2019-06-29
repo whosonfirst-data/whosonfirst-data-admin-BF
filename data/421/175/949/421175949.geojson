@@ -20,19 +20,10 @@
     "name:deu_x_preferred":[
         "Bogand\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Bogand\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Bogand\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Bogand\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Bogand\u00e9"
-    ],
-    "name:ger_x_preferred":[
         "Bogand\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -57,9 +48,6 @@
         "Bogand\u00e9"
     ],
     "name:ron_x_preferred":[
-        "Bogand\u00e9"
-    ],
-    "name:rum_x_preferred":[
         "Bogand\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +208,7 @@
         }
     ],
     "wof:id":421175949,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561833610,
     "wof:name":"Bogand\u00e9",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",
