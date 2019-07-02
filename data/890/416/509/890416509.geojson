@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09cb\u09ac\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u5967\u5df4\u7701"
-    ],
     "name:dan_x_preferred":[
         "Ioba Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ioba"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03cc\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ioba"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Ioba"
     ],
-    "name:fre_x_preferred":[
-        "Ioba"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ioba"
     ],
     "name:glg_x_preferred":[
         "Ioba"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03cc\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0a93\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0932\u094b\u092c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ioba Province"
+    ],
+    "name:nld_x_preferred":[
+        "Ioba"
     ],
     "name:nob_x_preferred":[
         "Ioba"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Ioba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ioba"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Ioba"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5967\u5df4\u7701"
     ],
     "qs:name":"Province du Ioba",
     "qs:photos_9r":0,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":890416509,
-    "wof:lastmodified":1555047003,
+    "wof:lastmodified":1561833615,
     "wof:name":"Ioba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

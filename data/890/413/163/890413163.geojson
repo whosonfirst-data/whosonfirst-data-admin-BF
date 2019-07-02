@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b0\u09bf\u099f\u09c7\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u91cc\u6ed5\u52a0\u7701"
-    ],
     "name:dan_x_preferred":[
         "Kouritenga Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kouritenga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03b9\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kouritenga"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Kouritenga"
     ],
-    "name:fre_x_preferred":[
-        "Kouritenga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Kouritenga"
     ],
     "name:glg_x_preferred":[
         "Kouritenga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03c1\u03b9\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acc\u0ab0\u0ac0\u0a9f\u0ac7\u0aa8\u0acd\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0915\u094c\u0930\u0940\u091f\u0947\u0928\u094d\u0917\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kouritenga Province"
+    ],
+    "name:nld_x_preferred":[
+        "Kouritenga"
     ],
     "name:nob_x_preferred":[
         "Kouritenga"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Kouritenga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kouritenga"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Kouritenga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u91cc\u6ed5\u52a0\u7701"
     ],
     "qs:name":"Kouritenga Province",
     "qs:photos_9r":0,
@@ -207,7 +207,7 @@
         }
     ],
     "wof:id":890413163,
-    "wof:lastmodified":1555047002,
+    "wof:lastmodified":1561833612,
     "wof:name":"Kouritenga",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

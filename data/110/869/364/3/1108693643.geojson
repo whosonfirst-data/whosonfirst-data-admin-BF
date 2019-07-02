@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09ae\u09cd\u09ac\u09bf\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u52aa\u59c6\u6bd4\u57c3\u723e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Noumbiel Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Noumbiel"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03cd\u03bc\u03c0\u03b9\u03b5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Noumbiel"
@@ -58,17 +58,11 @@
     "name:fin_x_preferred":[
         "Noumbiel"
     ],
-    "name:fre_x_preferred":[
-        "Noumbiel"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Noumbiel"
     ],
     "name:glg_x_preferred":[
         "Noumbiel"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03cd\u03bc\u03c0\u03b9\u03b5\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acc\u0aae\u0acd\u0aac\u0aac\u0ac0\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -100,8 +94,11 @@
     "name:mar_x_preferred":[
         "\u0928\u0942\u092e\u094d\u092c\u0940\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Noumbiel Province"
+    ],
+    "name:nld_x_preferred":[
+        "Noumbiel"
     ],
     "name:nob_x_preferred":[
         "Noumbiel"
@@ -112,7 +109,7 @@
     "name:por_x_preferred":[
         "Noumbiel"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Noumbiel"
     ],
     "name:rus_x_preferred":[
@@ -154,6 +151,9 @@
     "name:war_x_preferred":[
         "Noumbiel"
     ],
+    "name:zho_x_preferred":[
+        "\u52aa\u59c6\u6bd4\u57c3\u723e\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -190,7 +190,7 @@
         }
     ],
     "wof:id":1108693643,
-    "wof:lastmodified":1555047005,
+    "wof:lastmodified":1561833604,
     "wof:name":"Noumbiel",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

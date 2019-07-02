@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.772,
-    "geom:area_square_m":9292647076.50972,
+    "geom:area_square_m":9292647076.509712,
     "geom:bbox":"-1.55256120394,12.5241970891,-0.608329434056,13.9709304878",
     "geom:latitude":13.223761,
     "geom:longitude":-1.015047,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Sanmatenga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sanmatenga"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540169,
+    "wof:lastmodified":1561833588,
     "wof:name":"Sanmatenga",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

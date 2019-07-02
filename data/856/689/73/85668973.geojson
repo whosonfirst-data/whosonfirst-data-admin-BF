@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":1.262525,
-    "geom:area_square_m":15359706694.656425,
+    "geom:area_square_m":15359706694.656391,
     "geom:bbox":"-5.14603695344,9.58295623814,-3.68909745918,10.8902399761",
     "geom:latitude":10.297537,
     "geom:longitude":-4.430839,
@@ -25,12 +25,12 @@
     "name:fra_x_preferred":[
         "Como\u00e9"
     ],
+    "name:fra_x_variant":[
+        "Komo\u00e9"
+    ],
     "name:fre_x_colloquial":[
         "Comoe",
         "Komoe"
-    ],
-    "name:fre_x_preferred":[
-        "Komo\u00e9"
     ],
     "name:fre_x_variant":[
         "Como\u00e9"
@@ -81,7 +81,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540178,
+    "wof:lastmodified":1561833588,
     "wof:name":"Komo\u00e9",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

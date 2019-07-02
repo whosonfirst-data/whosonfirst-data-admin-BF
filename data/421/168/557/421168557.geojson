@@ -26,19 +26,10 @@
     "name:deu_x_preferred":[
         "Sapouy"
     ],
-    "name:dut_x_preferred":[
-        "Sapouy"
-    ],
     "name:eng_x_preferred":[
         "Sapouy"
     ],
     "name:fra_x_preferred":[
-        "Sapouy"
-    ],
-    "name:fre_x_preferred":[
-        "Sapouy"
-    ],
-    "name:ger_x_preferred":[
         "Sapouy"
     ],
     "name:ita_x_preferred":[
@@ -60,9 +51,6 @@
         "Sapouy"
     ],
     "name:ron_x_preferred":[
-        "Sapouy"
-    ],
-    "name:rum_x_preferred":[
         "Sapouy"
     ],
     "name:swe_x_preferred":[
@@ -217,7 +205,7 @@
         }
     ],
     "wof:id":421168557,
-    "wof:lastmodified":1527716090,
+    "wof:lastmodified":1561833608,
     "wof:name":"Sapoui",
     "wof:parent_id":890422531,
     "wof:placetype":"locality",

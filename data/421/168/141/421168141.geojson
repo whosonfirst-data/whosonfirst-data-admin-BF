@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Kongoussi"
     ],
-    "name:dut_x_preferred":[
-        "Kongoussi"
-    ],
     "name:eng_x_preferred":[
         "Kongoussi"
     ],
@@ -35,12 +32,6 @@
         "Kongoussi"
     ],
     "name:fra_x_preferred":[
-        "Kongoussi"
-    ],
-    "name:fre_x_preferred":[
-        "Kongoussi"
-    ],
-    "name:ger_x_preferred":[
         "Kongoussi"
     ],
     "name:ita_x_preferred":[
@@ -58,9 +49,6 @@
     "name:nob_x_preferred":[
         "Kongoussi"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0646\u06af\u0648\u0633\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Kongoussi"
     ],
@@ -68,9 +56,6 @@
         "Kongoussi"
     ],
     "name:ron_x_preferred":[
-        "Kongoussi"
-    ],
-    "name:rum_x_preferred":[
         "Kongoussi"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +118,7 @@
         }
     ],
     "wof:id":421168141,
-    "wof:lastmodified":1527716100,
+    "wof:lastmodified":1561833609,
     "wof:name":"Kongoussi",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

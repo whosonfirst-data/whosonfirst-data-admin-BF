@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238447,
-    "geom:area_square_m":2880514761.774861,
+    "geom:area_square_m":2880514761.77486,
     "geom:bbox":"-1.826851689,12.051309512,-1.0636344,12.685050791",
     "geom:latitude":12.322549,
     "geom:longitude":-1.502275,
@@ -22,9 +22,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:baq_x_preferred":[
-        "Erdialdeko eskualdea"
-    ],
     "name:bre_x_preferred":[
         "Centre"
     ],
@@ -34,13 +31,10 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Centre"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u592e\u5927\u5340"
-    ],
     "name:dan_x_preferred":[
         "Centre"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Centre"
     ],
     "name:eng_x_preferred":[
@@ -49,13 +43,13 @@
     "name:epo_x_preferred":[
         "Centre"
     ],
+    "name:eus_x_preferred":[
+        "Erdialdeko eskualdea"
+    ],
     "name:fin_x_preferred":[
         "Centre"
     ],
-    "name:fre_x_preferred":[
-        "Centre"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Centre"
     ],
     "name:glg_x_preferred":[
@@ -82,6 +76,9 @@
     "name:nan_x_preferred":[
         "Centre"
     ],
+    "name:nld_x_preferred":[
+        "Centre"
+    ],
     "name:nob_x_preferred":[
         "Centre"
     ],
@@ -91,7 +88,7 @@
     "name:por_x_preferred":[
         "Regi\u00e3o Centro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Centre"
     ],
     "name:rus_x_preferred":[
@@ -111,6 +108,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0633\u0637\u06cc \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u592e\u5927\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -156,7 +156,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553816515,
+    "wof:lastmodified":1561833602,
     "wof:name":"Centre",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

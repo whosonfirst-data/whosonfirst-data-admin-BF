@@ -39,14 +39,14 @@
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09a8\u09cd\u09a1\u09ac\u09c7\u0997\u09cb \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u5b97\u5fb7\u97cb\u5967\u6208\u7701"
-    ],
     "name:dan_x_preferred":[
         "Zoundw\u00e9ogo Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zoundw\u00e9ogo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5\u03bd\u03c4\u03b2\u03ad\u03bf\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Zoundw\u00e9ogo"
@@ -59,17 +59,11 @@
     "name:fin_x_preferred":[
         "Zoundw\u00e9ogo"
     ],
-    "name:fre_x_preferred":[
-        "Zoundw\u00e9ogo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zoundw\u00e9ogo"
     ],
     "name:glg_x_preferred":[
         "Zoundw\u00e9ogo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03bf\u03c5\u03bd\u03c4\u03b2\u03ad\u03bf\u03b3\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0acb\u0aa8\u0acd\u0aa1\u0ab5\u0ac7\u0a93\u0a97\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,11 +95,14 @@
     "name:mar_x_preferred":[
         "\u091d\u0941\u0902\u0921\u0935\u0947\u0913\u0917\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Zoundweogo Province"
     ],
     "name:nan_x_preferred":[
         "Zoundw\u00e9ogo S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Zoundw\u00e9ogo"
     ],
     "name:nob_x_preferred":[
         "Zoundw\u00e9ogo"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "Zoundw\u00e9ogo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zoundw\u00e9ogo"
     ],
     "name:rus_x_preferred":[
@@ -158,6 +155,9 @@
     "name:war_x_preferred":[
         "Zoundw\u00e9ogo"
     ],
+    "name:zho_x_preferred":[
+        "\u5b97\u5fb7\u97cb\u5967\u6208\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":1108693645,
-    "wof:lastmodified":1555047006,
+    "wof:lastmodified":1561833604,
     "wof:name":"Zoundw\u00e9ogo",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

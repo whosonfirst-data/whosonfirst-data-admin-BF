@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09c7\u09a8\u09c7\u09a6\u0997\u09cc \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u51f1\u5167\u675c\u53e4\u7701"
-    ],
     "name:dan_x_preferred":[
         "K\u00e9n\u00e9dougou"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "K\u00e9n\u00e9dougou"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bd\u03ad\u03bd\u03c4\u03bf\u03c5\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "K\u00e9n\u00e9dougou"
@@ -62,17 +62,11 @@
     "name:fin_x_preferred":[
         "K\u00e9n\u00e9dougou"
     ],
-    "name:fre_x_preferred":[
-        "K\u00e9n\u00e9dougou"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "K\u00e9n\u00e9dougou"
     ],
     "name:glg_x_preferred":[
         "K\u00e9n\u00e9dougou"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03ad\u03bd\u03c4\u03bf\u03c5\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0ac7\u0aa1\u0acb\u0a89\u0a97\u0acb\u0a89 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,8 +98,11 @@
     "name:mar_x_preferred":[
         "\u0915\u0947\u0928\u0947\u0926\u094b\u090a \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kenedougou Province"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00e9n\u00e9dougou"
     ],
     "name:nob_x_preferred":[
         "K\u00e9n\u00e9dougou"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "K\u00e9n\u00e9dougou"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "K\u00e9n\u00e9dougou"
     ],
     "name:rus_x_preferred":[
@@ -160,6 +157,9 @@
     ],
     "name:war_x_preferred":[
         "K\u00e9n\u00e9dougou"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u5167\u675c\u53e4\u7701"
     ],
     "qs:name":"Province du K\u00e9n\u00e9dougou",
     "qs:photos_9r":0,
@@ -206,7 +206,7 @@
         }
     ],
     "wof:id":890413171,
-    "wof:lastmodified":1555047003,
+    "wof:lastmodified":1561833612,
     "wof:name":"K\u00e9n\u00e9dougou",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

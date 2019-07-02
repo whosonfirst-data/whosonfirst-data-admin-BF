@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.409038,
-    "geom:area_square_m":4933375306.734349,
+    "geom:area_square_m":4933375306.734355,
     "geom:bbox":"0.247303093763,12.3163028019,1.30480644936,13.0857824532",
     "geom:latitude":12.736448,
     "geom:longitude":0.739811,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Komondjari"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Komondjari"
     ],
     "name:fre_x_variant":[
@@ -66,7 +66,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540172,
+    "wof:lastmodified":1561833588,
     "wof:name":"Komondjari",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

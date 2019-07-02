@@ -14,16 +14,10 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u74e6\u5e0c\u53e4\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Ouahigouya"
     ],
     "name:deu_x_preferred":[
-        "Ouahigouya"
-    ],
-    "name:dut_x_preferred":[
         "Ouahigouya"
     ],
     "name:eng_x_preferred":[
@@ -35,13 +29,7 @@
     "name:fra_x_preferred":[
         "Ouahigouya"
     ],
-    "name:fre_x_preferred":[
-        "Ouahigouya"
-    ],
     "name:frr_x_preferred":[
-        "Ouahigouya"
-    ],
-    "name:ger_x_preferred":[
         "Ouahigouya"
     ],
     "name:heb_x_preferred":[
@@ -65,7 +53,7 @@
     "name:lit_x_preferred":[
         "Uahiguja"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0423\u0430\u0445\u0438\u0433\u0443\u0458\u0430"
     ],
     "name:nan_x_preferred":[
@@ -83,7 +71,7 @@
     "name:por_x_preferred":[
         "Ouahigouya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ouahigouya"
     ],
     "name:rus_x_preferred":[
@@ -264,7 +252,7 @@
         }
     ],
     "wof:id":421168981,
-    "wof:lastmodified":1527716100,
+    "wof:lastmodified":1561833609,
     "wof:name":"Ouahigouya",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

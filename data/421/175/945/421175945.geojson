@@ -20,16 +20,10 @@
     "name:ceb_x_preferred":[
         "Kaya"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Kaya"
     ],
     "name:deu_x_preferred":[
-        "Kaya"
-    ],
-    "name:dut_x_preferred":[
         "Kaya"
     ],
     "name:eng_x_preferred":[
@@ -39,12 +33,6 @@
         "Kaya"
     ],
     "name:fra_x_preferred":[
-        "Kaya"
-    ],
-    "name:fre_x_preferred":[
-        "Kaya"
-    ],
-    "name:ger_x_preferred":[
         "Kaya"
     ],
     "name:hun_x_preferred":[
@@ -81,9 +69,6 @@
         "Kaya"
     ],
     "name:ron_x_preferred":[
-        "Kaya"
-    ],
-    "name:rum_x_preferred":[
         "Kaya"
     ],
     "name:rus_x_preferred":[
@@ -250,7 +235,7 @@
         }
     ],
     "wof:id":421175945,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561833610,
     "wof:name":"Kaya",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

@@ -22,23 +22,14 @@
     "name:deu_x_preferred":[
         "Sindou"
     ],
-    "name:dut_x_preferred":[
-        "Sindou"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03c4\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Sindou"
     ],
     "name:fra_x_preferred":[
         "Sindou"
-    ],
-    "name:fre_x_preferred":[
-        "Sindou"
-    ],
-    "name:ger_x_preferred":[
-        "Sindou"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bd\u03c4\u03bf\u03cd"
     ],
     "name:ita_x_preferred":[
         "Sindou"
@@ -59,9 +50,6 @@
         "Sindou"
     ],
     "name:ron_x_preferred":[
-        "Sindou"
-    ],
-    "name:rum_x_preferred":[
         "Sindou"
     ],
     "name:rus_x_preferred":[
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421174947,
-    "wof:lastmodified":1527716227,
+    "wof:lastmodified":1561833609,
     "wof:name":"Sindou",
     "wof:parent_id":890453947,
     "wof:placetype":"locality",

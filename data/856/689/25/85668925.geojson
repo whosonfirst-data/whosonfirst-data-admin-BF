@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.538868,
-    "geom:area_square_m":6488409881.911674,
+    "geom:area_square_m":6488409881.911669,
     "geom:bbox":"-0.811443651004,12.4666812202,-0.196597458606,13.9226388625",
     "geom:latitude":13.147618,
     "geom:longitude":-0.493009,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Namentenga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Namentenga"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540169,
+    "wof:lastmodified":1561833589,
     "wof:name":"Namentenga",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

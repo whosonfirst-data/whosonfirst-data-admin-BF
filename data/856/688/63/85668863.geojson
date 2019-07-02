@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.516245,
-    "geom:area_square_m":6213677687.533834,
+    "geom:area_square_m":6213677687.533841,
     "geom:bbox":"-3.47678483695,12.786454983,-2.44258439765,13.7170449844",
     "geom:latitude":13.243697,
     "geom:longitude":-3.007304,
@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Sourou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sourou"
     ],
     "qs:a0":"Burkina Faso",
@@ -68,7 +68,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540171,
+    "wof:lastmodified":1561833587,
     "wof:name":"Sourou",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

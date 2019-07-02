@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Bouss\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Bouss\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Bouss\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Bouss\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Bouss\u00e9"
-    ],
-    "name:ger_x_preferred":[
         "Bouss\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -56,9 +47,6 @@
         "Bouss\u00e9"
     ],
     "name:ron_x_preferred":[
-        "Bouss\u00e9"
-    ],
-    "name:rum_x_preferred":[
         "Bouss\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421167673,
-    "wof:lastmodified":1527716154,
+    "wof:lastmodified":1561833609,
     "wof:name":"Bouss\u00e9",
     "wof:parent_id":890453945,
     "wof:placetype":"locality",

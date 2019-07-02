@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.435458,
-    "geom:area_square_m":5262778034.433018,
+    "geom:area_square_m":5262778034.433019,
     "geom:bbox":"-2.92374365914,11.6099376492,-2.2222102517,12.8142052267",
     "geom:latitude":12.203716,
     "geom:longitude":-2.605314,
@@ -28,7 +28,7 @@
     "name:fra_x_preferred":[
         "Sangui\u00e9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sanguie"
     ],
     "name:glg_x_preferred":[
@@ -96,7 +96,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540175,
+    "wof:lastmodified":1561833588,
     "wof:name":"Sangui\u00e9",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

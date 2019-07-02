@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.564024,
-    "geom:area_square_m":6768769343.613783,
+    "geom:area_square_m":6768769343.613784,
     "geom:bbox":"-0.642022467063,13.4965666772,0.499925937232,14.4355445411",
     "geom:latitude":13.941718,
     "geom:longitude":-0.03594,
@@ -19,7 +19,7 @@
     "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Seno"
     ],
     "qs:a0":"Burkina Faso",
@@ -66,7 +66,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540172,
+    "wof:lastmodified":1561833588,
     "wof:name":"S\u00e9no",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

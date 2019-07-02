@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Titao"
     ],
-    "name:dut_x_preferred":[
-        "Titao"
-    ],
     "name:eng_x_preferred":[
         "Titao"
     ],
@@ -32,12 +29,6 @@
         "Titao"
     ],
     "name:fra_x_preferred":[
-        "Titao"
-    ],
-    "name:fre_x_preferred":[
-        "Titao"
-    ],
-    "name:ger_x_preferred":[
         "Titao"
     ],
     "name:ita_x_preferred":[
@@ -59,9 +50,6 @@
         "Titao"
     ],
     "name:ron_x_preferred":[
-        "Titao"
-    ],
-    "name:rum_x_preferred":[
         "Titao"
     ],
     "name:rus_x_preferred":[
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421167929,
-    "wof:lastmodified":1527716162,
+    "wof:lastmodified":1561833609,
     "wof:name":"Titao",
     "wof:parent_id":890453949,
     "wof:placetype":"locality",

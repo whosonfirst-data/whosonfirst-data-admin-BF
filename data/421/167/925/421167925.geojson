@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Toma"
     ],
-    "name:dut_x_preferred":[
-        "Toma"
-    ],
     "name:eng_x_preferred":[
         "Toma"
     ],
     "name:fra_x_preferred":[
-        "Toma"
-    ],
-    "name:fre_x_preferred":[
-        "Toma"
-    ],
-    "name:ger_x_preferred":[
         "Toma"
     ],
     "name:ita_x_preferred":[
@@ -50,9 +41,6 @@
         "Toma"
     ],
     "name:ron_x_preferred":[
-        "Toma"
-    ],
-    "name:rum_x_preferred":[
         "Toma"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421167925,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561833609,
     "wof:name":"Toma",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

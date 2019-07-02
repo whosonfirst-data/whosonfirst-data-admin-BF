@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cc\u0997\u09cc\u09b0\u09bf\u09ac\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u53e4\u91cc\u5df4\u7701"
-    ],
     "name:dan_x_preferred":[
         "Bougouriba Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bougouriba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03b3\u03ba\u03bf\u03c5\u03c1\u03af\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bougouriba"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Bougouriba"
     ],
-    "name:fre_x_preferred":[
-        "Bougouriba"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bougouriba"
     ],
     "name:glg_x_preferred":[
         "Bougouriba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03b3\u03ba\u03bf\u03c5\u03c1\u03af\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a97\u0acb\u0ab0\u0abf\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u092c\u094b\u0917\u094b\u0930\u093f\u092c\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bougouriba Province"
+    ],
+    "name:nld_x_preferred":[
+        "Bougouriba"
     ],
     "name:nob_x_preferred":[
         "Bougouriba"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Bougouriba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bougouriba"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Bougouriba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u53e4\u91cc\u5df4\u7701"
     ],
     "qs:name":"Province de la Bougouriba",
     "qs:photos_9r":0,
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":890428985,
-    "wof:lastmodified":1555047005,
+    "wof:lastmodified":1561833614,
     "wof:name":"Bougouriba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

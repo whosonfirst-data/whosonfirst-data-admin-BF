@@ -23,17 +23,14 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0444\u043e\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u90a6\u798f\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Banfora"
     ],
     "name:deu_x_preferred":[
         "Banfora"
     ],
-    "name:dut_x_preferred":[
-        "Banfora"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c6\u03bf\u03c1\u03ac"
     ],
     "name:eng_x_preferred":[
         "Banfora"
@@ -47,23 +44,11 @@
     "name:fra_x_preferred":[
         "Banfora"
     ],
-    "name:fre_x_preferred":[
-        "Banfora"
-    ],
     "name:frr_x_preferred":[
-        "Banfora"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10e4\u10dd\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Banfora"
     ],
     "name:glg_x_preferred":[
         "Banfora"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03c6\u03bf\u03c1\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0aab\u0acb\u0ab0\u0abe"
@@ -89,6 +74,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ca8\u0ccd\u0cab\u0cca\u0cb0\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10e4\u10dd\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubc29\ud3ec\ub77c"
     ],
@@ -101,10 +89,13 @@
     "name:mar_x_preferred":[
         "\u092c\u0945\u0928\u092b\u0949\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Banfora"
     ],
     "name:nan_x_preferred":[
+        "Banfora"
+    ],
+    "name:nld_x_preferred":[
         "Banfora"
     ],
     "name:nob_x_preferred":[
@@ -116,7 +107,7 @@
     "name:por_x_preferred":[
         "Banfora"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Banfora"
     ],
     "name:rus_x_preferred":[
@@ -306,7 +297,7 @@
         }
     ],
     "wof:id":421199641,
-    "wof:lastmodified":1527716417,
+    "wof:lastmodified":1561833610,
     "wof:name":"Banfora",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.583886,
-    "geom:area_square_m":7076960412.115005,
+    "geom:area_square_m":7076960412.114994,
     "geom:bbox":"0.374779214889,10.9332355766,1.42321547881,11.9180842149",
     "geom:latitude":11.416168,
     "geom:longitude":0.885153,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Kompienga"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kompienga"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540169,
+    "wof:lastmodified":1561833587,
     "wof:name":"Kompienga",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

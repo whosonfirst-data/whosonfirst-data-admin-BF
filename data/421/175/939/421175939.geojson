@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "L\u00e9o"
     ],
-    "name:dut_x_preferred":[
-        "L\u00e9o"
-    ],
     "name:eng_x_preferred":[
         "L\u00e9o"
     ],
@@ -30,12 +27,6 @@
         "L\u00e9o"
     ],
     "name:fra_x_preferred":[
-        "L\u00e9o"
-    ],
-    "name:fre_x_preferred":[
-        "L\u00e9o"
-    ],
-    "name:ger_x_preferred":[
         "L\u00e9o"
     ],
     "name:glg_x_preferred":[
@@ -63,9 +54,6 @@
         "L\u00e9o"
     ],
     "name:ron_x_preferred":[
-        "L\u00e9o"
-    ],
-    "name:rum_x_preferred":[
         "L\u00e9o"
     ],
     "name:rus_x_preferred":[
@@ -223,7 +211,7 @@
         }
     ],
     "wof:id":421175939,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561833610,
     "wof:name":"L\u00e9o",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

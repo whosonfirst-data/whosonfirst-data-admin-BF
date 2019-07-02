@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.411174,
-    "geom:area_square_m":4983834407.981391,
+    "geom:area_square_m":4983834407.981388,
     "geom:bbox":"-0.167710334264,11.0258079614,0.57622358595,11.7851724313",
     "geom:latitude":11.404915,
     "geom:longitude":0.213471,
@@ -33,9 +33,6 @@
     ],
     "name:fre_x_colloquial":[
         "Koulpelogo"
-    ],
-    "name:fre_x_preferred":[
-        "Koulp\u00e9logo"
     ],
     "name:glg_x_preferred":[
         "Koulp\u00e9logo"
@@ -99,7 +96,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540171,
+    "wof:lastmodified":1561833589,
     "wof:name":"Koulp\u00e9logo",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

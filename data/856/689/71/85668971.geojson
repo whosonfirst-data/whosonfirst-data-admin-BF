@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.264751,
-    "geom:area_square_m":3217493227.922958,
+    "geom:area_square_m":3217493227.92297,
     "geom:bbox":"-5.52257808491,10.2913367725,-4.9471860419,11.0484732125",
     "geom:latitude":10.630326,
     "geom:longitude":-5.269812,
@@ -36,9 +36,6 @@
     ],
     "name:fre_x_colloquial":[
         "Leraba"
-    ],
-    "name:fre_x_preferred":[
-        "L\u00e9raba"
     ],
     "name:glg_x_preferred":[
         "L\u00e9raba"
@@ -99,7 +96,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540177,
+    "wof:lastmodified":1561833589,
     "wof:name":"L\u00e9raba",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

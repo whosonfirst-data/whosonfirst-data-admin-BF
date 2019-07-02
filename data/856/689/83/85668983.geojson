@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.720369,
-    "geom:area_square_m":8681497798.177681,
+    "geom:area_square_m":8681497798.177679,
     "geom:bbox":"-0.365966965703,12.2306749541,0.596480746689,13.5782412789",
     "geom:latitude":12.930055,
     "geom:longitude":0.037623,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Gnagna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gnagna"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540172,
+    "wof:lastmodified":1561833589,
     "wof:name":"Gnagna",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

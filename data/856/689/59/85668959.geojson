@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.266928,
-    "geom:area_square_m":3241300081.865071,
+    "geom:area_square_m":3241300081.865063,
     "geom:bbox":"-3.79420732321,10.592583726,-3.05277971012,11.1958543972",
     "geom:latitude":10.878305,
     "geom:longitude":-3.391419,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Bougouriba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bougouriba"
     ],
     "qs:a0":"Burkina Faso",
@@ -63,7 +63,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540173,
+    "wof:lastmodified":1561833588,
     "wof:name":"Bougouriba",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

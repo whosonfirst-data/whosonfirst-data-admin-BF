@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09a8\u09be\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u4e9e\u5c3c\u4e9e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Gnagna Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gnagna"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bd\u03ac\u03b3\u03ba\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gnagna"
@@ -61,17 +61,11 @@
     "name:fin_x_preferred":[
         "Gnagna"
     ],
-    "name:fre_x_preferred":[
-        "Gnagna"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gnagna"
     ],
     "name:glg_x_preferred":[
         "Gnagna"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bd\u03ac\u03b3\u03ba\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0aa8\u0abe\u0a97\u0acd\u0aa8\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0928\u0917\u094d\u0928\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gnagna Province"
+    ],
+    "name:nld_x_preferred":[
+        "Gnagna"
     ],
     "name:nob_x_preferred":[
         "Gnagna"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Gnagna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gnagna"
     ],
     "name:rus_x_preferred":[
@@ -156,6 +153,9 @@
     ],
     "name:war_x_preferred":[
         "Gnagna"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9e\u5c3c\u4e9e\u7701"
     ],
     "qs:name":"Gnagna Province",
     "qs:photos_9r":0,
@@ -204,7 +204,7 @@
         }
     ],
     "wof:id":890428975,
-    "wof:lastmodified":1555047004,
+    "wof:lastmodified":1561833615,
     "wof:name":"Gnagna",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

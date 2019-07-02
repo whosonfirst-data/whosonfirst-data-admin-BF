@@ -42,14 +42,14 @@
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09be\u099f\u09c7\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u96c5\u6ed5\u52a0\u7701"
-    ],
     "name:dan_x_preferred":[
         "Yatenga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yatenga"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03b1\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Yatenga"
@@ -58,20 +58,17 @@
         "Yatenga",
         "Yatenga Province"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06cc\u0627\u062a\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Yatenga"
     ],
-    "name:fre_x_preferred":[
-        "Yatenga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Yatenga"
     ],
     "name:glg_x_preferred":[
         "Yatenga"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0aa4\u0ac7\u0a82\u0a97\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -103,14 +100,14 @@
     "name:mar_x_preferred":[
         "\u092f\u0924\u0947\u0902\u0917\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yatenga Province"
+    ],
+    "name:nld_x_preferred":[
+        "Yatenga"
     ],
     "name:nob_x_preferred":[
         "Yatenga"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06cc\u0627\u062a\u0646\u06af\u0627"
     ],
     "name:pol_x_preferred":[
         "Prowincja Yatenga"
@@ -118,7 +115,7 @@
     "name:por_x_preferred":[
         "Yatenga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yatenga"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +159,9 @@
     ],
     "name:war_x_preferred":[
         "Yatenga"
+    ],
+    "name:zho_x_preferred":[
+        "\u96c5\u6ed5\u52a0\u7701"
     ],
     "qs:name":"Province du Yatenga",
     "qs:photos_9r":0,
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":890421457,
-    "wof:lastmodified":1555047003,
+    "wof:lastmodified":1561833614,
     "wof:name":"Yatenga",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

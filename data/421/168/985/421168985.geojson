@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Gorom-Gorom"
     ],
-    "name:dut_x_preferred":[
-        "Gorom-Gorom"
-    ],
     "name:eng_x_preferred":[
         "Gorom-Gorom"
     ],
@@ -30,12 +27,6 @@
         "Gorom-Gorom"
     ],
     "name:fra_x_preferred":[
-        "Gorom-Gorom"
-    ],
-    "name:fre_x_preferred":[
-        "Gorom-Gorom"
-    ],
-    "name:ger_x_preferred":[
         "Gorom-Gorom"
     ],
     "name:glg_x_preferred":[
@@ -63,9 +54,6 @@
         "Gorom-Gorom"
     ],
     "name:ron_x_preferred":[
-        "Gorom-Gorom"
-    ],
-    "name:rum_x_preferred":[
         "Gorom-Gorom"
     ],
     "name:rus_x_preferred":[
@@ -228,7 +216,7 @@
         }
     ],
     "wof:id":421168985,
-    "wof:lastmodified":1513899655,
+    "wof:lastmodified":1561833609,
     "wof:name":"Gorom-Gorom",
     "wof:parent_id":890413153,
     "wof:placetype":"locality",

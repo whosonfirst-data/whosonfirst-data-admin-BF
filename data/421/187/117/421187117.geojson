@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Djibo"
     ],
-    "name:dut_x_preferred":[
-        "Djibo"
-    ],
     "name:eng_x_preferred":[
         "Djibo"
     ],
@@ -30,12 +27,6 @@
         "Djibo"
     ],
     "name:fra_x_preferred":[
-        "Djibo"
-    ],
-    "name:fre_x_preferred":[
-        "Djibo"
-    ],
-    "name:ger_x_preferred":[
         "Djibo"
     ],
     "name:hun_x_preferred":[
@@ -220,7 +211,7 @@
         }
     ],
     "wof:id":421187117,
-    "wof:lastmodified":1527716248,
+    "wof:lastmodified":1561833609,
     "wof:name":"Djibo",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",

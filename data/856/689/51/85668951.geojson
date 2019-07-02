@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.298709,
-    "geom:area_square_m":3623258875.443329,
+    "geom:area_square_m":3623258875.44333,
     "geom:bbox":"-1.64501034205,10.9662309785,-0.690624151583,11.534800116",
     "geom:latitude":11.198714,
     "geom:longitude":-1.206058,
@@ -22,7 +22,7 @@
     "name:eng_x_preferred":[
         "Nahouri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Naouri"
     ],
     "name:fre_x_variant":[
@@ -66,7 +66,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1529540172,
+    "wof:lastmodified":1561833588,
     "wof:name":"Nahouri",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

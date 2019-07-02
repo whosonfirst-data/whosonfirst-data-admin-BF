@@ -5,7 +5,7 @@
     "edtf:cessation":"2017-01-30",
     "edtf:inception":"uuuu",
     "geom:area":0.388753,
-    "geom:area_square_m":4706904477.764091,
+    "geom:area_square_m":4706904477.764084,
     "geom:bbox":"-3.61269385414,11.2334490022,-2.52487911608,12.0997010359",
     "geom:latitude":11.71136,
     "geom:longitude":-3.07512,
@@ -39,9 +39,6 @@
     ],
     "name:fre_x_colloquial":[
         "Bale"
-    ],
-    "name:fre_x_preferred":[
-        "Bal\u00e9"
     ],
     "name:glg_x_preferred":[
         "Bal\u00e9"
@@ -99,7 +96,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1529540184,
+    "wof:lastmodified":1561833588,
     "wof:name":"Bal\u00e9",
     "wof:parent_id":85632213,
     "wof:placetype":"region",
