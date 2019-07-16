@@ -25,11 +25,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0645\u0627\u0644\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:bre_x_preferred":[
         "Nord"
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 Nord"
+    ],
+    "name:ceb_x_preferred":[
+        "Nord"
     ],
     "name:dan_x_preferred":[
         "Nord"
@@ -40,6 +46,9 @@
     "name:eng_x_preferred":[
         "Nord"
     ],
+    "name:eng_x_variant":[
+        "Nord Region"
+    ],
     "name:eus_x_preferred":[
         "Iparraldeko eskualdea"
     ],
@@ -47,6 +56,9 @@
         "Nord"
     ],
     "name:fra_x_preferred":[
+        "Nord"
+    ],
+    "name:frr_x_preferred":[
         "Nord"
     ],
     "name:glg_x_preferred":[
@@ -64,8 +76,14 @@
     "name:jpn_x_preferred":[
         "\u5317\u90e8\u5730\u65b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubd81\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\ubd80\uc8fc"
     ],
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s regionas"
@@ -153,7 +171,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561833603,
+    "wof:lastmodified":1563272674,
     "wof:name":"Nord",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

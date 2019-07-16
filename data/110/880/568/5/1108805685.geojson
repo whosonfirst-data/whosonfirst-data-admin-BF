@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Est"
     ],
+    "name:ceb_x_preferred":[
+        "Est"
+    ],
     "name:dan_x_preferred":[
         "Est"
     ],
@@ -43,6 +46,9 @@
     "name:eng_x_preferred":[
         "Est"
     ],
+    "name:eng_x_variant":[
+        "Est Region"
+    ],
     "name:eus_x_preferred":[
         "Ekialdeko eskualdea"
     ],
@@ -50,6 +56,9 @@
         "Est"
     ],
     "name:fra_x_preferred":[
+        "Est"
+    ],
+    "name:frr_x_preferred":[
         "Est"
     ],
     "name:glg_x_preferred":[
@@ -67,8 +76,14 @@
     "name:jpn_x_preferred":[
         "\u6771\u90e8\u5730\u65b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ubd80\uc8fc"
     ],
     "name:lit_x_preferred":[
         "Ryt\u0173 regionas"
@@ -156,7 +171,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561833603,
+    "wof:lastmodified":1563272672,
     "wof:name":"Est",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

@@ -55,8 +55,10 @@
         "Sissili"
     ],
     "name:eng_x_variant":[
-        "Sissili",
         "Sissili Province"
+    ],
+    "name:eus_x_preferred":[
+        "Sissili probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0633\u06cc\u0644\u06cc"
@@ -65,6 +67,9 @@
         "Sissili"
     ],
     "name:fra_x_preferred":[
+        "Sissili"
+    ],
+    "name:frr_x_preferred":[
         "Sissili"
     ],
     "name:glg_x_preferred":[
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":890421465,
-    "wof:lastmodified":1561833614,
+    "wof:lastmodified":1563272908,
     "wof:name":"Sissili",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

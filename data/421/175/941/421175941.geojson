@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0434\u0443\u0433\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Koudougou"
+    ],
     "name:ces_x_preferred":[
         "Koudougou"
     ],
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":421175941,
-    "wof:lastmodified":1561833610,
+    "wof:lastmodified":1563272888,
     "wof:name":"Koudougou",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

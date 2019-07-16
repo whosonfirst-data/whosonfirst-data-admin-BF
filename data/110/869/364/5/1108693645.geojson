@@ -39,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09a8\u09cd\u09a1\u09ac\u09c7\u0997\u09cb \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Zoundweogo Province"
+    ],
     "name:dan_x_preferred":[
         "Zoundw\u00e9ogo Province"
     ],
@@ -53,8 +56,10 @@
     ],
     "name:eng_x_variant":[
         "Zoundweogo",
-        "Zoundw\u00e9ogo",
         "Zoundw\u00e9ogo Province"
+    ],
+    "name:eus_x_preferred":[
+        "Zoundw\u00e9ogo probintzia"
     ],
     "name:fin_x_preferred":[
         "Zoundw\u00e9ogo"
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":1108693645,
-    "wof:lastmodified":1561833604,
+    "wof:lastmodified":1563272676,
     "wof:name":"Zoundw\u00e9ogo",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Kongoussi"
     ],
+    "name:frr_x_preferred":[
+        "Kongoussi"
+    ],
     "name:ita_x_preferred":[
         "Kongoussi"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0433\u0443\u0441\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kongoussi"
     ],
     "name:swe_x_preferred":[
         "Kongoussi"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421168141,
-    "wof:lastmodified":1561833609,
+    "wof:lastmodified":1563272878,
     "wof:name":"Kongoussi",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

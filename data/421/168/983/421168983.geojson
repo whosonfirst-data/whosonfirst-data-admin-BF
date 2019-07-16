@@ -32,14 +32,26 @@
     "name:arg_x_preferred":[
         "Ouagadougou"
     ],
+    "name:ast_x_preferred":[
+        "Uagadug\u00fa"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0622\u06af\u0627\u062f\u0648\u06af\u0648"
     ],
     "name:aze_x_preferred":[
         "Uaqaduqu"
     ],
+    "name:bam_x_preferred":[
+        "Wagadugu"
+    ],
+    "name:bcl_x_preferred":[
+        "Ouagadougou"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0430\u0433\u0430\u0434\u0443\u0433\u0443"
+    ],
+    "name:bel_x_variant":[
+        "\u0423\u0430\u0433\u0430\u0434\u0443\u0433\u0443"
     ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u0997\u09be\u09a6\u09c1\u0997\u09c1"
@@ -59,6 +71,15 @@
     "name:cat_x_preferred":[
         "Uagadugu"
     ],
+    "name:cat_x_variant":[
+        "Ouagadougou"
+    ],
+    "name:cdo_x_preferred":[
+        "Ouagadougou"
+    ],
+    "name:ceb_x_preferred":[
+        "Ouagadougou"
+    ],
     "name:ces_x_preferred":[
         "Ouagadougou"
     ],
@@ -70,6 +91,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0648\u0627\u06af\u0627\u062f\u0648\u0648\u06af\u0648\u0648"
+    ],
+    "name:ckb_x_variant":[
+        "\u0626\u06c6\u0626\u0627\u06af\u0627\u062f\u06c6\u06af\u06c6"
     ],
     "name:cor_x_preferred":[
         "Ouagadougou"
@@ -116,7 +140,13 @@
     "name:frp_x_preferred":[
         "Ouagadougou"
     ],
+    "name:frr_x_preferred":[
+        "Ouagadougou"
+    ],
     "name:fry_x_preferred":[
+        "Ouagadougou"
+    ],
+    "name:ful_x_preferred":[
         "Ouagadougou"
     ],
     "name:gla_x_preferred":[
@@ -131,7 +161,13 @@
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0a97\u0aa1\u0ac2\u0a97\u0ac2"
     ],
+    "name:hak_x_preferred":[
+        "Ouagadougou"
+    ],
     "name:hat_x_preferred":[
+        "Ouagadougou"
+    ],
+    "name:hau_x_preferred":[
         "Ouagadougou"
     ],
     "name:heb_x_preferred":[
@@ -188,11 +224,17 @@
     "name:kat_x_preferred":[
         "\u10e3\u10d0\u10d2\u10d0\u10d3\u10e3\u10d2\u10e3"
     ],
+    "name:kbp_x_preferred":[
+        "Wagaadugu"
+    ],
     "name:kin_x_preferred":[
         "Wagadugu"
     ],
     "name:kir_x_preferred":[
         "\u0423\u0430\u0433\u0430\u0434\u0443\u0433\u0443"
+    ],
+    "name:kon_x_preferred":[
+        "Uagadugu"
     ],
     "name:kor_x_preferred":[
         "\uc640\uac00\ub450\uad6c"
@@ -215,6 +257,9 @@
     "name:ltz_x_preferred":[
         "Ouagadougou"
     ],
+    "name:mal_x_preferred":[
+        "\u0d09\u0d17\u0d3e\u0d26\u0d41\u0d17\u0d4c"
+    ],
     "name:mar_x_preferred":[
         "\u0935\u093e\u0917\u093e\u0921\u0941\u0917\u0942"
     ],
@@ -235,6 +280,9 @@
     ],
     "name:nah_x_preferred":[
         "Huagadugu"
+    ],
+    "name:nah_x_variant":[
+        "Uagadugu"
     ],
     "name:nan_x_preferred":[
         "Ouagadougou"
@@ -260,8 +308,14 @@
     "name:oci_x_preferred":[
         "Ouagadougou"
     ],
+    "name:oss_x_preferred":[
+        "\u0423\u0430\u0433\u0430\u0434\u0443\u0433\u0443"
+    ],
     "name:pan_x_preferred":[
         "\u0a35\u0a3e\u0a17\u0a3e\u0a26\u0a41\u0a17\u0a42"
+    ],
+    "name:pap_x_preferred":[
+        "Ouagadougou"
     ],
     "name:pms_x_preferred":[
         "Ouagadougou"
@@ -304,6 +358,9 @@
     ],
     "name:som_x_preferred":[
         "Ougadougou"
+    ],
+    "name:som_x_variant":[
+        "Ouagadougou"
     ],
     "name:spa_x_preferred":[
         "Uagadug\u00fa"
@@ -353,6 +410,9 @@
     "name:urd_x_preferred":[
         "\u0648\u0627\u06af\u0627\u062f\u0648\u06af\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u0627\u06af\u0627\u062f\u0648\u06af\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Uagadugu"
     ],
@@ -370,6 +430,12 @@
     ],
     "name:war_x_preferred":[
         "Ouagadougou"
+    ],
+    "name:wuu_x_preferred":[
+        "\u74e6\u52a0\u675c\u53e4"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10d0\u10d2\u10d0\u10d3\u10e3\u10d2\u10e3"
     ],
     "name:yid_x_preferred":[
         "\u05d5\u05d5\u05d0\u05d2\u05d0\u05d3\u05d5\u05d2\u05d5"
@@ -528,7 +594,7 @@
         }
     ],
     "wof:id":421168983,
-    "wof:lastmodified":1561833608,
+    "wof:lastmodified":1563272877,
     "wof:name":"Ouagadougou",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

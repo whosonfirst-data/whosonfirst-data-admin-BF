@@ -37,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30f3\u30c9\u30a5"
     ],
+    "name:nan_x_preferred":[
+        "Sindou"
+    ],
     "name:nld_x_preferred":[
         "Sindou"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421174947,
-    "wof:lastmodified":1561833609,
+    "wof:lastmodified":1563272884,
     "wof:name":"Sindou",
     "wof:parent_id":890453947,
     "wof:placetype":"locality",

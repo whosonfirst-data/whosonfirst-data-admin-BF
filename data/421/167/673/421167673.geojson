@@ -52,6 +52,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0441\u0441\u0435"
     ],
+    "name:spa_x_preferred":[
+        "Bouss\u00e9"
+    ],
     "name:swe_x_preferred":[
         "Bouss\u00e9"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421167673,
-    "wof:lastmodified":1561833609,
+    "wof:lastmodified":1563272880,
     "wof:name":"Bouss\u00e9",
     "wof:parent_id":890453945,
     "wof:placetype":"locality",

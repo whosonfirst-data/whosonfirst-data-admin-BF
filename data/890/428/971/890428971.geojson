@@ -55,13 +55,18 @@
         "Gourma"
     ],
     "name:eng_x_variant":[
-        "Gourma",
         "Gourma Province"
+    ],
+    "name:eus_x_preferred":[
+        "Gourma probintzia"
     ],
     "name:fin_x_preferred":[
         "Gourma"
     ],
     "name:fra_x_preferred":[
+        "Gourma"
+    ],
+    "name:frr_x_preferred":[
         "Gourma"
     ],
     "name:glg_x_preferred":[
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":890428971,
-    "wof:lastmodified":1561833614,
+    "wof:lastmodified":1563272911,
     "wof:name":"Gourma",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

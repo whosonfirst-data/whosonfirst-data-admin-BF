@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Koup\u00e9la"
     ],
+    "name:frr_x_preferred":[
+        "Koup\u00e9la"
+    ],
     "name:ita_x_preferred":[
         "Koup\u00e9la"
     ],
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":421172881,
-    "wof:lastmodified":1561833610,
+    "wof:lastmodified":1563272886,
     "wof:name":"Koup\u00e9la",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

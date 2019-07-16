@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0628\u0648\u062f\u064a\u0648\u0644\u0627\u0633\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09ac\u09cb \u09a1\u09bf\u0993\u09b2\u09be\u09b8\u09cb"
     ],
@@ -24,6 +27,9 @@
         "Bobo-Dioulasso"
     ],
     "name:cat_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
+    "name:ceb_x_preferred":[
         "Bobo-Dioulasso"
     ],
     "name:ces_x_preferred":[
@@ -44,6 +50,9 @@
     "name:eng_x_preferred":[
         "Bobo-Dioulasso"
     ],
+    "name:eng_x_variant":[
+        "Bobo Dioulasso"
+    ],
     "name:epo_x_preferred":[
         "Bobo Dioulasso"
     ],
@@ -62,8 +71,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0aac\u0acb \u0aa1\u0ac0\u0a89\u0ab2\u0ab8\u0acb"
     ],
+    "name:hau_x_preferred":[
+        "Bobo-Dioulasso"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05d1\u05d5 \u05d3\u05d9\u05d0\u05d5\u05dc\u05d0\u05e1\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d5\u05d1\u05d5-\u05d3\u05d9\u05d0\u05d5\u05dc\u05e1\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u092c\u094b-\u0921\u093f\u0913\u0932\u093e\u0938\u094d\u0938\u094b"
@@ -321,7 +336,7 @@
         }
     ],
     "wof:id":421174633,
-    "wof:lastmodified":1561833609,
+    "wof:lastmodified":1563272883,
     "wof:name":"Bobo-Dioulasso",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

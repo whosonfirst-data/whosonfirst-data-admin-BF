@@ -55,8 +55,10 @@
         "Banwa"
     ],
     "name:eng_x_variant":[
-        "Banwa",
         "Banwa Province"
+    ],
+    "name:eus_x_preferred":[
+        "Banwa probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0646\u0648\u0627"
@@ -65,6 +67,9 @@
         "Banwa"
     ],
     "name:fra_x_preferred":[
+        "Banwa"
+    ],
+    "name:frr_x_preferred":[
         "Banwa"
     ],
     "name:glg_x_preferred":[
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":890416507,
-    "wof:lastmodified":1561833615,
+    "wof:lastmodified":1563272915,
     "wof:name":"Banwa",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

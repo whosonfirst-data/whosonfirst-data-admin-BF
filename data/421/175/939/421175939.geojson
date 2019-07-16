@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "L\u00e9o"
     ],
+    "name:frr_x_preferred":[
+        "L\u00e9o"
+    ],
     "name:glg_x_preferred":[
         "L\u00e9o"
     ],
@@ -68,8 +71,14 @@
     "name:urd_x_preferred":[
         "\u0644\u0626\u0648\u060c \u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u0626\u0648"
+    ],
     "name:war_x_preferred":[
         "L\u00e9o"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u5965"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Burkina Faso",
@@ -211,7 +220,7 @@
         }
     ],
     "wof:id":421175939,
-    "wof:lastmodified":1561833610,
+    "wof:lastmodified":1563272887,
     "wof:name":"L\u00e9o",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

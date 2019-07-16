@@ -38,6 +38,9 @@
     "name:lit_x_preferred":[
         "D\u017eibas"
     ],
+    "name:nan_x_preferred":[
+        "Djibo"
+    ],
     "name:nld_x_preferred":[
         "Djibo"
     ],
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421187117,
-    "wof:lastmodified":1561833609,
+    "wof:lastmodified":1563272885,
     "wof:name":"Djibo",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",
