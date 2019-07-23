@@ -42,6 +42,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09b0\u09bf\u099f\u09c7\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Kouritenga Province"
+    ],
     "name:dan_x_preferred":[
         "Kouritenga Province"
     ],
@@ -55,13 +58,18 @@
         "Kouritenga"
     ],
     "name:eng_x_variant":[
-        "Kouritenga",
         "Kouritenga Province"
+    ],
+    "name:eus_x_preferred":[
+        "Kouritenga probintzia"
     ],
     "name:fin_x_preferred":[
         "Kouritenga"
     ],
     "name:fra_x_preferred":[
+        "Kouritenga"
+    ],
+    "name:frr_x_preferred":[
         "Kouritenga"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +107,9 @@
     ],
     "name:msa_x_preferred":[
         "Kouritenga Province"
+    ],
+    "name:nan_x_preferred":[
+        "Kouritenga S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Kouritenga"
@@ -207,7 +218,7 @@
         }
     ],
     "wof:id":890413163,
-    "wof:lastmodified":1561833612,
+    "wof:lastmodified":1563272903,
     "wof:name":"Kouritenga",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

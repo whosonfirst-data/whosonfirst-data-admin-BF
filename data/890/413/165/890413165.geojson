@@ -55,13 +55,18 @@
         "Kossi"
     ],
     "name:eng_x_variant":[
-        "Kossi",
         "Kossi Province"
+    ],
+    "name:eus_x_preferred":[
+        "Kossi probintzia"
     ],
     "name:fin_x_preferred":[
         "Kossi"
     ],
     "name:fra_x_preferred":[
+        "Kossi"
+    ],
+    "name:frr_x_preferred":[
         "Kossi"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +104,9 @@
     ],
     "name:msa_x_preferred":[
         "Kossi Province"
+    ],
+    "name:nan_x_preferred":[
+        "Kossi S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Kossi"
@@ -205,7 +213,7 @@
         }
     ],
     "wof:id":890413165,
-    "wof:lastmodified":1561833612,
+    "wof:lastmodified":1563272902,
     "wof:name":"Kossi",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

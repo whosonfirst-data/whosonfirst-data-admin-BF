@@ -37,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30bf\u30aa"
     ],
+    "name:nan_x_preferred":[
+        "Titao"
+    ],
     "name:nld_x_preferred":[
         "Titao"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u0442\u0430\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Titao"
     ],
     "name:swe_x_preferred":[
         "Titao"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421167929,
-    "wof:lastmodified":1561833609,
+    "wof:lastmodified":1563272881,
     "wof:name":"Titao",
     "wof:parent_id":890453949,
     "wof:placetype":"locality",

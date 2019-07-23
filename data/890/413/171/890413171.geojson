@@ -56,8 +56,10 @@
     ],
     "name:eng_x_variant":[
         "Kenedougou",
-        "K\u00e9n\u00e9dougou",
         "K\u00e9n\u00e9dougou Province"
+    ],
+    "name:eus_x_preferred":[
+        "K\u00e9n\u00e9dougou probintzia"
     ],
     "name:fin_x_preferred":[
         "K\u00e9n\u00e9dougou"
@@ -100,6 +102,9 @@
     ],
     "name:msa_x_preferred":[
         "Kenedougou Province"
+    ],
+    "name:nan_x_preferred":[
+        "K\u00e9n\u00e9dougou S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "K\u00e9n\u00e9dougou"
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":890413171,
-    "wof:lastmodified":1561833612,
+    "wof:lastmodified":1563272904,
     "wof:name":"K\u00e9n\u00e9dougou",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

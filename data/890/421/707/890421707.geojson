@@ -56,13 +56,18 @@
     ],
     "name:eng_x_variant":[
         "Koulpelogo",
-        "Koulp\u00e9logo",
         "Koulp\u00e9logo Province"
+    ],
+    "name:eus_x_preferred":[
+        "Koulp\u00e9logo probintzia"
     ],
     "name:fin_x_preferred":[
         "Koulp\u00e9logo"
     ],
     "name:fra_x_preferred":[
+        "Koulp\u00e9logo"
+    ],
+    "name:frr_x_preferred":[
         "Koulp\u00e9logo"
     ],
     "name:glg_x_preferred":[
@@ -209,7 +214,7 @@
         }
     ],
     "wof:id":890421707,
-    "wof:lastmodified":1561833613,
+    "wof:lastmodified":1563272908,
     "wof:name":"Koulp\u00e9logo",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

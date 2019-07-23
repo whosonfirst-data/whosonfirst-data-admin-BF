@@ -55,13 +55,18 @@
         "Sourou"
     ],
     "name:eng_x_variant":[
-        "Sourou",
         "Sourou Province"
+    ],
+    "name:eus_x_preferred":[
+        "Sourou probintzia"
     ],
     "name:fin_x_preferred":[
         "Sourou"
     ],
     "name:fra_x_preferred":[
+        "Sourou"
+    ],
+    "name:frr_x_preferred":[
         "Sourou"
     ],
     "name:glg_x_preferred":[
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":890421461,
-    "wof:lastmodified":1561833614,
+    "wof:lastmodified":1563272909,
     "wof:name":"Sourou",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

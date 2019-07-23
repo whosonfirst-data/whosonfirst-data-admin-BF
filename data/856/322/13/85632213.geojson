@@ -146,6 +146,9 @@
     "name:che_x_preferred":[
         "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
     ],
+    "name:che_x_variant":[
+        "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e"
+    ],
     "name:chr_x_preferred":[
         "\u13cb\u13a9\u13be \u13e9\u13d0"
     ],
@@ -241,6 +244,9 @@
     ],
     "name:fry_x_preferred":[
         "Boerkina Faso"
+    ],
+    "name:fry_x_variant":[
+        "B\u00fbrkina Faso"
     ],
     "name:ful_x_preferred":[
         "Burkina Faso"
@@ -378,6 +384,9 @@
     "name:kaz_x_preferred":[
         "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e"
     ],
+    "name:kaz_x_variant":[
+        "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
+    ],
     "name:kbp_x_preferred":[
         "Purkina Fasoo"
     ],
@@ -395,6 +404,9 @@
     ],
     "name:kir_x_preferred":[
         "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
+    ],
+    "name:kir_x_variant":[
+        "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e"
     ],
     "name:kon_x_preferred":[
         "Burkina Faso"
@@ -427,8 +439,14 @@
     "name:lav_x_preferred":[
         "Burkinafaso"
     ],
+    "name:lfn_x_preferred":[
+        "Burcina Faso"
+    ],
     "name:lij_x_preferred":[
         "Borkinn-a F\u00e4so"
+    ],
+    "name:lij_x_variant":[
+        "B\u00f2rkinn-a F\u00e4so"
     ],
     "name:lim_x_preferred":[
         "Burkina Faso"
@@ -758,6 +776,9 @@
     "name:tuk_x_preferred":[
         "Burkina-Faso"
     ],
+    "name:tuk_x_variant":[
+        "Burkina Faso"
+    ],
     "name:tur_x_preferred":[
         "Burkina Faso"
     ],
@@ -832,6 +853,9 @@
         "\u5e03\u57fa\u7d0d\u6cd5\u7d22"
     ],
     "name:zea_x_preferred":[
+        "Burkina Faso"
+    ],
+    "name:zha_x_preferred":[
         "Burkina Faso"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -998,7 +1022,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561833589,
+    "wof:lastmodified":1563272124,
     "wof:name":"Burkina Faso",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

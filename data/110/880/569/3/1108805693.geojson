@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0648\u0633\u0637"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:bre_x_preferred":[
         "Centre"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 Centre"
+    ],
+    "name:ceb_x_preferred":[
+        "Centre"
     ],
     "name:dan_x_preferred":[
         "Centre"
@@ -52,6 +61,9 @@
     "name:fra_x_preferred":[
         "Centre"
     ],
+    "name:frr_x_preferred":[
+        "Centre"
+    ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n Centro"
     ],
@@ -67,8 +79,14 @@
     "name:jpn_x_preferred":[
         "\u4e2d\u90e8\u5730\u65b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\ubd80\uc8fc"
     ],
     "name:lit_x_preferred":[
         "Centrinis regionas"
@@ -156,7 +174,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561833602,
+    "wof:lastmodified":1563272668,
     "wof:name":"Centre",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

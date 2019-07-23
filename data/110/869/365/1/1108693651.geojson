@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u0633\u0648\u0631\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041f\u0430\u0441\u0430\u0440\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09af\u09be\u09b8\u09c7\u09b0\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -53,13 +56,18 @@
     ],
     "name:eng_x_variant":[
         "Passore",
-        "Passor\u00e9",
         "Passor\u00e9 Province"
+    ],
+    "name:eus_x_preferred":[
+        "Passor\u00e9 probintzia"
     ],
     "name:fin_x_preferred":[
         "Passor\u00e9"
     ],
     "name:fra_x_preferred":[
+        "Passor\u00e9"
+    ],
+    "name:frr_x_preferred":[
         "Passor\u00e9"
     ],
     "name:glg_x_preferred":[
@@ -97,6 +105,9 @@
     ],
     "name:msa_x_preferred":[
         "Passore Province"
+    ],
+    "name:nan_x_preferred":[
+        "Passor\u00e9 S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Passor\u00e9"
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1108693651,
-    "wof:lastmodified":1561833603,
+    "wof:lastmodified":1563272675,
     "wof:name":"Passor\u00e9",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

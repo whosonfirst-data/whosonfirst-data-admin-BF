@@ -55,8 +55,10 @@
         "Bam"
     ],
     "name:eng_x_variant":[
-        "Bam",
         "Bam Province"
+    ],
+    "name:eus_x_preferred":[
+        "Bam probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0645"
@@ -65,6 +67,9 @@
         "Bam"
     ],
     "name:fra_x_preferred":[
+        "Bam"
+    ],
+    "name:frr_x_preferred":[
         "Bam"
     ],
     "name:glg_x_preferred":[
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":890428989,
-    "wof:lastmodified":1561833615,
+    "wof:lastmodified":1563272913,
     "wof:name":"Bam",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

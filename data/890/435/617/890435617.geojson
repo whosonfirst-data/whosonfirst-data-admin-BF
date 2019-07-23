@@ -56,13 +56,18 @@
     ],
     "name:eng_x_variant":[
         "Komonjdjari",
-        "Komandjoari",
         "Komondjari Province"
+    ],
+    "name:eus_x_preferred":[
+        "Komondjari probintzia"
     ],
     "name:fin_x_preferred":[
         "Komondjari"
     ],
     "name:fra_x_preferred":[
+        "Komondjari"
+    ],
+    "name:frr_x_preferred":[
         "Komondjari"
     ],
     "name:glg_x_preferred":[
@@ -100,6 +105,9 @@
     ],
     "name:msa_x_preferred":[
         "Komondjari Province"
+    ],
+    "name:nan_x_preferred":[
+        "Komondjari S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Komondjari"
@@ -206,7 +214,7 @@
         }
     ],
     "wof:id":890435617,
-    "wof:lastmodified":1561833615,
+    "wof:lastmodified":1563272916,
     "wof:name":"Komandjoari",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

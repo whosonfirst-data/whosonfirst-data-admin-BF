@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Tenkodogo"
     ],
+    "name:frr_x_preferred":[
+        "Tenkodogo"
+    ],
     "name:ind_x_preferred":[
         "Tenkodogo"
     ],
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":421178221,
-    "wof:lastmodified":1561833610,
+    "wof:lastmodified":1563272894,
     "wof:name":"Tenkodogo",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u09cd\u0997\u09cb"
     ],
+    "name:cat_x_preferred":[
+        "Boulgou"
+    ],
     "name:dan_x_preferred":[
         "Boulgou"
     ],
@@ -51,6 +54,9 @@
     "name:eng_x_preferred":[
         "Boulgou"
     ],
+    "name:eus_x_preferred":[
+        "Boulgou probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0644\u06af\u0648"
     ],
@@ -58,6 +64,9 @@
         "Boulgou"
     ],
     "name:fra_x_preferred":[
+        "Boulgou"
+    ],
+    "name:frr_x_preferred":[
         "Boulgou"
     ],
     "name:glg_x_preferred":[
@@ -201,7 +210,7 @@
         }
     ],
     "wof:id":890428983,
-    "wof:lastmodified":1561833614,
+    "wof:lastmodified":1563272910,
     "wof:name":"Boulgou",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

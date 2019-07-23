@@ -58,13 +58,18 @@
         "Tuy"
     ],
     "name:eng_x_variant":[
-        "Tuy",
         "Tuy Province"
+    ],
+    "name:eus_x_preferred":[
+        "Tuy probintzia"
     ],
     "name:fin_x_preferred":[
         "Tuy"
     ],
     "name:fra_x_preferred":[
+        "Tuy"
+    ],
+    "name:frr_x_preferred":[
         "Tuy"
     ],
     "name:glg_x_preferred":[
@@ -211,7 +216,7 @@
         }
     ],
     "wof:id":890422527,
-    "wof:lastmodified":1561833611,
+    "wof:lastmodified":1563272896,
     "wof:name":"Tuy",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

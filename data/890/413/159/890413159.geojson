@@ -42,6 +42,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b9\u09cc\u09b0\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Nahouri Province"
+    ],
     "name:dan_x_preferred":[
         "Nahouri"
     ],
@@ -56,12 +59,18 @@
     ],
     "name:eng_x_variant":[
         "Nahouri",
-        "Nahouri"
+        "Nahouri Province"
+    ],
+    "name:eus_x_preferred":[
+        "Nahouri probintzia"
     ],
     "name:fin_x_preferred":[
         "Nahouri"
     ],
     "name:fra_x_preferred":[
+        "Nahouri"
+    ],
+    "name:frr_x_preferred":[
         "Nahouri"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +108,9 @@
     ],
     "name:msa_x_preferred":[
         "Nahouri Province"
+    ],
+    "name:nan_x_preferred":[
+        "Nahouri S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Nahouri"
@@ -207,7 +219,7 @@
         }
     ],
     "wof:id":890413159,
-    "wof:lastmodified":1561833611,
+    "wof:lastmodified":1563272898,
     "wof:name":"Nahouri",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

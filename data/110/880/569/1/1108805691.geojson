@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 Plateau-Central"
     ],
+    "name:ceb_x_preferred":[
+        "Plateau-Central"
+    ],
     "name:dan_x_preferred":[
         "Plateau-Central"
     ],
@@ -43,6 +46,9 @@
     "name:eng_x_preferred":[
         "Plateau Central"
     ],
+    "name:eng_x_variant":[
+        "Plateau-Central Region"
+    ],
     "name:eus_x_preferred":[
         "Plateau-Central eskualdea"
     ],
@@ -50,6 +56,9 @@
         "Plateau-Central"
     ],
     "name:fra_x_preferred":[
+        "Plateau-Central"
+    ],
+    "name:frr_x_preferred":[
         "Plateau-Central"
     ],
     "name:glg_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u4e2d\u592e\u5927\u5730\u5730\u65b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10de\u10da\u10d0\u10e2\u10dd\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub77c\ud1a0\uc0c1\ud2b8\ub784 \uc8fc"
@@ -156,7 +168,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561833602,
+    "wof:lastmodified":1563272667,
     "wof:name":"Plateau Central",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

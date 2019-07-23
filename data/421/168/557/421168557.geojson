@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Sapouy"
     ],
+    "name:frr_x_preferred":[
+        "Sapouy"
+    ],
     "name:ita_x_preferred":[
         "Sapouy"
     ],
@@ -51,6 +54,9 @@
         "Sapouy"
     ],
     "name:ron_x_preferred":[
+        "Sapouy"
+    ],
+    "name:spa_x_preferred":[
         "Sapouy"
     ],
     "name:swe_x_preferred":[
@@ -205,7 +211,7 @@
         }
     ],
     "wof:id":421168557,
-    "wof:lastmodified":1561833608,
+    "wof:lastmodified":1563272875,
     "wof:name":"Sapoui",
     "wof:parent_id":890422531,
     "wof:placetype":"locality",

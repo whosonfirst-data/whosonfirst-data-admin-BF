@@ -55,13 +55,18 @@
         "Tapoa"
     ],
     "name:eng_x_variant":[
-        "Tapoa",
         "Tapoa Province"
+    ],
+    "name:eus_x_preferred":[
+        "Tapoa probintzia"
     ],
     "name:fin_x_preferred":[
         "Tapoa"
     ],
     "name:fra_x_preferred":[
+        "Tapoa"
+    ],
+    "name:frr_x_preferred":[
         "Tapoa"
     ],
     "name:glg_x_preferred":[
@@ -208,7 +213,7 @@
         }
     ],
     "wof:id":890421459,
-    "wof:lastmodified":1561833614,
+    "wof:lastmodified":1563272910,
     "wof:name":"Tapoa",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0645\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u043c\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Boromo"
     ],
     "name:deu_x_preferred":[
         "Boromo"
@@ -29,6 +35,9 @@
         "Boromo"
     ],
     "name:fra_x_preferred":[
+        "Boromo"
+    ],
+    "name:frr_x_preferred":[
         "Boromo"
     ],
     "name:hun_x_preferred":[
@@ -60,6 +69,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043e\u043c\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Boromo"
     ],
     "name:swe_x_preferred":[
         "Boromo"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":421176623,
-    "wof:lastmodified":1561833610,
+    "wof:lastmodified":1563272895,
     "wof:name":"Boromo",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

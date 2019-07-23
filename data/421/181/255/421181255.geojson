@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0628\u0648\u063a\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Di\u00e9bougou"
+    ],
     "name:deu_x_preferred":[
         "Di\u00e9bougou"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":421181255,
-    "wof:lastmodified":1561833610,
+    "wof:lastmodified":1563272886,
     "wof:name":"Di\u00e9bougou",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",
