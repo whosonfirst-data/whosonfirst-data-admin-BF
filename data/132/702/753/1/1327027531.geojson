@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pore"
+    ],
+    "name:dan_x_preferred":[
+        "Pore"
+    ],
+    "name:fra_x_preferred":[
+        "Pore"
+    ],
+    "name:ido_x_preferred":[
+        "Poro"
+    ],
+    "name:swe_x_preferred":[
+        "Pore"
+    ],
     "name:und_x_variant":[
         "Pour\u00e9",
         "Por\u00e9"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1327027531,
-    "wof:lastmodified":1537587135,
+    "wof:lastmodified":1564173184,
     "wof:name":"Pore",
     "wof:parent_id":890422531,
     "wof:placetype":"locality",

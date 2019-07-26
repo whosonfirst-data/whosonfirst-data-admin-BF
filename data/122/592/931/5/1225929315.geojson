@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bal\u00e8mba"
+    ],
+    "name:fra_x_preferred":[
+        "Balemba"
+    ],
+    "name:swe_x_preferred":[
+        "Bal\u00e8mba"
+    ],
     "name:und_x_variant":[
         "Bal\u00e8mba"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1225929315,
-    "wof:lastmodified":1537587221,
+    "wof:lastmodified":1564174488,
     "wof:name":"Balemba",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

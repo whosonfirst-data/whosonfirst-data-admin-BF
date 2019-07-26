@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karfigu\u00e9la"
+    ],
+    "name:fra_x_preferred":[
+        "Karfiguela"
+    ],
+    "name:swe_x_preferred":[
+        "Karfigu\u00e9la"
+    ],
     "name:und_x_variant":[
         "Karfigu\u00e9la"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343462005,
-    "wof:lastmodified":1537587179,
+    "wof:lastmodified":1564173315,
     "wof:name":"Karfiguela",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

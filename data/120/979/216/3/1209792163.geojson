@@ -25,11 +25,26 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bouss\u00e9ra"
+    ],
+    "name:fra_x_preferred":[
+        "Bouss\u00e9ra"
+    ],
+    "name:ita_x_preferred":[
+        "Boussera"
+    ],
+    "name:spa_x_preferred":[
+        "Bouss\u00e9ra"
+    ],
     "name:und_x_variant":[
         "Bouss\u00e9ra",
         "Busso",
         "Bousso",
         "Bous\u00e9ra"
+    ],
+    "name:vie_x_preferred":[
+        "Boussera"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209792163,
-    "wof:lastmodified":1537587207,
+    "wof:lastmodified":1564173783,
     "wof:name":"Bousera",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0647\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Koho"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0647\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Koho"
+    ],
+    "name:swe_x_preferred":[
+        "Koho"
+    ],
     "name:und_x_variant":[
         "Koko",
         "Koho"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327435583,
-    "wof:lastmodified":1537587174,
+    "wof:lastmodified":1564173245,
     "wof:name":"Koho",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

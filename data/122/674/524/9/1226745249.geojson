@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0633\u0648\u0644\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Nassoulou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0633\u0648\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Nassoulou"
+    ],
+    "name:swe_x_preferred":[
+        "Nassoulou"
+    ],
     "name:und_x_variant":[
         "Nassolon"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226745249,
-    "wof:lastmodified":1537587151,
+    "wof:lastmodified":1564174513,
     "wof:name":"Nassoulou",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

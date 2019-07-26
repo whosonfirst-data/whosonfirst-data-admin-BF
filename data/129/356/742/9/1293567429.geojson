@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tanwaka"
+    ],
+    "name:swe_x_preferred":[
+        "Tanwaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293567429,
-    "wof:lastmodified":1537487598,
+    "wof:lastmodified":1564173517,
     "wof:name":"Tanwaka",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Papala"
+    ],
+    "name:swe_x_preferred":[
+        "Papala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1225867205,
-    "wof:lastmodified":1536982087,
+    "wof:lastmodified":1564174558,
     "wof:name":"Papala",
     "wof:parent_id":890421459,
     "wof:placetype":"locality",

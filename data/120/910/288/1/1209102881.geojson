@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Touna"
+    ],
+    "name:fra_x_preferred":[
+        "Touna"
+    ],
+    "name:ita_x_preferred":[
+        "Touna"
+    ],
+    "name:nld_x_preferred":[
+        "Touna"
+    ],
+    "name:spa_x_preferred":[
+        "Touna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -34,7 +49,7 @@
         "gn:id":2354115
     },
     "wof:country":"BF",
-    "wof:geomhash":"28e82d1081d5a58b8420538136294302",
+    "wof:geomhash":"42acf07c69c86c003e0dbbcbe5ad1285",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209102881,
-    "wof:lastmodified":1536297676,
+    "wof:lastmodified":1564173877,
     "wof:name":"Touna",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -52,9 +67,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.6333300000000001,
+    0.63333,
     12.03333,
-    0.6333300000000001,
+    0.63333,
     12.03333
 ],
   "geometry": {"coordinates":[0.63333,12.03333],"type":"Point"}

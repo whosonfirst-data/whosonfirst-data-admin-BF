@@ -26,8 +26,26 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Thion"
+    ],
+    "name:fra_x_preferred":[
+        "Thion"
+    ],
+    "name:ita_x_preferred":[
+        "Thion"
+    ],
+    "name:por_x_preferred":[
+        "Thion"
+    ],
+    "name:spa_x_preferred":[
+        "Thion"
+    ],
     "name:und_x_variant":[
         "Tion",
+        "Thion"
+    ],
+    "name:vie_x_preferred":[
         "Thion"
     ],
     "src:geom":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343948771,
-    "wof:lastmodified":1537587107,
+    "wof:lastmodified":1564173371,
     "wof:name":"Thion",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

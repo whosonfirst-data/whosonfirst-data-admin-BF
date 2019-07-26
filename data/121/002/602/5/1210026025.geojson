@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0627\u06a9\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Wako"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0627\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ouako"
+    ],
     "name:und_x_variant":[
         "Ouako",
         "Wako"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1210026025,
-    "wof:lastmodified":1537587099,
+    "wof:lastmodified":1564173901,
     "wof:name":"Wako",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

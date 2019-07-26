@@ -27,6 +27,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Pissi"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Pissi"
+    ],
     "name:und_x_variant":[
         "Pinsi",
         "Pissi"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1343482435,
-    "wof:lastmodified":1537587136,
+    "wof:lastmodified":1564173320,
     "wof:name":"Pissi",
     "wof:parent_id":1108693645,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saterna"
+    ],
+    "name:fra_x_preferred":[
+        "Saterna"
+    ],
+    "name:swe_x_preferred":[
+        "Saterna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1326638955,
-    "wof:lastmodified":1537487605,
+    "wof:lastmodified":1564173228,
     "wof:name":"Saterna",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

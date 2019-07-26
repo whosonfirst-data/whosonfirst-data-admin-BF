@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lingu\u00e9koro"
+    ],
+    "name:fra_x_preferred":[
+        "Linguekoro"
+    ],
+    "name:swe_x_preferred":[
+        "Lingu\u00e9koro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259477819,
-    "wof:lastmodified":1536865668,
+    "wof:lastmodified":1564174422,
     "wof:name":"Linguekoro",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

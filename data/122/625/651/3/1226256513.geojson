@@ -26,12 +26,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Djibasso"
+    ],
     "name:eng_x_preferred":[
         "Djibasso Department"
+    ],
+    "name:fra_x_preferred":[
+        "Djibasso"
+    ],
+    "name:ita_x_preferred":[
+        "Djibasso"
+    ],
+    "name:spa_x_preferred":[
+        "Djibasso"
     ],
     "name:und_x_variant":[
         "Zoubakui",
         "Jibasso",
+        "Djibasso"
+    ],
+    "name:vie_x_preferred":[
         "Djibasso"
     ],
     "src:geom":"geonames",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1226256513,
-    "wof:lastmodified":1537587198,
+    "wof:lastmodified":1564174568,
     "wof:name":"Djibasso",
     "wof:parent_id":890413165,
     "wof:placetype":"locality",

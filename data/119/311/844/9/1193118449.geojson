@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nyoro"
+    ],
+    "name:fra_x_preferred":[
+        "Nyoro"
+    ],
     "name:und_x_variant":[
         "Nioniogo",
         "Nyoro",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1193118449,
-    "wof:lastmodified":1537587145,
+    "wof:lastmodified":1564173938,
     "wof:name":"Nyoro",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

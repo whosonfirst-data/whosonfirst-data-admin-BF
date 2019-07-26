@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0633\u0648\u0642\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Boussougou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u0648\u06af\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Boussougou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1243062357,
-    "wof:lastmodified":1537487646,
+    "wof:lastmodified":1564174239,
     "wof:name":"Boussougou",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

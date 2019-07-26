@@ -26,6 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Absouya"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0628\u0633\u0648\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Absouya"
+    ],
+    "name:ita_x_preferred":[
+        "Absouya"
+    ],
+    "name:spa_x_preferred":[
+        "Absouya"
+    ],
+    "name:vie_x_preferred":[
+        "Absouya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1226730941,
-    "wof:lastmodified":1537487655,
+    "wof:lastmodified":1564174516,
     "wof:name":"Absouya",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0633\u064a\u0646"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10e1\u10d4\u10dc\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Dossen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1344157495,
-    "wof:lastmodified":1536735661,
+    "wof:lastmodified":1564173300,
     "wof:name":"Dossen",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

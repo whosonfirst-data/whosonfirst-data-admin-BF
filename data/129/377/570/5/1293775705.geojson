@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ouayalgui"
+    ],
+    "name:swe_x_preferred":[
+        "Ouayalgui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293775705,
-    "wof:lastmodified":1536867445,
+    "wof:lastmodified":1564173470,
     "wof:name":"Ouayalgui",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0631\u0642\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u06af\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Sourgou"
+    ],
     "name:und_x_variant":[
         "Surgu",
         "Sourgou"
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209103485,
-    "wof:lastmodified":1537587117,
+    "wof:lastmodified":1564173877,
     "wof:name":"Sourgou",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u06cc\u062f\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Widi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062f\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Widi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1327330669,
-    "wof:lastmodified":1537487593,
+    "wof:lastmodified":1564173191,
     "wof:name":"Widi",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

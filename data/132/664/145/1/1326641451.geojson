@@ -26,6 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Koubri"
+    ],
+    "name:fra_x_preferred":[
+        "Koubri"
+    ],
+    "name:ita_x_preferred":[
+        "Koubri"
+    ],
+    "name:por_x_preferred":[
+        "Koubri"
+    ],
+    "name:spa_x_preferred":[
+        "Koubri"
+    ],
+    "name:vie_x_preferred":[
+        "Koubri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1326641451,
-    "wof:lastmodified":1537487656,
+    "wof:lastmodified":1564173224,
     "wof:name":"Koubri",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

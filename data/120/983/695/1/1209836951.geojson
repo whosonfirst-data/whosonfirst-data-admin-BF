@@ -26,9 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti\u00e9b\u00e9l\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Ti\u00e9b\u00e9l\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Ti\u00e9b\u00e9l\u00e9"
+    ],
     "name:und_x_variant":[
         "Ti\u00e9b\u00e9l\u00e9 Corabie",
         "Ti\u00e9bl\u00e9",
+        "Ti\u00e9b\u00e9l\u00e9"
+    ],
+    "name:vie_x_preferred":[
         "Ti\u00e9b\u00e9l\u00e9"
     ],
     "src:geom":"geonames",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1209836951,
-    "wof:lastmodified":1537587106,
+    "wof:lastmodified":1564173778,
     "wof:name":"Tiebele",
     "wof:parent_id":890413159,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sid\u00e9radougou"
+    ],
+    "name:fra_x_preferred":[
+        "Sid\u00e9radougou"
+    ],
+    "name:swe_x_preferred":[
+        "Sid\u00e9radougou"
+    ],
     "name:und_x_variant":[
         "Siradougou",
         "Sid\u00e9radougou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243080429,
-    "wof:lastmodified":1537587124,
+    "wof:lastmodified":1564174238,
     "wof:name":"Sideradougou",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

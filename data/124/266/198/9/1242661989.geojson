@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Koti"
+    ],
+    "name:fra_x_preferred":[
+        "Koti"
+    ],
+    "name:ita_x_preferred":[
+        "Koti"
+    ],
+    "name:spa_x_preferred":[
+        "Koti"
+    ],
+    "name:vie_x_preferred":[
+        "Koti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1242661989,
-    "wof:lastmodified":1537487627,
+    "wof:lastmodified":1564174267,
     "wof:name":"Koti",
     "wof:parent_id":890422527,
     "wof:placetype":"locality",

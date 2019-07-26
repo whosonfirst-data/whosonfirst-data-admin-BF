@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hoko"
+    ],
+    "name:epo_x_preferred":[
+        "Hoko"
+    ],
+    "name:ido_x_preferred":[
+        "Hoko"
+    ],
+    "name:spa_x_preferred":[
+        "Hoko"
+    ],
+    "name:swe_x_preferred":[
+        "Hoko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1326806727,
-    "wof:lastmodified":1537082442,
+    "wof:lastmodified":1564173123,
     "wof:name":"Hoko",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",

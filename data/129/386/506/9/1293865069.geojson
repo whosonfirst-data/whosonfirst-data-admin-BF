@@ -26,9 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dap\u00e9logo"
+    ],
+    "name:fra_x_preferred":[
+        "Dap\u00e9logo"
+    ],
+    "name:ita_x_preferred":[
+        "Dap\u00e9logo"
+    ],
+    "name:spa_x_preferred":[
+        "Dap\u00e9logo"
+    ],
     "name:und_x_variant":[
         "Dap\u00e9lgo",
         "Dapelgho",
+        "Dap\u00e9logo"
+    ],
+    "name:vie_x_preferred":[
         "Dap\u00e9logo"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293865069,
-    "wof:lastmodified":1537587203,
+    "wof:lastmodified":1564173582,
     "wof:name":"Dapelogo",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

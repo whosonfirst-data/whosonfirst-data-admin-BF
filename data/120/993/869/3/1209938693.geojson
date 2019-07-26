@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Soa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209938693,
-    "wof:lastmodified":1536389460,
+    "wof:lastmodified":1564173824,
     "wof:name":"Soa",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

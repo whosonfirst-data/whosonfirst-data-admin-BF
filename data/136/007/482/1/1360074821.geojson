@@ -26,8 +26,41 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doro"
+    ],
+    "name:dan_x_preferred":[
+        "Doro"
+    ],
+    "name:deu_x_preferred":[
+        "Doro"
+    ],
+    "name:fra_x_preferred":[
+        "Doro"
+    ],
+    "name:ita_x_preferred":[
+        "Doro"
+    ],
+    "name:nld_x_preferred":[
+        "Doro"
+    ],
+    "name:por_x_preferred":[
+        "Doro"
+    ],
+    "name:sco_x_preferred":[
+        "Doro"
+    ],
+    "name:spa_x_preferred":[
+        "Doro"
+    ],
+    "name:swe_x_preferred":[
+        "Doro"
+    ],
     "name:und_x_variant":[
         "Daro",
+        "Doro"
+    ],
+    "name:uzb_x_preferred":[
         "Doro"
     ],
     "src:geom":"geonames",
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1360074821,
-    "wof:lastmodified":1537587197,
+    "wof:lastmodified":1564174116,
     "wof:name":"Doro",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

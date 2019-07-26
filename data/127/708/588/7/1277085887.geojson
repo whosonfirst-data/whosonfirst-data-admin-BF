@@ -26,6 +26,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zongo"
+    ],
+    "name:deu_x_preferred":[
+        "Zongo"
+    ],
+    "name:fra_x_preferred":[
+        "Zongo"
+    ],
+    "name:ita_x_preferred":[
+        "Zongo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Zongo"
+    ],
+    "name:swe_x_preferred":[
+        "Zongo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1277085887,
-    "wof:lastmodified":1536763339,
+    "wof:lastmodified":1564173594,
     "wof:name":"Zongo",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

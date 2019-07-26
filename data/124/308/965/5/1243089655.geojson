@@ -27,6 +27,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Balo"
+    ],
+    "name:fra_x_preferred":[
+        "Balo"
+    ],
+    "name:swe_x_preferred":[
+        "Balo"
+    ],
     "name:und_x_variant":[
         "B\u00e9lo",
         "Balo"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243089655,
-    "wof:lastmodified":1537587220,
+    "wof:lastmodified":1564174236,
     "wof:name":"Balo",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

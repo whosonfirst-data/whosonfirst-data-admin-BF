@@ -26,12 +26,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Seytenga"
+    ],
+    "name:fra_x_preferred":[
+        "Seytenga"
+    ],
+    "name:ita_x_preferred":[
+        "Seytenga"
+    ],
+    "name:spa_x_preferred":[
+        "Seytenga"
+    ],
     "name:und_x_variant":[
         "Seytanga",
         "Sothonga",
         "Sathonga",
         "Seytenga",
         "Sitenga"
+    ],
+    "name:vie_x_preferred":[
+        "Seytenga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1277053167,
-    "wof:lastmodified":1537587121,
+    "wof:lastmodified":1564173667,
     "wof:name":"Sitenga",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

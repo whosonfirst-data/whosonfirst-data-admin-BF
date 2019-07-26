@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Safia"
+    ],
+    "name:fra_x_preferred":[
+        "Safia"
+    ],
+    "name:swe_x_preferred":[
+        "Safia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0641\u06cc\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1259786739,
-    "wof:lastmodified":1537487608,
+    "wof:lastmodified":1564174416,
     "wof:name":"Safia",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",

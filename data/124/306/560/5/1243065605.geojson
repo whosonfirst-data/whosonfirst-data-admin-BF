@@ -25,10 +25,25 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Niabouri"
+    ],
+    "name:fra_x_preferred":[
+        "Niabouri"
+    ],
+    "name:ita_x_preferred":[
+        "Niabouri"
+    ],
+    "name:spa_x_preferred":[
+        "Niabouri"
+    ],
     "name:und_x_variant":[
         "Ni\u00e9bour\u00e9",
         "Niebure",
         "Niabour\u00e9",
+        "Niabouri"
+    ],
+    "name:vie_x_preferred":[
         "Niabouri"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243065605,
-    "wof:lastmodified":1537587150,
+    "wof:lastmodified":1564174238,
     "wof:name":"Niabouri",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

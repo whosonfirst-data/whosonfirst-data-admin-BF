@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "M\u00e9hana"
+    ],
+    "name:ita_x_preferred":[
+        "Mehana"
+    ],
+    "name:msa_x_preferred":[
+        "Mehana"
+    ],
+    "name:ron_x_preferred":[
+        "Mehana"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e9hana"
+    ],
     "name:und_x_variant":[
         "Mesma",
         "M\u00e9hana"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343448979,
-    "wof:lastmodified":1537587157,
+    "wof:lastmodified":1564173419,
     "wof:name":"Mehana",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

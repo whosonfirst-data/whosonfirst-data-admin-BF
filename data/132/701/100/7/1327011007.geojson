@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09aa\u09a4\u09c7\u0999\u09cd\u0997\u09be"
+    ],
+    "name:spa_x_preferred":[
+        "Patenga"
+    ],
+    "name:tcy_x_preferred":[
+        "\u0caa\u0ca4\u0cc6\u0c82\u0c97 \u0cac\u0cc0\u0c9a\u0ccd"
+    ],
     "name:und_x_variant":[
         "Tabtenga",
         "Patenga"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327011007,
-    "wof:lastmodified":1537587138,
+    "wof:lastmodified":1564173105,
     "wof:name":"Patenga",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

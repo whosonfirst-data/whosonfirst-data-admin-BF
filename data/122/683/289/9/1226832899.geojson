@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bilinga"
+    ],
+    "name:swe_x_preferred":[
+        "Bilinga"
+    ],
     "name:und_x_variant":[
         "B\u00e9linga",
         "Bilinga"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226832899,
-    "wof:lastmodified":1537587215,
+    "wof:lastmodified":1564174598,
     "wof:name":"Bilinga",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

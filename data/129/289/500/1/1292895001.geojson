@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Soden"
+    ],
+    "name:pol_x_preferred":[
+        "Soden"
+    ],
     "name:und_x_variant":[
         "Sohod\u00e8ne",
         "Soden"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1292895001,
-    "wof:lastmodified":1537587120,
+    "wof:lastmodified":1564173454,
     "wof:name":"Soden",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sapaga"
+    ],
+    "name:swe_x_preferred":[
+        "Sapaga"
+    ],
     "name:und_x_variant":[
         "Zapara",
         "Sofara",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209630005,
-    "wof:lastmodified":1537587126,
+    "wof:lastmodified":1564173765,
     "wof:name":"Sapaga",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

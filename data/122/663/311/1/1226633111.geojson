@@ -26,6 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baham"
+    ],
+    "name:deu_x_preferred":[
+        "Baham"
+    ],
+    "name:fra_x_preferred":[
+        "Baham"
+    ],
+    "name:ltz_x_preferred":[
+        "Baham"
+    ],
+    "name:spa_x_preferred":[
+        "Baham"
+    ],
+    "name:swe_x_preferred":[
+        "Baham"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1226633111,
-    "wof:lastmodified":1536876835,
+    "wof:lastmodified":1564174613,
     "wof:name":"Baham",
     "wof:parent_id":890422529,
     "wof:placetype":"locality",

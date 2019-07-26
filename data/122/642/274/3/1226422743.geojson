@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guitanga"
+    ],
+    "name:fra_x_preferred":[
+        "Guitanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1226422743,
-    "wof:lastmodified":1537487634,
+    "wof:lastmodified":1564174508,
     "wof:name":"Guitanga",
     "wof:parent_id":890422529,
     "wof:placetype":"locality",

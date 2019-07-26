@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Sondre"
+    ],
+    "name:nor_x_preferred":[
+        "Sondre"
+    ],
     "name:und_x_variant":[
         "Sonor\u00e9",
         "Sondir\u00e9",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1327131017,
-    "wof:lastmodified":1537587119,
+    "wof:lastmodified":1564173159,
     "wof:name":"Sondre",
     "wof:parent_id":1108693645,
     "wof:placetype":"locality",

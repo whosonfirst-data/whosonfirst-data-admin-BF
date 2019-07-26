@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boken"
+    ],
+    "name:swe_x_preferred":[
+        "Boken"
+    ],
     "name:und_x_variant":[
         "Bokin"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259572263,
-    "wof:lastmodified":1537587212,
+    "wof:lastmodified":1564174434,
     "wof:name":"Boken",
     "wof:parent_id":1108693651,
     "wof:placetype":"locality",

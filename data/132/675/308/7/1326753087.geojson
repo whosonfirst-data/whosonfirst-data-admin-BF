@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ranga"
+    ],
+    "name:deu_x_preferred":[
+        "Ranga"
+    ],
+    "name:pol_x_preferred":[
+        "Ranga"
+    ],
+    "name:swe_x_preferred":[
+        "Ranga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1326753087,
-    "wof:lastmodified":1536665652,
+    "wof:lastmodified":1564173116,
     "wof:name":"Ranga",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

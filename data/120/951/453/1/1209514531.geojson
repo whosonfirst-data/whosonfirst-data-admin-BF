@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dablo"
+    ],
+    "name:fra_x_preferred":[
+        "Dablo"
+    ],
+    "name:ita_x_preferred":[
+        "Dablo"
+    ],
+    "name:spa_x_preferred":[
+        "Dablo"
+    ],
+    "name:vie_x_preferred":[
+        "Dablo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -44,7 +59,7 @@
         }
     ],
     "wof:id":1209514531,
-    "wof:lastmodified":1537487645,
+    "wof:lastmodified":1564173838,
     "wof:name":"Dablo",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

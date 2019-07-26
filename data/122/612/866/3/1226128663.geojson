@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Malba"
+    ],
+    "name:fra_x_preferred":[
+        "Malba"
+    ],
+    "name:ita_x_preferred":[
+        "Malba"
+    ],
+    "name:spa_x_preferred":[
+        "Malba"
+    ],
+    "name:vie_x_preferred":[
+        "Malba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1226128663,
-    "wof:lastmodified":1537487621,
+    "wof:lastmodified":1564174590,
     "wof:name":"Malba",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",

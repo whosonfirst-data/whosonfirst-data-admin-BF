@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tindangou"
+    ],
+    "name:fra_x_preferred":[
+        "Tindangou"
+    ],
+    "name:swe_x_preferred":[
+        "Tindangou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1310091121,
-    "wof:lastmodified":1537487596,
+    "wof:lastmodified":1564174039,
     "wof:name":"Tindangou",
     "wof:parent_id":890453941,
     "wof:placetype":"locality",

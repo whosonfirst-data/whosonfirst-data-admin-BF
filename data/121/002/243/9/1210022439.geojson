@@ -25,6 +25,30 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bagr\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Bagr\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Bagr\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Bagr\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Bagr\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Bagr\u00e9"
+    ],
+    "name:vie_x_preferred":[
+        "Bagr\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u683c\u96f7\u7e23"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1210022439,
-    "wof:lastmodified":1537487657,
+    "wof:lastmodified":1564173900,
     "wof:name":"Bagre",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

@@ -26,11 +26,26 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Barsalogho"
+    ],
+    "name:fra_x_preferred":[
+        "Barsalogho"
+    ],
+    "name:ita_x_preferred":[
+        "Barsalogho"
+    ],
+    "name:spa_x_preferred":[
+        "Barsalogho"
+    ],
     "name:und_x_variant":[
         "Barsalgo",
         "Barsalogho",
         "Bagsalogo",
         "Barsalogo"
+    ],
+    "name:vie_x_preferred":[
+        "Barsalogho"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1209414217,
-    "wof:lastmodified":1537587217,
+    "wof:lastmodified":1564173788,
     "wof:name":"Barsalogo",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

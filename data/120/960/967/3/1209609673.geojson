@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u067e\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Di\u00e9po"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u067e\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Di\u00e9po"
+    ],
     "name:und_x_variant":[
         "Dy\u00e9po",
         "Di\u00e9po"
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209609673,
-    "wof:lastmodified":1537587195,
+    "wof:lastmodified":1564173828,
     "wof:name":"Diepo",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

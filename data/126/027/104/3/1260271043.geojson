@@ -27,6 +27,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boudri"
+    ],
+    "name:spa_x_preferred":[
+        "Boudry"
+    ],
+    "name:swe_x_preferred":[
+        "Boudri"
+    ],
     "name:und_x_variant":[
         "Boudry",
         "Bouari",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1260271043,
-    "wof:lastmodified":1537587210,
+    "wof:lastmodified":1564173976,
     "wof:name":"Boudri",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

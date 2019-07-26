@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pangogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1360289719,
-    "wof:lastmodified":1537487612,
+    "wof:lastmodified":1564174158,
     "wof:name":"Pangogo",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

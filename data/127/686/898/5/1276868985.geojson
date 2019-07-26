@@ -26,8 +26,23 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ziou"
+    ],
+    "name:fra_x_preferred":[
+        "Ziou"
+    ],
+    "name:ita_x_preferred":[
+        "Ziou"
+    ],
+    "name:spa_x_preferred":[
+        "Ziou"
+    ],
     "name:und_x_variant":[
         "Zi\u00e9go",
+        "Ziou"
+    ],
+    "name:vie_x_preferred":[
         "Ziou"
     ],
     "src:geom":"geonames",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1276868985,
-    "wof:lastmodified":1537587089,
+    "wof:lastmodified":1564173605,
     "wof:name":"Ziou",
     "wof:parent_id":890413159,
     "wof:placetype":"locality",

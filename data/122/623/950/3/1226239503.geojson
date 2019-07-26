@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tol\u00e9psi"
+    ],
+    "name:fra_x_preferred":[
+        "Tolepsi"
+    ],
+    "name:nld_x_preferred":[
+        "Tolepsi"
+    ],
+    "name:swe_x_preferred":[
+        "Tol\u00e9psi"
+    ],
     "name:und_x_variant":[
         "Tol\u00e9psi"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226239503,
-    "wof:lastmodified":1537587102,
+    "wof:lastmodified":1564174583,
     "wof:name":"Tolepsi",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

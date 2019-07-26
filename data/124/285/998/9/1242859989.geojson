@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Soulougou"
+    ],
+    "name:fra_x_preferred":[
+        "Souloungou"
+    ],
+    "name:swe_x_preferred":[
+        "Soulougou"
+    ],
     "name:und_x_variant":[
         "Sulungu",
         "Souloungou",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1242859989,
-    "wof:lastmodified":1537587118,
+    "wof:lastmodified":1564174327,
     "wof:name":"Soulougou",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gounghin"
+    ],
+    "name:fra_x_preferred":[
+        "Gounghin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327441847,
-    "wof:lastmodified":1536667115,
+    "wof:lastmodified":1564173245,
     "wof:name":"Gounghin",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

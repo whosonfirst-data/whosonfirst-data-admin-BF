@@ -26,6 +26,36 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bira"
+    ],
+    "name:dan_x_preferred":[
+        "Bira"
+    ],
+    "name:deu_x_preferred":[
+        "Bira"
+    ],
+    "name:fra_x_preferred":[
+        "Bira"
+    ],
+    "name:ind_x_preferred":[
+        "Bira"
+    ],
+    "name:ita_x_preferred":[
+        "Bira"
+    ],
+    "name:por_x_preferred":[
+        "Bira"
+    ],
+    "name:sco_x_preferred":[
+        "Bira"
+    ],
+    "name:spa_x_preferred":[
+        "Bira"
+    ],
+    "name:swe_x_preferred":[
+        "Bira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -35,7 +65,7 @@
         "gn:id":2362433
     },
     "wof:country":"BF",
-    "wof:geomhash":"34120c5145c0977babc1bcf30add80c9",
+    "wof:geomhash":"a23664acc5968c3f0364397b4ebf7b70",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1209191585,
-    "wof:lastmodified":1536294915,
+    "wof:lastmodified":1564173869,
     "wof:name":"Bira",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -53,9 +83,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.8624299999999999,
+    0.86243,
     13.21865,
-    0.8624299999999999,
+    0.86243,
     13.21865
 ],
   "geometry": {"coordinates":[0.86243,13.21865],"type":"Point"}

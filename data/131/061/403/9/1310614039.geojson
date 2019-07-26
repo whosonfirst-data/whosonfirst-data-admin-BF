@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dapala"
+    ],
+    "name:fra_x_preferred":[
+        "Dapala"
+    ],
     "name:und_x_variant":[
         "Dafala"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310614039,
-    "wof:lastmodified":1537587205,
+    "wof:lastmodified":1564174086,
     "wof:name":"Dapala",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

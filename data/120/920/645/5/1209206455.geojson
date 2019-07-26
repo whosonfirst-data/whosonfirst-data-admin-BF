@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0646\u0633\u0628\u0648\u0645\u0628\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Binsboumbou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0646\u0633\u0628\u0648\u0645\u0628\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Binsboumbou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209206455,
-    "wof:lastmodified":1537487650,
+    "wof:lastmodified":1564173852,
     "wof:name":"Binsboumbou",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

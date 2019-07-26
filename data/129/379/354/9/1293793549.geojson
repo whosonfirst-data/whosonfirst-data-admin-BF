@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kiembara"
+    ],
+    "name:fra_x_preferred":[
+        "Kiembara"
+    ],
+    "name:ita_x_preferred":[
+        "Kiembara"
+    ],
+    "name:spa_x_preferred":[
+        "Kiembara"
+    ],
+    "name:vie_x_preferred":[
+        "Kiembara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1293793549,
-    "wof:lastmodified":1537487631,
+    "wof:lastmodified":1564173462,
     "wof:name":"Kiembara",
     "wof:parent_id":890421461,
     "wof:placetype":"locality",

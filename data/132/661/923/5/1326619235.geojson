@@ -26,6 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tougo"
+    ],
+    "name:fra_x_preferred":[
+        "Tougo"
+    ],
+    "name:ita_x_preferred":[
+        "Tougo"
+    ],
+    "name:por_x_preferred":[
+        "Tougo"
+    ],
+    "name:spa_x_preferred":[
+        "Tougo"
+    ],
+    "name:vie_x_preferred":[
+        "Tougo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1326619235,
-    "wof:lastmodified":1537487595,
+    "wof:lastmodified":1564173145,
     "wof:name":"Tougo",
     "wof:parent_id":890422535,
     "wof:placetype":"locality",

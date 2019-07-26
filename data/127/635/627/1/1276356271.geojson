@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boudangou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1276356271,
-    "wof:lastmodified":1537487648,
+    "wof:lastmodified":1564173648,
     "wof:name":"Boudangou",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

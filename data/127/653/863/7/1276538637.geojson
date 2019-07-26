@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndana"
+    ],
+    "name:deu_x_preferred":[
+        "Ndana"
+    ],
+    "name:swe_x_preferred":[
+        "Ndana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276538637,
-    "wof:lastmodified":1537000110,
+    "wof:lastmodified":1564173725,
     "wof:name":"Ndana",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

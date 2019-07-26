@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0647\u0627\u0644\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Rihalo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0647\u0627\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Rihalo"
+    ],
+    "name:swe_x_preferred":[
+        "Rihalo"
+    ],
     "name:und_x_variant":[
         "Dihalo",
         "Dialo",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1260386871,
-    "wof:lastmodified":1537587132,
+    "wof:lastmodified":1564173947,
     "wof:name":"Rihalo",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

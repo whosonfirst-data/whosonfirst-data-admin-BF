@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Saaba"
+    ],
+    "name:fra_x_preferred":[
+        "Saaba"
+    ],
+    "name:ita_x_preferred":[
+        "Saaba"
+    ],
+    "name:por_x_preferred":[
+        "Saaba"
+    ],
+    "name:spa_x_preferred":[
+        "Saaba"
+    ],
     "name:und_x_variant":[
         "Saba"
     ],
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1225852525,
-    "wof:lastmodified":1537587131,
+    "wof:lastmodified":1564174644,
     "wof:name":"Saaba",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

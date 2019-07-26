@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sarana"
+    ],
+    "name:deu_x_preferred":[
+        "Sarana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Sarana"
+    ],
+    "name:swe_x_preferred":[
+        "Sarana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343657219,
-    "wof:lastmodified":1536959701,
+    "wof:lastmodified":1564173268,
     "wof:name":"Sarana",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

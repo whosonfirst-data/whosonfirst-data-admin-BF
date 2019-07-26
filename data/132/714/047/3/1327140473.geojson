@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bidiga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1327140473,
-    "wof:lastmodified":1537487651,
+    "wof:lastmodified":1564173162,
     "wof:name":"Bidiga",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

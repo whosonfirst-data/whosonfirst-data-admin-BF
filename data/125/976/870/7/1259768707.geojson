@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tantiaka"
+    ],
     "name:und_x_variant":[
         "Tangyaka",
         "Tantiaka"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259768707,
-    "wof:lastmodified":1537587110,
+    "wof:lastmodified":1564174429,
     "wof:name":"Tantiaka",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

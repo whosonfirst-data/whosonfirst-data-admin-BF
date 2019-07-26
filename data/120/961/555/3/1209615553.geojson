@@ -26,9 +26,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Komto\u00e8ga"
+    ],
+    "name:fra_x_preferred":[
+        "Komto\u00e8ga"
+    ],
+    "name:ita_x_preferred":[
+        "Komto\u00e8ga"
+    ],
+    "name:por_x_preferred":[
+        "Komto\u00e8ga"
+    ],
+    "name:spa_x_preferred":[
+        "Komto\u00e8ga"
+    ],
     "name:und_x_variant":[
         "Kombo\u00e9ga",
         "Komto\u00e9ga"
+    ],
+    "name:vie_x_preferred":[
+        "Komto\u00e8ga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1209615553,
-    "wof:lastmodified":1537587172,
+    "wof:lastmodified":1564173811,
     "wof:name":"Komtoega",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

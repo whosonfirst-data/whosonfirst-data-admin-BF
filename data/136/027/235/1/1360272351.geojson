@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Taima"
+    ],
+    "name:deu_x_preferred":[
+        "Taima"
+    ],
+    "name:spa_x_preferred":[
+        "Taima"
+    ],
+    "name:swe_x_preferred":[
+        "Taima"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1360272351,
-    "wof:lastmodified":1536675498,
+    "wof:lastmodified":1564174139,
     "wof:name":"Taima",
     "wof:parent_id":890413153,
     "wof:placetype":"locality",

@@ -27,8 +27,29 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dialgaye Department"
+    ],
+    "name:deu_x_preferred":[
+        "Dialgaye"
+    ],
+    "name:fra_x_preferred":[
+        "Dialgaye"
+    ],
+    "name:ita_x_preferred":[
+        "Dialgaye"
+    ],
+    "name:spa_x_preferred":[
+        "Dialgaye"
+    ],
+    "name:swe_x_preferred":[
+        "Dialgaye Department"
+    ],
     "name:und_x_variant":[
         "Dialgay",
+        "Dialgaye"
+    ],
+    "name:vie_x_preferred":[
         "Dialgaye"
     ],
     "src:geom":"geonames",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277074825,
-    "wof:lastmodified":1537587201,
+    "wof:lastmodified":1564173599,
     "wof:name":"Dialgaye",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

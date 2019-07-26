@@ -25,11 +25,26 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lalgaye"
+    ],
+    "name:fra_x_preferred":[
+        "Lalgaye"
+    ],
+    "name:ita_x_preferred":[
+        "Lalgaye"
+    ],
+    "name:spa_x_preferred":[
+        "Lalgaye"
+    ],
     "name:und_x_variant":[
         "Lalgai",
         "Lallaga",
         "Lalgaye",
         "Lalgay"
+    ],
+    "name:vie_x_preferred":[
+        "Lalgaye"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1193276051,
-    "wof:lastmodified":1537587164,
+    "wof:lastmodified":1564173936,
     "wof:name":"Lalgay",
     "wof:parent_id":890421707,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toumouss\u00e9ni"
+    ],
+    "name:fra_x_preferred":[
+        "Toumousseni"
+    ],
+    "name:swe_x_preferred":[
+        "Toumouss\u00e9ni"
+    ],
     "name:und_x_variant":[
         "Toumouseni",
         "Toumouss\u00e9ni"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343367813,
-    "wof:lastmodified":1537587101,
+    "wof:lastmodified":1564173265,
     "wof:name":"Toumousseni",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Massougou"
+    ],
+    "name:fra_x_preferred":[
+        "Massougou"
+    ],
+    "name:swe_x_preferred":[
+        "Massougou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209215285,
-    "wof:lastmodified":1537487620,
+    "wof:lastmodified":1564173874,
     "wof:name":"Massougou",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

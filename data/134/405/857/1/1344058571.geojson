@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nabitenga"
+    ],
+    "name:swe_x_preferred":[
+        "Nabitenga"
+    ],
     "name:und_x_variant":[
         "Nabytinga",
         "Nabitenga"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1344058571,
-    "wof:lastmodified":1537587225,
+    "wof:lastmodified":1564173388,
     "wof:name":"Nabitenga",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

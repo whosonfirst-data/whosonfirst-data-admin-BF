@@ -26,6 +26,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ouapassi"
+    ],
     "name:und_x_variant":[
         "Ouapass\u00e9",
         "Ouapassi"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1310688385,
-    "wof:lastmodified":1537587144,
+    "wof:lastmodified":1564174098,
     "wof:name":"Ouapassi",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0628\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Pibs\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0628\u0633\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Pibs\u00e9"
+    ],
     "name:und_x_variant":[
         "Pils\u00e9",
         "Pibs\u00e9"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326551513,
-    "wof:lastmodified":1537587223,
+    "wof:lastmodified":1564173219,
     "wof:name":"Pibse",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

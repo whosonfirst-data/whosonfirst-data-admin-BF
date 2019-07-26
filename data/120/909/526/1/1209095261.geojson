@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boura"
+    ],
+    "name:fra_x_preferred":[
+        "Boura"
+    ],
+    "name:ita_x_preferred":[
+        "Boura"
+    ],
+    "name:swe_x_preferred":[
+        "Boura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209095261,
-    "wof:lastmodified":1536297907,
+    "wof:lastmodified":1564173738,
     "wof:name":"Boura",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

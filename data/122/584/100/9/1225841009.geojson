@@ -26,9 +26,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Koloko"
+    ],
+    "name:fra_x_preferred":[
+        "Koloko"
+    ],
+    "name:ita_x_preferred":[
+        "Koloko"
+    ],
+    "name:por_x_preferred":[
+        "Koloko"
+    ],
+    "name:spa_x_preferred":[
+        "Koloko"
+    ],
     "name:und_x_variant":[
         "Kologo",
         "Koroko",
+        "Koloko"
+    ],
+    "name:vie_x_preferred":[
         "Koloko"
     ],
     "src:geom":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1225841009,
-    "wof:lastmodified":1537587174,
+    "wof:lastmodified":1564174646,
     "wof:name":"Koloko",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

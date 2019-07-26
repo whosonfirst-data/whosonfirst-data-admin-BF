@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goa"
+    ],
+    "name:deu_x_preferred":[
+        "Goa"
+    ],
+    "name:fra_x_preferred":[
+        "Goa"
+    ],
+    "name:swe_x_preferred":[
+        "Goa"
+    ],
     "name:und_x_variant":[
         "Goaba",
         "Goa"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343972155,
-    "wof:lastmodified":1537587190,
+    "wof:lastmodified":1564173284,
     "wof:name":"Goa",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

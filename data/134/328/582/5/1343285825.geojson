@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9ka"
+    ],
+    "name:ind_x_preferred":[
+        "Beka"
+    ],
     "name:und_x_variant":[
         "B\u00e9ka"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343285825,
-    "wof:lastmodified":1537587216,
+    "wof:lastmodified":1564173408,
     "wof:name":"Beka",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

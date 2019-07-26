@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dourtenga"
+    ],
     "name:und_x_variant":[
         "Durotenga",
         "Dourotinga",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327237471,
-    "wof:lastmodified":1537587196,
+    "wof:lastmodified":1564173176,
     "wof:name":"Dourtenga",
     "wof:parent_id":890421707,
     "wof:placetype":"locality",

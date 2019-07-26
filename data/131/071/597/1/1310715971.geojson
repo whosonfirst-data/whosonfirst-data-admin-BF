@@ -25,10 +25,28 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tch\u00e9riba"
+    ],
+    "name:fra_x_preferred":[
+        "Tch\u00e9riba"
+    ],
+    "name:ita_x_preferred":[
+        "Tch\u00e9riba"
+    ],
+    "name:por_x_preferred":[
+        "Tch\u00e9riba"
+    ],
+    "name:spa_x_preferred":[
+        "Tch\u00e9riba"
+    ],
     "name:und_x_variant":[
         "Cheriba",
         "Tch\u00e9riba",
         "Ti\u00e9riba"
+    ],
+    "name:vie_x_preferred":[
+        "Tch\u00e9riba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1310715971,
-    "wof:lastmodified":1537587109,
+    "wof:lastmodified":1564174020,
     "wof:name":"Tcheriba",
     "wof:parent_id":890413161,
     "wof:placetype":"locality",

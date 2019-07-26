@@ -26,7 +26,25 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pabr\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Pabr\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Pabr\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Pabr\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Pabr\u00e9"
+    ],
     "name:und_x_variant":[
+        "Pabr\u00e9"
+    ],
+    "name:vie_x_preferred":[
         "Pabr\u00e9"
     ],
     "src:geom":"geonames",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1327341189,
-    "wof:lastmodified":1537587140,
+    "wof:lastmodified":1564173189,
     "wof:name":"Pabre",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

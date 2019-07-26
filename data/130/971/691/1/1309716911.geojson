@@ -26,6 +26,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Siguinvouss\u00e9"
+    ],
     "name:und_x_variant":[
         "Siguimououssi",
         "Siouimououssi",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309716911,
-    "wof:lastmodified":1537587123,
+    "wof:lastmodified":1564174188,
     "wof:name":"Siguinvousse",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

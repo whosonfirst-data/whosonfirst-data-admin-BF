@@ -25,6 +25,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Poa"
+    ],
+    "name:fra_x_preferred":[
+        "Poa"
+    ],
+    "name:ita_x_preferred":[
+        "Poa"
+    ],
+    "name:por_x_preferred":[
+        "Poa"
+    ],
+    "name:spa_x_preferred":[
+        "Poa"
+    ],
+    "name:vie_x_preferred":[
+        "Poa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1226331919,
-    "wof:lastmodified":1537487610,
+    "wof:lastmodified":1564174522,
     "wof:name":"Poa",
     "wof:parent_id":890422527,
     "wof:placetype":"locality",

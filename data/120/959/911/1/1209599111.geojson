@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0646\u0642\u0627\u06cc\u0647"
+    ],
+    "name:deu_x_preferred":[
+        "Tangaye"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u0627\u06cc\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Tangaye"
+    ],
     "name:und_x_variant":[
         "Tangay",
         "Tangaye"
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209599111,
-    "wof:lastmodified":1537587114,
+    "wof:lastmodified":1564173819,
     "wof:name":"Tangaye",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

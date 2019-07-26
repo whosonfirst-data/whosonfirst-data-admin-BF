@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ouar\u00e9gou"
+    ],
+    "name:fra_x_preferred":[
+        "Ouar\u00e9gou"
+    ],
+    "name:swe_x_preferred":[
+        "Ouar\u00e9gou"
+    ],
     "name:und_x_variant":[
         "Ouar\u00e9gou"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209821711,
-    "wof:lastmodified":1537587144,
+    "wof:lastmodified":1564173801,
     "wof:name":"Ouaregou",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

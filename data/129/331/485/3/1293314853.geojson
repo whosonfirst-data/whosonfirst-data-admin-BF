@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Boto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293314853,
-    "wof:lastmodified":1537034479,
+    "wof:lastmodified":1564173433,
     "wof:name":"Boto",
     "wof:parent_id":890422531,
     "wof:placetype":"locality",

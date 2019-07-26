@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Miti\u00e9r\u00e9dougou"
+    ],
+    "name:fra_x_preferred":[
+        "Mitieridougou"
+    ],
+    "name:swe_x_preferred":[
+        "Miti\u00e9r\u00e9dougou"
+    ],
     "name:und_x_variant":[
         "Miti\u00e9r\u00e9dougou",
         "Miti\u00e9ridougou"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259792299,
-    "wof:lastmodified":1537587157,
+    "wof:lastmodified":1564174407,
     "wof:name":"Mitieredougou",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

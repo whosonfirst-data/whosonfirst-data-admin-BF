@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dango"
+    ],
+    "name:fra_x_preferred":[
+        "Dango"
+    ],
+    "name:swe_x_preferred":[
+        "Dango"
+    ],
     "name:und_x_variant":[
         "Dengo",
         "Dango"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343958333,
-    "wof:lastmodified":1537587204,
+    "wof:lastmodified":1564173345,
     "wof:name":"Dango",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

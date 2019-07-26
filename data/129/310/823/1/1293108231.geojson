@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Siou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Siou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293108231,
-    "wof:lastmodified":1537487603,
+    "wof:lastmodified":1564173575,
     "wof:name":"Siou",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

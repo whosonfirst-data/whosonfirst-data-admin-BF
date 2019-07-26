@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rallo"
+    ],
+    "name:ita_x_preferred":[
+        "Rallo"
+    ],
+    "name:spa_x_preferred":[
+        "Rallo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310400751,
-    "wof:lastmodified":1537065248,
+    "wof:lastmodified":1564174028,
     "wof:name":"Rallo",
     "wof:parent_id":1108693651,
     "wof:placetype":"locality",

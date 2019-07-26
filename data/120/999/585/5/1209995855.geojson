@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gbonfiasso"
+    ],
+    "name:swe_x_preferred":[
+        "Gbonfiasso"
+    ],
     "name:und_x_variant":[
         "Bonfesso",
         "Bonfeso",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209995855,
-    "wof:lastmodified":1537587190,
+    "wof:lastmodified":1564173777,
     "wof:name":"Gbonfiasso",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",

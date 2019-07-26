@@ -25,6 +25,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pano"
+    ],
+    "name:deu_x_preferred":[
+        "Pano"
+    ],
+    "name:fin_x_preferred":[
+        "Pano"
+    ],
+    "name:fra_x_preferred":[
+        "Pano"
+    ],
+    "name:por_x_preferred":[
+        "Pano"
+    ],
+    "name:spa_x_preferred":[
+        "Pano"
+    ],
+    "name:swe_x_preferred":[
+        "Pano"
+    ],
     "name:und_x_variant":[
         "Fanon",
         "Panon",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1259972337,
-    "wof:lastmodified":1537587139,
+    "wof:lastmodified":1564174394,
     "wof:name":"Pano",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

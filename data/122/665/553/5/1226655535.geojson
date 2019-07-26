@@ -26,9 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gomboro"
+    ],
+    "name:fra_x_preferred":[
+        "Gomboro"
+    ],
+    "name:ita_x_preferred":[
+        "Gomboro"
+    ],
+    "name:spa_x_preferred":[
+        "Gomboro"
+    ],
     "name:und_x_variant":[
         "Gondoro",
         "Gomdoro",
+        "Gomboro"
+    ],
+    "name:vie_x_preferred":[
         "Gomboro"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226655535,
-    "wof:lastmodified":1537587189,
+    "wof:lastmodified":1564174622,
     "wof:name":"Gomboro",
     "wof:parent_id":890421461,
     "wof:placetype":"locality",

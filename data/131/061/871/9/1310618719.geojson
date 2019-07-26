@@ -25,8 +25,23 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Moara"
+    ],
+    "name:fra_x_preferred":[
+        "Moara"
+    ],
+    "name:ita_x_preferred":[
+        "Moara"
+    ],
+    "name:ron_x_preferred":[
+        "Moara"
+    ],
     "name:und_x_variant":[
         "Moira",
+        "Moara"
+    ],
+    "name:vie_x_preferred":[
         "Moara"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1310618719,
-    "wof:lastmodified":1537587156,
+    "wof:lastmodified":1564174086,
     "wof:name":"Moara",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

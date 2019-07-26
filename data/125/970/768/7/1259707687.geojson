@@ -25,9 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Youngou"
+    ],
+    "name:fra_x_preferred":[
+        "Youngou"
+    ],
+    "name:swe_x_preferred":[
+        "Youngou"
+    ],
     "name:und_x_variant":[
         "Youngo",
         "Youngou"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0646\u06cc\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1259707687,
-    "wof:lastmodified":1537587092,
+    "wof:lastmodified":1564174406,
     "wof:name":"Youngou",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

@@ -26,9 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Niou"
+    ],
+    "name:fra_x_preferred":[
+        "Niou"
+    ],
+    "name:ita_x_preferred":[
+        "Niou"
+    ],
+    "name:spa_x_preferred":[
+        "Niou"
+    ],
     "name:und_x_variant":[
         "Nyou",
         "Niu",
+        "Niou"
+    ],
+    "name:vie_x_preferred":[
         "Niou"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1344035891,
-    "wof:lastmodified":1537587144,
+    "wof:lastmodified":1564173391,
     "wof:name":"Niou",
     "wof:parent_id":890453945,
     "wof:placetype":"locality",

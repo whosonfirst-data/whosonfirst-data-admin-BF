@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fottigu\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Fottigu\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Fottigu\u00e9"
+    ],
     "name:und_x_variant":[
         "Fottigu\u00e9"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327432213,
-    "wof:lastmodified":1537587193,
+    "wof:lastmodified":1564173246,
     "wof:name":"Fottigue",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

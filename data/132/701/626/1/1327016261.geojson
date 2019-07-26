@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kampti"
+    ],
+    "name:fra_x_preferred":[
+        "Kampti"
+    ],
+    "name:ita_x_preferred":[
+        "Kampti"
+    ],
+    "name:spa_x_preferred":[
+        "Kampti"
+    ],
+    "name:vie_x_preferred":[
+        "Kampti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1327016261,
-    "wof:lastmodified":1537487632,
+    "wof:lastmodified":1564173103,
     "wof:name":"Kampti",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",

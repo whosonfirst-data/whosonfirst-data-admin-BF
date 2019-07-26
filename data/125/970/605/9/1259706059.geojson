@@ -25,6 +25,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bozo"
+    ],
+    "name:deu_x_preferred":[
+        "Bozo"
+    ],
+    "name:fra_x_preferred":[
+        "Bozo"
+    ],
+    "name:ita_x_preferred":[
+        "Bozo"
+    ],
+    "name:por_x_preferred":[
+        "Bozo"
+    ],
+    "name:swe_x_preferred":[
+        "Bozo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259706059,
-    "wof:lastmodified":1537033171,
+    "wof:lastmodified":1564174405,
     "wof:name":"Bozo",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

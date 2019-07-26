@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lioulgou"
+    ],
     "name:und_x_variant":[
         "Loull\u00e9gou",
         "Loulogou",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260285191,
-    "wof:lastmodified":1537587161,
+    "wof:lastmodified":1564173991,
     "wof:name":"Lioulgou",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

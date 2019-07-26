@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pi\u00e9la"
+    ],
+    "name:fra_x_preferred":[
+        "Pi\u00e9la"
+    ],
+    "name:ita_x_preferred":[
+        "Pi\u00e9la"
+    ],
+    "name:por_x_preferred":[
+        "Pi\u00e9la"
+    ],
+    "name:spa_x_preferred":[
+        "Pi\u00e9la"
+    ],
     "name:und_x_variant":[
         "Pil\u00e9a",
         "Pi\u00e9la"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1259473925,
-    "wof:lastmodified":1537587136,
+    "wof:lastmodified":1564174420,
     "wof:name":"Piela",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

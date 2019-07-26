@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tambiga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1193122819,
-    "wof:lastmodified":1536384086,
+    "wof:lastmodified":1564173914,
     "wof:name":"Tambiga",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

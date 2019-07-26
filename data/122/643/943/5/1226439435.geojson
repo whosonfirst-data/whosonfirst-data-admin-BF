@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Namoungou"
+    ],
+    "name:fra_x_preferred":[
+        "Namoungou"
+    ],
+    "name:swe_x_preferred":[
+        "Namoungou"
+    ],
     "name:und_x_variant":[
         "Mamougou",
         "Namungu",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226439435,
-    "wof:lastmodified":1537587152,
+    "wof:lastmodified":1564174501,
     "wof:name":"Namoungou",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

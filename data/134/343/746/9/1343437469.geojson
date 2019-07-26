@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mouvi\u00e9lo"
+    ],
+    "name:swe_x_preferred":[
+        "Mouvi\u00e9lo"
+    ],
     "name:und_x_variant":[
         "Mouviello",
         "Mouvi\u00e9lo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343437469,
-    "wof:lastmodified":1537587155,
+    "wof:lastmodified":1564173421,
     "wof:name":"Mouvielo",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",

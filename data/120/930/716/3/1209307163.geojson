@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0644\u067e\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Boulpon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u067e\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Boulpon"
+    ],
+    "name:swe_x_preferred":[
+        "Boulpon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209307163,
-    "wof:lastmodified":1537487647,
+    "wof:lastmodified":1564173760,
     "wof:name":"Boulpon",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

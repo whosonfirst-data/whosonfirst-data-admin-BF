@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tankori"
+    ],
+    "name:fra_x_preferred":[
+        "Tankori"
+    ],
+    "name:swe_x_preferred":[
+        "Tankori"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1259970517,
-    "wof:lastmodified":1537487599,
+    "wof:lastmodified":1564174395,
     "wof:name":"Tankori",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

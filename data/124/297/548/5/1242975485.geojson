@@ -25,6 +25,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0632\u06cc\u0642\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Ziga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0632\u06cc\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ziga"
+    ],
+    "name:ita_x_preferred":[
+        "Ziga"
+    ],
+    "name:spa_x_preferred":[
+        "Ziga"
+    ],
+    "name:vie_x_preferred":[
+        "Ziga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1242975485,
-    "wof:lastmodified":1537487589,
+    "wof:lastmodified":1564174342,
     "wof:name":"Ziga",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

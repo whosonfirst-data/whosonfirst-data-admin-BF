@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toukoro"
+    ],
+    "name:fra_x_preferred":[
+        "Toukoro"
+    ],
+    "name:swe_x_preferred":[
+        "Toukoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209718725,
-    "wof:lastmodified":1536387363,
+    "wof:lastmodified":1564173796,
     "wof:name":"Toukoro",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tgl_x_preferred":[
+        "Bilogo"
+    ],
     "name:und_x_variant":[
         "Bilgo",
         "Bilogo"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1343763831,
-    "wof:lastmodified":1537587214,
+    "wof:lastmodified":1564173334,
     "wof:name":"Bilogo",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

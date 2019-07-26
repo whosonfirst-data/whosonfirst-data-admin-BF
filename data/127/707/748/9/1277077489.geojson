@@ -25,6 +25,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dakoro"
+    ],
+    "name:fra_x_preferred":[
+        "Dakoro"
+    ],
+    "name:ita_x_preferred":[
+        "Dakoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043a\u043e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Dakoro"
+    ],
+    "name:vie_x_preferred":[
+        "Dakoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1277077489,
-    "wof:lastmodified":1537487645,
+    "wof:lastmodified":1564173600,
     "wof:name":"Dakoro",
     "wof:parent_id":890453947,
     "wof:placetype":"locality",
