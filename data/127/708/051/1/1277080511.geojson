@@ -26,10 +26,25 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Comin-Yanga"
+    ],
+    "name:fra_x_preferred":[
+        "Comin-Yanga"
+    ],
+    "name:ita_x_preferred":[
+        "Comin-Yanga"
+    ],
+    "name:spa_x_preferred":[
+        "Comin-Yanga"
+    ],
     "name:und_x_variant":[
         "Cmin-Yanga",
         "Comin-Yanga",
         "Komin-Yanga"
+    ],
+    "name:vie_x_preferred":[
+        "Comin-Yanga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1277080511,
-    "wof:lastmodified":1537587173,
+    "wof:lastmodified":1564173595,
     "wof:name":"Komin-Yanga",
     "wof:parent_id":890421707,
     "wof:placetype":"locality",

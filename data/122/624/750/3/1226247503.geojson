@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "Ronche"
+    ],
     "name:und_x_variant":[
         "Ronsen",
         "Ronch\u00e9"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226247503,
-    "wof:lastmodified":1537587131,
+    "wof:lastmodified":1564174586,
     "wof:name":"Ronche",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

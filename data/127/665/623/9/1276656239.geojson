@@ -26,9 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bouroum"
+    ],
+    "name:fra_x_preferred":[
+        "Bouroum"
+    ],
+    "name:ita_x_preferred":[
+        "Bouroum"
+    ],
+    "name:spa_x_preferred":[
+        "Bouroum"
+    ],
     "name:und_x_variant":[
         "Burum",
         "Bourroum",
+        "Bouroum"
+    ],
+    "name:vie_x_preferred":[
         "Bouroum"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276656239,
-    "wof:lastmodified":1537587207,
+    "wof:lastmodified":1564173719,
     "wof:name":"Bouroum",
     "wof:parent_id":890413143,
     "wof:placetype":"locality",

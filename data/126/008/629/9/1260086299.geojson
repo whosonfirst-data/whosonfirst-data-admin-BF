@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mogomnor\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Mogomnor\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Mogomnor\u00e9"
+    ],
     "name:und_x_variant":[
         "Mogomnor\u00e9",
         "Mogoumnore"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260086299,
-    "wof:lastmodified":1537587156,
+    "wof:lastmodified":1564173964,
     "wof:name":"Mogomnore",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

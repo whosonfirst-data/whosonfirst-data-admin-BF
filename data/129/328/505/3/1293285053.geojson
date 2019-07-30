@@ -25,7 +25,22 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "N\u00e9bi\u00e9lianayou"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9bi\u00e9lianayou"
+    ],
+    "name:ita_x_preferred":[
+        "N\u00e9bi\u00e9lianayou"
+    ],
+    "name:spa_x_preferred":[
+        "N\u00e9bi\u00e9lianayou"
+    ],
     "name:und_x_variant":[
+        "N\u00e9bi\u00e9lianayou"
+    ],
+    "name:vie_x_preferred":[
         "N\u00e9bi\u00e9lianayou"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293285053,
-    "wof:lastmodified":1537587150,
+    "wof:lastmodified":1564173568,
     "wof:name":"Nebielianayou",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

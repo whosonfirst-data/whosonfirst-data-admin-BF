@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0628\u0648\u0642\u062a\u06cc\u0646\u0642\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Dabogtinga"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0628\u0648\u06af\u062a\u06cc\u0646\u06af\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Dabogtinga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209609511,
-    "wof:lastmodified":1537487645,
+    "wof:lastmodified":1564173828,
     "wof:name":"Dabogtinga",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

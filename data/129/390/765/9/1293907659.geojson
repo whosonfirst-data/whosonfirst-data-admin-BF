@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bourzoaga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293907659,
-    "wof:lastmodified":1537487647,
+    "wof:lastmodified":1564173451,
     "wof:name":"Bourzoaga",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

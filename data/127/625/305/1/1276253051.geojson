@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kando"
+    ],
+    "name:fra_x_preferred":[
+        "Kando"
+    ],
+    "name:ita_x_preferred":[
+        "Kando"
+    ],
+    "name:spa_x_preferred":[
+        "Kando"
+    ],
+    "name:vie_x_preferred":[
+        "Kando"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1276253051,
-    "wof:lastmodified":1537487632,
+    "wof:lastmodified":1564173672,
     "wof:name":"Kando",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

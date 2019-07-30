@@ -26,10 +26,25 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sanga"
+    ],
+    "name:fra_x_preferred":[
+        "Sangha"
+    ],
+    "name:ita_x_preferred":[
+        "Sangha"
+    ],
+    "name:spa_x_preferred":[
+        "Sangha"
+    ],
     "name:und_x_variant":[
         "Sangha",
         "Sanga",
         "Natenga"
+    ],
+    "name:vie_x_preferred":[
+        "Sangha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209815825,
-    "wof:lastmodified":1537587127,
+    "wof:lastmodified":1564173885,
     "wof:name":"Sanga",
     "wof:parent_id":890421707,
     "wof:placetype":"locality",

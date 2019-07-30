@@ -26,6 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zam"
+    ],
+    "name:fra_x_preferred":[
+        "Zam"
+    ],
+    "name:ita_x_preferred":[
+        "Zam"
+    ],
+    "name:por_x_preferred":[
+        "Zam"
+    ],
+    "name:spa_x_preferred":[
+        "Zam"
+    ],
+    "name:vie_x_preferred":[
+        "Zam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1260162165,
-    "wof:lastmodified":1537487590,
+    "wof:lastmodified":1564173983,
     "wof:name":"Zam",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

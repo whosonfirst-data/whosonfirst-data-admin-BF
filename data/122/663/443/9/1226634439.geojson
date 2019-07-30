@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zitenga"
+    ],
+    "name:fra_x_preferred":[
+        "Zitenga"
+    ],
+    "name:ita_x_preferred":[
+        "Zitenga"
+    ],
+    "name:spa_x_preferred":[
+        "Zitenga"
+    ],
+    "name:vie_x_preferred":[
+        "Zitenga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1226634439,
-    "wof:lastmodified":1537487589,
+    "wof:lastmodified":1564174611,
     "wof:name":"Zitenga",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

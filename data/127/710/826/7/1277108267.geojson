@@ -26,6 +26,33 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pissila"
+    ],
+    "name:deu_x_preferred":[
+        "Pissila"
+    ],
+    "name:fra_x_preferred":[
+        "Pissila"
+    ],
+    "name:ita_x_preferred":[
+        "Pissila"
+    ],
+    "name:pol_x_preferred":[
+        "Pissila"
+    ],
+    "name:ron_x_preferred":[
+        "Pissila"
+    ],
+    "name:swe_x_preferred":[
+        "Pissila"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0633\u06cc\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Pissila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1277108267,
-    "wof:lastmodified":1537487610,
+    "wof:lastmodified":1564173732,
     "wof:name":"Pissila",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

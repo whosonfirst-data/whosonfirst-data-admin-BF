@@ -25,8 +25,20 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kordi\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Kordi\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Kordi\u00e9"
+    ],
     "name:und_x_variant":[
         "Kordi\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0631\u062f\u06cc\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1360280701,
-    "wof:lastmodified":1537587171,
+    "wof:lastmodified":1564174156,
     "wof:name":"Kordie",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

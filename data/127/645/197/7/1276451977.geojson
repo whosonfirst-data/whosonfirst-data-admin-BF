@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Di\u00e9foula"
+    ],
+    "name:fra_x_preferred":[
+        "Diefoula"
+    ],
+    "name:swe_x_preferred":[
+        "Di\u00e9foula"
+    ],
     "name:und_x_variant":[
         "Diefula",
         "Di\u00e9foula"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276451977,
-    "wof:lastmodified":1537587200,
+    "wof:lastmodified":1564173623,
     "wof:name":"Diefoula",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Lamona"
+    ],
+    "name:vie_x_preferred":[
+        "G\u00e0 Lamona"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u6d32\u62c9\u8499\u9e21"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343681881,
-    "wof:lastmodified":1536924906,
+    "wof:lastmodified":1564173353,
     "wof:name":"Lamona",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

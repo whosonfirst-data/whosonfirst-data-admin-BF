@@ -26,6 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zoaga"
+    ],
+    "name:fra_x_preferred":[
+        "Zoaga"
+    ],
+    "name:ita_x_preferred":[
+        "Zoaga"
+    ],
+    "name:por_x_preferred":[
+        "Zoaga"
+    ],
+    "name:spa_x_preferred":[
+        "Zoaga"
+    ],
+    "name:vie_x_preferred":[
+        "Zoaga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1243296787,
-    "wof:lastmodified":1537487589,
+    "wof:lastmodified":1564174347,
     "wof:name":"Zoaga",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

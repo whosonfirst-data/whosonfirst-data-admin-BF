@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dassa"
+    ],
+    "name:fra_x_preferred":[
+        "Dassa"
+    ],
+    "name:ita_x_preferred":[
+        "Dassa"
+    ],
+    "name:spa_x_preferred":[
+        "Dassa"
+    ],
+    "name:vie_x_preferred":[
+        "Dassa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343483355,
-    "wof:lastmodified":1537487644,
+    "wof:lastmodified":1564173321,
     "wof:name":"Dassa",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

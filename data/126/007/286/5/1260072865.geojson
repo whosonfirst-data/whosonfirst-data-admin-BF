@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0631\u06a9\u0648\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "Zerkoum"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u06a9\u0648\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Zerkoum"
+    ],
+    "name:swe_x_preferred":[
+        "Zerkoum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1260072865,
-    "wof:lastmodified":1537487590,
+    "wof:lastmodified":1564173953,
     "wof:name":"Zerkoum",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

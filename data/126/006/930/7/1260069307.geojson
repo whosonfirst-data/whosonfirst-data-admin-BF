@@ -26,6 +26,63 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Vini"
+    ],
+    "name:cat_x_preferred":[
+        "Vini"
+    ],
+    "name:ceb_x_preferred":[
+        "Vini"
+    ],
+    "name:deu_x_preferred":[
+        "Maidloris"
+    ],
+    "name:fin_x_preferred":[
+        "Polynesianlurikit"
+    ],
+    "name:fra_x_preferred":[
+        "Vini"
+    ],
+    "name:hun_x_preferred":[
+        "Vini"
+    ],
+    "name:ita_x_preferred":[
+        "Vini"
+    ],
+    "name:mrj_x_preferred":[
+        "\u04f8\u0434\u04f9\u0440 \u043b\u043e\u0440\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Vini"
+    ],
+    "name:pol_x_preferred":[
+        "Vini"
+    ],
+    "name:por_x_preferred":[
+        "Vini"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0438-\u043e\u0442\u0448\u0435\u043b\u044c\u043d\u0438\u043a\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Vini"
+    ],
+    "name:spa_x_preferred":[
+        "Vini"
+    ],
+    "name:swe_x_preferred":[
+        "Vini"
+    ],
+    "name:tur_x_preferred":[
+        "Vini"
+    ],
+    "name:vie_x_preferred":[
+        "Vini"
+    ],
+    "name:war_x_preferred":[
+        "Vini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +106,7 @@
         }
     ],
     "wof:id":1260069307,
-    "wof:lastmodified":1537007737,
+    "wof:lastmodified":1564173970,
     "wof:name":"Vini",
     "wof:parent_id":890453949,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lipaka"
+    ],
+    "name:fra_x_preferred":[
+        "Lipaka"
+    ],
+    "name:swe_x_preferred":[
+        "Lipaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1343481245,
-    "wof:lastmodified":1537487623,
+    "wof:lastmodified":1564173322,
     "wof:name":"Lipaka",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Thiou"
+    ],
+    "name:fra_x_preferred":[
+        "Thiou"
+    ],
+    "name:ita_x_preferred":[
+        "Thiou"
+    ],
+    "name:spa_x_preferred":[
+        "Thiou"
+    ],
     "name:und_x_variant":[
         "Tiu",
         "Thiou",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1209905119,
-    "wof:lastmodified":1537587107,
+    "wof:lastmodified":1564173770,
     "wof:name":"Tiou",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dian"
+    ],
+    "name:fra_x_preferred":[
+        "Dian"
+    ],
+    "name:ita_x_preferred":[
+        "Dian"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044f\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Dien",
         "Dian"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343758583,
-    "wof:lastmodified":1537587201,
+    "wof:lastmodified":1564173413,
     "wof:name":"Dian",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

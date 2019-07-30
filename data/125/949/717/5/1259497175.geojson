@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0627\u0648\u0631\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Saoura"
+    ],
+    "name:spa_x_preferred":[
+        "Saoura"
+    ],
     "name:und_x_variant":[
         "Sahou",
         "Saoura"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1259497175,
-    "wof:lastmodified":1537587126,
+    "wof:lastmodified":1564174427,
     "wof:name":"Saoura",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

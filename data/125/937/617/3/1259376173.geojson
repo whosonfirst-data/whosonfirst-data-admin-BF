@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kangaye"
+    ],
+    "name:fra_x_preferred":[
+        "Kongaye"
+    ],
+    "name:swe_x_preferred":[
+        "Kangaye"
+    ],
     "name:und_x_variant":[
         "Kongaye",
         "Kangaye"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1259376173,
-    "wof:lastmodified":1537587180,
+    "wof:lastmodified":1564174390,
     "wof:name":"Kangaye",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

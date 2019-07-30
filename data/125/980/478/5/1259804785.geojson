@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0642\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Boulougou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u06af\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259804785,
-    "wof:lastmodified":1537487647,
+    "wof:lastmodified":1564174470,
     "wof:name":"Boulougou",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

@@ -25,6 +25,54 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Orodara"
+    ],
+    "name:deu_x_preferred":[
+        "Orodara"
+    ],
+    "name:fin_x_preferred":[
+        "Orodara"
+    ],
+    "name:fra_x_preferred":[
+        "Orodara"
+    ],
+    "name:ita_x_preferred":[
+        "Orodara"
+    ],
+    "name:nld_x_preferred":[
+        "Orodara"
+    ],
+    "name:pol_x_preferred":[
+        "Orodara"
+    ],
+    "name:por_x_preferred":[
+        "Orodara"
+    ],
+    "name:ron_x_preferred":[
+        "Orodara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043e\u0434\u0430\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Orodara"
+    ],
+    "name:swe_x_preferred":[
+        "Orodara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043e\u0434\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u0648\u062f\u0627\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Orodara"
+    ],
+    "name:war_x_preferred":[
+        "Orodara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1309985443,
-    "wof:lastmodified":1536672229,
+    "wof:lastmodified":1564174167,
     "wof:name":"Orodara",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",

@@ -26,10 +26,31 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Soudougui Department"
+    ],
+    "name:deu_x_preferred":[
+        "Soudougui"
+    ],
+    "name:fra_x_preferred":[
+        "Soudougui"
+    ],
+    "name:ita_x_preferred":[
+        "Soudougui"
+    ],
+    "name:spa_x_preferred":[
+        "Soudougui"
+    ],
+    "name:swe_x_preferred":[
+        "Soudougui"
+    ],
     "name:und_x_variant":[
         "Soudougny",
         "Soudougou",
         "Soudongui",
+        "Soudougui"
+    ],
+    "name:vie_x_preferred":[
         "Soudougui"
     ],
     "src:geom":"geonames",
@@ -50,7 +71,7 @@
         }
     ],
     "wof:id":1209539847,
-    "wof:lastmodified":1537587118,
+    "wof:lastmodified":1564173745,
     "wof:name":"Soudougui",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

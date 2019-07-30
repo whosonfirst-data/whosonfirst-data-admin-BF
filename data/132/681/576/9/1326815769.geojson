@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dab\u00e8sma"
+    ],
+    "name:fra_x_preferred":[
+        "Dabesma"
+    ],
+    "name:swe_x_preferred":[
+        "Dab\u00e8sma"
+    ],
     "name:und_x_variant":[
         "Dab\u00e8sma"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1326815769,
-    "wof:lastmodified":1537587205,
+    "wof:lastmodified":1564173122,
     "wof:name":"Dabesma",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

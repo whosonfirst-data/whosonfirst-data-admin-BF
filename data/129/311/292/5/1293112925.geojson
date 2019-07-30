@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yankasso"
+    ],
     "name:und_x_variant":[
         "Yangasso",
         "Yankosso",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293112925,
-    "wof:lastmodified":1537587095,
+    "wof:lastmodified":1564173556,
     "wof:name":"Yankasso",
     "wof:parent_id":890413161,
     "wof:placetype":"locality",

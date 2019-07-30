@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Madori"
+    ],
+    "name:fra_x_preferred":[
+        "Madori"
+    ],
+    "name:swe_x_preferred":[
+        "Madori"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0648\u0631\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242864849,
-    "wof:lastmodified":1537487622,
+    "wof:lastmodified":1564174255,
     "wof:name":"Madori",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

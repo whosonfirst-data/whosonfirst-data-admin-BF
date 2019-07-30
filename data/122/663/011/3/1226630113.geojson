@@ -26,6 +26,33 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u043a\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Roko"
+    ],
+    "name:fra_x_preferred":[
+        "Roko"
+    ],
+    "name:glg_x_preferred":[
+        "Roko"
+    ],
+    "name:hrv_x_preferred":[
+        "Roko"
+    ],
+    "name:ido_x_preferred":[
+        "Roko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Roko"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1226630113,
-    "wof:lastmodified":1536881313,
+    "wof:lastmodified":1564174612,
     "wof:name":"Roko",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

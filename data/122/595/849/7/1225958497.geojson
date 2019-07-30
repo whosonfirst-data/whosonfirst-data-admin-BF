@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u062a\u06cc\u0627\u06a9\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Bitiako"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a\u06cc\u0627\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Bitiako"
+    ],
+    "name:swe_x_preferred":[
+        "Bitiako"
+    ],
     "name:und_x_variant":[
         "Bitia",
         "Bitiako"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1225958497,
-    "wof:lastmodified":1537587213,
+    "wof:lastmodified":1564174492,
     "wof:name":"Bitiako",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mopi\u00e8nga"
+    ],
+    "name:fra_x_preferred":[
+        "Mopienga"
+    ],
+    "name:swe_x_preferred":[
+        "Mopi\u00e8nga"
+    ],
     "name:und_x_variant":[
         "Mopi\u00e8nga"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1360207051,
-    "wof:lastmodified":1537587156,
+    "wof:lastmodified":1564174137,
     "wof:name":"Mopienga",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

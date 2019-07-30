@@ -25,7 +25,22 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bagar\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Bagar\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Bagar\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Bagar\u00e9"
+    ],
     "name:und_x_variant":[
+        "Bagar\u00e9"
+    ],
+    "name:vie_x_preferred":[
         "Bagar\u00e9"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1193132427,
-    "wof:lastmodified":1537587221,
+    "wof:lastmodified":1564173920,
     "wof:name":"Bagare",
     "wof:parent_id":1108693651,
     "wof:placetype":"locality",

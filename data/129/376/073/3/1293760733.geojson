@@ -26,6 +26,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:isl_x_preferred":[
+        "Peta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293760733,
-    "wof:lastmodified":1536889883,
+    "wof:lastmodified":1564173481,
     "wof:name":"Peta",
     "wof:parent_id":890422529,
     "wof:placetype":"locality",

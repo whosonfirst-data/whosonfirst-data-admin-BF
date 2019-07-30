@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Taranga"
+    ],
+    "name:mai_x_preferred":[
+        "\u0924\u0930\u0919\u094d\u0917\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u093e\u0930\u093e\u0902\u0917\u093e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293220525,
-    "wof:lastmodified":1536674914,
+    "wof:lastmodified":1564173493,
     "wof:name":"Taranga",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

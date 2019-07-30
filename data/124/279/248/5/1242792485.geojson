@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u067e\u0644\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Sap\u00e9lo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u067e\u0644\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Sap\u00e9lo"
+    ],
     "name:und_x_variant":[
         "Sap\u00e9lo"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242792485,
-    "wof:lastmodified":1537587126,
+    "wof:lastmodified":1564174322,
     "wof:name":"Sapelo",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Boala"
+    ],
+    "name:fra_x_preferred":[
+        "Boala"
+    ],
+    "name:ita_x_preferred":[
+        "Boala"
+    ],
+    "name:spa_x_preferred":[
+        "Boala"
+    ],
+    "name:vie_x_preferred":[
+        "Boala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343566153,
-    "wof:lastmodified":1537487650,
+    "wof:lastmodified":1564173361,
     "wof:name":"Boala",
     "wof:parent_id":890413143,
     "wof:placetype":"locality",

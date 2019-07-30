@@ -25,8 +25,23 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Midebdo"
+    ],
+    "name:fra_x_preferred":[
+        "Midebdo"
+    ],
+    "name:ita_x_preferred":[
+        "Midebdo"
+    ],
+    "name:spa_x_preferred":[
+        "Midebdo"
+    ],
     "name:und_x_variant":[
         "Mid\u00e8bdo"
+    ],
+    "name:vie_x_preferred":[
+        "Midebdo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1326909769,
-    "wof:lastmodified":1537587157,
+    "wof:lastmodified":1564173226,
     "wof:name":"Midebdo",
     "wof:parent_id":1108693643,
     "wof:placetype":"locality",

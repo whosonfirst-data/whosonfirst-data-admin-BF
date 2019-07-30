@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kasson"
+    ],
+    "name:ita_x_preferred":[
+        "Kasson"
+    ],
+    "name:pol_x_preferred":[
+        "Kasson"
+    ],
     "name:und_x_variant":[
         "Kassa",
         "Kassou",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326527871,
-    "wof:lastmodified":1537587178,
+    "wof:lastmodified":1564173223,
     "wof:name":"Kasson",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

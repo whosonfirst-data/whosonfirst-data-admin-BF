@@ -26,8 +26,32 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0644\u0648\u0642\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Doulougou"
+    ],
+    "name:deu_x_preferred":[
+        "Doulougou"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0648\u06af\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Doulougou"
+    ],
+    "name:ita_x_preferred":[
+        "Doulougou"
+    ],
+    "name:swe_x_preferred":[
+        "Doulougou"
+    ],
     "name:und_x_variant":[
         "Doulgou",
+        "Doulougou"
+    ],
+    "name:vie_x_preferred":[
         "Doulougou"
     ],
     "src:geom":"geonames",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1209907955,
-    "wof:lastmodified":1537587196,
+    "wof:lastmodified":1564173770,
     "wof:name":"Doulougou",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0437\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310598907,
-    "wof:lastmodified":1536782729,
+    "wof:lastmodified":1564174089,
     "wof:name":"Linse",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

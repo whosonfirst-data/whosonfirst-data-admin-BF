@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e4\u05d9"
+    ],
+    "name:por_x_preferred":[
+        "Topi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327210331,
-    "wof:lastmodified":1537000817,
+    "wof:lastmodified":1564173252,
     "wof:name":"Topi",
     "wof:parent_id":1108693643,
     "wof:placetype":"locality",

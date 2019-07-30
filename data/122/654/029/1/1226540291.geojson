@@ -26,7 +26,22 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Baskour\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Baskour\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Baskour\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Baskour\u00e9"
+    ],
     "name:und_x_variant":[
+        "Baskour\u00e9"
+    ],
+    "name:vie_x_preferred":[
         "Baskour\u00e9"
     ],
     "src:geom":"geonames",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226540291,
-    "wof:lastmodified":1537587217,
+    "wof:lastmodified":1564174629,
     "wof:name":"Baskoure",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

@@ -25,6 +25,42 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Arly"
+    ],
+    "name:ceb_x_preferred":[
+        "Arly"
+    ],
+    "name:deu_x_preferred":[
+        "Arly"
+    ],
+    "name:eus_x_preferred":[
+        "Arly ibaia"
+    ],
+    "name:fra_x_preferred":[
+        "Arly"
+    ],
+    "name:ind_x_preferred":[
+        "Arly"
+    ],
+    "name:ita_x_preferred":[
+        "Arly"
+    ],
+    "name:nld_x_preferred":[
+        "Arly"
+    ],
+    "name:nno_x_preferred":[
+        "Arly"
+    ],
+    "name:pol_x_preferred":[
+        "Arly"
+    ],
+    "name:por_x_preferred":[
+        "Rio Arly"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043b\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1259402687,
-    "wof:lastmodified":1536974323,
+    "wof:lastmodified":1564174412,
     "wof:name":"Arly",
     "wof:parent_id":890421459,
     "wof:placetype":"locality",

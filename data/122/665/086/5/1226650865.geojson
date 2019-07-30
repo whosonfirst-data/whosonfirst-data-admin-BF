@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u06a9\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Sakou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Sakou"
+    ],
+    "name:swe_x_preferred":[
+        "Sakou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1226650865,
-    "wof:lastmodified":1537487607,
+    "wof:lastmodified":1564174623,
     "wof:name":"Sakou",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

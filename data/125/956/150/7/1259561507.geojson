@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Man\u00e9ss\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Man\u00e9ss\u00e9"
+    ],
     "name:und_x_variant":[
         "Man\u00e9ss\u00e9"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259561507,
-    "wof:lastmodified":1537587158,
+    "wof:lastmodified":1564174460,
     "wof:name":"Manesse",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

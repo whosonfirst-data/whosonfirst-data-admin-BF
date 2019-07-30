@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Ziga"
+    ],
+    "name:fra_x_preferred":[
+        "Ziga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276865651,
-    "wof:lastmodified":1537057688,
+    "wof:lastmodified":1564173604,
     "wof:name":"Ziga",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

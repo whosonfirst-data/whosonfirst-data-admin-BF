@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0648\u0631\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Zoura"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zoura"
+    ],
+    "name:swe_x_preferred":[
+        "Zoura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1326829227,
-    "wof:lastmodified":1537487589,
+    "wof:lastmodified":1564173204,
     "wof:name":"Zoura",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

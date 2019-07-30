@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Win"
+    ],
+    "name:pol_x_preferred":[
+        "Win"
+    ],
     "name:und_x_variant":[
         "Moua",
         "Win"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259965907,
-    "wof:lastmodified":1537587097,
+    "wof:lastmodified":1564174386,
     "wof:name":"Win",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",

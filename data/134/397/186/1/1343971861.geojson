@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koena"
+    ],
+    "name:fra_x_preferred":[
+        "Koena"
+    ],
+    "name:lav_x_preferred":[
+        "Koena"
+    ],
+    "name:swe_x_preferred":[
+        "Koena"
+    ],
     "name:und_x_variant":[
         "Koona",
         "Kona",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1343971861,
-    "wof:lastmodified":1537587175,
+    "wof:lastmodified":1564173283,
     "wof:name":"Koena",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

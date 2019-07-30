@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barkoura"
+    ],
+    "name:swe_x_preferred":[
+        "Barkoura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1193123573,
-    "wof:lastmodified":1537487652,
+    "wof:lastmodified":1564173916,
     "wof:name":"Barkoura",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",

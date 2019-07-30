@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0646\u06a9\u0648\u0631\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Dankouro"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u06a9\u0648\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Denkoro"
+    ],
+    "name:swe_x_preferred":[
+        "Dankouro"
+    ],
     "name:und_x_variant":[
         "Denkoro",
         "Dinkouro",
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209629347,
-    "wof:lastmodified":1537587199,
+    "wof:lastmodified":1564173752,
     "wof:name":"Dankouro",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

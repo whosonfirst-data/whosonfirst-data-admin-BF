@@ -26,9 +26,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Doumbala"
+    ],
+    "name:fra_x_preferred":[
+        "Doumbala"
+    ],
+    "name:ita_x_preferred":[
+        "Doumbala"
+    ],
+    "name:por_x_preferred":[
+        "Doumbala"
+    ],
+    "name:spa_x_preferred":[
+        "Doumbala"
+    ],
     "name:und_x_variant":[
         "Doumbala",
         "Doumbara"
+    ],
+    "name:vie_x_preferred":[
+        "Doumbala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343279651,
-    "wof:lastmodified":1537587196,
+    "wof:lastmodified":1564173396,
     "wof:name":"Doumbara",
     "wof:parent_id":890413165,
     "wof:placetype":"locality",

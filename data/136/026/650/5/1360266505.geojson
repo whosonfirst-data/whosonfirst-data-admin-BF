@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Digr\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Digr\u00e9"
+    ],
     "name:und_x_variant":[
         "Digr\u00e9"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360266505,
-    "wof:lastmodified":1537587200,
+    "wof:lastmodified":1564174161,
     "wof:name":"Digre",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

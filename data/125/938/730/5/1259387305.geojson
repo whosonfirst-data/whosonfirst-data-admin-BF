@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0406\u043b\u043e\u0443"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30a6\u5a41"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u043e\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259387305,
-    "wof:lastmodified":1536995909,
+    "wof:lastmodified":1564174376,
     "wof:name":"Yilou",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

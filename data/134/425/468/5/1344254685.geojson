@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dalo"
+    ],
+    "name:fra_x_preferred":[
+        "Dalo"
+    ],
+    "name:ita_x_preferred":[
+        "Dalo"
+    ],
+    "name:spa_x_preferred":[
+        "Dalo"
+    ],
     "name:und_x_variant":[
         "Dalou",
         "Dalo"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1344254685,
-    "wof:lastmodified":1537587204,
+    "wof:lastmodified":1564173292,
     "wof:name":"Dalo",
     "wof:parent_id":890422531,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0646\u0642\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Bingo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0646\u06af\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Bingo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1226339655,
-    "wof:lastmodified":1537487650,
+    "wof:lastmodified":1564174520,
     "wof:name":"Bingo",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

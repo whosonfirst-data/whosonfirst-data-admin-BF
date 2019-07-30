@@ -25,10 +25,25 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zawara"
+    ],
+    "name:fra_x_preferred":[
+        "Zawara"
+    ],
+    "name:ita_x_preferred":[
+        "Zawara"
+    ],
+    "name:spa_x_preferred":[
+        "Zawara"
+    ],
     "name:und_x_variant":[
         "Diaber\u00e9",
         "Zavera",
         "Zaouara",
+        "Zawara"
+    ],
+    "name:vie_x_preferred":[
         "Zawara"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1242995155,
-    "wof:lastmodified":1537587091,
+    "wof:lastmodified":1564174344,
     "wof:name":"Zawara",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

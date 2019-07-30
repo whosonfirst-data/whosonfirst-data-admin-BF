@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Logobou"
+    ],
+    "name:fra_x_preferred":[
+        "Logobou"
+    ],
+    "name:ita_x_preferred":[
+        "Logobou"
+    ],
+    "name:spa_x_preferred":[
+        "Logobou"
+    ],
+    "name:vie_x_preferred":[
+        "Logobou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1327025465,
-    "wof:lastmodified":1537487622,
+    "wof:lastmodified":1564173188,
     "wof:name":"Logobou",
     "wof:parent_id":890421459,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Diabo"
+    ],
+    "name:fra_x_preferred":[
+        "Diabo"
+    ],
+    "name:ita_x_preferred":[
+        "Diabo"
+    ],
+    "name:por_x_preferred":[
+        "Diabo"
+    ],
+    "name:spa_x_preferred":[
+        "Diabo"
+    ],
+    "name:vie_x_preferred":[
+        "Diabo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1344242549,
-    "wof:lastmodified":1537487643,
+    "wof:lastmodified":1564173305,
     "wof:name":"Diabo",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

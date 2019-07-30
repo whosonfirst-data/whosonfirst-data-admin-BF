@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "San"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "San"
+    ],
+    "name:swe_x_preferred":[
+        "San"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1243081565,
-    "wof:lastmodified":1537487607,
+    "wof:lastmodified":1564174236,
     "wof:name":"San",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

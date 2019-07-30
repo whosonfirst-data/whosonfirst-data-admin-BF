@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Si\u00e8n"
+    ],
+    "name:deu_x_preferred":[
+        "Sien"
+    ],
+    "name:fra_x_preferred":[
+        "Sien"
+    ],
+    "name:swe_x_preferred":[
+        "Si\u00e8n"
+    ],
     "name:und_x_variant":[
         "Sion",
         "Si\u00e8n"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1309721563,
-    "wof:lastmodified":1537587124,
+    "wof:lastmodified":1564174212,
     "wof:name":"Sien",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

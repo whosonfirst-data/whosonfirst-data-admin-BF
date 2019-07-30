@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0644\u06a9\u0648\u06a9\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Silkouka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644\u06a9\u0648\u06a9\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Silkouka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343555833,
-    "wof:lastmodified":1537487603,
+    "wof:lastmodified":1564173282,
     "wof:name":"Silkouka",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

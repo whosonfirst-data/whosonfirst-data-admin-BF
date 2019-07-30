@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "S\u00e9kouantou"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e9kouantou"
+    ],
     "name:und_x_variant":[
         "S\u00e9kouantou",
         "Soukountou",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259368549,
-    "wof:lastmodified":1537587125,
+    "wof:lastmodified":1564174374,
     "wof:name":"Sekouantou",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

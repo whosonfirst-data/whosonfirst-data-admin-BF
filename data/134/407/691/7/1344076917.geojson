@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "L\u00e9oura"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9oura"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e9oura"
+    ],
     "name:und_x_variant":[
         "L\u00e9oura"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1344076917,
-    "wof:lastmodified":1537587162,
+    "wof:lastmodified":1564173313,
     "wof:name":"Leoura",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

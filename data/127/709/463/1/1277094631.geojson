@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zogor\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Zogor\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Zogor\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Zogor\u00e9"
+    ],
     "name:und_x_variant":[
         "Diogor\u00e9",
         "Zogor\u00e9"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1277094631,
-    "wof:lastmodified":1537587089,
+    "wof:lastmodified":1564173596,
     "wof:name":"Zogore",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

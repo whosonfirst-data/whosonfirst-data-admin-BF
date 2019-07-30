@@ -25,9 +25,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Diosso"
+    ],
+    "name:kon_x_preferred":[
+        "Dioso"
+    ],
+    "name:por_x_preferred":[
+        "Diosso"
+    ],
+    "name:ron_x_preferred":[
+        "Diosso"
+    ],
     "name:und_x_variant":[
         "Diesso",
         "Diosso"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0648\u0633\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u5967\u7d22"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293276689,
-    "wof:lastmodified":1537587199,
+    "wof:lastmodified":1564173553,
     "wof:name":"Diosso",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ningar\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Ningar\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Ningar\u00e9"
+    ],
     "name:und_x_variant":[
         "Ningar\u00e9"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293807697,
-    "wof:lastmodified":1537587148,
+    "wof:lastmodified":1564173567,
     "wof:name":"Ningare",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

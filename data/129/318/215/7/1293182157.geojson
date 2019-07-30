@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0645\u062a\u0646\u0642\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u00e8mtenga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u062a\u0646\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Semtenga"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e8mtenga"
+    ],
     "name:und_x_variant":[
         "S\u00e8mtenga"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293182157,
-    "wof:lastmodified":1537587125,
+    "wof:lastmodified":1564173547,
     "wof:name":"Semtenga",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

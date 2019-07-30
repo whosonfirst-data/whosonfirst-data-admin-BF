@@ -26,8 +26,23 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Diguel"
+    ],
+    "name:fra_x_preferred":[
+        "Diguel"
+    ],
+    "name:ita_x_preferred":[
+        "Diguel"
+    ],
+    "name:spa_x_preferred":[
+        "Diguel"
+    ],
     "name:und_x_variant":[
         "Digu\u00e9l"
+    ],
+    "name:vie_x_preferred":[
+        "Diguel"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276955551,
-    "wof:lastmodified":1537587200,
+    "wof:lastmodified":1564173657,
     "wof:name":"Diguel",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",

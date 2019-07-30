@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Tohera"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0570\u0565\u057c\u0561"
+    ],
+    "name:spa_x_preferred":[
+        "Tohera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0433\u0435\u0440\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Tohera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1310580599,
-    "wof:lastmodified":1536808316,
+    "wof:lastmodified":1564174113,
     "wof:name":"Tohera",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",

@@ -26,9 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dargo"
+    ],
+    "name:fra_x_preferred":[
+        "Dargo"
+    ],
+    "name:ita_x_preferred":[
+        "Dargo"
+    ],
+    "name:spa_x_preferred":[
+        "Dargo"
+    ],
     "name:und_x_variant":[
         "Darogo",
         "Dorgo",
+        "Dargo"
+    ],
+    "name:vie_x_preferred":[
         "Dargo"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226544629,
-    "wof:lastmodified":1537587203,
+    "wof:lastmodified":1564174628,
     "wof:name":"Dargo",
     "wof:parent_id":890413143,
     "wof:placetype":"locality",

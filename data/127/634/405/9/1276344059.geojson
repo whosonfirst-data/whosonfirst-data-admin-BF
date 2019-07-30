@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ti\u00e9bata"
+    ],
+    "name:fra_x_preferred":[
+        "Tiebata"
+    ],
+    "name:swe_x_preferred":[
+        "Ti\u00e9bata"
+    ],
     "name:und_x_variant":[
         "Ti\u00e9bata"
     ],
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276344059,
-    "wof:lastmodified":1537587106,
+    "wof:lastmodified":1564173639,
     "wof:name":"Tiebata",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

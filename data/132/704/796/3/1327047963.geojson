@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gousi"
+    ],
+    "name:deu_x_preferred":[
+        "Goussi"
+    ],
+    "name:fra_x_preferred":[
+        "Goussi"
+    ],
+    "name:swe_x_preferred":[
+        "Gousi"
+    ],
     "name:und_x_variant":[
         "Goussi"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327047963,
-    "wof:lastmodified":1537587186,
+    "wof:lastmodified":1564173201,
     "wof:name":"Gousi",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

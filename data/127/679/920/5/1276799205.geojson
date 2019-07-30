@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0645\u067e\u0648\u0626\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u067e\u0648\u0626\u06cc"
+    ],
     "name:und_x_variant":[
         "Tampouye",
         "Tampui",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276799205,
-    "wof:lastmodified":1537587115,
+    "wof:lastmodified":1564173693,
     "wof:name":"Tampoui",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

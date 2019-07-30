@@ -26,10 +26,28 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Zimtenga"
+    ],
+    "name:fra_x_preferred":[
+        "Zimtanga"
+    ],
+    "name:ita_x_preferred":[
+        "Zimtenga"
+    ],
+    "name:por_x_preferred":[
+        "Zimtenga"
+    ],
+    "name:spa_x_preferred":[
+        "Zimtenga"
+    ],
     "name:und_x_variant":[
         "Zimtenga",
         "Sabsin",
         "Sabsen"
+    ],
+    "name:vie_x_preferred":[
+        "Zimtenga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326722181,
-    "wof:lastmodified":1537587089,
+    "wof:lastmodified":1564173113,
     "wof:name":"Sabsen",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tanguen-Dassouri"
+    ],
+    "name:fra_x_preferred":[
+        "Tanghin-Dassouri"
+    ],
+    "name:pol_x_preferred":[
+        "Tangin Dassouri"
+    ],
+    "name:ron_x_preferred":[
+        "Tangin Dassouri"
+    ],
+    "name:swe_x_preferred":[
+        "Tanghin-Dassouri"
+    ],
     "name:und_x_variant":[
         "Dassouri",
         "Tangen-Dassouri",
@@ -34,6 +49,9 @@
         "Tanghin-Dassouri",
         "Tanguen-Dassouri",
         "Tanguin Dassouri"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0646\u06af\u0646 \u062f\u0627\u0633\u0624\u0631\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1309719553,
-    "wof:lastmodified":1537587113,
+    "wof:lastmodified":1564174186,
     "wof:name":"Tanguen-Dassouri",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

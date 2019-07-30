@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guiaro"
+    ],
+    "name:fra_x_preferred":[
+        "Guiaro"
+    ],
+    "name:ita_x_preferred":[
+        "Guiaro"
+    ],
+    "name:spa_x_preferred":[
+        "Guiaro"
+    ],
+    "name:vie_x_preferred":[
+        "Guiaro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1243355279,
-    "wof:lastmodified":1537487635,
+    "wof:lastmodified":1564174305,
     "wof:name":"Guiaro",
     "wof:parent_id":890413159,
     "wof:placetype":"locality",

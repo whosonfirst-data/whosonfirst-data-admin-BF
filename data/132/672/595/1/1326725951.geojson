@@ -25,6 +25,27 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bilina"
+    ],
+    "name:deu_x_preferred":[
+        "Bilina"
+    ],
+    "name:pol_x_preferred":[
+        "Bilina"
+    ],
+    "name:ron_x_preferred":[
+        "Bilina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bilina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0456\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1326725951,
-    "wof:lastmodified":1536705153,
+    "wof:lastmodified":1564173113,
     "wof:name":"Bilina",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

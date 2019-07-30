@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tall\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Tall\u00e9"
+    ],
     "name:und_x_variant":[
         "Tall\u00e9"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1309706483,
-    "wof:lastmodified":1537587116,
+    "wof:lastmodified":1564174178,
     "wof:name":"Talle",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

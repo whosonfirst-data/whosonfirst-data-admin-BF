@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0633\u06cc\u0627\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "Rissiam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0633\u06cc\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Rissiam"
+    ],
+    "name:swe_x_preferred":[
+        "Rissiam"
+    ],
     "name:und_x_variant":[
         "Riziam",
         "Rissiam"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1344079549,
-    "wof:lastmodified":1537587132,
+    "wof:lastmodified":1564173311,
     "wof:name":"Rissiam",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

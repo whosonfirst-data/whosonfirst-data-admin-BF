@@ -25,6 +25,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0648\u06cc\u0644\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Savili"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0648\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Savili"
+    ],
+    "name:nld_x_preferred":[
+        "Savili"
+    ],
+    "name:swe_x_preferred":[
+        "Savili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1292898713,
-    "wof:lastmodified":1537487605,
+    "wof:lastmodified":1564173455,
     "wof:name":"Savili",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

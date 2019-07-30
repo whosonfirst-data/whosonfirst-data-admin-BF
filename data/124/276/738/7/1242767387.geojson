@@ -25,10 +25,25 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Founzan"
+    ],
+    "name:fra_x_preferred":[
+        "Founzan"
+    ],
+    "name:ita_x_preferred":[
+        "Founzan"
+    ],
+    "name:spa_x_preferred":[
+        "Founzan"
+    ],
     "name:und_x_variant":[
         "Finza",
         "Fonzan",
         "Fouzan",
+        "Founzan"
+    ],
+    "name:vie_x_preferred":[
         "Founzan"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1242767387,
-    "wof:lastmodified":1537587193,
+    "wof:lastmodified":1564174325,
     "wof:name":"Founzan",
     "wof:parent_id":890422527,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bombara"
+    ],
+    "name:swe_x_preferred":[
+        "Bombara"
+    ],
     "name:und_x_variant":[
         "Bonboura",
         "Bombara"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1242656839,
-    "wof:lastmodified":1537587211,
+    "wof:lastmodified":1564174337,
     "wof:name":"Bombara",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dolo"
+    ],
+    "name:fra_x_preferred":[
+        "Dolo"
+    ],
+    "name:ita_x_preferred":[
+        "Dolo"
+    ],
+    "name:por_x_preferred":[
+        "Dolo"
+    ],
+    "name:spa_x_preferred":[
+        "Dolo"
+    ],
+    "name:vie_x_preferred":[
+        "Dolo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293668463,
-    "wof:lastmodified":1537487640,
+    "wof:lastmodified":1564173503,
     "wof:name":"Dolo",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",

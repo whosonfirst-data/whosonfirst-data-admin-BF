@@ -25,6 +25,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0627\u0647\u0627\u0628\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Wahabou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0627\u0647\u0627\u0628\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ouahabou"
+    ],
+    "name:swe_x_preferred":[
+        "Wahabou"
+    ],
     "name:und_x_variant":[
         "Ouhabou",
         "Ouahabou"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1226360181,
-    "wof:lastmodified":1537587144,
+    "wof:lastmodified":1564174637,
     "wof:name":"Wahabou",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

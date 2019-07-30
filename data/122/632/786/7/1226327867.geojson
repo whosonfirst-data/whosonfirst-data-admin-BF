@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kottia"
+    ],
+    "name:fra_x_preferred":[
+        "Kottia"
+    ],
+    "name:swe_x_preferred":[
+        "Kottia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1226327867,
-    "wof:lastmodified":1537487627,
+    "wof:lastmodified":1564174547,
     "wof:name":"Kottia",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

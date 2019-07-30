@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yamana"
+    ],
+    "name:fra_x_preferred":[
+        "Yamana"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043c\u0430\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Yamana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343946007,
-    "wof:lastmodified":1537039224,
+    "wof:lastmodified":1564173373,
     "wof:name":"Yamana",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

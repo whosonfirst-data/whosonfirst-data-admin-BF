@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tansarga"
+    ],
+    "name:fra_x_preferred":[
+        "Tansarga"
+    ],
+    "name:ita_x_preferred":[
+        "Tansarga"
+    ],
+    "name:spa_x_preferred":[
+        "Tansarga"
+    ],
+    "name:vie_x_preferred":[
+        "Tansarga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1360170449,
-    "wof:lastmodified":1537487599,
+    "wof:lastmodified":1564174154,
     "wof:name":"Tansarga",
     "wof:parent_id":890421459,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zouma"
+    ],
+    "name:deu_x_preferred":[
+        "Zouma"
+    ],
+    "name:fra_x_preferred":[
+        "Zouma"
+    ],
+    "name:swe_x_preferred":[
+        "Zouma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226544071,
-    "wof:lastmodified":1537487589,
+    "wof:lastmodified":1564174628,
     "wof:name":"Zouma",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Falagountou"
+    ],
+    "name:fra_x_preferred":[
+        "Falagountou"
+    ],
+    "name:ita_x_preferred":[
+        "Falagountou"
+    ],
+    "name:spa_x_preferred":[
+        "Falagountou"
+    ],
     "name:und_x_variant":[
         "Foulagountou",
+        "Falagountou"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u0627\u06af\u0648\u0646\u0679\u0648 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u06cc\u0646\u0679"
+    ],
+    "name:vie_x_preferred":[
         "Falagountou"
     ],
     "src:geom":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1243240625,
-    "wof:lastmodified":1537587194,
+    "wof:lastmodified":1564174287,
     "wof:name":"Falagountou",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Kwon"
+    ],
+    "name:kor_x_preferred":[
+        "\uad8c"
+    ],
+    "name:por_x_preferred":[
+        "Kwon"
+    ],
+    "name:spa_x_preferred":[
+        "Kwon"
+    ],
     "name:und_x_variant":[
         "Kon",
+        "Kwon"
+    ],
+    "name:vie_x_preferred":[
         "Kwon"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259701491,
-    "wof:lastmodified":1537587164,
+    "wof:lastmodified":1564174407,
     "wof:name":"Kwon",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

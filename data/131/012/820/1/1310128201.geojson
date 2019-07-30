@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banbigouabri"
+    ],
+    "name:fra_x_preferred":[
+        "Banidjoari"
+    ],
+    "name:swe_x_preferred":[
+        "Banbigouabri"
+    ],
     "name:und_x_variant":[
         "Banidjoari",
         "Banbigouabri"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310128201,
-    "wof:lastmodified":1537587220,
+    "wof:lastmodified":1564174004,
     "wof:name":"Banbigouabri",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saya"
+    ],
+    "name:deu_x_preferred":[
+        "Saya"
+    ],
+    "name:fra_x_preferred":[
+        "Saya"
+    ],
+    "name:ind_x_preferred":[
+        "Saya"
+    ],
+    "name:spa_x_preferred":[
+        "Saya"
+    ],
+    "name:swe_x_preferred":[
+        "Saya"
+    ],
     "name:und_x_variant":[
         "Say\u00e9",
         "Saya"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1260374245,
-    "wof:lastmodified":1537587125,
+    "wof:lastmodified":1564173966,
     "wof:name":"Saya",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

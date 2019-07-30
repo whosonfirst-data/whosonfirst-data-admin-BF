@@ -25,6 +25,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pouswaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326551437,
-    "wof:lastmodified":1537487609,
+    "wof:lastmodified":1564173220,
     "wof:name":"Pouswaka",
     "wof:parent_id":1108693645,
     "wof:placetype":"locality",

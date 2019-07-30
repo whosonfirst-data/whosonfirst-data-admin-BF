@@ -26,6 +26,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bonsi\u00e9ga"
+    ],
+    "name:fra_x_preferred":[
+        "Bonsi\u00e9ga"
+    ],
+    "name:swe_x_preferred":[
+        "Bonsi\u00e9ga"
+    ],
     "name:und_x_variant":[
         "Bonsi\u00e9ga"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310096139,
-    "wof:lastmodified":1537587210,
+    "wof:lastmodified":1564174038,
     "wof:name":"Bonsiega",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

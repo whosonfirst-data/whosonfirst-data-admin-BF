@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kouri"
+    ],
+    "name:deu_x_preferred":[
+        "Kouri"
+    ],
+    "name:fra_x_preferred":[
+        "Kouri"
+    ],
+    "name:swe_x_preferred":[
+        "Kouri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310400905,
-    "wof:lastmodified":1537065029,
+    "wof:lastmodified":1564174026,
     "wof:name":"Kouri",
     "wof:parent_id":1108693651,
     "wof:placetype":"locality",

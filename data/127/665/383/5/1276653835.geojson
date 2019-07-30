@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0644\u0628\u0627\u0644\u0648\u0642\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Bilbalogo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0628\u0627\u0644\u0648\u06af\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Bilbalogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276653835,
-    "wof:lastmodified":1537487650,
+    "wof:lastmodified":1564173719,
     "wof:name":"Bilbalogo",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

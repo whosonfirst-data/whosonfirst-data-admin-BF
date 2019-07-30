@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koin"
+    ],
+    "name:deu_x_preferred":[
+        "Koin"
+    ],
+    "name:fra_x_preferred":[
+        "Koin"
+    ],
+    "name:swe_x_preferred":[
+        "Koin"
+    ],
     "name:und_x_variant":[
         "Koen",
         "Koin"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1193151185,
-    "wof:lastmodified":1537587174,
+    "wof:lastmodified":1564173910,
     "wof:name":"Koin",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

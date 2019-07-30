@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Madjoari"
+    ],
+    "name:fra_x_preferred":[
+        "Madjoari"
+    ],
+    "name:ita_x_preferred":[
+        "Madjoari"
+    ],
+    "name:spa_x_preferred":[
+        "Madjoari"
+    ],
     "name:und_x_variant":[
         "Majori",
         "Madjori",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226136017,
-    "wof:lastmodified":1537587159,
+    "wof:lastmodified":1564174566,
     "wof:name":"Madjoari",
     "wof:parent_id":890453941,
     "wof:placetype":"locality",

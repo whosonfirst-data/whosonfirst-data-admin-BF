@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u067e\u0627\u0644\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Ipala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u067e\u0627\u0644\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Ipala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1209948181,
-    "wof:lastmodified":1537487634,
+    "wof:lastmodified":1564173831,
     "wof:name":"Ipala",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

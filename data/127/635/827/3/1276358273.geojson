@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tonton"
+    ],
+    "name:fra_x_preferred":[
+        "Tonton"
+    ],
+    "name:swe_x_preferred":[
+        "Tonton"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276358273,
-    "wof:lastmodified":1536744845,
+    "wof:lastmodified":1564173648,
     "wof:name":"Tonton",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

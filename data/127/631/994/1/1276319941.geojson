@@ -25,6 +25,39 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Session"
+    ],
+    "name:deu_x_preferred":[
+        "Session"
+    ],
+    "name:fra_x_preferred":[
+        "Session"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30c3\u30b7\u30e7\u30f3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u0441\u0441\u0438\u044f"
+    ],
+    "name:lit_x_preferred":[
+        "Sesija"
+    ],
+    "name:pol_x_preferred":[
+        "Sesja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0441\u0441\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Sesi\u00f3n"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0430\u043d\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Session"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1276319941,
-    "wof:lastmodified":1536796915,
+    "wof:lastmodified":1564173731,
     "wof:name":"Session",
     "wof:parent_id":1108693643,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mogode"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343962837,
-    "wof:lastmodified":1537015773,
+    "wof:lastmodified":1564173270,
     "wof:name":"Mogode",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tanama"
+    ],
+    "name:swe_x_preferred":[
+        "Tanama"
+    ],
     "name:und_x_variant":[
         "Po\u00ebssin"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243153283,
-    "wof:lastmodified":1537587135,
+    "wof:lastmodified":1564174292,
     "wof:name":"Tanama",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moaka"
+    ],
+    "name:fra_x_preferred":[
+        "Moaka"
+    ],
     "name:und_x_variant":[
         "Moka",
         "M\u00e9ka",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209735553,
-    "wof:lastmodified":1537587157,
+    "wof:lastmodified":1564173859,
     "wof:name":"Moaka",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

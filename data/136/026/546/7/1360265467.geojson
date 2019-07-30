@@ -26,6 +26,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fouga"
+    ],
+    "name:fra_x_preferred":[
+        "Fouga"
+    ],
+    "name:ita_x_preferred":[
+        "Fouga"
+    ],
+    "name:swe_x_preferred":[
+        "Fouga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1360265467,
-    "wof:lastmodified":1537487638,
+    "wof:lastmodified":1564174164,
     "wof:name":"Fouga",
     "wof:parent_id":890422529,
     "wof:placetype":"locality",

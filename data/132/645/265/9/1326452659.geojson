@@ -26,8 +26,23 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Botou"
+    ],
+    "name:fra_x_preferred":[
+        "Botou"
+    ],
+    "name:ita_x_preferred":[
+        "Botou"
+    ],
+    "name:spa_x_preferred":[
+        "Botou"
+    ],
     "name:und_x_variant":[
         "Boto",
+        "Botou"
+    ],
+    "name:vie_x_preferred":[
         "Botou"
     ],
     "src:geom":"geonames",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1326452659,
-    "wof:lastmodified":1537587210,
+    "wof:lastmodified":1564173123,
     "wof:name":"Botou",
     "wof:parent_id":890421459,
     "wof:placetype":"locality",

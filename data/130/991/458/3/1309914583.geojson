@@ -25,6 +25,18 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moussoumourou"
+    ],
+    "name:fra_x_preferred":[
+        "Moussoumourou"
+    ],
+    "name:por_x_preferred":[
+        "Moussoumourou"
+    ],
+    "name:swe_x_preferred":[
+        "Moussoumourou"
+    ],
     "name:und_x_variant":[
         "Mousoumourou",
         "Moussoumourou"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1309914583,
-    "wof:lastmodified":1537587155,
+    "wof:lastmodified":1564174169,
     "wof:name":"Moussoumourou",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

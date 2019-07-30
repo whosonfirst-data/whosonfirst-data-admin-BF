@@ -25,8 +25,23 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Legmoin"
+    ],
+    "name:fra_x_preferred":[
+        "Legmoin"
+    ],
+    "name:ita_x_preferred":[
+        "Legmoin"
+    ],
+    "name:spa_x_preferred":[
+        "Legmoin"
+    ],
     "name:und_x_variant":[
         "L\u00e8gmoin"
+    ],
+    "name:vie_x_preferred":[
+        "Legmoin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293187201,
-    "wof:lastmodified":1537587162,
+    "wof:lastmodified":1564173550,
     "wof:name":"Legmoin",
     "wof:parent_id":1108693643,
     "wof:placetype":"locality",

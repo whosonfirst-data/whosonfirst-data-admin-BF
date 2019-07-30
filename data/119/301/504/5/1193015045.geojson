@@ -26,6 +26,21 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0648\u0631\u0642\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Lourgou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u06af\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Lourgou"
+    ],
+    "name:swe_x_preferred":[
+        "Lourgou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1193015045,
-    "wof:lastmodified":1537487622,
+    "wof:lastmodified":1564173905,
     "wof:name":"Lourgou",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

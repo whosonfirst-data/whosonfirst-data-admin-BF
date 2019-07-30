@@ -26,9 +26,30 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bittou"
+    ],
+    "name:fra_x_preferred":[
+        "Bitou"
+    ],
+    "name:ita_x_preferred":[
+        "Bitou"
+    ],
+    "name:pol_x_preferred":[
+        "Bittou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0442\u0442\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Bittou"
+    ],
     "name:und_x_variant":[
         "Bitou",
         "Bittu",
+        "Bittou"
+    ],
+    "name:vie_x_preferred":[
         "Bittou"
     ],
     "src:geom":"geonames",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1276124221,
-    "wof:lastmodified":1537587212,
+    "wof:lastmodified":1564173687,
     "wof:name":"Bittou",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

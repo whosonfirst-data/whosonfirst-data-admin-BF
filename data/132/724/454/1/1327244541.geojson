@@ -25,6 +25,15 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bouassi\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Bossie"
+    ],
+    "name:swe_x_preferred":[
+        "Bouassi\u00e9"
+    ],
     "name:und_x_variant":[
         "Bouassi\u00e9",
         "Bossi\u00e9"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1327244541,
-    "wof:lastmodified":1537587210,
+    "wof:lastmodified":1564173171,
     "wof:name":"Bouassie",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

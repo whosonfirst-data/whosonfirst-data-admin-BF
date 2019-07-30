@@ -25,6 +25,45 @@
     "iso:country":"BF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u0644\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0647\u0627\u0644\u0648"
+    ],
+    "name:dan_x_preferred":[
+        "Hallo"
+    ],
+    "name:deu_x_preferred":[
+        "Hallo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05dc\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Hall\u00f3"
+    ],
+    "name:kor_x_preferred":[
+        "Hello"
+    ],
+    "name:msa_x_preferred":[
+        "Hello"
+    ],
+    "name:nno_x_preferred":[
+        "Hallo"
+    ],
+    "name:spa_x_preferred":[
+        "Hola"
+    ],
+    "name:tuk_x_preferred":[
+        "Allo"
+    ],
+    "name:zho_x_preferred":[
+        "Hello"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1343647883,
-    "wof:lastmodified":1536972791,
+    "wof:lastmodified":1564173290,
     "wof:name":"Hello",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",
