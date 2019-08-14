@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":12.475898,
     "lbl:longitude":-3.56373,
     "mz:hierarchy_label":1,
@@ -174,7 +177,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563272672,
+    "wof:lastmodified":1565654012,
     "wof:name":"Boucle du Mouhoun",
     "wof:parent_id":85632213,
     "wof:placetype":"region",
