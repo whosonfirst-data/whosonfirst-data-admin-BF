@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.39152,13.6873,-1.35152,13.7273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209814665,
-    "wof:lastmodified":1536384860,
+    "wof:lastmodified":1566613068,
     "wof:name":"Pogonaoma",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

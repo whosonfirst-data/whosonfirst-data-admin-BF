@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.37556,12.1475,-1.33556,12.1875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Koubri"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1326641451,
-    "wof:lastmodified":1564173224,
+    "wof:lastmodified":1566612627,
     "wof:name":"Koubri",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

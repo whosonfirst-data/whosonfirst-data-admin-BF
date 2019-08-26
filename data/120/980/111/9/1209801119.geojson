@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.31864,12.27745,0.35864,12.31745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yamba"
     ],
@@ -43,7 +47,6 @@
     ],
     "name:und_x_variant":[
         "Yemba",
-        "Yamba",
         "Yanmba"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1209801119,
-    "wof:lastmodified":1564173862,
+    "wof:lastmodified":1566613052,
     "wof:name":"Yanmba",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

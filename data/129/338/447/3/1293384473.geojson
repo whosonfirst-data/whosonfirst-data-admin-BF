@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.63667,10.81333,-4.59667,10.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Toussiana"
     ],
@@ -38,9 +42,6 @@
         "Toussiana"
     ],
     "name:spa_x_preferred":[
-        "Toussiana"
-    ],
-    "name:und_x_variant":[
         "Toussiana"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1293384473,
-    "wof:lastmodified":1564173424,
+    "wof:lastmodified":1566612770,
     "wof:name":"Touziana",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

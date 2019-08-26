@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"1.67917,11.84056,1.71917,11.88056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Namounou"
     ],
@@ -40,8 +44,7 @@
         "Namounou"
     ],
     "name:und_x_variant":[
-        "Niamounou",
-        "Namounou"
+        "Niamounou"
     ],
     "name:vie_x_preferred":[
         "Namounou"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1326915829,
-    "wof:lastmodified":1564173237,
+    "wof:lastmodified":1566612636,
     "wof:name":"Namounou",
     "wof:parent_id":890421459,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.73798,13.31411,-1.69798,13.35411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0631\u06cc\u0628\u0633\u06cc"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327028997,
-    "wof:lastmodified":1564173188,
+    "wof:lastmodified":1566612602,
     "wof:name":"Baribsi",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

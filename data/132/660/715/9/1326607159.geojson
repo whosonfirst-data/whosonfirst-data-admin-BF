@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.14978,13.54391,0.18978,13.58391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326607159,
-    "wof:lastmodified":1536875157,
+    "wof:lastmodified":1566612570,
     "wof:name":"Ouro Pabou",
     "wof:parent_id":890422529,
     "wof:placetype":"locality",

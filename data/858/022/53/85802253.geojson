@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11005296.415334,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.518173,12.352076,-1.518173,12.352076",
     "geom:latitude":12.352076,
     "geom:longitude":-1.518173,
     "iso:country":"BF",
+    "lbl:bbox":"-1.523173,12.347076,-1.513173,12.357076",
     "lbl:latitude":12.352076,
     "lbl:longitude":-1.518173,
+    "lbl:max_zoom":18.0,
     "mps:latitude":12.3561,
     "mps:longitude":-1.51886,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Zone Pilote de Sissen"
-    ],
-    "name:unk_x_variant":[
         "Zone Pilote de Sissen"
     ],
     "qs:gn_adm0_cc":"BF",
@@ -57,12 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1108805693,
         102191573,
         85632213,
-        421187907,
-        1108805693
+        421187907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +83,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862155,
+    "wof:lastmodified":1566612769,
     "wof:name":"Zone Pilote de Sissen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

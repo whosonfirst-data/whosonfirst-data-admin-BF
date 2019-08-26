@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.19084,13.17519,-0.15084,13.21519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -35,7 +39,7 @@
         "gn:id":2358017
     },
     "wof:country":"BF",
-    "wof:geomhash":"5e9b2d4cfdbd4169bb08d930c964d792",
+    "wof:geomhash":"43ce1611c3c7fe103ce6d9af5ed71bf7",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209512211,
-    "wof:lastmodified":1536284846,
+    "wof:lastmodified":1566613036,
     "wof:name":"Mbangui",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.17084000000000002,
+    -0.17084,
     13.19519,
-    -0.17084000000000002,
+    -0.17084,
     13.19519
 ],
   "geometry": {"coordinates":[-0.17084,13.19519],"type":"Point"}

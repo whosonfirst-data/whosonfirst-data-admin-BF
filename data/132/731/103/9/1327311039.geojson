@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.83777,13.29674,0.87777,13.33674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327311039,
-    "wof:lastmodified":1536854972,
+    "wof:lastmodified":1566612551,
     "wof:name":"Tankouli",
     "wof:parent_id":890422529,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.99877,11.83458,-2.95877,11.87458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Siby"
     ],
@@ -38,9 +42,6 @@
         "Siby"
     ],
     "name:spa_x_preferred":[
-        "Siby"
-    ],
-    "name:und_x_variant":[
         "Siby"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1276132557,
-    "wof:lastmodified":1564173671,
+    "wof:lastmodified":1566612930,
     "wof:name":"Sibi",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.09038,11.8342,-4.05038,11.8742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lahiraso",
         "Lahirasso"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343480025,
-    "wof:lastmodified":1537587164,
+    "wof:lastmodified":1566612695,
     "wof:name":"Lahirasso",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

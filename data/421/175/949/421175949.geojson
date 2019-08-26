@@ -10,6 +10,9 @@
     "geom:latitude":12.9704,
     "geom:longitude":-0.14953,
     "iso:country":"BF",
+    "lbl:bbox":"-0.16953,12.9504,-0.12953,12.9904",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -191,7 +194,7 @@
     "wof:concordances":{
         "gn:id":2362323,
         "gp:id":1456367,
-        "qs:id":1035216,
+        "qs_pg:id":1035216,
         "wd:id":"Q890373",
         "wk:page":"Bogand\u00e9"
     },
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421175949,
-    "wof:lastmodified":1561833610,
+    "wof:lastmodified":1566613293,
     "wof:name":"Bogand\u00e9",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

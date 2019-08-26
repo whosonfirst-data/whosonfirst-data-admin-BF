@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.01972,13.0478,0.02028,13.0878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bal\u00e8mba"
     ],
@@ -33,9 +37,6 @@
         "Balemba"
     ],
     "name:swe_x_preferred":[
-        "Bal\u00e8mba"
-    ],
-    "name:und_x_variant":[
         "Bal\u00e8mba"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1225929315,
-    "wof:lastmodified":1564174488,
+    "wof:lastmodified":1566613489,
     "wof:name":"Balemba",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

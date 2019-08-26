@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.32,9.86333,-3.28,9.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toupon\u00e9",
         "Tonpom\u00e9na"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1225824757,
-    "wof:lastmodified":1537587102,
+    "wof:lastmodified":1566613587,
     "wof:name":"Tonpomena",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

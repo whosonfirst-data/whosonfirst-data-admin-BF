@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":11.315937,
     "lbl:longitude":-1.083142,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
@@ -35,9 +36,9 @@
         "Centre-Sud"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"11,321",
     "statoids:area_mi":"4,371",
     "statoids:as_of_date":"2006-12-23",
@@ -77,11 +78,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565654010,
+    "wof:lastmodified":1566613144,
     "wof:name":"Centre-Sud",
     "wof:parent_id":85632213,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":638379,
     "wof:population_rank":11,

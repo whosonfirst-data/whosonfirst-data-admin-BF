@@ -11,10 +11,14 @@
     "geom:longitude":0.7075,
     "gn:country":"BF",
     "gn:fcode":"PPLA2",
-    "gn:pop":8902,
+    "gn:population":8902,
     "iso:country":"BF",
+    "lbl:bbox":"0.6875,11.22972,0.7275,11.26972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pama"
     ],
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panea"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":2356738,
         "gp:id":56618288,
-        "qs:id":1035180,
+        "qs_pg:id":1035180,
         "wd:id":"Q2048608",
         "wk:page":"Pama"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890437075,
-    "wof:lastmodified":1563272905,
+    "wof:lastmodified":1566613301,
     "wof:name":"Pama",
     "wof:parent_id":890453941,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.66004,12.34601,0.70004,12.38601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kourgou"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343647219,
-    "wof:lastmodified":1564173290,
+    "wof:lastmodified":1566612674,
     "wof:name":"Kourgou",
     "wof:parent_id":890435617,
     "wof:placetype":"locality",

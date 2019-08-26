@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.6361,11.83735,-4.5961,11.87735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dangounani",
         "Dangoumani",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327218359,
-    "wof:lastmodified":1537587204,
+    "wof:lastmodified":1566612645,
     "wof:name":"Dangounane",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

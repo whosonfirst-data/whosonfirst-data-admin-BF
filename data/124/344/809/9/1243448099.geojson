@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.86063,13.73471,-1.82063,13.77471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Hita"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1243448099,
-    "wof:lastmodified":1564174366,
+    "wof:lastmodified":1566613409,
     "wof:name":"Hitte",
     "wof:parent_id":890453949,
     "wof:placetype":"locality",

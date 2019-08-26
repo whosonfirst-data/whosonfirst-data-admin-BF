@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.06358,14.25846,-1.02358,14.29846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Y\u00e9lenga",
         "Yalanga"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209595681,
-    "wof:lastmodified":1537587096,
+    "wof:lastmodified":1566613024,
     "wof:name":"Yalanga",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

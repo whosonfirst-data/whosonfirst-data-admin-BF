@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.44435,13.1905,-1.40435,13.2305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0648\u0631\u06cc\u0627\u0644\u0627"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1243067153,
-    "wof:lastmodified":1564174240,
+    "wof:lastmodified":1566613323,
     "wof:name":"Souryala",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

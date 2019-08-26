@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.45717,10.57998,-4.41717,10.61998",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moussoumourou"
     ],
@@ -38,8 +42,7 @@
         "Moussoumourou"
     ],
     "name:und_x_variant":[
-        "Mousoumourou",
-        "Moussoumourou"
+        "Mousoumourou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1309914583,
-    "wof:lastmodified":1564174169,
+    "wof:lastmodified":1566613260,
     "wof:name":"Moussoumourou",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

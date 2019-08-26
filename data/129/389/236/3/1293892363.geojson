@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.30739,10.51064,-4.26739,10.55064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kassand\u00e9"
     ],
@@ -35,8 +39,7 @@
         "Kassand\u00e9"
     ],
     "name:und_x_variant":[
-        "Kasand\u00e9",
-        "Kassand\u00e9"
+        "Kasand\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293892363,
-    "wof:lastmodified":1564173563,
+    "wof:lastmodified":1566612861,
     "wof:name":"Kassande",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

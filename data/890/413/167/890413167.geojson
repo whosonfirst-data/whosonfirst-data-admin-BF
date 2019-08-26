@@ -11,7 +11,7 @@
     "geom:longitude":-4.430125,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":261738,
+    "gn:population":261738,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Como\u00e9 Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":10.257927,
     "lbl:longitude":-4.5038,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cascades",
     "meso:gadm_admin":"Como\u00e9",
     "meso:gadm_hasc2":"BF.CD.KM",
@@ -36,6 +38,7 @@
     "mps:longitude":-4.5038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0648\u0645\u0648\u064a\u0647"
     ],
@@ -154,7 +157,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u043e\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Komo\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -177,9 +180,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"15,277.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Banfora",
@@ -199,7 +202,7 @@
     "wof:concordances":{
         "gn:id":2359209,
         "hasc:id":"BF.CD.KM",
-        "qs:id":573781,
+        "qs_pg:id":573781,
         "wd:id":"Q1074496"
     },
     "wof:country":"BF",
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890413167,
-    "wof:lastmodified":1563272899,
+    "wof:lastmodified":1566613298,
     "wof:name":"Como\u00e9",
     "wof:parent_id":1108805703,
     "wof:placetype":"county",

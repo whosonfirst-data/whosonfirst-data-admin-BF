@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.98667,12.82889,-1.94667,12.86889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ramesoum",
         "Ramesma",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209403741,
-    "wof:lastmodified":1537587133,
+    "wof:lastmodified":1566613011,
     "wof:name":"Ramessoum",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.28667,11.98,-0.24667,12.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tensobentenga",
         "Tensobtenga"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276762817,
-    "wof:lastmodified":1537587108,
+    "wof:lastmodified":1566612934,
     "wof:name":"Tensobtenga",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.750151,
     "geom:longitude":-2.927169,
     "iso:country":"BF",
+    "lbl:bbox":"-2.947169,11.730151,-2.907169,11.770151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0645\u0648"
@@ -119,7 +123,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1456520,
-        "qs:id":1053077,
+        "qs_pg:id":1053077,
         "wd:id":"Q894055"
     },
     "wof:country":"BF",
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421176623,
-    "wof:lastmodified":1563272895,
+    "wof:lastmodified":1566613295,
     "wof:name":"Boromo",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

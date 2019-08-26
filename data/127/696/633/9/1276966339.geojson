@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.74065,14.06412,-0.70065,14.10412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gor\u00e9",
         "Gor\u00e8l"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276966339,
-    "wof:lastmodified":1537587188,
+    "wof:lastmodified":1566612959,
     "wof:name":"Gorel",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",

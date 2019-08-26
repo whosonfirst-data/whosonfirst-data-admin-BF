@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.59226,12.25971,-2.55226,12.29971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kyon"
     ],
@@ -39,7 +43,6 @@
     ],
     "name:und_x_variant":[
         "Tion",
-        "Kyon",
         "Khyon"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1326952257,
-    "wof:lastmodified":1564173148,
+    "wof:lastmodified":1566612579,
     "wof:name":"Kyon",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

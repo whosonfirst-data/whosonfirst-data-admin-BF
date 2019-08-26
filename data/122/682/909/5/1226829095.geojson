@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.18206,14.02969,-0.14206,14.06969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dani"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1226829095,
-    "wof:lastmodified":1564174579,
+    "wof:lastmodified":1566613548,
     "wof:name":"Dani",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

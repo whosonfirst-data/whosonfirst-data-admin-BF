@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.73808,13.02145,-0.69808,13.06145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u00e9r\u00e9",
         "T\u00e9b\u00e9r\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309928753,
-    "wof:lastmodified":1537587109,
+    "wof:lastmodified":1566613275,
     "wof:name":"Tebre",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

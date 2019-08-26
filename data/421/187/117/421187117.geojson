@@ -10,6 +10,9 @@
     "geom:latitude":14.0994,
     "geom:longitude":-1.62554,
     "iso:country":"BF",
+    "lbl:bbox":"-1.64554,14.0794,-1.60554,14.1194",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0438\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jibo"
     ],
     "name:urd_x_preferred":[
@@ -197,7 +200,7 @@
     "wof:concordances":{
         "gn:id":2361177,
         "gp:id":1457393,
-        "qs:id":1090233,
+        "qs_pg:id":1090233,
         "wd:id":"Q16629473",
         "wk:page":"Djibo"
     },
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421187117,
-    "wof:lastmodified":1563272885,
+    "wof:lastmodified":1566613292,
     "wof:name":"Djibo",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",

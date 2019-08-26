@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.32811,11.99732,-2.28811,12.03732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u067e\u0646\u062f\u0648"
     ],
@@ -41,8 +45,7 @@
         "Ip\u00e8ndo"
     ],
     "name:und_x_variant":[
-        "Ypendo",
-        "Ip\u00e8ndo"
+        "Ypendo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1326628031,
-    "wof:lastmodified":1564173231,
+    "wof:lastmodified":1566612631,
     "wof:name":"Ipendo",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

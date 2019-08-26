@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.54583,12.22722,-1.50583,12.26722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242785265,
-    "wof:lastmodified":1536764845,
+    "wof:lastmodified":1566613380,
     "wof:name":"Boulwango",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

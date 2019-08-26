@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.53707,11.86454,-4.49707,11.90454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "F\u00f4"
     ],
@@ -33,9 +37,6 @@
         "F\u00f4"
     ],
     "name:spa_x_preferred":[
-        "F\u00f4"
-    ],
-    "name:und_x_variant":[
         "F\u00f4"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1327024433,
-    "wof:lastmodified":1564173186,
+    "wof:lastmodified":1566612602,
     "wof:name":"Fo",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.82,12.64667,-1.78,12.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tans\u00e8ga",
         "Tangs\u00e9ra",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327221851,
-    "wof:lastmodified":1537587112,
+    "wof:lastmodified":1566612583,
     "wof:name":"Tangsera",
     "wof:parent_id":890453945,
     "wof:placetype":"locality",

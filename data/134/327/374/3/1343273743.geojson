@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.82444,12.16083,-1.78444,12.20083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Komki",
         "Komki-Ipala",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343273743,
-    "wof:lastmodified":1537587173,
+    "wof:lastmodified":1566612747,
     "wof:name":"Komki-Ipala",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

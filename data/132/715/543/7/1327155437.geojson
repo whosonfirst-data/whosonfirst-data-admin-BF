@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.69361,12.03278,-1.65361,12.07278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gore"
     ],
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":1327155437,
-    "wof:lastmodified":1564173166,
+    "wof:lastmodified":1566612589,
     "wof:name":"Gore",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

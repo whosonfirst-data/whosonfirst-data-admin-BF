@@ -10,6 +10,9 @@
     "geom:latitude":13.09167,
     "geom:longitude":-1.08444,
     "iso:country":"BF",
+    "lbl:bbox":"-1.10444,13.07167,-1.06444,13.11167",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -230,7 +233,7 @@
     "wof:concordances":{
         "gn:id":2359608,
         "gp:id":1458755,
-        "qs:id":1035208,
+        "qs_pg:id":1035208,
         "wd:id":"Q766464",
         "wk:page":"Kaya, Burkina Faso"
     },
@@ -247,7 +250,7 @@
         }
     ],
     "wof:id":421175945,
-    "wof:lastmodified":1563272890,
+    "wof:lastmodified":1566613294,
     "wof:name":"Kaya",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

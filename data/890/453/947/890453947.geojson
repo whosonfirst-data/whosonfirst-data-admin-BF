@@ -11,7 +11,7 @@
     "geom:longitude":-5.266809,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":105895,
+    "gn:population":105895,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "L\u00e9raba Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":10.645728,
     "lbl:longitude":-5.301517,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cascades",
     "meso:gadm_admin":"L\u00e9raba",
     "meso:gadm_hasc2":"BF.CD.LE",
@@ -36,6 +38,7 @@
     "mps:longitude":-5.301517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064a\u0631\u0627\u0628\u0627"
     ],
@@ -143,7 +146,7 @@
         "Province de la L\u00e9raba"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bc6\u0bb0\u0baa\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb2\u0bc6\u0bb0\u0baa\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c46\u0c30\u0c3e\u0c2c\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -156,9 +159,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0440\u0430\u0431\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Province de la L\u00e9raba"
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0631\u0627\u0628\u0627 \u0635\u0648\u0628\u06c1"
@@ -180,9 +180,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"3,129.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Sindou",
@@ -202,7 +202,7 @@
     "wof:concordances":{
         "gn:id":2597263,
         "hasc:id":"BF.CD.LE",
-        "qs:id":575155,
+        "qs_pg:id":575155,
         "wd:id":"Q977607"
     },
     "wof:country":"BF",
@@ -217,7 +217,7 @@
         }
     ],
     "wof:id":890453947,
-    "wof:lastmodified":1563272906,
+    "wof:lastmodified":1566613302,
     "wof:name":"L\u00e9raba",
     "wof:parent_id":1108805703,
     "wof:placetype":"county",

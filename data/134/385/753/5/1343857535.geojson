@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.68832,13.93599,-0.64832,13.97599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daoga",
         "Doaga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343857535,
-    "wof:lastmodified":1537587198,
+    "wof:lastmodified":1566612701,
     "wof:name":"Doaga",
     "wof:parent_id":890413143,
     "wof:placetype":"locality",

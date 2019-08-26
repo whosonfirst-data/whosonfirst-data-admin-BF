@@ -11,7 +11,7 @@
     "geom:longitude":-3.073397,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":196991,
+    "gn:population":196991,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Bal\u00e9 Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":11.73557,
     "lbl:longitude":-3.073214,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boucle du Mouhoun",
     "meso:gadm_admin":"Bal\u00e9",
     "meso:gadm_hasc2":"BF.BO.BA",
@@ -36,6 +38,7 @@
     "mps:longitude":-3.073214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0644\u064a"
     ],
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Les Bal\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -180,9 +183,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"4,595.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Boromo",
@@ -202,7 +205,7 @@
     "wof:concordances":{
         "gn:id":2597248,
         "hasc:id":"BF.BO.BA",
-        "qs:id":575148,
+        "qs_pg:id":575148,
         "wd:id":"Q805913"
     },
     "wof:country":"BF",
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":890452781,
-    "wof:lastmodified":1563272905,
+    "wof:lastmodified":1566613301,
     "wof:name":"Bal\u00e9",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.43761,13.36232,-2.39761,13.40232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259868683,
-    "wof:lastmodified":1536800562,
+    "wof:lastmodified":1566613484,
     "wof:name":"Zankolaga",
     "wof:parent_id":890422535,
     "wof:placetype":"locality",

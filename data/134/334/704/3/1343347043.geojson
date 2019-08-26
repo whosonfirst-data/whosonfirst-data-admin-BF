@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.16083,12.09389,0.20083,12.13389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Diapangou"
     ],
@@ -42,8 +46,7 @@
         "Diapangou"
     ],
     "name:und_x_variant":[
-        "Diapangu",
-        "Diapangou"
+        "Diapangu"
     ],
     "name:vie_x_preferred":[
         "Diapangou"
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1343347043,
-    "wof:lastmodified":1564173376,
+    "wof:lastmodified":1566612731,
     "wof:name":"Diapangou",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

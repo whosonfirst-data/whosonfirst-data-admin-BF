@@ -11,7 +11,7 @@
     "geom:longitude":-0.315674,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":280024,
+    "gn:population":280024,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Kouritenga Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":12.144522,
     "lbl:longitude":-0.268315,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Centre-Est",
     "meso:gadm_admin":"Kouritenga",
     "meso:gadm_hasc2":"BF.CE.KR",
@@ -36,6 +38,7 @@
     "mps:longitude":-0.268315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0631\u064a\u062a\u064a\u0646\u063a\u0627"
     ],
@@ -142,7 +145,7 @@
         "Kouritenga Province"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcc\u0bb0\u0bbf\u0ba4\u0bc7\u0b99\u0bcd\u0b95\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bcc\u0bb0\u0bbf\u0ba4\u0bc7\u0b99\u0bcd\u0b95\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4c\u0c30\u0c3f\u0c1f\u0c46\u0c02\u0c17\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -156,7 +159,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0456\u0442\u0435\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province du Kourittenga"
     ],
     "name:urd_x_preferred":[
@@ -179,9 +182,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"2,622.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Koup\u00e9la",
@@ -202,7 +205,7 @@
     "wof:concordances":{
         "gn:id":2358700,
         "hasc:id":"BF.CE.KR",
-        "qs:id":573779,
+        "qs_pg:id":573779,
         "wd:id":"Q1141767",
         "wk:page":"Kouritenga Province"
     },
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":890413163,
-    "wof:lastmodified":1563272903,
+    "wof:lastmodified":1566613299,
     "wof:name":"Kouritenga",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

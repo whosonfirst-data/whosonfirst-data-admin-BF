@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.79139,12.70111,-1.75139,12.74111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0456\u043f\u0430"
     ],
@@ -93,8 +97,7 @@
         "\u041b\u0456\u043f\u0430"
     ],
     "name:und_x_variant":[
-        "Lip",
-        "Lipa"
+        "Lip"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1310682403,
-    "wof:lastmodified":1564174098,
+    "wof:lastmodified":1566613213,
     "wof:name":"Lipa",
     "wof:parent_id":890453945,
     "wof:placetype":"locality",

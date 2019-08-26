@@ -11,7 +11,7 @@
     "geom:longitude":-1.288694,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":285722,
+    "gn:population":285722,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Soum Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":14.2592,
     "lbl:longitude":-1.225973,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sahel",
     "meso:gadm_admin":"Soum",
     "meso:gadm_hasc2":"BF.SA.SM",
@@ -36,6 +38,7 @@
     "mps:longitude":-1.225973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Soum"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043c"
     ],
-    "name:unk_x_variant":[
-        "Province du Soum"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0624\u0645 \u0635\u0648\u0628\u06c1"
     ],
@@ -117,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"12,222.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Djibo",
@@ -139,7 +139,7 @@
     "wof:concordances":{
         "gn:id":2355248,
         "hasc:id":"BF.SA.SM",
-        "qs:id":91335,
+        "qs_pg:id":91335,
         "wd:id":"Q385973"
     },
     "wof:country":"BF",
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":890421463,
-    "wof:lastmodified":1561833613,
+    "wof:lastmodified":1566613303,
     "wof:name":"Soum",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

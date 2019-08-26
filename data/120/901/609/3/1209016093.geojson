@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.65909,12.34146,-1.61909,12.38146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yorgo Dar Salam",
         "Dar Salam"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209016093,
-    "wof:lastmodified":1537587093,
+    "wof:lastmodified":1566612985,
     "wof:name":"Dar Salam",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-5.33667,10.49667,-5.29667,10.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -34,7 +38,7 @@
         "gn:id":2359404
     },
     "wof:country":"BF",
-    "wof:geomhash":"dd74db40a4c2365eabee893a74bb1d7b",
+    "wof:geomhash":"750c282f5f140e0865b9bfbd9e4b6569",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209114991,
-    "wof:lastmodified":1536297283,
+    "wof:lastmodified":1566613042,
     "wof:name":"Kobiadiassa",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -5.3166699999999985,
+    -5.31667,
     10.51667,
-    -5.3166699999999985,
+    -5.31667,
     10.51667
 ],
   "geometry": {"coordinates":[-5.31667,10.51667],"type":"Point"}

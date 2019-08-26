@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.70958,12.1561,-2.66958,12.1961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ti\u00e9go",
         "Tiogo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226742485,
-    "wof:lastmodified":1537587106,
+    "wof:lastmodified":1566613504,
     "wof:name":"Tiogo",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

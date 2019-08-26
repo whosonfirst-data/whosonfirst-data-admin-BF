@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.07,10.23,-3.03,10.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Lobio"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1326609515,
-    "wof:lastmodified":1564173137,
+    "wof:lastmodified":1566612570,
     "wof:name":"Lobio",
     "wof:parent_id":890413151,
     "wof:placetype":"locality",

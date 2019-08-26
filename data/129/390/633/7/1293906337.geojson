@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.30806,13.49556,-1.26806,13.53556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Namissiguima"
     ],
@@ -36,8 +40,7 @@
         "Namissiguima"
     ],
     "name:und_x_variant":[
-        "Namissigma",
-        "Namissiguima"
+        "Namissigma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293906337,
-    "wof:lastmodified":1564173452,
+    "wof:lastmodified":1566612790,
     "wof:name":"Namissiguima",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

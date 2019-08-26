@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.35111,12.6375,-1.31111,12.6775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kassanga",
         "Koasanga",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276322041,
-    "wof:lastmodified":1537587175,
+    "wof:lastmodified":1566612917,
     "wof:name":"Kouassanga",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

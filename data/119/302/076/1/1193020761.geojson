@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.95727,13.52888,-0.91727,13.56888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1193020761,
-    "wof:lastmodified":1536373495,
+    "wof:lastmodified":1566613097,
     "wof:name":"Kolega",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

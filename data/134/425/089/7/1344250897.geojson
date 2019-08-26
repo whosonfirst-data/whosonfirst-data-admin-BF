@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.31921,13.71862,-2.27921,13.75862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kammbondogu\u00e9",
         "Kambondogu\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344250897,
-    "wof:lastmodified":1537587181,
+    "wof:lastmodified":1566612675,
     "wof:name":"Kambondogue",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

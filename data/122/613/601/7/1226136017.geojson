@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"1.23083,11.45639,1.27083,11.49639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Madjoari"
     ],
@@ -40,8 +44,7 @@
     ],
     "name:und_x_variant":[
         "Majori",
-        "Madjori",
-        "Madjoari"
+        "Madjori"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226136017,
-    "wof:lastmodified":1564174566,
+    "wof:lastmodified":1566613542,
     "wof:name":"Madjoari",
     "wof:parent_id":890453941,
     "wof:placetype":"locality",

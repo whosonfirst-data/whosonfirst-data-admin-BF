@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.62529,13.13997,-1.58529,13.17997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293315225,
-    "wof:lastmodified":1537033968,
+    "wof:lastmodified":1566612779,
     "wof:name":"Yaogue",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

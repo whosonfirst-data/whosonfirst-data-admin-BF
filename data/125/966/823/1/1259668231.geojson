@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.05301,11.21971,-4.01301,11.25971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kou\u00e9koueso",
         "Kou\u00e8kouesso"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259668231,
-    "wof:lastmodified":1537587169,
+    "wof:lastmodified":1566613463,
     "wof:name":"Kouekouesso",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

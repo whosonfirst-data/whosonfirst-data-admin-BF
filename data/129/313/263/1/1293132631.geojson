@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.79387,13.40824,-1.75387,13.44824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u067e\u0627\u0644\u0642\u0648\u0626\u0647"
     ],
@@ -39,9 +43,6 @@
         "Napalgu\u00e9"
     ],
     "name:swe_x_preferred":[
-        "Napalgu\u00e9"
-    ],
-    "name:und_x_variant":[
         "Napalgu\u00e9"
     ],
     "src:geom":"geonames",
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1293132631,
-    "wof:lastmodified":1564173492,
+    "wof:lastmodified":1566612817,
     "wof:name":"Napalgue",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

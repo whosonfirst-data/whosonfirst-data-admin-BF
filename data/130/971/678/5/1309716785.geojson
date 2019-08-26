@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.45673,13.46061,-1.41673,13.50061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:isl_x_preferred":[
         "Peta"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309716785,
-    "wof:lastmodified":1564174187,
+    "wof:lastmodified":1566613272,
     "wof:name":"Peta",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

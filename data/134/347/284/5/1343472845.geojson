@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.83108,12.38877,-3.79108,12.42877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Sanaba"
     ],
@@ -38,8 +42,7 @@
         "Sanaba"
     ],
     "name:und_x_variant":[
-        "Sanata",
-        "Sanaba"
+        "Sanata"
     ],
     "name:vie_x_preferred":[
         "Sanaba"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1343472845,
-    "wof:lastmodified":1564173338,
+    "wof:lastmodified":1566612706,
     "wof:name":"Sanaba",
     "wof:parent_id":890416507,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.64222,12.14056,-1.60222,12.18056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bangma",
         "Bangu\u00e9ma"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193277581,
-    "wof:lastmodified":1537587219,
+    "wof:lastmodified":1566613101,
     "wof:name":"Banguema",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

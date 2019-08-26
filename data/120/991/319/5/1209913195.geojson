@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.42688,13.1441,-0.38688,13.1841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209913195,
-    "wof:lastmodified":1536376564,
+    "wof:lastmodified":1566612983,
     "wof:name":"Bakloute",
     "wof:parent_id":890413143,
     "wof:placetype":"locality",

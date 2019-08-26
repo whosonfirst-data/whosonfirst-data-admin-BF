@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.30752,12.12178,0.34752,12.16178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koumadougou",
         "Konhadu",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276330027,
-    "wof:lastmodified":1537587173,
+    "wof:lastmodified":1566612909,
     "wof:name":"Komadougou",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

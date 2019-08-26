@@ -11,7 +11,7 @@
     "geom:longitude":-1.812716,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":124554,
+    "gn:population":124554,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Kourw\u00e9ogo Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":12.728989,
     "lbl:longitude":-1.788784,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Plateau Central",
     "meso:gadm_admin":"Kourw\u00e9ogo",
     "meso:gadm_hasc2":"BF.PC.KW",
@@ -36,6 +38,7 @@
     "mps:longitude":-1.788784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0648\u0631\u0648\u064a\u0648\u063a\u0648"
     ],
@@ -135,7 +138,7 @@
         "Province du Kourw\u00e9ogo"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcc\u0bb0\u0bb5\u0bcd\u0b8e\u0b95\u0bcb  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bcc\u0bb0\u0bb5\u0bcd\u0b8e\u0b95\u0bcb \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c30\u0c4d\u0c35\u0c3f\u0c2f\u0c4b\u0c17\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -148,9 +151,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0432\u0435\u043e\u0433\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Province du Kourw\u00e9ogo"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0624\u0631\u0648\u0626\u0648\u06af\u0648 \u0635\u0648\u0628\u06c1"
@@ -172,9 +172,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"1,588.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Bouss\u00e9",
@@ -194,7 +194,7 @@
     "wof:concordances":{
         "gn:id":2597262,
         "hasc:id":"BF.PC.KW",
-        "qs:id":575154,
+        "qs_pg:id":575154,
         "wd:id":"Q661376"
     },
     "wof:country":"BF",
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":890453945,
-    "wof:lastmodified":1561833613,
+    "wof:lastmodified":1566613302,
     "wof:name":"Kourw\u00e9ogo",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

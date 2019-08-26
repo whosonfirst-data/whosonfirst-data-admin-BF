@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.96616,12.30212,-1.92616,12.34212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0632\u06a9\u0645\u0632\u0648\u0642\u0648"
     ],
@@ -43,7 +47,6 @@
     ],
     "name:und_x_variant":[
         "Z\u00e9kamsougoye",
-        "Z\u00e9k\u00e9mzougou",
         "Zinkemzougou",
         "Z\u00e9k\u00e8mzougou"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1326827751,
-    "wof:lastmodified":1564173205,
+    "wof:lastmodified":1566612614,
     "wof:name":"Zekemzougou",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

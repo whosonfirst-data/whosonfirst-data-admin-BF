@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.10333,12.01333,-2.06333,12.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Soula"
     ],
@@ -90,8 +94,7 @@
     ],
     "name:und_x_variant":[
         "Soulou",
-        "Soulo",
-        "Soula"
+        "Soulo"
     ],
     "name:vie_x_preferred":[
         "Soula"
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1310297647,
-    "wof:lastmodified":1564174066,
+    "wof:lastmodified":1566613191,
     "wof:name":"Soula",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

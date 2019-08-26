@@ -11,7 +11,7 @@
     "geom:longitude":-1.205582,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":145749,
+    "gn:population":145749,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Nahouri Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":11.205427,
     "lbl:longitude":-1.213118,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Centre-Sud",
     "meso:gadm_admin":"Nahouri",
     "meso:gadm_hasc2":"BF.CS.NR",
@@ -36,6 +38,7 @@
     "mps:longitude":-1.213118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u0627\u0647\u0648\u0631\u064a"
     ],
@@ -157,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0445\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province du Naouri"
     ],
     "name:urd_x_preferred":[
@@ -180,9 +183,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"3,754.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"P\u00f4",
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gn:id":2357548,
         "hasc:id":"BF.CS.NR",
-        "qs:id":573776,
+        "qs_pg:id":573776,
         "wd:id":"Q1142003",
         "wk:page":"Nahouri Province"
     },
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":890413159,
-    "wof:lastmodified":1563272898,
+    "wof:lastmodified":1566613297,
     "wof:name":"Nahouri",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

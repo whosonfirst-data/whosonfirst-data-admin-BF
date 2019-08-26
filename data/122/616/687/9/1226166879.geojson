@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.32917,12.30417,-0.28917,12.34417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Andemtenga"
     ],
@@ -43,8 +47,7 @@
         "Andemtenga"
     ],
     "name:und_x_variant":[
-        "Emd\u00e9mtenga",
-        "Andemtenga"
+        "Emd\u00e9mtenga"
     ],
     "name:vie_x_preferred":[
         "Andemtenga"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1226166879,
-    "wof:lastmodified":1564174517,
+    "wof:lastmodified":1566613508,
     "wof:name":"Andemtenga",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.83667,10.83,-4.79667,10.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mondon"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226654713,
-    "wof:lastmodified":1564174621,
+    "wof:lastmodified":1566613575,
     "wof:name":"Mondon",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

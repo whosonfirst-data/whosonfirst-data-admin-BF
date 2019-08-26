@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.40333,12.08,-3.36333,12.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Yavana"
     ],
@@ -50,8 +54,7 @@
         "\u0baf\u0bb5\u0ba9\u0bb0\u0bcd"
     ],
     "name:und_x_variant":[
-        "Yoana",
-        "Yona"
+        "Yoana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1209332371,
-    "wof:lastmodified":1564173845,
+    "wof:lastmodified":1566613041,
     "wof:name":"Yona",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

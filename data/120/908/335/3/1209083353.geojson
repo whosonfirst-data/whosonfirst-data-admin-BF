@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.08774,13.79133,-0.04774,13.83133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -35,7 +39,7 @@
         "gn:id":2361359
     },
     "wof:country":"BF",
-    "wof:geomhash":"6261b3bfbdc007788b2efc5542acf781",
+    "wof:geomhash":"2ae4aee1ea380db9576d1c661fad2ce7",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209083353,
-    "wof:lastmodified":1536298265,
+    "wof:lastmodified":1566612991,
     "wof:name":"Diatou",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -0.06774,
-    13.811329999999998,
+    13.81133,
     -0.06774,
-    13.811329999999998
+    13.81133
 ],
   "geometry": {"coordinates":[-0.06774,13.81133],"type":"Point"}
 }

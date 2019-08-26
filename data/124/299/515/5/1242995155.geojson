@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.60333,11.76333,-2.56333,11.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zawara"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Diaber\u00e9",
         "Zavera",
-        "Zaouara",
-        "Zawara"
+        "Zaouara"
     ],
     "name:vie_x_preferred":[
         "Zawara"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1242995155,
-    "wof:lastmodified":1564174344,
+    "wof:lastmodified":1566613394,
     "wof:name":"Zawara",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

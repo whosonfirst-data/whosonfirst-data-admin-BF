@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-5.00479,11.13843,-4.96479,11.17843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kwini",
         "Kouini"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327423565,
-    "wof:lastmodified":1537587169,
+    "wof:lastmodified":1566612648,
     "wof:name":"Kouini",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.26134,13.2828,-2.22134,13.3228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Say"
     ],
@@ -63,8 +67,7 @@
         "Say"
     ],
     "name:und_x_variant":[
-        "Saye",
-        "Say"
+        "Saye"
     ],
     "name:vie_x_preferred":[
         "S\u1eady"
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1344240767,
-    "wof:lastmodified":1564173302,
+    "wof:lastmodified":1566612682,
     "wof:name":"Say",
     "wof:parent_id":890422535,
     "wof:placetype":"locality",

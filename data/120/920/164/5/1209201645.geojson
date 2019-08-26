@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.24337,13.97105,-0.20337,14.01105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "P\u00e9okoye",
         "P\u00e9okoy",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209201645,
-    "wof:lastmodified":1537587137,
+    "wof:lastmodified":1566613048,
     "wof:name":"Peoukoy",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

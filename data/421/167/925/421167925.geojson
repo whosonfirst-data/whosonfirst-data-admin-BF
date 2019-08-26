@@ -10,8 +10,12 @@
     "geom:latitude":12.75844,
     "geom:longitude":-2.89879,
     "iso:country":"BF",
+    "lbl:bbox":"-2.91879,12.73844,-2.87879,12.77844",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Toma"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":2354265,
         "gp:id":1463622,
-        "qs:id":1035141,
+        "qs_pg:id":1035141,
         "wd:id":"Q2304523",
         "wk:page":"Toma, Burkina Faso"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421167925,
-    "wof:lastmodified":1563272881,
+    "wof:lastmodified":1566613291,
     "wof:name":"Toma",
     "wof:parent_id":890453951,
     "wof:placetype":"locality",

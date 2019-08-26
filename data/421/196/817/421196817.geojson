@@ -10,8 +10,12 @@
     "geom:latitude":12.64824,
     "geom:longitude":0.49314,
     "iso:country":"BF",
+    "lbl:bbox":"0.47314,12.62824,0.51314,12.66824",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gay\u00e9ri"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":2360541,
         "gp:id":1457911,
-        "qs:id":1298935,
+        "qs_pg:id":1298935,
         "wd:id":"Q1496612",
         "wk:page":"Gay\u00e9ri"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421196817,
-    "wof:lastmodified":1563272890,
+    "wof:lastmodified":1566613294,
     "wof:name":"Gay\u00e9ri",
     "wof:parent_id":890435617,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.61833,12.42222,-1.57833,12.46222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Larl\u00e9 W\u00e9oguen",
         "Laral\u00e9 W\u00e9oguin"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260292173,
-    "wof:lastmodified":1537587224,
+    "wof:lastmodified":1566613133,
     "wof:name":"Larle Weoguen",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",
