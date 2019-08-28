@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.18508,14.01008,0.22508,14.05008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ti\u00e9k\u00e9l Ndiaki",
         "Ty\u00e9kol Ndiaki"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343638603,
-    "wof:lastmodified":1537587106,
+    "wof:lastmodified":1566612671,
     "wof:name":"Tyekol Ndiaki",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

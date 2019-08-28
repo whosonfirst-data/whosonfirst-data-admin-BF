@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.2585,13.2057,-3.2185,13.2457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tiao"
     ],
     "name:und_x_variant":[
         "Tiau",
-        "Tiaou",
-        "Tiao"
+        "Tiaou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1225958433,
-    "wof:lastmodified":1564174492,
+    "wof:lastmodified":1566613491,
     "wof:name":"Tiao",
     "wof:parent_id":890421461,
     "wof:placetype":"locality",

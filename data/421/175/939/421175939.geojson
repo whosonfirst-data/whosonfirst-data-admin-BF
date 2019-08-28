@@ -10,6 +10,9 @@
     "geom:latitude":11.10033,
     "geom:longitude":-2.10654,
     "iso:country":"BF",
+    "lbl:bbox":"-2.12654,11.08033,-2.08654,11.12033",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gn:id":2358382,
         "gp:id":1459845,
-        "qs:id":1035187,
+        "qs_pg:id":1035187,
         "wd:id":"Q650951",
         "wk:page":"L\u00e9o, Burkina Faso"
     },
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421175939,
-    "wof:lastmodified":1563272887,
+    "wof:lastmodified":1566613293,
     "wof:name":"L\u00e9o",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

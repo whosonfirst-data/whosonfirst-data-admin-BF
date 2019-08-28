@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.55917,12.18778,-1.51917,12.22778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bas\u00e9my",
         "Bas\u00e9myan",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259887519,
-    "wof:lastmodified":1537587216,
+    "wof:lastmodified":1566613482,
     "wof:name":"Bassiyam",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

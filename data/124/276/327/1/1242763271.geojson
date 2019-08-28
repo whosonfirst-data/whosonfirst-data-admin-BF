@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.23014,13.10238,0.27014,13.14238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242763271,
-    "wof:lastmodified":1536796500,
+    "wof:lastmodified":1566613382,
     "wof:name":"Gaboandi",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

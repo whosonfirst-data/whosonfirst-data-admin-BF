@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.90972,12.13444,0.94972,12.17444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ougarou"
     ],
@@ -38,8 +42,7 @@
     "name:und_x_variant":[
         "Waru",
         "Ouarou",
-        "Ongarou",
-        "Ougarou"
+        "Ongarou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1243439699,
-    "wof:lastmodified":1564174370,
+    "wof:lastmodified":1566613411,
     "wof:name":"Ougarou",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

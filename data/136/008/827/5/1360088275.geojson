@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.53667,9.88,-4.49667,9.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lokoni\u00e9gu\u00e9",
         "Lokomi\u00e9gu\u00e9",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360088275,
-    "wof:lastmodified":1537587161,
+    "wof:lastmodified":1566613232,
     "wof:name":"Logoniegue",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",

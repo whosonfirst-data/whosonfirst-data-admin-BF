@@ -10,6 +10,9 @@
     "geom:latitude":11.17715,
     "geom:longitude":-4.2979,
     "iso:country":"BF",
+    "lbl:bbox":"-4.3179,11.15715,-4.2779,11.19715",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -159,7 +162,7 @@
         "Bobo-Dioulasso"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0baa\u0bcb  \u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bc1\u0bb2\u0bbe\u0bb8\u0bcd\u0bb8\u0bcb"
+        "\u0baa\u0bcb\u0baa\u0bcb \u0b9f\u0bbf\u0baf\u0bcb\u0bb5\u0bc1\u0bb2\u0bbe\u0bb8\u0bcd\u0bb8\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c2c\u0c4b \u0c21\u0c3f\u0c2f\u0c41\u0c32\u0c4b\u0c38\u0c4d\u0c38\u0c4b"
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u043e-\u0414\u0456\u0443\u043b\u0430\u0441\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bobo-Diulasso"
     ],
     "name:urd_x_preferred":[
@@ -319,7 +322,7 @@
     "wof:concordances":{
         "gn:id":2362344,
         "gp:id":1456351,
-        "qs:id":890001,
+        "qs_pg:id":890001,
         "wd:id":"Q223761",
         "wk:page":"Bobo-Dioulasso"
     },
@@ -336,7 +339,7 @@
         }
     ],
     "wof:id":421174633,
-    "wof:lastmodified":1563272883,
+    "wof:lastmodified":1566613291,
     "wof:name":"Bobo-Dioulasso",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

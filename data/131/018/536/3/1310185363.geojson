@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.75155,14.29155,-0.71155,14.33155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u00e9hir\u00e9",
         "Sikr\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310185363,
-    "wof:lastmodified":1537587123,
+    "wof:lastmodified":1566613189,
     "wof:name":"Sikire",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",

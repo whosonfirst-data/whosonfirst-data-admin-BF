@@ -10,6 +10,9 @@
     "geom:latitude":13.58278,
     "geom:longitude":-2.42158,
     "iso:country":"BF",
+    "lbl:bbox":"-2.44158,13.56278,-2.40158,13.60278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0430\u0445\u0456\u0433\u0443\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waiguya"
     ],
     "name:urd_x_preferred":[
@@ -247,7 +250,7 @@
     "wof:concordances":{
         "gn:id":2357043,
         "gp:id":1461085,
-        "qs:id":274208,
+        "qs_pg:id":274208,
         "wd:id":"Q569904",
         "wk:page":"Ouahigouya"
     },
@@ -264,7 +267,7 @@
         }
     ],
     "wof:id":421168981,
-    "wof:lastmodified":1563272879,
+    "wof:lastmodified":1566613290,
     "wof:name":"Ouahigouya",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

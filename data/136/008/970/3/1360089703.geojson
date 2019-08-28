@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.50382,13.18968,-1.46382,13.22968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u0444\u0438"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1360089703,
-    "wof:lastmodified":1564174128,
+    "wof:lastmodified":1566613233,
     "wof:name":"Safi",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

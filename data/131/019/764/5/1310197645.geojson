@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.22882,11.10843,-2.18882,11.14843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nadian",
         "Nadion"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310197645,
-    "wof:lastmodified":1537587154,
+    "wof:lastmodified":1566613198,
     "wof:name":"Nadion",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.75333,10.58,-3.71333,10.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -34,7 +38,7 @@
         "gn:id":2362546
     },
     "wof:country":"BF",
-    "wof:geomhash":"707626a721a575b0de5528cc50f5abf7",
+    "wof:geomhash":"84c210472e23fd826cecaed6197511a7",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209114969,
-    "wof:lastmodified":1536297283,
+    "wof:lastmodified":1566613042,
     "wof:name":"Bequele",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.733330000000001,
+    -3.73333,
     10.6,
-    -3.733330000000001,
+    -3.73333,
     10.6
 ],
   "geometry": {"coordinates":[-3.73333,10.6],"type":"Point"}

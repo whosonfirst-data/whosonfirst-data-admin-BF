@@ -11,7 +11,7 @@
     "geom:longitude":-2.223133,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":169834,
+    "gn:population":169834,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Sissili Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":11.22929,
     "lbl:longitude":-2.328288,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Centre-Ouest",
     "meso:gadm_admin":"Sissili",
     "meso:gadm_hasc2":"BF.CO.SS",
@@ -36,6 +38,7 @@
     "mps:longitude":-2.328288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0633\u064a\u0644\u064a"
     ],
@@ -142,7 +145,7 @@
         "Province de la Sissili"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbf\u0b9a\u0bbf\u0bb2\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bbf\u0b9a\u0bbf\u0bb2\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c38\u0c3f\u0c32\u0c40 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -155,9 +158,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0438\u0441\u0441\u0456\u043b\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Province de la Sissili"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0633\u06cc\u0644\u06cc \u0635\u0648\u0628\u06c1"
@@ -179,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"7,136.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"L\u00e9o",
@@ -201,7 +201,7 @@
     "wof:concordances":{
         "gn:id":2355474,
         "hasc:id":"BF.CO.SS",
-        "qs:id":91336,
+        "qs_pg:id":91336,
         "wd:id":"Q964281"
     },
     "wof:country":"BF",
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":890421465,
-    "wof:lastmodified":1563272908,
+    "wof:lastmodified":1566613303,
     "wof:name":"Sissili",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

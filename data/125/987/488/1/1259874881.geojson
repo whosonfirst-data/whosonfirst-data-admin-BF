@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.59727,14.19884,-2.55727,14.23884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bani"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1259874881,
-    "wof:lastmodified":1564174468,
+    "wof:lastmodified":1566613477,
     "wof:name":"Bani",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

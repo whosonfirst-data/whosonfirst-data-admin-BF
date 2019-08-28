@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.37,11.66333,-0.33,11.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ningar\u00e9"
     ],
@@ -32,9 +36,6 @@
         "Ningar\u00e9"
     ],
     "name:swe_x_preferred":[
-        "Ningar\u00e9"
-    ],
-    "name:und_x_variant":[
         "Ningar\u00e9"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1293807697,
-    "wof:lastmodified":1564173567,
+    "wof:lastmodified":1566612864,
     "wof:name":"Ningare",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.61272,13.71099,-2.57272,13.75099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nad\u00e8me",
         "Nadem"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326525547,
-    "wof:lastmodified":1537587154,
+    "wof:lastmodified":1566612625,
     "wof:name":"Nadem",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

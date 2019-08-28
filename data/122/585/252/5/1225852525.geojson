@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.43468,12.35136,-1.39468,12.39136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Saaba"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1225852525,
-    "wof:lastmodified":1564174644,
+    "wof:lastmodified":1566613590,
     "wof:name":"Saaba",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

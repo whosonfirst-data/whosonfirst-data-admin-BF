@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.23917,11.60083,-1.19917,11.64083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Pissi"
     ],
@@ -37,8 +41,7 @@
         "Pissi"
     ],
     "name:und_x_variant":[
-        "Pinsi",
-        "Pissi"
+        "Pinsi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1343482435,
-    "wof:lastmodified":1564173320,
+    "wof:lastmodified":1566612694,
     "wof:name":"Pissi",
     "wof:parent_id":1108693645,
     "wof:placetype":"locality",

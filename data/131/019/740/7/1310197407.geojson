@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.33667,11.93,-2.29667,11.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tiy\u00e9la",
         "Til\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310197407,
-    "wof:lastmodified":1537587104,
+    "wof:lastmodified":1566613200,
     "wof:name":"Tiyelle",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

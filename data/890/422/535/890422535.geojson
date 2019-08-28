@@ -11,7 +11,7 @@
     "geom:longitude":-2.37578,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":139784,
+    "gn:population":139784,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Zondoma Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":13.228552,
     "lbl:longitude":-2.300196,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nord",
     "meso:gadm_admin":"Zondoma",
     "meso:gadm_hasc2":"BF.NO.ZM",
@@ -36,6 +38,7 @@
     "mps:longitude":-2.300196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0632\u0648\u0646\u062f\u0648\u0645\u0627"
     ],
@@ -131,7 +134,7 @@
         "Province du Zondoma"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0ba3\u0bcd\u0b9f\u0bae\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb8\u0bcd\u0ba3\u0bcd\u0b9f\u0bae\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c4b\u0c02\u0c21\u0c4b\u0c2e\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -144,9 +147,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u043e\u043d\u0434\u043e\u043c\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Province du Zondoma"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0648\u0646\u062f\u0648\u0645\u0627 \u0635\u0648\u0628\u06c1"
@@ -168,9 +168,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"1,758.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Gourcy",
@@ -190,7 +190,7 @@
     "wof:concordances":{
         "gn:id":2597270,
         "hasc:id":"BF.NO.ZM",
-        "qs:id":575162,
+        "qs_pg:id":575162,
         "wd:id":"Q219859"
     },
     "wof:country":"BF",
@@ -205,7 +205,7 @@
         }
     ],
     "wof:id":890422535,
-    "wof:lastmodified":1561833610,
+    "wof:lastmodified":1566613296,
     "wof:name":"Zondoma",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

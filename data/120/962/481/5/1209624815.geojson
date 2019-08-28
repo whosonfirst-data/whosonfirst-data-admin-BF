@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.75333,12.64667,-3.71333,12.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -34,7 +38,7 @@
         "gn:id":2354225
     },
     "wof:country":"BF",
-    "wof:geomhash":"4f18695e3523486c94310dd8d0eab67e",
+    "wof:geomhash":"6beb66793eabcd82328d9711fd445547",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209624815,
-    "wof:lastmodified":1536281391,
+    "wof:lastmodified":1566612984,
     "wof:name":"Tonsere",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.733330000000001,
+    -3.73333,
     12.66667,
-    -3.733330000000001,
+    -3.73333,
     12.66667
 ],
   "geometry": {"coordinates":[-3.73333,12.66667],"type":"Point"}

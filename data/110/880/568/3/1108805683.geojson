@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":10.343722,
     "lbl:longitude":-3.290798,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -131,9 +132,9 @@
         "\u897f\u5357\u5927\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"16,202",
     "statoids:area_mi":"6,256",
     "statoids:as_of_date":"2006-12-23",
@@ -174,11 +175,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565654011,
+    "wof:lastmodified":1566613146,
     "wof:name":"Sud-Ouest",
     "wof:parent_id":85632213,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":624056,
     "wof:population_rank":11,

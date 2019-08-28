@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.69726,13.01757,-2.65726,13.05757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310188837,
-    "wof:lastmodified":1536875428,
+    "wof:lastmodified":1566613189,
     "wof:name":"Saoutoumbo",
     "wof:parent_id":890422535,
     "wof:placetype":"locality",

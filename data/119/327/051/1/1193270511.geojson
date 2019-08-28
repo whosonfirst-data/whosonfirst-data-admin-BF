@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.17,11.33,-2.13,11.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tabou"
     ],
@@ -44,8 +48,7 @@
         "Tabou"
     ],
     "name:und_x_variant":[
-        "Tabu",
-        "Tabou"
+        "Tabu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1193270511,
-    "wof:lastmodified":1564173938,
+    "wof:lastmodified":1566613102,
     "wof:name":"Tabou",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

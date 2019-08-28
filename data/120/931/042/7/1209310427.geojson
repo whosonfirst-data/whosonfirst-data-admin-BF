@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-5.27376,11.7856,-5.23376,11.8256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209310427,
-    "wof:lastmodified":1536291048,
+    "wof:lastmodified":1566612978,
     "wof:name":"Sindorola",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",

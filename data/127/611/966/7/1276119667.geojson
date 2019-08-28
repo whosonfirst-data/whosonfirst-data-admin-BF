@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.42028,12.28889,-1.38028,12.32889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276119667,
-    "wof:lastmodified":1537062124,
+    "wof:lastmodified":1566612907,
     "wof:name":"Tangsega",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

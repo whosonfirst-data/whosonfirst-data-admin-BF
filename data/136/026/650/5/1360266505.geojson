@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.58667,12.26333,-0.54667,12.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Digr\u00e9"
     ],
     "name:swe_x_preferred":[
-        "Digr\u00e9"
-    ],
-    "name:und_x_variant":[
         "Digr\u00e9"
     ],
     "src:geom":"geonames",
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1360266505,
-    "wof:lastmodified":1564174161,
+    "wof:lastmodified":1566613255,
     "wof:name":"Digre",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

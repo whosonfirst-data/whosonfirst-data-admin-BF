@@ -11,7 +11,7 @@
     "geom:longitude":-4.255449,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":762415,
+    "gn:population":762415,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Houet Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":11.290284,
     "lbl:longitude":-4.246654,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Hauts-Bassins",
     "meso:gadm_admin":"Houet",
     "meso:gadm_hasc2":"BF.HB.HO",
@@ -36,6 +38,7 @@
     "mps:longitude":-4.246654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0648\u064a\u062a"
     ],
@@ -139,7 +142,7 @@
         "Province du Houet"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bcb\u0baf\u0bc2\u0b9f\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb9\u0bcb\u0baf\u0bc2\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4b\u0c2f\u0c46\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -153,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province du Hou\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -176,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"11,568.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Bobo-Dioulasso",
@@ -198,7 +201,7 @@
     "wof:concordances":{
         "gn:id":2360075,
         "hasc:id":"BF.HB.HO",
-        "qs:id":91337,
+        "qs_pg:id":91337,
         "wd:id":"Q1074161"
     },
     "wof:country":"BF",
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890428969,
-    "wof:lastmodified":1563272912,
+    "wof:lastmodified":1566613305,
     "wof:name":"Houet",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

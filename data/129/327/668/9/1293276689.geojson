@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.90333,10.76333,-3.86333,10.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Diosso"
     ],
@@ -38,8 +42,7 @@
         "Diosso"
     ],
     "name:und_x_variant":[
-        "Diesso",
-        "Diosso"
+        "Diesso"
     ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0648\u0633\u0648"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1293276689,
-    "wof:lastmodified":1564173553,
+    "wof:lastmodified":1566612856,
     "wof:name":"Diosso",
     "wof:parent_id":890428969,
     "wof:placetype":"locality",

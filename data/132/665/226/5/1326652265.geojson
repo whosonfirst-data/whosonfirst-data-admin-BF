@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.96722,12.56028,-1.92722,12.60028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dassiss\u00e9",
         "Dasis\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326652265,
-    "wof:lastmodified":1537587202,
+    "wof:lastmodified":1566612636,
     "wof:name":"Dasise",
     "wof:parent_id":890428981,
     "wof:placetype":"locality",

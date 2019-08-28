@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.45283,14.30007,-1.41283,14.34007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -35,7 +39,7 @@
         "gn:id":2361869
     },
     "wof:country":"BF",
-    "wof:geomhash":"f2992bd5c8d80c3bb9f74d5b7a380992",
+    "wof:geomhash":"549fea13e04b803cf6472a7b0a7b310e",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209693067,
-    "wof:lastmodified":1536279171,
+    "wof:lastmodified":1566613034,
     "wof:name":"Bouro",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -1.4328299999999998,
+    -1.43283,
     14.32007,
-    -1.4328299999999998,
+    -1.43283,
     14.32007
 ],
   "geometry": {"coordinates":[-1.43283,14.32007],"type":"Point"}

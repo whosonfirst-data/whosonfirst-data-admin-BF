@@ -10,6 +10,9 @@
     "geom:latitude":12.31963,
     "geom:longitude":-2.47094,
     "iso:country":"BF",
+    "lbl:bbox":"-2.49094,12.29963,-2.45094,12.33963",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -194,7 +197,7 @@
     "wof:concordances":{
         "gn:id":2356228,
         "gp:id":1461824,
-        "qs:id":58940,
+        "qs_pg:id":58940,
         "wd:id":"Q1817933",
         "wk:page":"R\u00e9o"
     },
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421178307,
-    "wof:lastmodified":1563272893,
+    "wof:lastmodified":1566613295,
     "wof:name":"R\u00e9o",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

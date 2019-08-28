@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.68306,12.14583,-1.64306,12.18583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Toezouri",
         "T\u00e9zouri"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327239133,
-    "wof:lastmodified":1537587107,
+    "wof:lastmodified":1566612595,
     "wof:name":"Tezouri",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.73974,11.97915,-4.69974,12.01915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u062c \u0645\u0631\u0635\u0639"
     ],
@@ -117,8 +121,7 @@
         "Tiara"
     ],
     "name:und_x_variant":[
-        "Fofora",
-        "Tiara"
+        "Fofora"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1193267989,
-    "wof:lastmodified":1564173941,
+    "wof:lastmodified":1566613104,
     "wof:name":"Tiara",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.65649,13.14914,-1.61649,13.18914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0631\u0627\u06a9\u0627"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226142061,
-    "wof:lastmodified":1564174562,
+    "wof:lastmodified":1566613539,
     "wof:name":"Raka",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.93667,12.61333,-3.89667,12.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Dara"
     ],
@@ -38,8 +42,7 @@
         "\u0414\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Dora",
-        "Dara"
+        "Dora"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293897493,
-    "wof:lastmodified":1564173561,
+    "wof:lastmodified":1566612860,
     "wof:name":"Dara",
     "wof:parent_id":890413165,
     "wof:placetype":"locality",

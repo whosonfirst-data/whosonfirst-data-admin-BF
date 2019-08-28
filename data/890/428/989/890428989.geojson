@@ -11,7 +11,7 @@
     "geom:longitude":-1.586241,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":239060,
+    "gn:population":239060,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Bam Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":13.490081,
     "lbl:longitude":-1.62238,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Centre-Nord",
     "meso:gadm_admin":"Bam",
     "meso:gadm_hasc2":"BF.CN.BM",
@@ -36,6 +38,7 @@
     "mps:longitude":-1.62238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u0645"
     ],
@@ -142,7 +145,7 @@
         "Province du Bam"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbe\u0bae\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bbe\u0bae\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c2e\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -155,9 +158,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043c"
-    ],
-    "name:unk_x_variant":[
-        "Province du Bam"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0645 \u0635\u0648\u0628\u06c1"
@@ -179,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"4,084.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Kongoussi",
@@ -201,7 +201,7 @@
     "wof:concordances":{
         "gn:id":2362973,
         "hasc:id":"BF.CN.BM",
-        "qs:id":91347,
+        "qs_pg:id":91347,
         "wd:id":"Q620710"
     },
     "wof:country":"BF",
@@ -216,7 +216,7 @@
         }
     ],
     "wof:id":890428989,
-    "wof:lastmodified":1563272913,
+    "wof:lastmodified":1566613306,
     "wof:name":"Bam",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

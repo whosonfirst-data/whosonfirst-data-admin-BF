@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.44566,13.61512,-2.40566,13.65512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boroya",
         "Bogoya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1210010285,
-    "wof:lastmodified":1537587210,
+    "wof:lastmodified":1566613074,
     "wof:name":"Bogoya",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

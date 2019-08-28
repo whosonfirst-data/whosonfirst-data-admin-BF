@@ -11,7 +11,7 @@
     "geom:longitude":-3.416955,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":273309,
+    "gn:population":273309,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Mouhoun Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":12.233905,
     "lbl:longitude":-3.407967,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boucle du Mouhoun",
     "meso:gadm_admin":"Mouhoun",
     "meso:gadm_hasc2":"BF.BO.MO",
@@ -36,6 +38,7 @@
     "mps:longitude":-3.407967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0647\u0648\u0646"
     ],
@@ -150,9 +153,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0445\u0443\u043d"
     ],
-    "name:unk_x_variant":[
-        "Province du Mouhoun"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0624\u06c1\u0624\u0646 \u0635\u0648\u0628\u06c1"
     ],
@@ -173,9 +173,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"6,668.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"D\u00e9dougou",
@@ -195,7 +195,7 @@
     "wof:concordances":{
         "gn:id":2357858,
         "hasc:id":"BF.BO.MO",
-        "qs:id":573778,
+        "qs_pg:id":573778,
         "wd:id":"Q1142050"
     },
     "wof:country":"BF",
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":890413161,
-    "wof:lastmodified":1563272899,
+    "wof:lastmodified":1566613297,
     "wof:name":"Mouhoun",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

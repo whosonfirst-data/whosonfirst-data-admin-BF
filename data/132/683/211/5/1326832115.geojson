@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.37472,12.22222,-1.33472,12.26222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326832115,
-    "wof:lastmodified":1537046970,
+    "wof:lastmodified":1566612621,
     "wof:name":"Sinioguen",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",

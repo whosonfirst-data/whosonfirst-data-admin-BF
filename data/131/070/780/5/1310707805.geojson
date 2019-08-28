@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.18196,11.33356,0.22196,11.37356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kams\u00e9ogo",
         "Kans\u00e9ogo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310707805,
-    "wof:lastmodified":1537587226,
+    "wof:lastmodified":1566613157,
     "wof:name":"Kamseogo",
     "wof:parent_id":890421707,
     "wof:placetype":"locality",

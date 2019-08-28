@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.75382,11.66277,-4.71382,11.70277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259869211,
-    "wof:lastmodified":1536799834,
+    "wof:lastmodified":1566613485,
     "wof:name":"Digouera",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

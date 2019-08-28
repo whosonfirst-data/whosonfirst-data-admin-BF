@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-2.62,11.83,-2.58,11.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ti\u00e9oudi\u00e9",
         "Tiodi\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293586763,
-    "wof:lastmodified":1537587104,
+    "wof:lastmodified":1566612834,
     "wof:name":"Tiodie",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

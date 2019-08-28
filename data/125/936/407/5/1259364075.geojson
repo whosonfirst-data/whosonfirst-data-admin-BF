@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.77,12.48,-1.73,12.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tanga",
         "To\u00e9gen",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259364075,
-    "wof:lastmodified":1537587103,
+    "wof:lastmodified":1566613414,
     "wof:name":"Toegen",
     "wof:parent_id":890453945,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"1.01362,12.48487,1.05362,12.52487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243256891,
-    "wof:lastmodified":1537075702,
+    "wof:lastmodified":1566613362,
     "wof:name":"Talintoaga",
     "wof:parent_id":890428971,
     "wof:placetype":"locality",

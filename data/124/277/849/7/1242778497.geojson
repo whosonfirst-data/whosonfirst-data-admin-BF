@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.44565,12.23162,-0.40565,12.27162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Pouytenga"
     ],
@@ -44,8 +48,7 @@
     "name:und_x_variant":[
         "Pouitenga",
         "Pouitenga-Tanlili",
-        "Pouytenga Tanlili",
-        "Pouytenga"
+        "Pouytenga Tanlili"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242778497,
-    "wof:lastmodified":1564174319,
+    "wof:lastmodified":1566613377,
     "wof:name":"Pouytenga",
     "wof:parent_id":890413163,
     "wof:placetype":"locality",

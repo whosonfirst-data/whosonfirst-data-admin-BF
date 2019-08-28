@@ -10,8 +10,12 @@
     "geom:latitude":10.66667,
     "geom:longitude":-5.16667,
     "iso:country":"BF",
+    "lbl:bbox":"-5.18667,10.64667,-5.14667,10.68667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0438\u043d\u0434\u043e\u0443"
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sindu"
     ],
     "name:urd_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":2355548,
         "gp:id":1462467,
-        "qs:id":910957,
+        "qs_pg:id":910957,
         "wd:id":"Q1507575",
         "wk:page":"Sindou"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421174947,
-    "wof:lastmodified":1563272884,
+    "wof:lastmodified":1566613292,
     "wof:name":"Sindou",
     "wof:parent_id":890453947,
     "wof:placetype":"locality",

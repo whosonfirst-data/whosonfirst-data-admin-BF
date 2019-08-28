@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.4182,13.26782,-1.3782,13.30782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343358219,
-    "wof:lastmodified":1536893490,
+    "wof:lastmodified":1566612718,
     "wof:name":"Tibtenga",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

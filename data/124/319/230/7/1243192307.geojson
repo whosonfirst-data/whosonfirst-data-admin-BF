@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.01333,12.68,0.05333,12.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kouloungou",
         "Kulungu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243192307,
-    "wof:lastmodified":1537587166,
+    "wof:lastmodified":1566613404,
     "wof:name":"Kourougou",
     "wof:parent_id":890428975,
     "wof:placetype":"locality",

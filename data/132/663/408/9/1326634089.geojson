@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.2984,13.0225,-3.2584,13.0625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wara"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1326634089,
-    "wof:lastmodified":1564173228,
+    "wof:lastmodified":1566612629,
     "wof:name":"Wara",
     "wof:parent_id":890421461,
     "wof:placetype":"locality",

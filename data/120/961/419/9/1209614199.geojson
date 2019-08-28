@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.66801,13.57854,-0.62801,13.61854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -35,7 +39,7 @@
         "gn:id":2361658
     },
     "wof:country":"BF",
-    "wof:geomhash":"3fe2bc9c46b000e846072ad6c2d49dfe",
+    "wof:geomhash":"5a25207a7328a0f3d9a058ba7f9baf2c",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209614199,
-    "wof:lastmodified":1536281746,
+    "wof:lastmodified":1566613022,
     "wof:name":"Damkarko Nayiri",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -0.6480100000000001,
+    -0.64801,
     13.59854,
-    -0.6480100000000001,
+    -0.64801,
     13.59854
 ],
   "geometry": {"coordinates":[-0.64801,13.59854],"type":"Point"}

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.43833,11.985,-1.39833,12.025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Youdoutenga",
         "Yougtenga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309709077,
-    "wof:lastmodified":1537587092,
+    "wof:lastmodified":1566613265,
     "wof:name":"Yougtenga",
     "wof:parent_id":1108693649,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":-3.01601,
     "gn:country":"BF",
     "gn:fcode":"ADM2",
-    "gn:pop":217896,
+    "gn:population":217896,
     "iso:country":"BF",
     "label:eng_x_preferred_longname":[
         "Sourou Province"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":13.249393,
     "lbl:longitude":-2.964921,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boucle du Mouhoun",
     "meso:gadm_admin":"Sourou",
     "meso:gadm_hasc2":"BF.BO.SR",
@@ -36,6 +38,7 @@
     "mps:longitude":-2.964921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0648\u0631\u0648"
     ],
@@ -139,7 +142,7 @@
         "Sourou"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bcc\u0bb0\u0bcc  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bcc\u0bb0\u0bcc \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4c\u0c30\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -153,7 +156,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Province du Sourou"
     ],
     "name:urd_x_preferred":[
@@ -176,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-12-23",
+    "src:population_date":"2006-12-23",
     "statoids:area_km":"5,765.0",
     "statoids:as_of_date":"2006-12-23",
     "statoids:capital":"Tougan",
@@ -198,7 +201,7 @@
     "wof:concordances":{
         "gn:id":2355211,
         "hasc:id":"BF.BO.SR",
-        "qs:id":91334,
+        "qs_pg:id":91334,
         "wd:id":"Q558703"
     },
     "wof:country":"BF",
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890421461,
-    "wof:lastmodified":1563272909,
+    "wof:lastmodified":1566613303,
     "wof:name":"Sourou",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

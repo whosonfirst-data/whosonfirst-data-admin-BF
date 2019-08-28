@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.8894,13.2437,-3.8494,13.2837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolonkan",
         "Kolokan Gour\u00e9 B\u00e2",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259497563,
-    "wof:lastmodified":1537587174,
+    "wof:lastmodified":1566613451,
     "wof:name":"Kolonkan Goure Ba",
     "wof:parent_id":890413165,
     "wof:placetype":"locality",

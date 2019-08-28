@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.4925,12.56944,-1.4525,12.60944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09a4\u09c7\u0999\u09cd\u0997\u09be"
     ],
@@ -36,8 +40,7 @@
         "\u0caa\u0ca4\u0cc6\u0c82\u0c97 \u0cac\u0cc0\u0c9a\u0ccd"
     ],
     "name:und_x_variant":[
-        "Tabtenga",
-        "Patenga"
+        "Tabtenga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327011007,
-    "wof:lastmodified":1564173105,
+    "wof:lastmodified":1566612550,
     "wof:name":"Patenga",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

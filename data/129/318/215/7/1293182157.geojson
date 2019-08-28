@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-0.88667,12.28,-0.84667,12.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0645\u062a\u0646\u0642\u0627"
     ],
@@ -38,9 +42,6 @@
         "Semtenga"
     ],
     "name:swe_x_preferred":[
-        "S\u00e8mtenga"
-    ],
-    "name:und_x_variant":[
         "S\u00e8mtenga"
     ],
     "src:geom":"geonames",
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1293182157,
-    "wof:lastmodified":1564173547,
+    "wof:lastmodified":1566612853,
     "wof:name":"Semtenga",
     "wof:parent_id":890428979,
     "wof:placetype":"locality",

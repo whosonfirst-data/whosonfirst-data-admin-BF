@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.21485,13.73831,-1.17485,13.77831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bini"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310481815,
-    "wof:lastmodified":1564174012,
+    "wof:lastmodified":1566613155,
     "wof:name":"Bini",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-3.30333,9.99667,-3.26333,10.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632213
@@ -34,7 +38,7 @@
         "gn:id":2361119
     },
     "wof:country":"BF",
-    "wof:geomhash":"4f220435dc51eeb5bfaa39cf194143ef",
+    "wof:geomhash":"c6a465e3871f246a58efaee7a5988a34",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209092671,
-    "wof:lastmodified":1536297988,
+    "wof:lastmodified":1566612975,
     "wof:name":"Dongolona",
     "wof:parent_id":85632213,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.2833300000000003,
+    -3.28333,
     10.01667,
-    -3.2833300000000003,
+    -3.28333,
     10.01667
 ],
   "geometry": {"coordinates":[-3.28333,10.01667],"type":"Point"}

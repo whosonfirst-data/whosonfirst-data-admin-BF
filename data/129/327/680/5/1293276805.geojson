@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-4.97565,11.06906,-4.93565,11.10906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tin"
     ],
@@ -487,7 +491,7 @@
         }
     ],
     "wof:id":1293276805,
-    "wof:lastmodified":1564173553,
+    "wof:lastmodified":1566612855,
     "wof:name":"Tin",
     "wof:parent_id":890413171,
     "wof:placetype":"locality",

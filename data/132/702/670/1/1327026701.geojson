@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.58667,11.34667,-1.54667,11.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u064a"
     ],
@@ -213,7 +217,7 @@
         }
     ],
     "wof:id":1327026701,
-    "wof:lastmodified":1564173187,
+    "wof:lastmodified":1566612602,
     "wof:name":"Pori",
     "wof:parent_id":890413159,
     "wof:placetype":"locality",

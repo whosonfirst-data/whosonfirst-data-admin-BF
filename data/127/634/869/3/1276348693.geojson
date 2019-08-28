@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-5.17,10.74667,-5.13,10.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Tourny"
     ],
@@ -98,8 +102,7 @@
         "\u0422\u0443\u0440\u043d\u0456"
     ],
     "name:und_x_variant":[
-        "Tourni",
-        "Tourny"
+        "Tourni"
     ],
     "name:vie_x_preferred":[
         "Tourny"
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1276348693,
-    "wof:lastmodified":1564173638,
+    "wof:lastmodified":1566612910,
     "wof:name":"Tourny",
     "wof:parent_id":890453947,
     "wof:placetype":"locality",

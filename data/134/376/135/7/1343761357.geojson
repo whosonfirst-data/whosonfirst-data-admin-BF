@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.41163,13.16367,-1.37163,13.20367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646\u0647\u0648\u0626\u06cc"
     ],
@@ -39,10 +43,6 @@
         "Sanhoui"
     ],
     "name:swe_x_preferred":[
-        "Sanoui"
-    ],
-    "name:und_x_variant":[
-        "Sanhoui",
         "Sanoui"
     ],
     "src:geom":"geonames",
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1343761357,
-    "wof:lastmodified":1564173334,
+    "wof:lastmodified":1566612703,
     "wof:name":"Sanoui",
     "wof:parent_id":890428989,
     "wof:placetype":"locality",

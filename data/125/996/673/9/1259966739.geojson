@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"0.32958,13.5396,0.36958,13.5796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259966739,
-    "wof:lastmodified":1536659375,
+    "wof:lastmodified":1566613421,
     "wof:name":"Tyouridi",
     "wof:parent_id":890422529,
     "wof:placetype":"locality",

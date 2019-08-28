@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-1.46508,14.25757,-1.42508,14.29757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ganiang\u00e9",
         "Tondiata",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226122723,
-    "wof:lastmodified":1537587192,
+    "wof:lastmodified":1566613555,
     "wof:name":"Ganiangue",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",

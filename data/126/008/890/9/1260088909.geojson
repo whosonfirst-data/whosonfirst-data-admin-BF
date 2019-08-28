@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Ouagadougou",
     "iso:country":"BF",
+    "lbl:bbox":"-5.10333,10.53,-5.06333,10.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gouindougouba"
     ],
@@ -35,8 +39,7 @@
         "Gouindougouba"
     ],
     "name:und_x_variant":[
-        "Goindougouba",
-        "Gouindougouba"
+        "Goindougouba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260088909,
-    "wof:lastmodified":1564173965,
+    "wof:lastmodified":1566613120,
     "wof:name":"Gouindougouba",
     "wof:parent_id":890413167,
     "wof:placetype":"locality",
