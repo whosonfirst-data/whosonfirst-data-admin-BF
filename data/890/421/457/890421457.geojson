@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051393,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7d775e4bcc91c918cd32aa05f40d5566",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890421457,
-    "wof:lastmodified":1566613303,
+    "wof:lastmodified":1582344682,
     "wof:name":"Yatenga",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

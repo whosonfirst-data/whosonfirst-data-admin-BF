@@ -233,6 +233,9 @@
     },
     "wof:country":"BF",
     "wof:created":1459009527,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9cef97d75cc3c35a5ae6831f91d5f849",
     "wof:hierarchy":[
         {
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":421187907,
-    "wof:lastmodified":1566613292,
+    "wof:lastmodified":1582344679,
     "wof:name":"Kadiogo",
     "wof:parent_id":1108805693,
     "wof:placetype":"county",

@@ -195,6 +195,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051450,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"769adb6bcf2200ddf2104022e2364b40",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890422529,
-    "wof:lastmodified":1566613296,
+    "wof:lastmodified":1582344680,
     "wof:name":"Yagha",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

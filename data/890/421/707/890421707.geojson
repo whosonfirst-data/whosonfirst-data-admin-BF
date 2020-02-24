@@ -204,6 +204,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051404,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c1919dc043d0168f6ffc5463045e73d",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890421707,
-    "wof:lastmodified":1566613302,
+    "wof:lastmodified":1582344682,
     "wof:name":"Koulp\u00e9logo",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

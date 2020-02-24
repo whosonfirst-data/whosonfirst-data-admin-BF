@@ -206,6 +206,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051393,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81989739af9d2f36795d769df4ae639f",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890421465,
-    "wof:lastmodified":1566613303,
+    "wof:lastmodified":1582344682,
     "wof:name":"Sissili",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

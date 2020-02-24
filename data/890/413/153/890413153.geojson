@@ -198,6 +198,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"617a5b5caff74b38009d4f18cd26afc9",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890413153,
-    "wof:lastmodified":1566613299,
+    "wof:lastmodified":1582344681,
     "wof:name":"Oudalan",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

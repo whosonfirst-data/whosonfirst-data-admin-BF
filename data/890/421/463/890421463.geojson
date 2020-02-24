@@ -144,6 +144,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051393,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2bce0646c7891822d3df12605b890a2f",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890421463,
-    "wof:lastmodified":1566613303,
+    "wof:lastmodified":1582344682,
     "wof:name":"Soum",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

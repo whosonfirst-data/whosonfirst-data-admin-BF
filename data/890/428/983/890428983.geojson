@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051785,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"083d2c41949139b77d5be3edd55d0980",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890428983,
-    "wof:lastmodified":1566613304,
+    "wof:lastmodified":1582344683,
     "wof:name":"Boulgou",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

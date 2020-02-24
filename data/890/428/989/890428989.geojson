@@ -206,6 +206,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051785,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c004465e6dd1f0e86affd3353509bec7",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890428989,
-    "wof:lastmodified":1566613306,
+    "wof:lastmodified":1582344683,
     "wof:name":"Bam",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

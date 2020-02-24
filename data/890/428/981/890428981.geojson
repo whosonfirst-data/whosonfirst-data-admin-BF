@@ -210,6 +210,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051785,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b389ea4d250b79720021a0b5fba7f4a0",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890428981,
-    "wof:lastmodified":1566613306,
+    "wof:lastmodified":1582344683,
     "wof:name":"Boulkiemd\u00e9",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

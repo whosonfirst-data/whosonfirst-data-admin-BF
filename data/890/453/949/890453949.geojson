@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469052879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4af3b47bb7a9a6f43c2d3a3ac0091fb0",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890453949,
-    "wof:lastmodified":1566613302,
+    "wof:lastmodified":1582344682,
     "wof:name":"Loroum",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

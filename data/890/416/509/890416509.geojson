@@ -200,6 +200,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051138,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c365b54fb838f6fe5cca0f1d37091aa0",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":890416509,
-    "wof:lastmodified":1566613307,
+    "wof:lastmodified":1582344684,
     "wof:name":"Ioba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

@@ -207,6 +207,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469052879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"feccfd8d02f5bc0cb089b6e4f9a6fbda",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":890453947,
-    "wof:lastmodified":1566613302,
+    "wof:lastmodified":1582344682,
     "wof:name":"L\u00e9raba",
     "wof:parent_id":1108805703,
     "wof:placetype":"county",

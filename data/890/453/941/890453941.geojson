@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469052879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ac502c566f06ca25b043859dfd1543a",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890453941,
-    "wof:lastmodified":1566613301,
+    "wof:lastmodified":1582344682,
     "wof:name":"Kompienga",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

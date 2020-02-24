@@ -200,6 +200,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf6d22339d294e3d6291b35b8834366b",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":890413161,
-    "wof:lastmodified":1566613297,
+    "wof:lastmodified":1582344680,
     "wof:name":"Mouhoun",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

@@ -204,6 +204,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469052075,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67a7967d9371843babcfc5eed06ddce4",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890435617,
-    "wof:lastmodified":1566613308,
+    "wof:lastmodified":1582344684,
     "wof:name":"Komandjoari",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

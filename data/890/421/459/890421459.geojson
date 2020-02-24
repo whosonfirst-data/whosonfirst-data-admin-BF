@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051393,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a26724aaf3eaf84c32e2d189c268f10d",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890421459,
-    "wof:lastmodified":1566613304,
+    "wof:lastmodified":1582344682,
     "wof:name":"Tapoa",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

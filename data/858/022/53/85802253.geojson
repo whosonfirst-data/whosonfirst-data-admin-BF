@@ -68,6 +68,9 @@
         "gp:id":1464570
     },
     "wof:country":"BF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"365eabac1b1dd1b6d1cc45947770825c",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566612769,
+    "wof:lastmodified":1582344671,
     "wof:name":"Zone Pilote de Sissen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

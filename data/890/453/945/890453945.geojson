@@ -199,6 +199,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469052879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0b6df946cfa78e20c70835c6bc8c917d",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":890453945,
-    "wof:lastmodified":1566613302,
+    "wof:lastmodified":1582344682,
     "wof:name":"Kourw\u00e9ogo",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

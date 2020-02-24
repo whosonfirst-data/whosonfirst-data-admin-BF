@@ -582,6 +582,9 @@
     },
     "wof:country":"BF",
     "wof:created":1459008789,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cc7be77c5e673a03e9410f74d1f69e1",
     "wof:hierarchy":[
         {
@@ -593,7 +596,7 @@
         }
     ],
     "wof:id":421168983,
-    "wof:lastmodified":1566613290,
+    "wof:lastmodified":1582344679,
     "wof:name":"Ouagadougou",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",
