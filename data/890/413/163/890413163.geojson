@@ -211,6 +211,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aaec7996845bd94830c10ac8f488c98b",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":890413163,
-    "wof:lastmodified":1566613299,
+    "wof:lastmodified":1582344681,
     "wof:name":"Kouritenga",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

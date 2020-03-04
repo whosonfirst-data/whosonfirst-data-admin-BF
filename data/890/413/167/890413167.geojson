@@ -207,6 +207,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb33cb1f29baaa43a53a8e77915328f4",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":890413167,
-    "wof:lastmodified":1566613298,
+    "wof:lastmodified":1582344680,
     "wof:name":"Como\u00e9",
     "wof:parent_id":1108805703,
     "wof:placetype":"county",

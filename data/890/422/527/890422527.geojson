@@ -209,6 +209,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051450,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5c475c019770582936ac948aa878602",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":890422527,
-    "wof:lastmodified":1566613296,
+    "wof:lastmodified":1582344680,
     "wof:name":"Tuy",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

@@ -195,6 +195,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051450,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1d6292bf21e331dc9919d72b64847ce",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890422535,
-    "wof:lastmodified":1566613296,
+    "wof:lastmodified":1582344680,
     "wof:name":"Zondoma",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

@@ -206,6 +206,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051784,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"31e773b9d43dda855f5d7bfab6c8f5ce",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890428969,
-    "wof:lastmodified":1566613305,
+    "wof:lastmodified":1582344683,
     "wof:name":"Houet",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

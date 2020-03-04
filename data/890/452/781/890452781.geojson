@@ -210,6 +210,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469052830,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"19fda5082c56703db3dfadd73190be95",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890452781,
-    "wof:lastmodified":1566613301,
+    "wof:lastmodified":1582344682,
     "wof:name":"Bal\u00e9",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

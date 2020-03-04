@@ -201,6 +201,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051450,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e70883bc8a5b4e956fcbb2d9ef8b98c",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":890422531,
-    "wof:lastmodified":1566613296,
+    "wof:lastmodified":1582344680,
     "wof:name":"Ziro",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

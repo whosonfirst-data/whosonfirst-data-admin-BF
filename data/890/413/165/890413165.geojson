@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"75852d046a72ad9c9286507910d39573",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890413165,
-    "wof:lastmodified":1566613299,
+    "wof:lastmodified":1582344681,
     "wof:name":"Kossi",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

@@ -79,6 +79,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469052879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"232658f8e1a60accf1d8bbd276e1eb71",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890453951,
-    "wof:lastmodified":1566613302,
+    "wof:lastmodified":1582344682,
     "wof:name":"Nayala",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

@@ -209,6 +209,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050989,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ade2c00f14d6eba463af26c25e69f084",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":890413143,
-    "wof:lastmodified":1566613299,
+    "wof:lastmodified":1582344681,
     "wof:name":"Namentenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

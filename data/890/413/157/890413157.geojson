@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8fc2e0786db157f5533fb30a740c496b",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890413157,
-    "wof:lastmodified":1566613296,
+    "wof:lastmodified":1582344680,
     "wof:name":"Oubritenga",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

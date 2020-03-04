@@ -204,6 +204,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"064d64a090bea224e49d3cbe5aac4ddd",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":890413171,
-    "wof:lastmodified":1566613300,
+    "wof:lastmodified":1582344681,
     "wof:name":"K\u00e9n\u00e9dougou",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

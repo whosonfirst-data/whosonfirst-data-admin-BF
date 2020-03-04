@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c30adcbc98e09ac33c8c81d5d0ba5b7e",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890413147,
-    "wof:lastmodified":1566613300,
+    "wof:lastmodified":1582344681,
     "wof:name":"Sanmatenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

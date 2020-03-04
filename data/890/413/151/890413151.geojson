@@ -198,6 +198,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469050990,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17e7db25b53e186951c2cf9ecef78b5e",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890413151,
-    "wof:lastmodified":1566613298,
+    "wof:lastmodified":1582344681,
     "wof:name":"Poni",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

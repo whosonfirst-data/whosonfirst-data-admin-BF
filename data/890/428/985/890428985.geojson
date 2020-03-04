@@ -195,6 +195,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051785,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8475fa71099ace23bab384d06fa43a66",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890428985,
-    "wof:lastmodified":1566613305,
+    "wof:lastmodified":1582344683,
     "wof:name":"Bougouriba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

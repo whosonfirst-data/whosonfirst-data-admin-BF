@@ -206,6 +206,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051138,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32b213c8116035460b91f1a98588876f",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890416507,
-    "wof:lastmodified":1566613307,
+    "wof:lastmodified":1582344684,
     "wof:name":"Banwa",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

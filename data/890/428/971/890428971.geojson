@@ -203,6 +203,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051784,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"caed4ed5cf32fd4872af48482a75ef6d",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890428971,
-    "wof:lastmodified":1566613305,
+    "wof:lastmodified":1582344683,
     "wof:name":"Gourma",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

@@ -206,6 +206,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051393,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41230219e2a79d3c9a9706c2b6c23a28",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890421461,
-    "wof:lastmodified":1566613303,
+    "wof:lastmodified":1582344682,
     "wof:name":"Sourou",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

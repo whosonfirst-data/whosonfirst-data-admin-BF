@@ -198,6 +198,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051785,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7888133662675259516c0e0d38368885",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":890428979,
-    "wof:lastmodified":1566613304,
+    "wof:lastmodified":1582344683,
     "wof:name":"Ganzourgou",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

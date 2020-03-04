@@ -214,6 +214,9 @@
     },
     "wof:country":"BF",
     "wof:created":1469051785,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"39e3a5a248dab3895d015f82f47fa07c",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":890428975,
-    "wof:lastmodified":1566613306,
+    "wof:lastmodified":1582344683,
     "wof:name":"Gnagna",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

@@ -1010,6 +1010,11 @@
     },
     "wof:country":"BF",
     "wof:country_alpha3":"BFA",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"c484be2a30abb49ac48eebc61ecaa704",
     "wof:hierarchy":[
         {
@@ -1024,7 +1029,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566612768,
+    "wof:lastmodified":1583223554,
     "wof:name":"Burkina Faso",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
