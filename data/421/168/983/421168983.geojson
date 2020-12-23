@@ -578,6 +578,7 @@
         "gn:id":2357048,
         "gp:id":1461080,
         "loc:id":"no2010010661",
+        "ne:id":1159151173,
         "qs_pg:id":274209,
         "wd:id":"Q3777",
         "wk:page":"Ouagadougou"
@@ -598,7 +599,8 @@
         }
     ],
     "wof:id":421168983,
-    "wof:lastmodified":1607390891,
+    "wof:lastmodified":1608688179,
+    "wof:megacity":1,
     "wof:name":"Ouagadougou",
     "wof:parent_id":421187907,
     "wof:placetype":"locality",
