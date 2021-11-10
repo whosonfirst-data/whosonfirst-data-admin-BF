@@ -17,14 +17,26 @@
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0631\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cb\u09b0\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Dori"
     ],
     "name:deu_x_preferred":[
         "Dori"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03c1\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Dori"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Dori"
@@ -36,6 +48,18 @@
         "Dori"
     ],
     "name:glg_x_preferred":[
+        "Dori"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u094b\u0930\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Dori"
+    ],
+    "name:ind_x_preferred":[
         "Dori"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +101,9 @@
     "name:swe_x_preferred":[
         "Dori"
     ],
+    "name:tur_x_preferred":[
+        "Dori"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0440\u0456"
     ],
@@ -85,6 +112,9 @@
     ],
     "name:urd_x_variant":[
         "\u062f\u0648\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Dori"
     ],
     "name:vol_x_preferred":[
         "Dori"
@@ -237,7 +267,7 @@
         }
     ],
     "wof:id":421178093,
-    "wof:lastmodified":1566613295,
+    "wof:lastmodified":1636500512,
     "wof:name":"Dori",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

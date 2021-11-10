@@ -45,6 +45,12 @@
     "name:fra_x_preferred":[
         "Nayala"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05d9\u05d0\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Nayala"
+    ],
     "name:und_x_variant":[
         "Province du Nayala"
     ],
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890453951,
-    "wof:lastmodified":1627521592,
+    "wof:lastmodified":1636500515,
     "wof:name":"Nayala",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

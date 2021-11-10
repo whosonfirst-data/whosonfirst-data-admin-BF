@@ -39,7 +39,13 @@
         "Ton\u00e9"
     ],
     "name:swe_x_preferred":[
+        "Tone"
+    ],
+    "name:swe_x_variant":[
         "Ton\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1310123555,
-    "wof:lastmodified":1566613150,
+    "wof:lastmodified":1636500507,
     "wof:name":"Tone",
     "wof:parent_id":890452781,
     "wof:placetype":"locality",

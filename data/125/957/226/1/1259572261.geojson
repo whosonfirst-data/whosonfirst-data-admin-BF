@@ -45,6 +45,12 @@
     "name:fin_x_preferred":[
         "Bam"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Bam"
+    ],
     "name:mlg_x_preferred":[
         "Bam"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1259572261,
-    "wof:lastmodified":1566613456,
+    "wof:lastmodified":1636500523,
     "wof:name":"Bam",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

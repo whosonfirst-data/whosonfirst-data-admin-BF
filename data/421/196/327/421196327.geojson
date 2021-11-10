@@ -17,14 +17,32 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09a8\u09bf"
+    ],
     "name:deu_x_preferred":[
         "Bani"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Bani"
     ],
     "name:fra_x_preferred":[
         "Dori"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0928\u093f"
+    ],
+    "name:hun_x_preferred":[
+        "Bani"
+    ],
+    "name:ind_x_preferred":[
+        "Bani"
     ],
     "name:ita_x_preferred":[
         "Bani"
@@ -35,10 +53,19 @@
     "name:nld_x_preferred":[
         "Bani"
     ],
+    "name:tur_x_preferred":[
+        "Bani"
+    ],
     "name:und_x_variant":[
         "Dani"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646\u06cc"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Bani"
+    ],
+    "name:vie_x_variant":[
         "Bani"
     ],
     "qs:gn_country":"BF",
@@ -86,7 +113,7 @@
         }
     ],
     "wof:id":421196327,
-    "wof:lastmodified":1566613294,
+    "wof:lastmodified":1636500512,
     "wof:name":"Bani",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

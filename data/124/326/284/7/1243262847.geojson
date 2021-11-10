@@ -57,7 +57,13 @@
     "name:glg_x_preferred":[
         "Abra"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Abra"
+    ],
+    "name:hun_x_preferred":[
         "Abra"
     ],
     "name:hye_x_preferred":[
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1243262847,
-    "wof:lastmodified":1566613405,
+    "wof:lastmodified":1636500522,
     "wof:name":"Abra",
     "wof:parent_id":890413147,
     "wof:placetype":"locality",

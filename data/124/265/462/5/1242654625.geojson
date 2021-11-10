@@ -51,6 +51,12 @@
     "name:fra_x_preferred":[
         "Bose"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Bose"
+    ],
     "name:ita_x_preferred":[
         "Bose"
     ],
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1242654625,
-    "wof:lastmodified":1566613390,
+    "wof:lastmodified":1636500521,
     "wof:name":"Bose",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",

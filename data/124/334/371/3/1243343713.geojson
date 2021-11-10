@@ -385,6 +385,9 @@
         "\u0632\u0628\u0627\u0646"
     ],
     "name:vie_x_preferred":[
+        "Tongue"
+    ],
+    "name:vie_x_variant":[
         "L\u01b0\u1ee1i ng\u01b0\u1eddi"
     ],
     "name:war_x_preferred":[
@@ -401,6 +404,12 @@
     ],
     "name:zha_x_preferred":[
         "Linx"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u56fe\u76d6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5716\u84cb"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -425,7 +434,7 @@
         }
     ],
     "wof:id":1243343713,
-    "wof:lastmodified":1566613371,
+    "wof:lastmodified":1636500521,
     "wof:name":"Tongue",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

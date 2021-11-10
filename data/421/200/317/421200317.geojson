@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0644\u064a\u0646\u0632\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09b2\u09c7\u099e\u09cd\u099c\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043d\u0441\u043e"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Solenzo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bb\u03ad\u03bd\u03b6\u03bf"
     ],
     "name:eng_x_preferred":[
         "Solenzo"
@@ -38,8 +47,26 @@
     "name:frr_x_preferred":[
         "Solenzo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05dc\u05e0\u05e6\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0932\u0947\u0902\u091c\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Solenzo"
+    ],
+    "name:ind_x_preferred":[
+        "Solenzo"
+    ],
+    "name:ita_x_preferred":[
+        "Solenzo"
+    ],
     "name:jpn_x_preferred":[
         "\u30bd\u30e9\u30f3\u30be"
+    ],
+    "name:kor_x_preferred":[
+        "\uc194\ub80c\uc870"
     ],
     "name:nan_x_preferred":[
         "Solenzo"
@@ -59,14 +86,26 @@
     "name:ron_x_preferred":[
         "Solenzo"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0435\u043d\u0437\u043e"
+    ],
     "name:spa_x_preferred":[
         "Solenzo"
     ],
     "name:swe_x_preferred":[
         "Salanso"
     ],
+    "name:tur_x_preferred":[
+        "Solenzo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u0435\u043d\u0437\u043e"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0644\u06cc\u0646\u0632\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Solenzo"
     ],
     "name:war_x_preferred":[
         "Solenzo"
@@ -214,7 +253,7 @@
         }
     ],
     "wof:id":421200317,
-    "wof:lastmodified":1566613294,
+    "wof:lastmodified":1636500512,
     "wof:name":"Solenzo",
     "wof:parent_id":890416507,
     "wof:placetype":"locality",
