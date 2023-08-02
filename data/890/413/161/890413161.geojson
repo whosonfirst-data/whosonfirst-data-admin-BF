@@ -93,6 +93,9 @@
     "name:kor_x_preferred":[
         "\ubb34\uc6b4 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\uc6b4\ud604"
+    ],
     "name:lav_x_preferred":[
         "Muhuna"
     ],
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":890413161,
-    "wof:lastmodified":1636500514,
+    "wof:lastmodified":1690856955,
     "wof:name":"Mouhoun",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

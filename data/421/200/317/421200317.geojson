@@ -92,6 +92,9 @@
     "name:spa_x_preferred":[
         "Solenzo"
     ],
+    "name:swa_x_preferred":[
+        "solenzo"
+    ],
     "name:swe_x_preferred":[
         "Salanso"
     ],
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":421200317,
-    "wof:lastmodified":1636500512,
+    "wof:lastmodified":1690856951,
     "wof:name":"Solenzo",
     "wof:parent_id":890416507,
     "wof:placetype":"locality",

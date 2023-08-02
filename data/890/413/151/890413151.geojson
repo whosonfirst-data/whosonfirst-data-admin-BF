@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09a8\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "Poni"
+    ],
     "name:dan_x_preferred":[
         "Poni Province"
     ],
@@ -58,7 +61,6 @@
         "Poni"
     ],
     "name:eng_x_variant":[
-        "Poni",
         "Poni Province"
     ],
     "name:fas_x_preferred":[
@@ -68,6 +70,9 @@
         "Poni"
     ],
     "name:fra_x_preferred":[
+        "Poni"
+    ],
+    "name:frr_x_preferred":[
         "Poni"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ub2c8 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ud3ec\ub2c8\ud604"
     ],
     "name:lav_x_preferred":[
         "Poni province"
@@ -217,7 +225,7 @@
         }
     ],
     "wof:id":890413151,
-    "wof:lastmodified":1636500514,
+    "wof:lastmodified":1690856955,
     "wof:name":"Poni",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

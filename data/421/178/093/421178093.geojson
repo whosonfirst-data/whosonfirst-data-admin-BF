@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Dori"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09cb\u09b0\u09bf"
     ],
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":421178093,
-    "wof:lastmodified":1636500512,
+    "wof:lastmodified":1690856953,
     "wof:name":"Dori",
     "wof:parent_id":890413145,
     "wof:placetype":"locality",

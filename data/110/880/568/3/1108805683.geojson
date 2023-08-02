@@ -56,8 +56,14 @@
     "name:eng_x_variant":[
         "Sud-Ouest Region"
     ],
+    "name:epo_x_preferred":[
+        "Sudokcidenta Regiono"
+    ],
     "name:eus_x_preferred":[
         "Hego-mendebaldeko eskualdea"
+    ],
+    "name:eus_x_variant":[
+        "Hego-mendebaldea"
     ],
     "name:fin_x_preferred":[
         "Sud-Ouest"
@@ -91,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\uc11c\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\uc11c\ubd80\uc8fc"
     ],
     "name:lit_x_preferred":[
         "Pietvakari\u0173 regionas"
@@ -178,7 +187,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636500506,
+    "wof:lastmodified":1690856941,
     "wof:name":"Sud-Ouest",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

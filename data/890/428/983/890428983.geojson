@@ -102,6 +102,9 @@
     "name:kor_x_preferred":[
         "\ubd88\uad6c \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubd88\uad6c\ud604"
+    ],
     "name:lav_x_preferred":[
         "Bulgu"
     ],
@@ -135,6 +138,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u043b\u0433\u0443"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u043b\u044c\u0433\u0443"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0ddd\u0dc0\u0dd4\u0dbd\u0dca\u0d9c\u0ddc\u0dc0\u0dd6"
     ],
@@ -152,6 +158,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1a\u0e27\u0e01\u0e39\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e39\u0e25\u0e01\u0e39"
     ],
     "name:tur_x_preferred":[
         "Boulgou"
@@ -222,7 +231,7 @@
         }
     ],
     "wof:id":890428983,
-    "wof:lastmodified":1636500517,
+    "wof:lastmodified":1690856962,
     "wof:name":"Boulgou",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

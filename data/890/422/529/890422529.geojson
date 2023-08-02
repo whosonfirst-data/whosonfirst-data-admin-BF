@@ -54,11 +54,13 @@
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03ac\u03b3\u03ba\u03c7\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0393\u03b9\u03b1\u03b3\u03ba\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Yagha"
     ],
     "name:eng_x_variant":[
-        "Yagha",
         "Yagha Province"
     ],
     "name:fas_x_preferred":[
@@ -68,6 +70,9 @@
         "Yagha"
     ],
     "name:fra_x_preferred":[
+        "Yagha"
+    ],
+    "name:frr_x_preferred":[
         "Yagha"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc57c\uac00 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc57c\uac00\ud604"
     ],
     "name:lav_x_preferred":[
         "Jagas province"
@@ -217,7 +225,7 @@
         }
     ],
     "wof:id":890422529,
-    "wof:lastmodified":1636500513,
+    "wof:lastmodified":1690856954,
     "wof:name":"Yagha",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09ae \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "Bam"
+    ],
     "name:dan_x_preferred":[
         "Bam Province"
     ],
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890428989,
-    "wof:lastmodified":1636500518,
+    "wof:lastmodified":1690856963,
     "wof:name":"Bam",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

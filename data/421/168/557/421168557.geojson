@@ -65,6 +65,9 @@
     "name:swe_x_preferred":[
         "Sapouy"
     ],
+    "name:tur_x_preferred":[
+        "Sapouy"
+    ],
     "name:und_x_variant":[
         "Sapui"
     ],
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421168557,
-    "wof:lastmodified":1566613289,
+    "wof:lastmodified":1690856945,
     "wof:name":"Sapoui",
     "wof:parent_id":890422531,
     "wof:placetype":"locality",

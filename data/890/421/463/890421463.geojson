@@ -48,17 +48,25 @@
     "name:deu_x_preferred":[
         "Soum"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Soum"
     ],
     "name:eng_x_variant":[
-        "Soum",
         "Soum Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u0645"
     ],
     "name:fin_x_preferred":[
         "Soum"
     ],
     "name:fra_x_preferred":[
+        "Soum"
+    ],
+    "name:frr_x_preferred":[
         "Soum"
     ],
     "name:glg_x_preferred":[
@@ -72,6 +80,9 @@
     ],
     "name:hun_x_preferred":[
         "Soum"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Soum"
     ],
     "name:ita_x_preferred":[
         "Provincia di Soum"
@@ -175,7 +186,7 @@
         }
     ],
     "wof:id":890421463,
-    "wof:lastmodified":1636500516,
+    "wof:lastmodified":1690856960,
     "wof:name":"Soum",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

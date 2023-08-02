@@ -105,6 +105,9 @@
     "name:kor_x_preferred":[
         "\uc218\ub8e8 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc218\ub8e8\ud604"
+    ],
     "name:lav_x_preferred":[
         "Suru province"
     ],
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":890421461,
-    "wof:lastmodified":1636500516,
+    "wof:lastmodified":1690856961,
     "wof:name":"Sourou",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

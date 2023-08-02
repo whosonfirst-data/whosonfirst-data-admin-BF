@@ -62,7 +62,6 @@
         "Kadiogo"
     ],
     "name:eng_x_variant":[
-        "Kadiogo",
         "Kadiogo Province"
     ],
     "name:epo_x_preferred":[
@@ -113,6 +112,9 @@
     "name:kor_x_preferred":[
         "\uce74\ub514\uc624\uace0 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ub514\uc624\uace0\ud604"
+    ],
     "name:lav_x_preferred":[
         "Kadiogo province"
     ],
@@ -133,6 +135,9 @@
     ],
     "name:nob_x_preferred":[
         "Kadiogo"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07ca\u07d6\u07dc\u07ed\u07cf\u07eb"
     ],
     "name:pol_x_preferred":[
         "Prowincja Kadiogo"
@@ -252,7 +257,7 @@
         }
     ],
     "wof:id":421187907,
-    "wof:lastmodified":1636500511,
+    "wof:lastmodified":1690856948,
     "wof:name":"Kadiogo",
     "wof:parent_id":1108805693,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Pama"
+    ],
     "name:ceb_x_preferred":[
         "Pama"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890437075,
-    "wof:lastmodified":1566613301,
+    "wof:lastmodified":1690856958,
     "wof:name":"Pama",
     "wof:parent_id":890453941,
     "wof:placetype":"locality",

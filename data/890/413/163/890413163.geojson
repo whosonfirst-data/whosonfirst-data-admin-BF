@@ -69,6 +69,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0631\u062a\u0646\u06af\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0631\u06cc\u062a\u06cc\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kouritenga"
     ],
@@ -107,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucfe0\ub9ac\ud161\uac00 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ucfe0\ub9ac\ud161\uac00\ud604"
     ],
     "name:lav_x_preferred":[
         "Kuritengas province"
@@ -233,7 +239,7 @@
         }
     ],
     "wof:id":890413163,
-    "wof:lastmodified":1636500515,
+    "wof:lastmodified":1690856957,
     "wof:name":"Kouritenga",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

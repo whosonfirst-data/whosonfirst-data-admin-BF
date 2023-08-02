@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Sindou"
     ],
+    "name:fat_x_preferred":[
+        "Sindou"
+    ],
     "name:fra_x_preferred":[
         "Sindou"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421174947,
-    "wof:lastmodified":1566613292,
+    "wof:lastmodified":1690856948,
     "wof:name":"Sindou",
     "wof:parent_id":890453947,
     "wof:placetype":"locality",

@@ -55,7 +55,6 @@
         "Noumbiel"
     ],
     "name:eng_x_variant":[
-        "Noumbiel",
         "Noumbiel Province"
     ],
     "name:fas_x_preferred":[
@@ -65,6 +64,9 @@
         "Noumbiel"
     ],
     "name:fra_x_preferred":[
+        "Noumbiel"
+    ],
+    "name:frr_x_preferred":[
         "Noumbiel"
     ],
     "name:glg_x_preferred":[
@@ -96,6 +98,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub214\ube44\uc5d8 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ub214\ube44\uc5d8\ud604"
     ],
     "name:lav_x_preferred":[
         "Numbielas province"
@@ -202,7 +207,7 @@
         }
     ],
     "wof:id":1108693643,
-    "wof:lastmodified":1636500507,
+    "wof:lastmodified":1690856944,
     "wof:name":"Noumbiel",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

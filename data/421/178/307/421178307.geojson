@@ -68,6 +68,9 @@
     "name:swe_x_preferred":[
         "R\u00e9o"
     ],
+    "name:tur_x_preferred":[
+        "R\u00e9o"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u0626\u0648"
     ],
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421178307,
-    "wof:lastmodified":1566613295,
+    "wof:lastmodified":1690856952,
     "wof:name":"R\u00e9o",
     "wof:parent_id":890413149,
     "wof:placetype":"locality",

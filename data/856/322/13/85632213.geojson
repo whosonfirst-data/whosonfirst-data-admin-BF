@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
+    ],
     "name:ace_x_preferred":[
         "Burkina Faso"
     ],
@@ -52,8 +55,14 @@
     "name:amh_x_preferred":[
         "\u1261\u122d\u12aa\u1293 \u134b\u1236"
     ],
+    "name:ami_x_preferred":[
+        "Burkina faso"
+    ],
     "name:ang_x_preferred":[
         "Burkina Faso"
+    ],
+    "name:anp_x_preferred":[
+        "\u092c\u0930\u094d\u0915\u0940\u0928\u093e \u092b\u093e\u0938\u094b"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0643\u064a\u0646\u0627 \u0641\u0627\u0633\u0648"
@@ -72,6 +81,9 @@
     ],
     "name:ast_x_variant":[
         "Burkina Fasu"
+    ],
+    "name:avk_x_preferred":[
+        "Burkina"
     ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648"
@@ -117,6 +129,9 @@
     ],
     "name:bih_x_preferred":[
         "\u092c\u0941\u0930\u094d\u0915\u093f\u0928\u093e \u092b\u093e\u0938\u094b"
+    ],
+    "name:bis_x_preferred":[
+        "Bukina Faso"
     ],
     "name:bjn_x_preferred":[
         "Burkina Paso"
@@ -169,7 +184,13 @@
     "name:ckb_x_preferred":[
         "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u06c6"
     ],
+    "name:ckb_x_variant":[
+        "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u06c6"
+    ],
     "name:cor_x_preferred":[
+        "Burkina Faso"
+    ],
+    "name:cos_x_preferred":[
         "Burkina Faso"
     ],
     "name:crh_x_preferred":[
@@ -182,6 +203,9 @@
         "Bwrcina Ffaso"
     ],
     "name:cym_x_variant":[
+        "Burkina Faso"
+    ],
+    "name:dag_x_preferred":[
         "Burkina Faso"
     ],
     "name:dan_x_preferred":[
@@ -301,6 +325,12 @@
     "name:glv_x_preferred":[
         "Burkina Faso"
     ],
+    "name:gpe_x_preferred":[
+        "Burkina Faso"
+    ],
+    "name:grn_x_preferred":[
+        "Vuk\u00edna F\u00e1so"
+    ],
     "name:gsw_x_preferred":[
         "Burkina Faso"
     ],
@@ -419,6 +449,9 @@
     "name:kbp_x_preferred":[
         "Purkina Fasoo"
     ],
+    "name:kcg_x_preferred":[
+        "Burkina Faso"
+    ],
     "name:khm_x_preferred":[
         "\u1794\u17ca\u17bc\u179a\u1782\u17b8\u178e\u17b6\u17a0\u17d2\u179c\u17b6\u179f\u17bc"
     ],
@@ -489,6 +522,9 @@
     "name:lit_x_preferred":[
         "Burkina Fasas"
     ],
+    "name:lld_x_preferred":[
+        "Brukina Faso"
+    ],
     "name:lmo_x_preferred":[
         "Burkina Faso"
     ],
@@ -528,6 +564,12 @@
     "name:mar_x_variant":[
         "\u092c\u0941\u0930\u094d\u0915\u093f\u0928\u093e \u092b\u093e\u0938\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e"
+    ],
     "name:min_x_preferred":[
         "Burkina Faso"
     ],
@@ -540,13 +582,22 @@
     "name:mlt_x_preferred":[
         "Burkina Faso"
     ],
+    "name:mni_x_preferred":[
+        "\uabd5\uabe8\uabd4\uabc0\uabe4\uabc5\uabe5 \uabd0\uabe5\uabc1\uabe3"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e"
+    ],
+    "name:mri_x_preferred":[
+        "P\u016bkina"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e"
     ],
     "name:msa_x_preferred":[
+        "Burkina Faso"
+    ],
+    "name:mwl_x_preferred":[
         "Burkina Faso"
     ],
     "name:mya_x_preferred":[
@@ -596,6 +647,9 @@
     ],
     "name:nov_x_preferred":[
         "Burkina Faso"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d3\u07d9\u07ce\u07de\u07cc\u07e3\u07ca\u07eb \u07dd\u07ca\u07ec\u07db\u07cf\u07eb"
     ],
     "name:nso_x_preferred":[
         "Burkina Faso"
@@ -691,6 +745,9 @@
     "name:san_x_preferred":[
         "\u092c\u0941\u0930\u094d\u0915\u0940\u0928\u093e-\u092b\u093e\u0938\u094b"
     ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c69\u1c68\u1c60\u1c64\u1c71\u1c5f \u1c6f\u1c77\u1c5f\u1c65\u1c73"
+    ],
     "name:scn_x_preferred":[
         "Burchina Fasu"
     ],
@@ -699,6 +756,9 @@
     ],
     "name:sgs_x_preferred":[
         "Bork\u0117na Fasos"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1015\u1030\u1087\u1075\u102e\u1087\u107c\u1083\u1038\u107e\u1083\u1038\u101e\u1030\u101d\u103a\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dbb\u0dca\u0d9a\u0dd2\u0db1\u0dcf \u0dc6\u0dcf\u0dc3\u0ddd"
@@ -715,7 +775,13 @@
     "name:sme_x_preferred":[
         "Burkina Faso"
     ],
+    "name:smn_x_preferred":[
+        "Burkina Faso"
+    ],
     "name:smo_x_preferred":[
+        "Burkina Faso"
+    ],
+    "name:sms_x_preferred":[
         "Burkina Faso"
     ],
     "name:sna_x_preferred":[
@@ -790,6 +856,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e"
     ],
+    "name:tay_x_preferred":[
+        "Burkina faso"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c30\u0c4d\u0c15\u0c40\u0c28\u0c3e \u0c2b\u0c3e\u0c38\u0c4b"
     ],
@@ -798,6 +867,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e"
+    ],
+    "name:tgk_x_variant":[
+        "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"
     ],
     "name:tgl_x_preferred":[
         "Burkina Faso"
@@ -811,8 +883,14 @@
     "name:tir_x_preferred":[
         "\u1261\u122d\u12aa\u1293 \u134b\u1236"
     ],
+    "name:tok_x_preferred":[
+        "ma Pukinapaso"
+    ],
     "name:ton_x_preferred":[
         "Pekano Faso"
+    ],
+    "name:trv_x_preferred":[
+        "Burkina faso"
     ],
     "name:tso_x_preferred":[
         "Burkina Faso"
@@ -821,6 +899,9 @@
         "Burkina-Faso"
     ],
     "name:tuk_x_variant":[
+        "Burkina Faso"
+    ],
+    "name:tum_x_preferred":[
         "Burkina Faso"
     ],
     "name:tur_x_preferred":[
@@ -1143,7 +1224,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1617827842,
+    "wof:lastmodified":1690856938,
     "wof:name":"Burkina Faso",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

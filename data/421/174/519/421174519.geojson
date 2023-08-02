@@ -65,7 +65,13 @@
     "name:spa_x_preferred":[
         "Hound\u00e9"
     ],
+    "name:swa_x_preferred":[
+        "Hound\u00e9"
+    ],
     "name:swe_x_preferred":[
+        "Hound\u00e9"
+    ],
+    "name:tur_x_preferred":[
         "Hound\u00e9"
     ],
     "name:und_x_variant":[
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421174519,
-    "wof:lastmodified":1566613292,
+    "wof:lastmodified":1690856948,
     "wof:name":"Hound\u00e9",
     "wof:parent_id":890422527,
     "wof:placetype":"locality",

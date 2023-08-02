@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Ziniar\u00e9"
     ],
+    "name:fat_x_preferred":[
+        "Ziniare"
+    ],
     "name:fin_x_preferred":[
         "Ziniar\u00e9"
     ],
@@ -35,11 +38,17 @@
     "name:frr_x_preferred":[
         "Ziniar\u00e9"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05e0\u05d9\u05d0\u05e8\u05d4"
+    ],
     "name:jpn_x_preferred":[
         "\u30b6\u30f3\u30a4\u30a2\u30ec"
     ],
     "name:kor_x_preferred":[
         "\uc9c0\ub2c8\uc544\ub808"
+    ],
+    "name:mos_x_preferred":[
+        "Ziniar\u00e9"
     ],
     "name:nan_x_preferred":[
         "Ziniar\u00e9"
@@ -49,6 +58,9 @@
     ],
     "name:por_x_preferred":[
         "Ziniar\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043d\u0438\u0430\u0440\u0435"
     ],
     "name:spa_x_preferred":[
         "Ziniar\u00e9"
@@ -204,7 +216,7 @@
         }
     ],
     "wof:id":421174949,
-    "wof:lastmodified":1566613292,
+    "wof:lastmodified":1690856948,
     "wof:name":"Ziniar\u00e9",
     "wof:parent_id":890413157,
     "wof:placetype":"locality",

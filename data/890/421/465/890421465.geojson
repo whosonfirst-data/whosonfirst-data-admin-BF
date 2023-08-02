@@ -105,6 +105,9 @@
     "name:kor_x_preferred":[
         "\uc2dc\uc2e4\ub9ac \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\uc2e4\ub9ac\ud604"
+    ],
     "name:lav_x_preferred":[
         "Sisili province"
     ],
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890421465,
-    "wof:lastmodified":1636500516,
+    "wof:lastmodified":1690856960,
     "wof:name":"Sissili",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

@@ -17,7 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Garango"
+    ],
+    "name:cat_x_preferred":[
+        "Garango"
+    ],
     "name:ceb_x_preferred":[
+        "Garango"
+    ],
+    "name:cym_x_preferred":[
+        "Garango"
+    ],
+    "name:dan_x_preferred":[
         "Garango"
     ],
     "name:deu_x_preferred":[
@@ -26,7 +38,19 @@
     "name:eng_x_preferred":[
         "Garango"
     ],
+    "name:fin_x_preferred":[
+        "Garango"
+    ],
     "name:fra_x_preferred":[
+        "Garango"
+    ],
+    "name:gle_x_preferred":[
+        "Garango"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0580\u0561\u0576\u0563\u0578"
+    ],
+    "name:ita_x_preferred":[
         "Garango"
     ],
     "name:nan_x_preferred":[
@@ -35,7 +59,13 @@
     "name:nld_x_preferred":[
         "Garango"
     ],
+    "name:nob_x_preferred":[
+        "Garango"
+    ],
     "name:pol_x_preferred":[
+        "Garango"
+    ],
+    "name:por_x_preferred":[
         "Garango"
     ],
     "name:ron_x_preferred":[
@@ -50,11 +80,23 @@
     "name:spa_x_preferred":[
         "Garango"
     ],
+    "name:sqi_x_preferred":[
+        "Garango"
+    ],
+    "name:srd_x_preferred":[
+        "Garango"
+    ],
     "name:swe_x_preferred":[
+        "Garango"
+    ],
+    "name:tur_x_preferred":[
         "Garango"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0430\u043d\u0433\u043e"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u6717\u6208"
     ],
     "qs:gn_country":"BF",
     "qs:gn_fcode":"PPL",
@@ -104,7 +146,7 @@
         }
     ],
     "wof:id":421179715,
-    "wof:lastmodified":1566613294,
+    "wof:lastmodified":1690856952,
     "wof:name":"Garango",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

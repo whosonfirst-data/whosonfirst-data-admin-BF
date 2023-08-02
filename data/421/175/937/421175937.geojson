@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0646\u063a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0646\u062c\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Manga"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0999\u09cd\u0997\u09be"
     ],
@@ -267,7 +273,7 @@
         }
     ],
     "wof:id":421175937,
-    "wof:lastmodified":1636500511,
+    "wof:lastmodified":1690856950,
     "wof:name":"Manga",
     "wof:parent_id":1108693645,
     "wof:placetype":"locality",
