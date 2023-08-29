@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09ae\u09c7\u09a8\u099f\u09c7\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "Namentenga"
+    ],
     "name:dan_x_preferred":[
         "Namentenga Province"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub098\uba58\ud161\uac00 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\uba58\ud161\uac00\ud604"
     ],
     "name:lav_x_preferred":[
         "Namentengas province"
@@ -228,7 +234,7 @@
         }
     ],
     "wof:id":890413143,
-    "wof:lastmodified":1636500514,
+    "wof:lastmodified":1690856956,
     "wof:name":"Namentenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

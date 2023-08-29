@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bati\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Bati\u00e9"
     ],
@@ -50,7 +53,13 @@
     "name:ron_x_preferred":[
         "Bati\u00e9"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0438\u0435"
+    ],
     "name:spa_x_preferred":[
+        "Bati\u00e9"
+    ],
+    "name:swe_x_preferred":[
         "Bati\u00e9"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421169381,
-    "wof:lastmodified":1566613291,
+    "wof:lastmodified":1690856947,
     "wof:name":"Bati\u00e9",
     "wof:parent_id":1108693643,
     "wof:placetype":"locality",

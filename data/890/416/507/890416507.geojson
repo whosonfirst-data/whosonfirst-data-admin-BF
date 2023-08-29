@@ -105,6 +105,9 @@
     "name:kor_x_preferred":[
         "\ubc18\uc640 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ubc18\uc640\ud604"
+    ],
     "name:lav_x_preferred":[
         "Banvas province"
     ],
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890416507,
-    "wof:lastmodified":1636500518,
+    "wof:lastmodified":1690856965,
     "wof:name":"Banwa",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

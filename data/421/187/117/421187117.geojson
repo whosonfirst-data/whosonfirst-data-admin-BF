@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u062c\u064a\u0628\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Djibo"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09ac\u09cb"
     ],
@@ -53,6 +56,9 @@
     "name:ita_x_preferred":[
         "Djibo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30dc\u7a7a\u6e2f"
+    ],
     "name:kor_x_preferred":[
         "\uc9c0\ubcf4"
     ],
@@ -76,6 +82,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0438\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Djibo"
+    ],
+    "name:swa_x_preferred":[
+        "Djibo"
     ],
     "name:swe_x_preferred":[
         "Djibo"
@@ -241,7 +253,7 @@
         }
     ],
     "wof:id":421187117,
-    "wof:lastmodified":1636500511,
+    "wof:lastmodified":1690856949,
     "wof:name":"Djibo",
     "wof:parent_id":890421463,
     "wof:placetype":"locality",

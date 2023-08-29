@@ -74,6 +74,9 @@
     "name:war_x_preferred":[
         "Di\u00e9bougou"
     ],
+    "name:zho_x_preferred":[
+        "\u8fea\u8036\u5e03\u8c37"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421181255,
-    "wof:lastmodified":1566613293,
+    "wof:lastmodified":1690856949,
     "wof:name":"Di\u00e9bougou",
     "wof:parent_id":890428985,
     "wof:placetype":"locality",

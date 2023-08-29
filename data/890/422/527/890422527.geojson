@@ -108,6 +108,9 @@
     "name:kor_x_preferred":[
         "\ud22c\uc774 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud22c\uc774\ud604"
+    ],
     "name:lav_x_preferred":[
         "Tujas province"
     ],
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":890422527,
-    "wof:lastmodified":1636500513,
+    "wof:lastmodified":1690856953,
     "wof:name":"Tuy",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

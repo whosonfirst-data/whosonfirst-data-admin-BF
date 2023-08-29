@@ -63,6 +63,9 @@
     "name:eng_x_variant":[
         "Ioba Province"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0648\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Ioba"
     ],
@@ -101,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\uc624\ubc14 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc624\ubc14\ud604"
     ],
     "name:lav_x_preferred":[
         "Iobas province"
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":890416509,
-    "wof:lastmodified":1636500519,
+    "wof:lastmodified":1690856965,
     "wof:name":"Ioba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

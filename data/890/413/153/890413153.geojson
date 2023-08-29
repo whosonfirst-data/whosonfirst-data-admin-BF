@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u0993\u0989\u09a6\u09be\u09b2\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "Oudalan"
+    ],
     "name:dan_x_preferred":[
         "Oudalan Province"
     ],
@@ -58,7 +61,6 @@
         "Oudalan"
     ],
     "name:eng_x_variant":[
-        "Oudalan",
         "Oudalan Province"
     ],
     "name:fas_x_preferred":[
@@ -68,6 +70,9 @@
         "Oudalan"
     ],
     "name:fra_x_preferred":[
+        "Oudalan"
+    ],
+    "name:frr_x_preferred":[
         "Oudalan"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\ub2ec\ub780 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\ub2ec\ub780\ud604"
     ],
     "name:lav_x_preferred":[
         "Oudalanas province"
@@ -220,7 +228,7 @@
         }
     ],
     "wof:id":890413153,
-    "wof:lastmodified":1636500514,
+    "wof:lastmodified":1690856956,
     "wof:name":"Oudalan",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

@@ -67,6 +67,9 @@
     "name:swe_x_preferred":[
         "Ouargaye"
     ],
+    "name:tur_x_preferred":[
+        "Ouargaye"
+    ],
     "name:und_x_variant":[
         "Ouargay"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890437079,
-    "wof:lastmodified":1566613301,
+    "wof:lastmodified":1690856958,
     "wof:name":"Ouargaye",
     "wof:parent_id":890421707,
     "wof:placetype":"locality",

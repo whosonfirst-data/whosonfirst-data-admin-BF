@@ -42,8 +42,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0648\u064a\u062a"
     ],
+    "name:bar_x_preferred":[
+        "Houet"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09c7\u09a4 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:cat_x_preferred":[
+        "Houet"
     ],
     "name:dan_x_preferred":[
         "Houet Province"
@@ -62,6 +68,9 @@
     ],
     "name:eus_x_preferred":[
         "Houet probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0647\u0648\u062a"
     ],
     "name:fin_x_preferred":[
         "Houet"
@@ -101,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\uc5d0 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc5d0\ud604"
     ],
     "name:lav_x_preferred":[
         "\u016aetas province"
@@ -225,7 +237,7 @@
         }
     ],
     "wof:id":890428969,
-    "wof:lastmodified":1636500517,
+    "wof:lastmodified":1690856963,
     "wof:name":"Houet",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

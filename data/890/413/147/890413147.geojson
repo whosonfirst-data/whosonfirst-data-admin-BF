@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09ae\u09be\u099f\u09c7\u0999\u09cd\u0997\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "Sanmatenga"
+    ],
     "name:dan_x_preferred":[
         "Sanmatenga Province"
     ],
@@ -53,6 +56,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd\u03bc\u03b1\u03c4\u03ad\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03bd\u03bc\u03b1\u03c4\u03b5\u03bd\u03b3\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Sanmatenga"
@@ -104,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ub9c8\ud161\uac00 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc0b0\ub9c8\ud161\uac00\ud604"
     ],
     "name:lav_x_preferred":[
         "Sanmatengas province"
@@ -225,7 +234,7 @@
         }
     ],
     "wof:id":890413147,
-    "wof:lastmodified":1636500515,
+    "wof:lastmodified":1690856957,
     "wof:name":"Sanmatenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

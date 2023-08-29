@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "L\u00e9o"
+    ],
     "name:ceb_x_preferred":[
         "L\u00e9o"
     ],
@@ -68,7 +71,13 @@
     "name:rus_x_variant":[
         "\u041b\u0435\u0432"
     ],
+    "name:spa_x_preferred":[
+        "L\u00e9o"
+    ],
     "name:swe_x_preferred":[
+        "L\u00e9o"
+    ],
+    "name:tur_x_preferred":[
         "L\u00e9o"
     ],
     "name:urd_x_preferred":[
@@ -223,7 +232,7 @@
         }
     ],
     "wof:id":421175939,
-    "wof:lastmodified":1566613293,
+    "wof:lastmodified":1690856949,
     "wof:name":"L\u00e9o",
     "wof:parent_id":890421465,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0646\u0643\u0648\u062f\u0648\u062c\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Tenkodogo"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09a8\u0995\u09cb\u09a6\u09cb\u0997\u09cb"
     ],
@@ -268,7 +271,7 @@
         }
     ],
     "wof:id":421178221,
-    "wof:lastmodified":1636500512,
+    "wof:lastmodified":1690856952,
     "wof:name":"Tenkodogo",
     "wof:parent_id":890428983,
     "wof:placetype":"locality",

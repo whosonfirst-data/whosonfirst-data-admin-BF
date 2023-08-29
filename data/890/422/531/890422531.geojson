@@ -58,8 +58,10 @@
         "Ziro"
     ],
     "name:eng_x_variant":[
-        "Ziro",
         "Ziro Province"
+    ],
+    "name:eus_x_preferred":[
+        "Ziro probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0632\u06cc\u0631\u0648"
@@ -68,6 +70,9 @@
         "Ziro"
     ],
     "name:fra_x_preferred":[
+        "Ziro"
+    ],
+    "name:frr_x_preferred":[
         "Ziro"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc9c0\ub85c \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc9c0\ub85c\ud604"
     ],
     "name:lav_x_preferred":[
         "Ziro province"
@@ -220,7 +228,7 @@
         }
     ],
     "wof:id":890422531,
-    "wof:lastmodified":1636500513,
+    "wof:lastmodified":1690856954,
     "wof:name":"Ziro",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

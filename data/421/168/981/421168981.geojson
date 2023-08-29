@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u0647\u064a\u063a\u0648\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Ouahigouya"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09df\u09be\u09b9\u09bf\u0997\u09cb\u0989\u09df\u09be"
     ],
@@ -41,6 +44,12 @@
     "name:eng_x_preferred":[
         "Ouahigouya"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0647\u0627\u06cc\u0648\u06cc\u0627"
+    ],
+    "name:fat_x_preferred":[
+        "Ouahigouya"
+    ],
     "name:fin_x_preferred":[
         "Ouahigouya"
     ],
@@ -59,6 +68,9 @@
     "name:hun_x_preferred":[
         "Ouahigouya"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0570\u056b\u0563\u0578\u0582\u0575\u0561"
+    ],
     "name:ind_x_preferred":[
         "Ouahigouya"
     ],
@@ -76,6 +88,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0423\u0430\u0445\u0438\u0433\u0443\u0458\u0430"
+    ],
+    "name:mos_x_preferred":[
+        "Ouahigouya"
     ],
     "name:nan_x_preferred":[
         "Ouahigouya"
@@ -279,7 +294,7 @@
         }
     ],
     "wof:id":421168981,
-    "wof:lastmodified":1636500511,
+    "wof:lastmodified":1690856946,
     "wof:name":"Ouahigouya",
     "wof:parent_id":890421457,
     "wof:placetype":"locality",

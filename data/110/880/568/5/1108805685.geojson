@@ -53,8 +53,14 @@
     "name:eng_x_variant":[
         "Est Region"
     ],
+    "name:epo_x_preferred":[
+        "Orienta Regiono"
+    ],
     "name:eus_x_preferred":[
         "Ekialdeko eskualdea"
+    ],
+    "name:eus_x_variant":[
+        "Ekialdea"
     ],
     "name:fin_x_preferred":[
         "Est"
@@ -178,7 +184,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636500507,
+    "wof:lastmodified":1690856942,
     "wof:name":"Est",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

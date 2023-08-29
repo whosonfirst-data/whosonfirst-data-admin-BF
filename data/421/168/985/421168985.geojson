@@ -17,14 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gorom-Gorom"
+    ],
     "name:ceb_x_preferred":[
         "Gorom-Gorom"
     ],
     "name:deu_x_preferred":[
         "Gorom-Gorom"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c1\u03cc\u03bc-\u0393\u03ba\u03bf\u03c1\u03cc\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Gorom-Gorom"
+    ],
+    "name:fat_x_preferred":[
+        "Gorom Gorom"
     ],
     "name:fin_x_preferred":[
         "Gorom-Gorom"
@@ -40,6 +49,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b4\u30ed\u30e0\u30fb\u30b4\u30ed\u30e0"
+    ],
+    "name:mos_x_preferred":[
+        "Gorom-Gorom"
     ],
     "name:nan_x_preferred":[
         "Gorom-Gorom"
@@ -79,6 +91,9 @@
     ],
     "name:war_x_preferred":[
         "Gorom-Gorom"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u7f85\u59c6\u6208\u7f85\u59c6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Burkina Faso",
@@ -219,7 +234,7 @@
         }
     ],
     "wof:id":421168985,
-    "wof:lastmodified":1566613290,
+    "wof:lastmodified":1690856946,
     "wof:name":"Gorom-Gorom",
     "wof:parent_id":890413153,
     "wof:placetype":"locality",

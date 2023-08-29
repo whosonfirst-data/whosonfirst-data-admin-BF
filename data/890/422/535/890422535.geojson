@@ -58,7 +58,6 @@
         "Zondoma"
     ],
     "name:eng_x_variant":[
-        "Zondoma",
         "Zondoma Province"
     ],
     "name:fas_x_preferred":[
@@ -68,6 +67,9 @@
         "Zondoma"
     ],
     "name:fra_x_preferred":[
+        "Zondoma"
+    ],
+    "name:frr_x_preferred":[
         "Zondoma"
     ],
     "name:glg_x_preferred":[
@@ -99,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc874\ub3c4\ub9c8 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc874\ub3c4\ub9c8\ud604"
     ],
     "name:lav_x_preferred":[
         "Zondomas province"
@@ -217,7 +222,7 @@
         }
     ],
     "wof:id":890422535,
-    "wof:lastmodified":1636500512,
+    "wof:lastmodified":1690856953,
     "wof:name":"Zondoma",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

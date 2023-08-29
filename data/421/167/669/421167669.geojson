@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gourcy"
+    ],
     "name:ceb_x_preferred":[
         "Gourcy"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421167669,
-    "wof:lastmodified":1566613291,
+    "wof:lastmodified":1690856947,
     "wof:name":"Gourcy",
     "wof:parent_id":890422535,
     "wof:placetype":"locality",

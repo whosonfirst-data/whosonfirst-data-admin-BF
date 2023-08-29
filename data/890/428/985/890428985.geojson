@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cc\u0997\u09cc\u09b0\u09bf\u09ac\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "Bougouriba"
+    ],
     "name:dan_x_preferred":[
         "Bougouriba Province"
     ],
@@ -58,13 +61,18 @@
         "Bougouriba"
     ],
     "name:eng_x_variant":[
-        "Bougouriba",
         "Bougouriba Province"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u06af\u0648\u0631\u06cc\u0628\u0627"
     ],
     "name:fin_x_preferred":[
         "Bougouriba"
     ],
     "name:fra_x_preferred":[
+        "Bougouriba"
+    ],
+    "name:frr_x_preferred":[
         "Bougouriba"
     ],
     "name:glg_x_preferred":[
@@ -96,6 +104,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd80\uad6c\ub9ac\ubc14 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ubd80\uad6c\ub9ac\ubc14\ud604"
     ],
     "name:lav_x_preferred":[
         "Buguribas province"
@@ -147,6 +158,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e31\u0e27\u0e01\u0e31\u0e27\u0e23\u0e34\u0e1a\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e39\u0e01\u0e39\u0e23\u0e35\u0e1a\u0e32"
     ],
     "name:tur_x_preferred":[
         "Bougouriba"
@@ -214,7 +228,7 @@
         }
     ],
     "wof:id":890428985,
-    "wof:lastmodified":1636500517,
+    "wof:lastmodified":1690856963,
     "wof:name":"Bougouriba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

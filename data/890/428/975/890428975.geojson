@@ -69,6 +69,9 @@
     "name:eus_x_preferred":[
         "Gnagna probintzia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0646\u0627\u06af\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gnagna"
     ],
@@ -107,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\uadf8\ub098\uadf8\ub098 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ub0d0\ub0d0\ud604"
     ],
     "name:lav_x_preferred":[
         "Njanjas provinces"
@@ -233,7 +239,7 @@
         }
     ],
     "wof:id":890428975,
-    "wof:lastmodified":1636500518,
+    "wof:lastmodified":1690856964,
     "wof:name":"Gnagna",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

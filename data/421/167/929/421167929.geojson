@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Titao"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0438\u0442\u0430\u043e"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:deu_x_preferred":[
         "Titao"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03c4\u03b1\u03cc"
     ],
     "name:eng_x_preferred":[
         "Titao"
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421167929,
-    "wof:lastmodified":1566613291,
+    "wof:lastmodified":1690856947,
     "wof:name":"Titao",
     "wof:parent_id":890453949,
     "wof:placetype":"locality",
