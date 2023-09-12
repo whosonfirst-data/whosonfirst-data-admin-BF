@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":22.681667,
-    "geom:area_square_m":273990722531.619019,
+    "geom:area_square_m":273990722531.619049,
     "geom:bbox":"-5.521112,9.393889,2.404293,15.085111",
     "geom:latitude":12.276301,
     "geom:longitude":-1.74337,
@@ -14,6 +14,9 @@
     "iso:country":"BF",
     "itu:country_code":[
         "226"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BF"
@@ -1152,7 +1155,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"226",
     "statoids:ds":"BF",
     "statoids:fifa":"BFA",
@@ -1210,7 +1214,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"9870852c2eccc3f9be939e8b5d533c10",
+    "wof:geomhash":"5d420e2f182b7dae7fc8a6554859e0b6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1224,12 +1228,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690856938,
+    "wof:lastmodified":1694492125,
     "wof:name":"Burkina Faso",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":16934839,
-    "wof:population_rank":14,
+    "wof:population":20321378,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bf",
     "wof:shortcode":"BF",
     "wof:superseded_by":[],
