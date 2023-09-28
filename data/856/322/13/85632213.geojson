@@ -1194,6 +1194,7 @@
         "hasc:id":"BF",
         "icao:code":"XT",
         "ioc:id":"BUR",
+        "iso:code":"BF",
         "itu:id":"BFA",
         "m49:code":"854",
         "marc:id":"uv",
@@ -1207,6 +1208,7 @@
         "wk:page":"Burkina Faso",
         "wmo:id":"HV"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:country_alpha3":"BFA",
     "wof:geom_alt":[
@@ -1228,7 +1230,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639578,
+    "wof:lastmodified":1695881238,
     "wof:name":"Burkina Faso",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.954191,
-    "geom:area_square_m":11558356252.691715,
+    "geom:area_square_m":11558356252.69173,
     "geom:bbox":"-2.051440047,10.95909,-0.558263024,12.204348229",
     "geom:latitude":11.580856,
     "geom:longitude":-1.218308,
@@ -23,7 +23,7 @@
     "lbl:longitude":-1.083142,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
@@ -59,11 +59,13 @@
     "wof:concordances":{
         "fips:code":"UV85",
         "hasc:id":"BF.CS",
+        "iso:code":"BF-07",
         "iso:id":"BF-07"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828365,
-    "wof:geomhash":"a0ee1c1687e35f7260b93fc51835ac3f",
+    "wof:geomhash":"3352328b8759cca379f6a8343ed95934",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +80,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566613144,
+    "wof:lastmodified":1695880874,
     "wof:name":"Centre-Sud",
     "wof:parent_id":85632213,
     "wof:placetype":"region",
