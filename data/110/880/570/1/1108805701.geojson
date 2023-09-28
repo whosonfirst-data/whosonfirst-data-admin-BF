@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.369645,
-    "geom:area_square_m":16470322728.425413,
+    "geom:area_square_m":16470321658.679596,
     "geom:bbox":"-2.953706,12.616235,-1.532085,14.29787",
     "geom:latitude":13.458961,
     "geom:longitude":-2.28311,
@@ -179,12 +179,14 @@
     "wof:concordances":{
         "fips:code":"UV88",
         "hasc:id":"BF.NO",
+        "iso:code":"BF-10",
         "iso:id":"BF-10",
         "wd:id":"Q502320"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828365,
-    "wof:geomhash":"2eb0888caa8e4cd21f8a6bd16d8b0769",
+    "wof:geomhash":"f7411b5fc3570b242a098898b5c6ae44",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -199,7 +201,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690856942,
+    "wof:lastmodified":1695884869,
     "wof:name":"Nord",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

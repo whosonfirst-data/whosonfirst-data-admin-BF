@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.810284,
-    "geom:area_square_m":21911297150.354424,
+    "geom:area_square_m":21911297083.320194,
     "geom:bbox":"-2.928885,10.97613,-1.309292,12.841725",
     "geom:latitude":11.792338,
     "geom:longitude":-2.218591,
@@ -23,7 +23,7 @@
     "lbl:longitude":-2.058052,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
@@ -56,11 +56,13 @@
     "wof:concordances":{
         "fips:code":"UV84",
         "hasc:id":"BF.CO",
+        "iso:code":"BF-06",
         "iso:id":"BF-06"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828364,
-    "wof:geomhash":"08106889a8e0ac2e3b3985f31d4ab7d8",
+    "wof:geomhash":"ae43be519f94bcc6428e7093fd341803",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +77,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614893059,
+    "wof:lastmodified":1695884282,
     "wof:name":"Centre-Ouest",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

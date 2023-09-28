@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.64067,
-    "geom:area_square_m":19745256752.733875,
+    "geom:area_square_m":19745256952.441429,
     "geom:bbox":"-1.905155,12.479384,-0.213015,13.998738",
     "geom:latitude":13.268769,
     "geom:longitude":-0.97455,
@@ -23,7 +23,7 @@
     "lbl:longitude":-0.974652,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
@@ -56,11 +56,13 @@
     "wof:concordances":{
         "fips:code":"UV83",
         "hasc:id":"BF.CN",
+        "iso:code":"BF-05",
         "iso:id":"BF-05"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828367,
-    "wof:geomhash":"0930595ad3ac7ce2ca8c634c8c4e92c6",
+    "wof:geomhash":"9b4b9a4c0ce63186b946eaffd8f98cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +77,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614893060,
+    "wof:lastmodified":1695884282,
     "wof:name":"Centre-Nord",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

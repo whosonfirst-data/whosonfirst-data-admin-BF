@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.218348,
-    "geom:area_square_m":14756823871.54323,
+    "geom:area_square_m":14756823941.363487,
     "geom:bbox":"-0.902262,10.90218,0.588261,12.560673",
     "geom:latitude":11.605337,
     "geom:longitude":-0.186054,
@@ -23,7 +23,7 @@
     "lbl:longitude":-0.197271,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
@@ -56,11 +56,13 @@
     "wof:concordances":{
         "fips:code":"UV82",
         "hasc:id":"BF.CE",
+        "iso:code":"BF-04",
         "iso:id":"BF-04"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828366,
-    "wof:geomhash":"d877652d412c5b8c14c794e7a1710741",
+    "wof:geomhash":"257c79464a44de49fb7b2afc72e95c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,7 +77,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614893060,
+    "wof:lastmodified":1695884282,
     "wof:name":"Centre-Est",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

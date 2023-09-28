@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.533288,
-    "geom:area_square_m":18650539180.555618,
+    "geom:area_square_m":18650539802.006046,
     "geom:bbox":"-5.51892,9.59407,-3.673099,11.022831",
     "geom:latitude":10.351714,
     "geom:longitude":-4.570418,
@@ -167,12 +167,14 @@
     "wof:concordances":{
         "fips:code":"UV80",
         "hasc:id":"BF.CD",
+        "iso:code":"BF-02",
         "iso:id":"BF-02",
         "wd:id":"Q850043"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828366,
-    "wof:geomhash":"2de92318329a949ab327a642c8a37005",
+    "wof:geomhash":"f2d716164f31bd61b472f8e73a6ec101",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -187,7 +189,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690856943,
+    "wof:lastmodified":1695884326,
     "wof:name":"Cascades",
     "wof:parent_id":85632213,
     "wof:placetype":"region",
