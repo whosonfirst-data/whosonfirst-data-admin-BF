@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445273,
-    "geom:area_square_m":5396949075.017827,
+    "geom:area_square_m":5396948896.200419,
     "geom:bbox":"-0.211311,11.024382,0.588261,11.806052",
     "geom:latitude":11.414867,
     "geom:longitude":0.201646,
@@ -208,12 +208,13 @@
         "qs_pg:id":575153,
         "wd:id":"Q934923"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051404,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5187d45079954dded3627cb31d10cc22",
+    "wof:geomhash":"3e84145db8a3c5859ca65c000db2d35e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -223,7 +224,7 @@
         }
     ],
     "wof:id":890421707,
-    "wof:lastmodified":1690856960,
+    "wof:lastmodified":1695886782,
     "wof:name":"Koulp\u00e9logo",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

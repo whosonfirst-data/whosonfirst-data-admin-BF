@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.839772,
-    "geom:area_square_m":10046111248.461306,
+    "geom:area_square_m":10046110834.013628,
     "geom:bbox":"-1.046731,14.162663,0.2361,15.08259",
     "geom:latitude":14.653276,
     "geom:longitude":-0.333657,
@@ -213,12 +213,13 @@
         "qs_pg:id":573774,
         "wd:id":"Q514173"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2108cfe3e4f296626dc0956dc55eff8b",
+    "wof:geomhash":"9e625d8a7aab3eeef75f95e560d23c9c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":890413153,
-    "wof:lastmodified":1690856956,
+    "wof:lastmodified":1695886755,
     "wof:name":"Oudalan",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

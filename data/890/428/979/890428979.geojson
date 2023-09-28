@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.346141,
-    "geom:area_square_m":4182588175.066493,
+    "geom:area_square_m":4182587858.564977,
     "geom:bbox":"-1.1137,11.87382,-0.411314,12.705517",
     "geom:latitude":12.252637,
     "geom:longitude":-0.773846,
@@ -210,12 +210,13 @@
         "qs_pg:id":91341,
         "wd:id":"Q182889"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051785,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"534b61bf5b0069fcdd100902e33dd075",
+    "wof:geomhash":"0f0d8418fcc9c6ca3bd9e6636c38e42a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":890428979,
-    "wof:lastmodified":1690856962,
+    "wof:lastmodified":1695886757,
     "wof:name":"Ganzourgou",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322659,
-    "geom:area_square_m":3913698180.207964,
+    "geom:area_square_m":3913698381.38111,
     "geom:bbox":"-1.662714,10.95909,-0.679071,11.546898",
     "geom:latitude":11.203937,
     "geom:longitude":-1.205582,
@@ -219,12 +219,13 @@
         "wd:id":"Q1142003",
         "wk:page":"Nahouri Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa772da541be0a95b2d1261cb6f8354e",
+    "wof:geomhash":"e2cd1d2949577e3180e3a0d5d750b465",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":890413159,
-    "wof:lastmodified":1636500513,
+    "wof:lastmodified":1695886754,
     "wof:name":"Nahouri",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

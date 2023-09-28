@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.490584,
-    "geom:area_square_m":5927909177.843604,
+    "geom:area_square_m":5927908651.470432,
     "geom:bbox":"-4.650182,11.709267,-3.555573,12.73142",
     "geom:latitude":12.254022,
     "geom:longitude":-4.1711,
@@ -213,12 +213,13 @@
         "qs_pg:id":575149,
         "wd:id":"Q674664"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051138,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13eaca16bae26ba33ae3726e854569bb",
+    "wof:geomhash":"d3f1b3b40ee97bf7051ee284177cb8e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":890416507,
-    "wof:lastmodified":1690856965,
+    "wof:lastmodified":1695886757,
     "wof:name":"Banwa",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.532364,
-    "geom:area_square_m":6409218476.20006,
+    "geom:area_square_m":6409217678.832076,
     "geom:bbox":"-0.816604,12.479384,-0.213015,13.998738",
     "geom:latitude":13.18068,
     "geom:longitude":-0.508672,
@@ -219,12 +219,13 @@
         "qs_pg:id":573777,
         "wd:id":"Q1142044"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050989,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"05c172a771d2b563e6a99aba0b206cd1",
+    "wof:geomhash":"f3d7b752ccae91826f32ab213300d0f6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":890413143,
-    "wof:lastmodified":1690856956,
+    "wof:lastmodified":1695886755,
     "wof:name":"Namentenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

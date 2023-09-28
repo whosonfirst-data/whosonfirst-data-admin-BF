@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.773473,
-    "geom:area_square_m":9309676508.887709,
+    "geom:area_square_m":9309677064.092621,
     "geom:bbox":"-1.551245,12.542872,-0.656373,13.948937",
     "geom:latitude":13.242164,
     "geom:longitude":-1.030404,
@@ -219,12 +219,13 @@
         "qs_pg:id":573770,
         "wd:id":"Q1142039"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88d3f5c33ef149a1e307f2c0d36cbb7e",
+    "wof:geomhash":"0c64b4ba13a814ddc8fe7f1ebdb11347",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":890413147,
-    "wof:lastmodified":1690856957,
+    "wof:lastmodified":1695886755,
     "wof:name":"Sanmatenga",
     "wof:parent_id":1108805709,
     "wof:placetype":"county",

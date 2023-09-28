@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.424608,
-    "geom:area_square_m":5131478412.108816,
+    "geom:area_square_m":5131478319.084503,
     "geom:bbox":"-2.928885,11.605415,-2.229895,12.841725",
     "geom:latitude":12.212219,
     "geom:longitude":-2.613819,
@@ -205,12 +205,13 @@
         "qs_pg:id":573771,
         "wd:id":"Q1142014"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b9a7a07cd72c1f8de8b7a153d4b056fc",
+    "wof:geomhash":"75a5f35d29d1c0386e9c6d32292b84d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -220,7 +221,7 @@
         }
     ],
     "wof:id":890413149,
-    "wof:lastmodified":1690856957,
+    "wof:lastmodified":1695886781,
     "wof:name":"Sangui\u00e9",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

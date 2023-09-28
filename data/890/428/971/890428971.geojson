@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.928304,
-    "geom:area_square_m":11221726048.319536,
+    "geom:area_square_m":11221724177.643476,
     "geom:bbox":"-0.146165,11.676546,1.332017,12.780272",
     "geom:latitude":12.14317,
     "geom:longitude":0.629001,
@@ -213,12 +213,13 @@
         "qs_pg:id":91338,
         "wd:id":"Q432317"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051784,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"73935725b74652038794cf38e2be6291",
+    "wof:geomhash":"640e6187b8b8841707ea46dfec6e8fca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":890428971,
-    "wof:lastmodified":1690856962,
+    "wof:lastmodified":1695886757,
     "wof:name":"Gourma",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

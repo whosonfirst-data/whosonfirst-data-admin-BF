@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.276191,
-    "geom:area_square_m":15525928367.458298,
+    "geom:area_square_m":15525928840.63653,
     "geom:bbox":"-5.153596,9.59407,-3.673099,10.891671",
     "geom:latitude":10.298198,
     "geom:longitude":-4.430125,
@@ -211,12 +211,13 @@
         "qs_pg:id":573781,
         "wd:id":"Q1074496"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2acbfa4a7a50cb15f4c5b188f3cd401a",
+    "wof:geomhash":"289f1550b4e02381b1ef8894a955a70b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -226,7 +227,7 @@
         }
     ],
     "wof:id":890413167,
-    "wof:lastmodified":1690856955,
+    "wof:lastmodified":1695886781,
     "wof:name":"Como\u00e9",
     "wof:parent_id":1108805703,
     "wof:placetype":"county",

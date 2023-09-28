@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.571324,
-    "geom:area_square_m":6904914867.114743,
+    "geom:area_square_m":6904914277.892813,
     "geom:bbox":"-3.981598,11.725408,-2.790584,12.749195",
     "geom:latitude":12.200777,
     "geom:longitude":-3.416955,
@@ -207,12 +207,13 @@
         "qs_pg:id":573778,
         "wd:id":"Q1142050"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b85ae0dd30e9af8d7896b5701e3b19c",
+    "wof:geomhash":"088a3ad8ce49e70074d046939fa80918",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":890413161,
-    "wof:lastmodified":1690856955,
+    "wof:lastmodified":1695886755,
     "wof:name":"Mouhoun",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

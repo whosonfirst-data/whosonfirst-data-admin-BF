@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.540906,
-    "geom:area_square_m":6553840552.078162,
+    "geom:area_square_m":6553841523.019952,
     "geom:bbox":"-0.902262,10.90218,0.016088,12.019034",
     "geom:latitude":11.509807,
     "geom:longitude":-0.449571,
@@ -216,12 +216,13 @@
         "qs_pg:id":91344,
         "wd:id":"Q895097"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051785,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1857f285307734951fc2b7e7c8eea9c",
+    "wof:geomhash":"02346389aeee3eadda10b251d94ce04c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":890428983,
-    "wof:lastmodified":1690856962,
+    "wof:lastmodified":1695886757,
     "wof:name":"Boulgou",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",

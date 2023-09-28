@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.231333,
-    "geom:area_square_m":2818086631.842005,
+    "geom:area_square_m":2818086487.912705,
     "geom:bbox":"-3.295373,9.40111,-2.68992,10.198949",
     "geom:latitude":9.874354,
     "geom:longitude":-2.959007,
@@ -195,9 +195,10 @@
         "hasc:id":"BF.SO.NB",
         "wd:id":"Q646647"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1474414888,
-    "wof:geomhash":"fcc16e845e47620f0d07de372176d2ed",
+    "wof:geomhash":"e3c881238f74df2ba8bd46bf93cb8bdc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":1108693643,
-    "wof:lastmodified":1690856944,
+    "wof:lastmodified":1695886754,
     "wof:name":"Noumbiel",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

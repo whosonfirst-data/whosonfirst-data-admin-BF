@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466074,
-    "geom:area_square_m":5648583481.534076,
+    "geom:area_square_m":5648583410.18421,
     "geom:bbox":"-3.978995,10.987479,-2.82997,11.873216",
     "geom:latitude":11.439538,
     "geom:longitude":-3.518758,
@@ -219,12 +219,13 @@
         "qs_pg:id":575159,
         "wd:id":"Q627844"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051450,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"610ab3a02ff85979f66dbe994eab9ddc",
+    "wof:geomhash":"892ef5a9bc74bc360e1affc8aaf0fb36",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":890422527,
-    "wof:lastmodified":1690856953,
+    "wof:lastmodified":1695886755,
     "wof:name":"Tuy",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.591367,
-    "geom:area_square_m":7170724713.548841,
+    "geom:area_square_m":7170725516.520228,
     "geom:bbox":"-2.807468,10.97613,-1.417529,11.924858",
     "geom:latitude":11.293284,
     "geom:longitude":-2.223133,
@@ -213,12 +213,13 @@
         "qs_pg:id":91336,
         "wd:id":"Q964281"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051393,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"71a68718b5ebb61abfb462339cf30e15",
+    "wof:geomhash":"b1f23e6918f0b7678ea7aa7e12c8544a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":890421465,
-    "wof:lastmodified":1690856960,
+    "wof:lastmodified":1695886756,
     "wof:name":"Sissili",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

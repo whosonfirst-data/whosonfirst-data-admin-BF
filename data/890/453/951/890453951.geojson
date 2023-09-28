@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309684,
-    "geom:area_square_m":3735658969.657219,
+    "geom:area_square_m":3735658760.394866,
     "geom:bbox":"-3.435809,12.341425,-2.640279,12.980742",
     "geom:latitude":12.696497,
     "geom:longitude":-3.024324,
@@ -86,12 +86,13 @@
         "hasc:id":"BF.BO.NY",
         "qs_pg:id":575157
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469052879,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1f47fd8091eefd9fac427da8178a5d17",
+    "wof:geomhash":"83ed021f2ee2978cc01b1027f7832c61",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890453951,
-    "wof:lastmodified":1636500515,
+    "wof:lastmodified":1695886756,
     "wof:name":"Nayala",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

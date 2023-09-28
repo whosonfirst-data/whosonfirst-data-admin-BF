@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.232169,
-    "geom:area_square_m":2806034244.447173,
+    "geom:area_square_m":2806033522.143093,
     "geom:bbox":"-0.63282,11.801697,-0.004122,12.560673",
     "geom:latitude":12.1932,
     "geom:longitude":-0.315674,
@@ -224,12 +224,13 @@
         "wd:id":"Q1141767",
         "wk:page":"Kouritenga Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e92f221e50ebff85d20412afcc91acb8",
+    "wof:geomhash":"00b0b100c1777a1e6855eaeae38ef6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -239,7 +240,7 @@
         }
     ],
     "wof:id":890413163,
-    "wof:lastmodified":1690856957,
+    "wof:lastmodified":1695886756,
     "wof:name":"Kouritenga",
     "wof:parent_id":1108805705,
     "wof:placetype":"county",
