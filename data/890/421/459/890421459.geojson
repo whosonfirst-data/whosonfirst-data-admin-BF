@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.229156,
-    "geom:area_square_m":14862360802.606567,
+    "geom:area_square_m":14862360837.989956,
     "geom:bbox":"1.169545,11.3904,2.4054,12.839377",
     "geom:latitude":12.069054,
     "geom:longitude":1.740144,
@@ -222,12 +222,13 @@
         "qs_pg:id":91333,
         "wd:id":"Q621983"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051393,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5fe04e3f58c6441c86975d04f4630608",
+    "wof:geomhash":"4c716c176993589ffe890332f1375dbc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -237,7 +238,7 @@
         }
     ],
     "wof:id":890421459,
-    "wof:lastmodified":1690856961,
+    "wof:lastmodified":1695886756,
     "wof:name":"Tapoa",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.710453,
-    "geom:area_square_m":8561529791.10699,
+    "geom:area_square_m":8561531268.843565,
     "geom:bbox":"-0.39059,12.252808,0.59422,13.578306",
     "geom:latitude":12.943996,
     "geom:longitude":0.019497,
@@ -224,12 +224,13 @@
         "wd:id":"Q1074144",
         "wk:page":"Gnagna Province"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051785,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0fcbbe32b4c582fbf56cbc4baab01ed0",
+    "wof:geomhash":"064de453592b660194c90602de30a676",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -239,7 +240,7 @@
         }
     ],
     "wof:id":890428975,
-    "wof:lastmodified":1690856964,
+    "wof:lastmodified":1695886757,
     "wof:name":"Gnagna",
     "wof:parent_id":1108805685,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.057471,
-    "geom:area_square_m":12674044847.526859,
+    "geom:area_square_m":12674044726.134993,
     "geom:bbox":"-2.105819,13.749068,-0.550645,14.823805",
     "geom:latitude":14.236819,
     "geom:longitude":-1.288694,
@@ -171,12 +171,13 @@
         "qs_pg:id":91335,
         "wd:id":"Q385973"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051393,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4998ac0d5c4a605ffe4a5ae2773d3ab3",
+    "wof:geomhash":"9aca9425ebf94dbd5cfc4f70f0b9f23d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":890421463,
-    "wof:lastmodified":1690856960,
+    "wof:lastmodified":1695886756,
     "wof:name":"Soum",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

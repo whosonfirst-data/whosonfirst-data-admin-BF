@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622852,
-    "geom:area_square_m":7506513015.894258,
+    "geom:area_square_m":7506513714.29899,
     "geom:bbox":"-4.35698,12.368233,-3.409825,13.5012",
     "geom:latitude":12.924162,
     "geom:longitude":-3.880822,
@@ -219,12 +219,13 @@
         "qs_pg:id":573780,
         "wd:id":"Q1074485"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dfe54423715c2d4b4cf030cdcdc75838",
+    "wof:geomhash":"9101f2bd34652641d7d1cafd11ee501e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +235,7 @@
         }
     ],
     "wof:id":890413165,
-    "wof:lastmodified":1690856957,
+    "wof:lastmodified":1695886755,
     "wof:name":"Kossi",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270295,
-    "geom:area_square_m":3279896081.154819,
+    "geom:area_square_m":3279895952.718756,
     "geom:bbox":"-3.445499,10.705752,-2.6062,11.368111",
     "geom:latitude":11.083741,
     "geom:longitude":-3.023423,
@@ -210,12 +210,13 @@
         "qs_pg:id":575150,
         "wd:id":"Q1074154"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051138,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"691af55b4efe9bf142fe25978361b3dc",
+    "wof:geomhash":"a45d1800b179d20e31f260ce11388462",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":890416509,
-    "wof:lastmodified":1690856965,
+    "wof:lastmodified":1695886757,
     "wof:name":"Ioba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

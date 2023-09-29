@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331564,
-    "geom:area_square_m":3996363202.817159,
+    "geom:area_square_m":3996362623.086187,
     "geom:bbox":"-2.734041,12.616235,-1.532085,13.168857",
     "geom:latitude":12.900509,
     "geom:longitude":-2.169157,
@@ -196,9 +196,10 @@
         "hasc:id":"BF.NO.PA",
         "wd:id":"Q1142008"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1474414918,
-    "wof:geomhash":"7aace389bd3db8ecf1d0790019951d8b",
+    "wof:geomhash":"38d4483558028589900e3f1cd2a2f481",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":1108693651,
-    "wof:lastmodified":1690856943,
+    "wof:lastmodified":1695886849,
     "wof:name":"Passor\u00e9",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

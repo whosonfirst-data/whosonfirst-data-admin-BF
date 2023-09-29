@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.502275,
-    "geom:area_square_m":6045366158.115169,
+    "geom:area_square_m":6045367088.920134,
     "geom:bbox":"-3.482686,12.784804,-2.441404,13.71847",
     "geom:latitude":13.249453,
     "geom:longitude":-3.01601,
@@ -216,12 +216,13 @@
         "qs_pg:id":91334,
         "wd:id":"Q558703"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051393,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5c240e51d4c71193329983e73506f4ba",
+    "wof:geomhash":"9f54c7fdcca14599fb6c34bd5ccb7aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":890421461,
-    "wof:lastmodified":1690856961,
+    "wof:lastmodified":1695886756,
     "wof:name":"Sourou",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

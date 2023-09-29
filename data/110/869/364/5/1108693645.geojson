@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303887,
-    "geom:area_square_m":3681233332.884554,
+    "geom:area_square_m":3681232608.452732,
     "geom:bbox":"-1.34575,11.161529,-0.558263,11.951402",
     "geom:latitude":11.571637,
     "geom:longitude":-0.979185,
@@ -199,9 +199,10 @@
         "hasc:id":"BF.CS.ZW",
         "wd:id":"Q227059"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1474414903,
-    "wof:geomhash":"076e7a7f4a3573285a3d2d537ac5e297",
+    "wof:geomhash":"1daf0cbf03ba53a36c66faa32e854830",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1108693645,
-    "wof:lastmodified":1690856944,
+    "wof:lastmodified":1695886849,
     "wof:name":"Zoundw\u00e9ogo",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

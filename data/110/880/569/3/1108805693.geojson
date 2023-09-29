@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238447,
-    "geom:area_square_m":2880514761.77486,
+    "geom:area_square_m":2880514008.519333,
     "geom:bbox":"-1.826852,12.05131,-1.063634,12.685051",
     "geom:latitude":12.322549,
     "geom:longitude":-1.502275,
@@ -185,12 +185,14 @@
     "wof:concordances":{
         "fips:code":"UV81",
         "hasc:id":"BF.CT",
+        "iso:code":"BF-03",
         "iso:id":"BF-03",
         "wd:id":"Q515655"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828364,
-    "wof:geomhash":"42e713b948a1b57a6def05f8e44fd34c",
+    "wof:geomhash":"9d79c9172d64cb59c98f325849609acc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +207,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690856941,
+    "wof:lastmodified":1695884869,
     "wof:name":"Centre",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

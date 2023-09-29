@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229578,
-    "geom:area_square_m":2788054999.260264,
+    "geom:area_square_m":2788055201.488022,
     "geom:bbox":"-3.791762,10.611368,-3.037325,11.164998",
     "geom:latitude":10.847061,
     "geom:longitude":-3.412604,
@@ -213,12 +213,13 @@
         "qs_pg:id":91345,
         "wd:id":"Q676641"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051785,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36df6c93a8d048c2d5dffa389dfbf831",
+    "wof:geomhash":"51e19fb0015da033292d1c6183bbd842",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":890428985,
-    "wof:lastmodified":1690856963,
+    "wof:lastmodified":1695886757,
     "wof:name":"Bougouriba",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

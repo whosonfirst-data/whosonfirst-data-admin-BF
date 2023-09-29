@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.257097,
-    "geom:area_square_m":3124610813.097392,
+    "geom:area_square_m":3124610961.36957,
     "geom:bbox":"-5.51892,10.28393,-4.937586,11.022831",
     "geom:latitude":10.61736,
     "geom:longitude":-5.266809,
@@ -208,12 +208,13 @@
         "qs_pg:id":575155,
         "wd:id":"Q977607"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469052879,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bc3a617573018e6154a9f366223329fd",
+    "wof:geomhash":"0a448f917b5460e2f9b176707bf592df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -223,7 +224,7 @@
         }
     ],
     "wof:id":890453947,
-    "wof:lastmodified":1690856959,
+    "wof:lastmodified":1695886782,
     "wof:name":"L\u00e9raba",
     "wof:parent_id":1108805703,
     "wof:placetype":"county",

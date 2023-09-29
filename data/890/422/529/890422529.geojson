@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.54417,
-    "geom:area_square_m":6545432876.858673,
+    "geom:area_square_m":6545432643.189963,
     "geom:bbox":"0.057432,12.969933,1.28297,13.846103",
     "geom:latitude":13.404276,
     "geom:longitude":0.600737,
@@ -210,12 +210,13 @@
         "qs_pg:id":575160,
         "wd:id":"Q1074466"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051450,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4d38cf94ae52e2f9f8ee54426fdb0f81",
+    "wof:geomhash":"02d5b37894e244a9a92b43fbb7ec77ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":890422529,
-    "wof:lastmodified":1690856954,
+    "wof:lastmodified":1695886755,
     "wof:name":"Yagha",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",

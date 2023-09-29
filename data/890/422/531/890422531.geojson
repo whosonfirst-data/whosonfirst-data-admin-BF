@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.43884,
-    "geom:area_square_m":5314834881.256128,
+    "geom:area_square_m":5314834572.94353,
     "geom:bbox":"-2.364721,11.283271,-1.309292,11.996132",
     "geom:latitude":11.634596,
     "geom:longitude":-1.889043,
@@ -213,12 +213,13 @@
         "qs_pg:id":575161,
         "wd:id":"Q206019"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051450,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fccb5214413969660f3d62fb3af1255e",
+    "wof:geomhash":"e056eb0b416c91e1c0290e404a0d63b8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":890422531,
-    "wof:lastmodified":1690856954,
+    "wof:lastmodified":1695886755,
     "wof:name":"Ziro",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

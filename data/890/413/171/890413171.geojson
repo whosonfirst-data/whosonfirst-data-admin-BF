@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.699687,
-    "geom:area_square_m":8480214112.243434,
+    "geom:area_square_m":8480214329.959858,
     "geom:bbox":"-5.49653,10.789039,-4.54981,12.038165",
     "geom:latitude":11.424028,
     "geom:longitude":-4.978682,
@@ -211,12 +211,13 @@
         "qs_pg:id":573783,
         "wd:id":"Q1150901"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e389cfce54b204aae3b8691d18e430b",
+    "wof:geomhash":"4bfb25f0bac63bab2c85de7a03c119fc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -226,7 +227,7 @@
         }
     ],
     "wof:id":890413171,
-    "wof:lastmodified":1690856958,
+    "wof:lastmodified":1695886782,
     "wof:name":"K\u00e9n\u00e9dougou",
     "wof:parent_id":1108805687,
     "wof:placetype":"county",

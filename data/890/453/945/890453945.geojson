@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1328,
-    "geom:area_square_m":1602379976.551038,
+    "geom:area_square_m":1602380027.417648,
     "geom:bbox":"-2.082986,12.296546,-1.596757,12.905492",
     "geom:latitude":12.625726,
     "geom:longitude":-1.812717,
@@ -205,12 +205,13 @@
         "qs_pg:id":575154,
         "wd:id":"Q661376"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469052879,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc767d2669872b94407cf080e4dac85b",
+    "wof:geomhash":"299eeff228afefe3cd315a1a9344b8fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -220,7 +221,7 @@
         }
     ],
     "wof:id":890453945,
-    "wof:lastmodified":1690856960,
+    "wof:lastmodified":1695886782,
     "wof:name":"Kourw\u00e9ogo",
     "wof:parent_id":1108805691,
     "wof:placetype":"county",

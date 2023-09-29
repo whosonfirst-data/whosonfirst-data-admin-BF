@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355468,
-    "geom:area_square_m":4294259143.440666,
+    "geom:area_square_m":4294258674.772001,
     "geom:bbox":"-2.499938,11.923458,-1.785013,12.708338",
     "geom:latitude":12.315766,
     "geom:longitude":-2.145777,
@@ -211,12 +211,13 @@
         "qs_pg:id":91343,
         "wd:id":"Q895102"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051785,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e2ede9ebe6816ed9ef5a676f3802ecd",
+    "wof:geomhash":"b66021438ac02e61e659dd65e6ae31de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -226,7 +227,7 @@
         }
     ],
     "wof:id":890428981,
-    "wof:lastmodified":1690856964,
+    "wof:lastmodified":1695886782,
     "wof:name":"Boulkiemd\u00e9",
     "wof:parent_id":1108805695,
     "wof:placetype":"county",

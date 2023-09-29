@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.327645,
-    "geom:area_square_m":3963424739.599218,
+    "geom:area_square_m":3963425687.496748,
     "geom:bbox":"-2.05144,11.592349,-0.885609,12.204348",
     "geom:latitude":11.96059,
     "geom:longitude":-1.452626,
@@ -199,9 +199,10 @@
         "hasc:id":"BF.CS.BZ",
         "wd:id":"Q619764"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1474414909,
-    "wof:geomhash":"7b5b2d135194d1348875da8ae8e7c967",
+    "wof:geomhash":"99583422a42b7a777a9b2323a612695a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1108693649,
-    "wof:lastmodified":1690856943,
+    "wof:lastmodified":1695886849,
     "wof:name":"Baz\u00e8ga",
     "wof:parent_id":1108805699,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.564985,
-    "geom:area_square_m":6790094440.923692,
+    "geom:area_square_m":6790094627.86487,
     "geom:bbox":"-2.953706,13.018121,-1.73015,14.143128",
     "geom:latitude":13.603174,
     "geom:longitude":-2.384828,
@@ -216,12 +216,13 @@
         "qs_pg:id":91332,
         "wd:id":"Q1074521"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051393,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a8cd038252ea6939f881d851e4087c42",
+    "wof:geomhash":"392607020c149de6306304fec2dcc7b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":890421457,
-    "wof:lastmodified":1690856961,
+    "wof:lastmodified":1695886756,
     "wof:name":"Yatenga",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

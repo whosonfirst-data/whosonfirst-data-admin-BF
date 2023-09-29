@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.618131,
-    "geom:area_square_m":7520044347.260622,
+    "geom:area_square_m":7520044114.776317,
     "geom:bbox":"-3.999979,9.85163,-2.76253,10.769703",
     "geom:latitude":10.302049,
     "geom:longitude":-3.360044,
@@ -210,12 +210,13 @@
         "qs_pg:id":573772,
         "wd:id":"Q953657"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e896e6c3f031f96ddad02767fdb12924",
+    "wof:geomhash":"063c72a2b6d87657d2912f55bb2420c9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":890413151,
-    "wof:lastmodified":1690856955,
+    "wof:lastmodified":1695886755,
     "wof:name":"Poni",
     "wof:parent_id":1108805683,
     "wof:placetype":"county",

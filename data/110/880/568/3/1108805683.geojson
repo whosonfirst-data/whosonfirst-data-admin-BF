@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.349337,
-    "geom:area_square_m":16406082059.517784,
+    "geom:area_square_m":16406081756.895708,
     "geom:bbox":"-3.999979,9.40111,-2.6062,11.368111",
     "geom:latitude":10.478039,
     "geom:longitude":-3.232801,
@@ -167,12 +167,14 @@
     "wof:concordances":{
         "fips:code":"UV91",
         "hasc:id":"BF.SO",
+        "iso:code":"BF-13",
         "iso:id":"BF-13",
         "wd:id":"Q429149"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828362,
-    "wof:geomhash":"a50189874dafb0aaf846656b9431d7af",
+    "wof:geomhash":"6f6edd5011e945b2d467db3387db5f06",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -187,7 +189,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690856941,
+    "wof:lastmodified":1695884869,
     "wof:name":"Sud-Ouest",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

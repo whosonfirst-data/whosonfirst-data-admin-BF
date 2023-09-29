@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.121831,
-    "geom:area_square_m":25721755188.676262,
+    "geom:area_square_m":25721754913.472507,
     "geom:bbox":"-5.49653,10.669846,-2.82997,12.107663",
     "geom:latitude":11.367824,
     "geom:longitude":-4.332121,
@@ -116,11 +116,13 @@
         "gn:id":2360075,
         "gp:id":2347618,
         "hasc:id":"BF.HB",
+        "iso:code":"BF-09",
         "iso:id":"BF-09"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828363,
-    "wof:geomhash":"c7e63b3f5d258b4589b5533bd8328e92",
+    "wof:geomhash":"11a8fd757858ad4e6818366e420a7037",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +137,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614893060,
+    "wof:lastmodified":1695884484,
     "wof:name":"Hauts-Bassins",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

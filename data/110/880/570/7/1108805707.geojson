@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.87344,
-    "geom:area_square_m":34681423692.136826,
+    "geom:area_square_m":34681423979.36348,
     "geom:bbox":"-4.650182,11.239415,-2.441404,13.71847",
     "geom:latitude":12.540666,
     "geom:longitude":-3.488817,
@@ -167,12 +167,14 @@
     "wof:concordances":{
         "fips:code":"UV79",
         "hasc:id":"BF.BO",
+        "iso:code":"BF-01",
         "iso:id":"BF-01",
         "wd:id":"Q527093"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828366,
-    "wof:geomhash":"f8fd0f8d526112fc647bcef88a21c13d",
+    "wof:geomhash":"ad739a172e38feba0806a083b4d57f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -187,7 +189,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690856942,
+    "wof:lastmodified":1695884325,
     "wof:name":"Boucle du Mouhoun",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

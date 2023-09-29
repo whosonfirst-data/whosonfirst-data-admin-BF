@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.715341,
-    "geom:area_square_m":8637254222.198538,
+    "geom:area_square_m":8637254585.392174,
     "geom:bbox":"-2.082986,11.87382,-0.411314,12.933117",
     "geom:latitude":12.449697,
     "geom:longitude":-1.142959,
@@ -167,12 +167,14 @@
     "wof:concordances":{
         "fips:code":"UV89",
         "hasc:id":"BF.PC",
+        "iso:code":"BF-11",
         "iso:id":"BF-11",
         "wd:id":"Q862606"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BF",
     "wof:created":1485828364,
-    "wof:geomhash":"23c09fb6cd6f2756b62b0951bbb2062d",
+    "wof:geomhash":"e85783e65e00435037c11e9257b19d29",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -187,7 +189,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690856941,
+    "wof:lastmodified":1695884325,
     "wof:name":"Plateau Central",
     "wof:parent_id":85632213,
     "wof:placetype":"region",

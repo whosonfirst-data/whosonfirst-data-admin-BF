@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376722,
-    "geom:area_square_m":4561061503.51191,
+    "geom:area_square_m":4561061486.386271,
     "geom:bbox":"-3.60167,11.239415,-2.516194,12.107048",
     "geom:latitude":11.722246,
     "geom:longitude":-3.073397,
@@ -211,12 +211,13 @@
         "qs_pg:id":575148,
         "wd:id":"Q805913"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469052830,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"80a4c40ca2949aa5523d3f095f879804",
+    "wof:geomhash":"1899d6fcc8a65ae1748b5975ae807793",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -226,7 +227,7 @@
         }
     ],
     "wof:id":890452781,
-    "wof:lastmodified":1690856958,
+    "wof:lastmodified":1695886782,
     "wof:name":"Bal\u00e9",
     "wof:parent_id":1108805707,
     "wof:placetype":"county",

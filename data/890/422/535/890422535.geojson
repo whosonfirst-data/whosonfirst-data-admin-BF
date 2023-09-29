@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165259,
-    "geom:area_square_m":1989510541.46265,
+    "geom:area_square_m":1989510507.408835,
     "geom:bbox":"-2.715894,12.965793,-2.071794,13.43732",
     "geom:latitude":13.19523,
     "geom:longitude":-2.37578,
@@ -207,12 +207,13 @@
         "qs_pg:id":575162,
         "wd:id":"Q219859"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469051450,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"312c34559a83530c0c852f108dd1dd61",
+    "wof:geomhash":"5ee979949a00696381d9c47409f712d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -222,7 +223,7 @@
         }
     ],
     "wof:id":890422535,
-    "wof:lastmodified":1690856953,
+    "wof:lastmodified":1695886754,
     "wof:name":"Zondoma",
     "wof:parent_id":1108805701,
     "wof:placetype":"county",

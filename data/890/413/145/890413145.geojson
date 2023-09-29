@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.585411,
-    "geom:area_square_m":7025257409.400127,
+    "geom:area_square_m":7025257857.562669,
     "geom:bbox":"-0.63455,13.508465,0.527407,14.428569",
     "geom:latitude":13.947772,
     "geom:longitude":-0.032402,
@@ -205,12 +205,13 @@
         "qs_pg:id":573769,
         "wd:id":"Q1061214"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"BF",
     "wof:created":1469050990,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f4ba27e7b4837f448cb505883c12940",
+    "wof:geomhash":"5ef015b057058f4729239c36eb97d587",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -220,7 +221,7 @@
         }
     ],
     "wof:id":890413145,
-    "wof:lastmodified":1690856956,
+    "wof:lastmodified":1695886781,
     "wof:name":"S\u00e9no",
     "wof:parent_id":1108805689,
     "wof:placetype":"county",
